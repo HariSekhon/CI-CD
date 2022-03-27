@@ -29,6 +29,7 @@ permissions:
   contents: write
 
 env:
+  GH_TOKEN: ${{ secrets.GH_TOKEN }}
   GITHUB_USER: HariSekhon
   GITHUB_ORGANIZATION: ''
   EXCLUDE_REPOS: spark-apps
@@ -59,7 +60,10 @@ jobs:
       - uses: actions/checkout@v2
 
       - name: Generate README.md
-        run: github_generate_status_page.sh > README.md
+        run: |
+          # use PAT token to iterate repos, then revert to regular transitory token to commit back to this repo following permissions key
+          export GITHUB_TOKEN="$GH_TOKEN"
+          github_generate_status_page.sh > README.md
 
       - name: Git Diff
         run: git diff
