@@ -70,11 +70,12 @@ jobs:
         run: |
           #git config user.name "$(git log -n 1 --format='%an')"
           #git config user.email "$(git log -n 1 --format='%ae')"
-          git config user.name "Hari Sekhon"
+          git config user.name "GitHub Actions [bot]"
           git config user.email "harisekhon@gmail.com"
 
           if [ -z "${DEBUG:-}" ]; then
-            git commit --message "updated README.md - GitHub Actions Workflow: $GITHUB_WORKFLOW" README.md
+            :
+            #git commit --message "updated README.md - GitHub Actions Workflow: $GITHUB_WORKFLOW" README.md
           fi
 
       - name: Git Push
