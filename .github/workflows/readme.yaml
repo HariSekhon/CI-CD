@@ -30,9 +30,6 @@ permissions:
 
 env:
   GH_TOKEN: ${{ secrets.GH_TOKEN }}
-  GITHUB_USER: HariSekhon
-  GITHUB_ORGANIZATION: ''
-  EXCLUDE_REPOS: spark-apps
   DEBUG: ${{ ( github.event.inputs.debug != '' && github.event.inputs.debug != 'false' ) || '' }}
 
 concurrency:
@@ -61,6 +58,7 @@ jobs:
 
       - name: Generate README.md
         run: |
+          . .envrc
           # use PAT token to iterate repos, then revert to regular transitory token to commit back to this repo following permissions key
           export GITHUB_TOKEN="$GH_TOKEN"
           github_generate_status_page.sh > README.md
