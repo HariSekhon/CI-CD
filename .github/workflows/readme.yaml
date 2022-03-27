@@ -33,7 +33,7 @@ env:
   GITHUB_USER: HariSekhon
   GITHUB_ORGANIZATION: ''
   EXCLUDE_REPOS: spark-apps
-  DEBUG: ${{ github.event.inputs.debug != 'false' || '' }}
+  DEBUG: ${{ ( github.event.inputs.debug != '' && github.event.inputs.debug != 'false' ) || '' }}
 
 concurrency:
   group: ${{ github.ref }}-${{ github.workflow }}
