@@ -53,6 +53,11 @@ jobs:
       - name: Environment
         run: env | sort
 
+      - name: Git version
+        run: git --version
+
+      - uses: actions/checkout@v2
+
       - name: Generate README.md
         run: github_generate_status_page.sh > README.md
 
@@ -66,7 +71,9 @@ jobs:
           git config user.name "Hari Sekhon"
           git config user.email "harisekhon@gmail.com"
 
-          #git commit --message "updated README.md - GitHub Actions Workflow: $GITHUB_WORKFLOW" README.md
+          if [ -z "${DEBUG:-}" ]; then
+            git commit --message "updated README.md - GitHub Actions Workflow: $GITHUB_WORKFLOW" README.md
+          fi
 
       - name: Git Push
         run: git push origin HEAD:"$GITHUB_REF"
