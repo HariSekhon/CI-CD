@@ -72,7 +72,7 @@ jobs:
           git config user.name "GitHub Actions [bot]"
           git config user.email "harisekhon@gmail.com"
 
-          if [ -z "${DEBUG:-}" ]; then
+          if [ -n "$(git diff README.md)" ]; then
             git commit --message "updated README.md - GitHub Actions Workflow: $GITHUB_WORKFLOW" README.md
           fi
 
