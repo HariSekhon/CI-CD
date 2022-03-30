@@ -19,4 +19,4 @@ srcdir="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 
 cd "$srcdir"
 
-gh workflow run readme.yaml
+gh workflow run readme.yaml -f debug="${DEBUG:-false}"
