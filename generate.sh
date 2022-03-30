@@ -23,6 +23,7 @@ cd "$srcdir"
 
 github_generate_status_page.sh > README.md
 
-echo
-
-git diff
+if [ -z "${CI:-}" ]; then
+    echo
+    git diff
+fi
