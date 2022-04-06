@@ -22,6 +22,10 @@ on:
         type: boolean
         required: false
         default: false
+      no_commit:
+        type: boolean
+        required: false
+        default: false
   schedule:
     - cron: '0 9 * * *'
 
@@ -31,6 +35,7 @@ permissions:
 env:
   GH_TOKEN: ${{ secrets.GH_TOKEN }}
   DEBUG: ${{ ( github.event.inputs.debug != '' && github.event.inputs.debug != 'false' ) || '' }}
+  NO_COMMMIT: ${{ ( github.event.inputs.no_commit != '' && github.event.inputs.no_commit != 'false' ) || '' }}
 
 concurrency:
   group: ${{ github.ref }}-${{ github.workflow }}
@@ -72,7 +77,7 @@ jobs:
           git config user.name "GitHub Actions [bot]"
           git config user.email "harisekhon@gmail.com"
 
-          if [ -n "$(git diff README.md)" ]; then
+          if [ -n "$(git diff README.md)" ] && [ -z "$NO_COMMIT" ]; then
             git commit --message "updated README.md - GitHub Actions Workflow: $GITHUB_WORKFLOW" README.md
           fi
 
