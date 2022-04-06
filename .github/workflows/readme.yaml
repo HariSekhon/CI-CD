@@ -77,7 +77,8 @@ jobs:
           git config user.name "GitHub Actions [bot]"
           git config user.email "harisekhon@gmail.com"
 
-          if [ -n "$(git diff README.md)" ] && [ "$NO_COMMIT" = false ]; then
+          if [ "$NO_COMMIT" = false ] &&
+             [ -n "$(git diff README.md)" ]; then
             git commit --message "updated README.md - GitHub Actions Workflow: $GITHUB_WORKFLOW" README.md
           fi
 
