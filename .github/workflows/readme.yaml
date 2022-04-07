@@ -35,7 +35,8 @@ permissions:
 env:
   GH_TOKEN: ${{ secrets.GH_TOKEN }}
   DEBUG: ${{ ( github.event.inputs.debug != '' && github.event.inputs.debug != 'false' ) || '' }}
-  NO_COMMIT: ${{ github.event.inputs.no_commit }}
+  # schedule event has no inputs, so add literal false
+  NO_COMMIT: ${{ github.event.inputs.no_commit || 'false' }}
 
 concurrency:
   group: ${{ github.ref }}-${{ github.workflow }}
