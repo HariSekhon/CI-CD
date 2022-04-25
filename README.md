@@ -1,9 +1,9 @@
 # CI/CD Status Page
 
 ![Original Repos](https://img.shields.io/badge/Repos-22-blue?logo=github)
-![Stars](https://img.shields.io/badge/Stars-3687-blue?logo=github)
-![Forks](https://img.shields.io/badge/Forks-1644-blue?logo=github)
-![Followers](https://img.shields.io/badge/Followers-711-blue?logo=github)
+![Stars](https://img.shields.io/badge/Stars-3689-blue?logo=github)
+![Forks](https://img.shields.io/badge/Forks-1646-blue?logo=github)
+![Followers](https://img.shields.io/badge/Followers-712-blue?logo=github)
 ![Lines of Code](https://img.shields.io/badge/lines%20of%20code-249.0k-lightgrey?logo=codecademy)
 [![StarCharts](https://img.shields.io/badge/Star-Charts-blue?logo=github)](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/STARCHARTS.md)
 [![GitStar Ranking Profile](https://img.shields.io/badge/GitStar%20Ranking-HariSekhon-blue?logo=github)](https://gitstar-ranking.com/HariSekhon)
@@ -17,7 +17,7 @@
 [![CI Builds](https://img.shields.io/badge/CI%20Builds-632-blue?logo=circleci)](https://harisekhon.github.io/CI-CD/)
 [![Generate README](https://github.com/HariSekhon/CI-CD/actions/workflows/readme.yaml/badge.svg)](https://github.com/HariSekhon/CI-CD/actions/workflows/readme.yaml)
 [![pages-build-deployment](https://github.com/HariSekhon/CI-CD/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/HariSekhon/CI-CD/actions/workflows/pages/pages-build-deployment)
-![Last Generated](https://img.shields.io/badge/Last%20Generated-2022--04--24-yellowgreen?logo=github)
+![Last Generated](https://img.shields.io/badge/Last%20Generated-2022--04--25-yellowgreen?logo=github)
 [![GitHub Last Commit](https://img.shields.io/github/last-commit/HariSekhon/CI-CD?logo=github)](https://github.com/HariSekhon/CI-CD/commits/master)
 
 22 original source git repos with 632 CI builds (583 hosted, 49 self-hosted) across 22 different CI systems:
