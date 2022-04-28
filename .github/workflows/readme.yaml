@@ -85,7 +85,7 @@ jobs:
       - name: Git Diff
         run: |
           pwd
-          ls -l
+          ls -la
           git diff
 
       - name: Git Commit
