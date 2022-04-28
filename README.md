@@ -1,8 +1,8 @@
 # CI/CD Status Page
 
 ![Original Repos](https://img.shields.io/badge/Repos-22-blue?logo=github)
-![Stars](https://img.shields.io/badge/Stars-3689-blue?logo=github)
-![Forks](https://img.shields.io/badge/Forks-1646-blue?logo=github)
+![Stars](https://img.shields.io/badge/Stars-3692-blue?logo=github)
+![Forks](https://img.shields.io/badge/Forks-1647-blue?logo=github)
 ![Followers](https://img.shields.io/badge/Followers-712-blue?logo=github)
 ![Lines of Code](https://img.shields.io/badge/lines%20of%20code-249.0k-lightgrey?logo=codecademy)
 [![StarCharts](https://img.shields.io/badge/Star-Charts-blue?logo=github)](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/STARCHARTS.md)
@@ -14,13 +14,13 @@
 [![BitBucket Profile](https://img.shields.io/badge/BitBucket-HariSekhon-0052CC?logo=bitbucket)](https://bitbucket.org/HariSekhon)
 [![GitHub Pages](https://img.shields.io/badge/GitHub-Pages-2088FF?logo=github)](https://harisekhon.github.io/CI-CD/)
 
-[![CI Builds](https://img.shields.io/badge/CI%20Builds-632-blue?logo=circleci)](https://harisekhon.github.io/CI-CD/)
+[![CI Builds](https://img.shields.io/badge/CI%20Builds-636-blue?logo=circleci)](https://harisekhon.github.io/CI-CD/)
 [![Generate README](https://github.com/HariSekhon/CI-CD/actions/workflows/readme.yaml/badge.svg)](https://github.com/HariSekhon/CI-CD/actions/workflows/readme.yaml)
 [![pages-build-deployment](https://github.com/HariSekhon/CI-CD/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/HariSekhon/CI-CD/actions/workflows/pages/pages-build-deployment)
-![Last Generated](https://img.shields.io/badge/Last%20Generated-2022--04--26-yellowgreen?logo=github)
+![Last Generated](https://img.shields.io/badge/Last%20Generated-2022--04--28-yellowgreen?logo=github)
 [![GitHub Last Commit](https://img.shields.io/github/last-commit/HariSekhon/CI-CD?logo=github)](https://github.com/HariSekhon/CI-CD/commits/master)
 
-22 original source git repos with 632 CI builds (583 hosted, 49 self-hosted) across 22 different CI systems:
+22 original source git repos with 636 CI builds (587 hosted, 49 self-hosted) across 22 different CI systems:
 
 ---
 # Advanced Nagios Plugins Collection
@@ -485,6 +485,7 @@ Link:  [HariSekhon/SQL-scripts](https://github.com/HariSekhon/SQL-scripts)
 [![CI Builds Overview](https://img.shields.io/badge/CI%20Builds-Overview%20Page-blue?logo=circleci)](https://bitbucket.org/HariSekhon/devops-bash-tools/src/master/STATUS.md)
 [![Validation](https://github.com/HariSekhon/SQL-scripts/actions/workflows/validate.yaml/badge.svg)](https://github.com/HariSekhon/SQL-scripts/actions/workflows/validate.yaml)
 [![Semgrep](https://github.com/HariSekhon/SQL-scripts/actions/workflows/semgrep.yaml/badge.svg)](https://github.com/HariSekhon/SQL-scripts/actions/workflows/semgrep.yaml)
+[![Kics](https://github.com/HariSekhon/SQL-scripts/actions/workflows/kics.yaml/badge.svg)](https://github.com/HariSekhon/SQL-scripts/actions/workflows/kics.yaml)
 [![Travis CI](https://img.shields.io/badge/TravisCI-ready-blue?logo=travis&label=Travis%20CI)](https://github.com/HariSekhon/SQL-scripts/blob/master/.travis.yml)
 
 [![Linux](https://img.shields.io/badge/OS-Linux-blue?logo=linux)](https://github.com/HariSekhon/SQL-scripts#SQL-Scripts)
@@ -544,8 +545,8 @@ Link:  [HariSekhon/HAProxy-configs](https://github.com/HariSekhon/HAProxy-config
 
 
 [![Azure DevOps Pipeline](https://dev.azure.com/harisekhon/GitHub/_apis/build/status/HariSekhon.HAProxy-configs?branchName=master)](https://dev.azure.com/harisekhon/GitHub/_build/latest?definitionId=10&branchName=master)
-[![BitBucket Pipeline](https://img.shields.io/bitbucket/pipelines/harisekhon/haproxy-configs/master?logo=bitbucket&label=BitBucket%20CI)](https://bitbucket.org/harisekhon/haproxy-configs/addon/pipelines/home#!/)
 [![GitLab Pipeline](https://img.shields.io/gitlab/pipeline/harisekhon/HAProxy-configs?logo=gitlab&label=GitLab%20CI)](https://gitlab.com/HariSekhon/HAProxy-configs/pipelines)
+[![BitBucket Pipeline](https://img.shields.io/bitbucket/pipelines/harisekhon/haproxy-configs/master?logo=bitbucket&label=BitBucket%20CI)](https://bitbucket.org/harisekhon/haproxy-configs/addon/pipelines/home#!/)
 [![AWS CodeBuild](https://img.shields.io/badge/AWS%20CodeBuild-ready-blue?logo=amazon%20aws)](https://github.com/HariSekhon/HAProxy-configs/blob/master/buildspec.yml)
 [![GCP Cloud Build](https://img.shields.io/badge/GCP%20Cloud%20Build-ready-blue?logo=google%20cloud&logoColor=white)](https://github.com/HariSekhon/HAProxy-configs/blob/master/cloudbuild.yaml)
 
@@ -555,6 +556,7 @@ Link:  [HariSekhon/HAProxy-configs](https://github.com/HariSekhon/HAProxy-config
 [![Repo on BitBucket](https://img.shields.io/badge/repo-BitBucket-0052CC?logo=bitbucket)](https://bitbucket.org/HariSekhon/HAProxy-configs)
 [![Validation](https://github.com/HariSekhon/HAProxy-configs/actions/workflows/validate.yaml/badge.svg)](https://github.com/HariSekhon/HAProxy-configs/actions/workflows/validate.yaml)
 [![Semgrep](https://github.com/HariSekhon/HAProxy-configs/actions/workflows/semgrep.yaml/badge.svg)](https://github.com/HariSekhon/HAProxy-configs/actions/workflows/semgrep.yaml)
+[![Kics](https://github.com/HariSekhon/HAProxy-configs/actions/workflows/kics.yaml/badge.svg)](https://github.com/HariSekhon/HAProxy-configs/actions/workflows/kics.yaml)
 
 [![GitHub Actions Ubuntu](https://github.com/HariSekhon/HAProxy-configs/workflows/GitHub%20Actions%20Ubuntu/badge.svg)](https://github.com/HariSekhon/HAProxy-configs/actions?query=workflow%3A%22GitHub+Actions+Ubuntu%22)
 [![Mac](https://github.com/HariSekhon/HAProxy-configs/workflows/Mac/badge.svg)](https://github.com/HariSekhon/HAProxy-configs/actions?query=workflow%3A%22Mac%22)
@@ -705,6 +707,7 @@ Advanced Kubernetes YAML configs - Best Practices, Tips & Tricks from production
 [![Pluto](https://github.com/HariSekhon/Kubernetes-configs/actions/workflows/pluto.yaml/badge.svg)](https://github.com/HariSekhon/Kubernetes-configs/actions/workflows/pluto.yaml)
 [![Semgrep](https://github.com/HariSekhon/Kubernetes-configs/actions/workflows/semgrep.yaml/badge.svg)](https://github.com/HariSekhon/Kubernetes-configs/actions/workflows/semgrep.yaml)
 [![Checkov](https://github.com/HariSekhon/Kubernetes-configs/actions/workflows/checkov.yaml/badge.svg)](https://github.com/HariSekhon/Kubernetes-configs/actions/workflows/checkov.yaml)
+[![Kics](https://github.com/HariSekhon/Kubernetes-configs/actions/workflows/kics.yaml/badge.svg)](https://github.com/HariSekhon/Kubernetes-configs/actions/workflows/kics.yaml)
 [![Travis CI](https://img.shields.io/badge/TravisCI-ready-blue?logo=travis&label=Travis%20CI)](https://github.com/HariSekhon/Kubernetes-configs/blob/master/.travis.yml)
 
 [![Repo on Azure DevOps](https://img.shields.io/badge/repo-Azure%20DevOps-0078D7?logo=azure%20devops)](https://dev.azure.com/harisekhon/GitHub/_git/Kubernetes-configs)
@@ -971,8 +974,8 @@ DevOps Golang tools
 [![Travis CI](https://img.shields.io/badge/TravisCI-ready-blue?logo=travis&label=Travis%20CI)](https://github.com/HariSekhon/DevOps-Golang-tools/blob/master/.travis.yml)
 
 [![Azure DevOps Pipeline](https://dev.azure.com/harisekhon/GitHub/_apis/build/status/DevOps-Golang-tools?branchName=master)](https://dev.azure.com/harisekhon/GitHub/_build/latest?definitionId=13&branchName=master)
-[![BitBucket Pipeline](https://img.shields.io/bitbucket/pipelines/harisekhon/devops-golang-tools/master?logo=bitbucket&label=BitBucket%20CI)](https://bitbucket.org/harisekhon/devops-golang-tools/addon/pipelines/home#!/)
 [![GitLab Pipeline](https://img.shields.io/gitlab/pipeline/harisekhon/DevOps-Golang-tools?logo=gitlab&label=GitLab%20CI)](https://gitlab.com/HariSekhon/DevOps-Golang-tools/pipelines)
+[![BitBucket Pipeline](https://img.shields.io/bitbucket/pipelines/harisekhon/devops-golang-tools/master?logo=bitbucket&label=BitBucket%20CI)](https://bitbucket.org/harisekhon/devops-golang-tools/addon/pipelines/home#!/)
 [![AWS CodeBuild](https://img.shields.io/badge/AWS%20CodeBuild-ready-blue?logo=amazon%20aws)](https://github.com/HariSekhon/DevOps-Golang-tools/blob/master/buildspec.yml)
 [![GCP Cloud Build](https://img.shields.io/badge/GCP%20Cloud%20Build-ready-blue?logo=google%20cloud&logoColor=white)](https://github.com/HariSekhon/DevOps-Golang-tools/blob/master/cloudbuild.yaml)
 
@@ -1034,6 +1037,7 @@ Terraform templates for AWS / GCP / Azure
 [![tfsec](https://github.com/HariSekhon/Terraform/actions/workflows/tfsec.yaml/badge.svg)](https://github.com/HariSekhon/Terraform/actions/workflows/tfsec.yaml)
 [![Semgrep](https://github.com/HariSekhon/Terraform/actions/workflows/semgrep.yaml/badge.svg)](https://github.com/HariSekhon/Terraform/actions/workflows/semgrep.yaml)
 [![Checkov](https://github.com/HariSekhon/Terraform/actions/workflows/checkov.yaml/badge.svg)](https://github.com/HariSekhon/Terraform/actions/workflows/checkov.yaml)
+[![Kics](https://github.com/HariSekhon/Terraform/actions/workflows/kics.yaml/badge.svg)](https://github.com/HariSekhon/Terraform/actions/workflows/kics.yaml)
 [![Travis CI](https://img.shields.io/badge/TravisCI-ready-blue?logo=travis&label=Travis%20CI)](https://github.com/HariSekhon/Terraform/blob/master/.travis.yml)
 
 [![Repo on Azure DevOps](https://img.shields.io/badge/repo-Azure%20DevOps-0078D7?logo=azure%20devops)](https://dev.azure.com/harisekhon/GitHub/_git/Terraform)
@@ -1177,7 +1181,7 @@ Advanced Jenkinsfile & Jenkins Shared Library (Groovy)
 [![Groovy](https://github.com/HariSekhon/Jenkins/actions/workflows/groovyc.yaml/badge.svg)](https://github.com/HariSekhon/Jenkins/actions/workflows/groovyc.yaml)
 [![Validation](https://github.com/HariSekhon/Jenkins/actions/workflows/validate.yaml/badge.svg)](https://github.com/HariSekhon/Jenkins/actions/workflows/validate.yaml)
 [![Semgrep](https://github.com/HariSekhon/Jenkins/actions/workflows/semgrep.yaml/badge.svg)](https://github.com/HariSekhon/Jenkins/actions/workflows/semgrep.yaml)
-[![URL Links](https://github.com/HariSekhon/Jenkins/actions/workflows/url_links.yaml/badge.svg)](https://github.com/HariSekhon/Jenkins/actions/workflows/url_links.yaml)
+[![Kics](https://github.com/HariSekhon/Jenkins/actions/workflows/kics.yaml/badge.svg)](https://github.com/HariSekhon/Jenkins/actions/workflows/kics.yaml)
 
 [![Repo on Azure DevOps](https://img.shields.io/badge/repo-Azure%20DevOps-0078D7?logo=azure%20devops)](https://dev.azure.com/harisekhon/GitHub/_git/Jenkins)
 [![Repo on GitHub](https://img.shields.io/badge/repo-GitHub-2088FF?logo=github)](https://github.com/HariSekhon/Jenkins)
@@ -1304,6 +1308,7 @@ TeamCity CI configs - plus links to one-touch Jenkins, GoCD, Concourse, TeamCity
 [![CI Builds Overview](https://img.shields.io/badge/CI%20Builds-Overview%20Page-blue?logo=circleci)](https://harisekhon.github.io/CI-CD/)
 [![Validation](https://github.com/HariSekhon/Jenkins/actions/workflows/validate.yaml/badge.svg)](https://github.com/HariSekhon/Jenkins/actions/workflows/validate.yaml)
 [![Semgrep](https://github.com/HariSekhon/Jenkins/actions/workflows/semgrep.yaml/badge.svg)](https://github.com/HariSekhon/Jenkins/actions/workflows/semgrep.yaml)
+[![Kics](https://github.com/HariSekhon/TeamCity-CI/actions/workflows/kics.yaml/badge.svg)](https://github.com/HariSekhon/TeamCity-CI/actions/workflows/kics.yaml)
 
 [![Repo on Azure DevOps](https://img.shields.io/badge/repo-Azure%20DevOps-0078D7?logo=azure%20devops)](https://dev.azure.com/harisekhon/GitHub/_git/TeamCity-CI)
 [![Repo on GitHub](https://img.shields.io/badge/repo-GitHub-2088FF?logo=github)](https://github.com/HariSekhon/TeamCity-CI)
@@ -1367,7 +1372,6 @@ GitHub Actions master template and GitHub Actions Shared Workflows
 [![Validation](https://github.com/HariSekhon/GitHub-Actions/actions/workflows/validate.yaml/badge.svg)](https://github.com/HariSekhon/GitHub-Actions/actions/workflows/validate.yaml)
 [![Semgrep](https://github.com/HariSekhon/GitHub-Actions/actions/workflows/semgrep.yaml/badge.svg)](https://github.com/HariSekhon/GitHub-Actions/actions/workflows/semgrep.yaml)
 [![Kics](https://github.com/HariSekhon/GitHub-Actions/actions/workflows/kics.yaml/badge.svg)](https://github.com/HariSekhon/GitHub-Actions/actions/workflows/kics.yaml)
-[![URL Links](https://github.com/HariSekhon/GitHub-Actions/actions/workflows/url_links.yaml/badge.svg)](https://github.com/HariSekhon/GitHub-Actions/actions/workflows/url_links.yaml)
 
 [![Repo on Azure DevOps](https://img.shields.io/badge/repo-Azure%20DevOps-0078D7?logo=azure%20devops)](https://dev.azure.com/harisekhon/GitHub/_git/GitHub-Actions)
 [![Repo on GitHub](https://img.shields.io/badge/repo-GitHub-2088FF?logo=github)](https://github.com/HariSekhon/GitHub-Actions)
@@ -1471,4 +1475,4 @@ CI/CD Status page for Hari Sekhon's GitHub repos
 
 
 
-22 git repos summarized with 632 CI builds (583 hosted, 49 self-hosted) across 22 different CI systems
+22 git repos summarized with 636 CI builds (587 hosted, 49 self-hosted) across 22 different CI systems
