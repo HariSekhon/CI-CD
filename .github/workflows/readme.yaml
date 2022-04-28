@@ -84,9 +84,7 @@ jobs:
 
       - name: Git Diff
         run: |
-          pwd
-          ls -la
-          cat .git/HEAD || :
+          git config --global --add safe.directory "$PWD"
           git status
           git diff
 
