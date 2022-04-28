@@ -68,13 +68,13 @@ jobs:
     runs-on: ubuntu-latest
     container: harisekhon/bash-tools
     steps:
-      - name: Environment
-        run: env | sort
-
       - name: Git version
         run: git --version
 
       - uses: actions/checkout@v2
+
+      - name: Environment
+        run: env | sort
 
       - name: Generate README.md
         run: |
