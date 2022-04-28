@@ -16,6 +16,20 @@
 name: Generate README
 
 on:
+  push:
+    branches:
+      - master
+      - main
+    paths:
+      - generate.sh
+      - .github/workflows/readme.yaml
+  pull_request:
+    branches:
+      - master
+      - main
+    paths:
+      - generate.sh
+      - .github/workflows/readme.yaml
   workflow_dispatch:
     inputs:
       debug:
