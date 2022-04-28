@@ -86,6 +86,8 @@ jobs:
         run: |
           pwd
           ls -la
+          cat .git/HEAD || :
+          git status
           git diff
 
       - name: Git Commit
