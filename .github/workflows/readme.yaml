@@ -85,7 +85,6 @@ jobs:
       - name: Git Diff
         run: |
           git config --global --add safe.directory "$PWD"
-          git status
           git diff
 
       - name: Git Commit
