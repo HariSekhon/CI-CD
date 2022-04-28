@@ -80,12 +80,13 @@ jobs:
         run: |
           # use PAT token to iterate repos, then revert to regular transitory token to commit back to this repo following permissions key
           export GITHUB_TOKEN="$GH_TOKEN"
-          pwd
-          ls -l
           ./generate.sh
 
       - name: Git Diff
-        run: git diff
+        run: |
+          pwd
+          ls -l
+          git diff
 
       - name: Git Commit
         run: |
