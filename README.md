@@ -1,7 +1,7 @@
 # CI/CD Status Page
 
 ![Original Repos](https://img.shields.io/badge/Repos-22-blue?logo=github)
-![Stars](https://img.shields.io/badge/Stars-3717-blue?logo=github)
+![Stars](https://img.shields.io/badge/Stars-3720-blue?logo=github)
 ![Forks](https://img.shields.io/badge/Forks-1662-blue?logo=github)
 ![Followers](https://img.shields.io/badge/Followers-722-blue?logo=github)
 ![Lines of Code](https://img.shields.io/badge/lines%20of%20code-249.0k-lightgrey?logo=codecademy)
@@ -17,7 +17,7 @@
 [![CI Builds](https://img.shields.io/badge/CI%20Builds-650-blue?logo=circleci)](https://harisekhon.github.io/CI-CD/)
 [![Generate README](https://github.com/HariSekhon/CI-CD/actions/workflows/readme.yaml/badge.svg)](https://github.com/HariSekhon/CI-CD/actions/workflows/readme.yaml)
 [![pages-build-deployment](https://github.com/HariSekhon/CI-CD/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/HariSekhon/CI-CD/actions/workflows/pages/pages-build-deployment)
-![Last Generated](https://img.shields.io/badge/Last%20Generated-2022--05--10-yellowgreen?logo=github)
+![Last Generated](https://img.shields.io/badge/Last%20Generated-2022--05--11-yellowgreen?logo=github)
 [![GitHub Last Commit](https://img.shields.io/github/last-commit/HariSekhon/CI-CD?logo=github)](https://github.com/HariSekhon/CI-CD/commits/master)
 
 22 original source git repos with 650 CI builds (601 hosted, 49 self-hosted) across 22 different CI systems:
@@ -29,8 +29,8 @@ Link:  [HariSekhon/Nagios-Plugins](https://github.com/HariSekhon/Nagios-Plugins)
 
 450+ AWS, Hadoop, Cloud, Kafka, Docker, Elasticsearch, RabbitMQ, Redis, HBase, Solr, Cassandra, ZooKeeper, HDFS, Yarn, Hive, Presto, Drill, Impala, Consul, Spark, Jenkins, Travis CI, Git, MySQL, Linux, DNS, Whois, SSL Certs, Yum Security Updates, Kubernetes, Cloudera etc...
 
-[![GitHub stars](https://img.shields.io/github/stars/harisekhon/nagios-plugins?logo=github)](https://github.com/harisekhon/nagios-plugins/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/harisekhon/nagios-plugins?logo=github)](https://github.com/harisekhon/nagios-plugins/network)
+[![GitHub stars](https://img.shields.io/github/stars/harisekhon/nagios-plugins?logo=github)](https://github.com/HariSekhon/Nagios-Plugins/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/harisekhon/nagios-plugins?logo=github)](https://github.com/HariSekhon/Nagios-Plugins/network)
 [![Contributors](https://img.shields.io/github/contributors/HariSekhon/Nagios-Plugins?logo=github)](https://github.com/HariSekhon/Nagios-Plugins/graphs/contributors)
 [![Lines of Code](https://img.shields.io/badge/lines%20of%20code-80k-lightgrey?logo=codecademy)](https://github.com/HariSekhon/Nagios-Plugins)
 [![GitHub Last Commit](https://img.shields.io/github/last-commit/HariSekhon/Nagios-Plugins?logo=github)](https://github.com/HariSekhon/Nagios-Plugins/commits/master)
@@ -156,8 +156,8 @@ Link:  [HariSekhon/Dockerfiles](https://github.com/HariSekhon/Dockerfiles)
 
 50+ DockerHub public images for Docker & Kubernetes - DevOps, CI/CD, GitHub Actions, CircleCI, Jenkins, TeamCity, Alpine, CentOS, Debian, Fedora, Ubuntu, Hadoop, Kafka, ZooKeeper, HBase, Cassandra, Solr, SolrCloud, Presto, Apache Drill, Nifi, Spark, Consul, Riak
 
-[![GitHub stars](https://img.shields.io/github/stars/harisekhon/Dockerfiles?logo=github)](https://github.com/harisekhon/Dockerfiles/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/harisekhon/Dockerfiles?logo=github)](https://github.com/harisekhon/Dockerfiles/network)
+[![GitHub stars](https://img.shields.io/github/stars/harisekhon/Dockerfiles?logo=github)](https://github.com/HariSekhon/Dockerfiles/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/harisekhon/Dockerfiles?logo=github)](https://github.com/HariSekhon/Dockerfiles/network)
 [![Contributors](https://img.shields.io/github/contributors/HariSekhon/Dockerfiles?logo=github)](https://github.com/HariSekhon/Dockerfiles/graphs/contributors)
 [![Lines of Code](https://img.shields.io/badge/lines%20of%20code-8k-lightgrey?logo=codecademy)](https://github.com/HariSekhon/Dockerfiles)
 [![License](https://img.shields.io/github/license/HariSekhon/Dockerfiles)](https://github.com/HariSekhon/Dockerfiles/blob/master/LICENSE)
@@ -246,8 +246,8 @@ Link:  [HariSekhon/DevOps-Python-tools](https://github.com/HariSekhon/DevOps-Pyt
 
 80+ DevOps & Data CLI Tools - AWS, GCP, GCF Python Cloud Functions, Log Anonymizer, Spark, Hadoop, HBase, Hive, Impala, Linux, Docker, Spark Data Converters & Validators (Avro/Parquet/JSON/CSV/INI/XML/YAML), Travis CI, AWS CloudFormation, Elasticsearch, Solr etc.
 
-[![GitHub stars](https://img.shields.io/github/stars/harisekhon/devops-python-tools?logo=github)](https://github.com/harisekhon/devops-python-tools/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/harisekhon/devops-python-tools?logo=github)](https://github.com/harisekhon/devops-python-tools/network)
+[![GitHub stars](https://img.shields.io/github/stars/harisekhon/devops-python-tools?logo=github)](https://github.com/HariSekhon/DevOps-Python-tools/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/harisekhon/devops-python-tools?logo=github)](https://github.com/HariSekhon/DevOps-Python-tools/network)
 [![License](https://img.shields.io/github/license/HariSekhon/DevOps-Python-tools)](https://github.com/HariSekhon/DevOps-Python-tools/blob/master/LICENSE)
 [![Lines of Code](https://img.shields.io/badge/lines%20of%20code-26k-lightgrey?logo=codecademy)](https://github.com/HariSekhon/DevOps-Python-tools)
 [![GitHub Last Commit](https://img.shields.io/github/last-commit/HariSekhon/DevOps-Python-tools?logo=github)](https://github.com/HariSekhon/DevOps-Python-tools/commits/master)
@@ -591,8 +591,8 @@ Link:  [HariSekhon/DevOps-Perl-tools](https://github.com/HariSekhon/DevOps-Perl-
 
 25+ DevOps CLI Tools - Anonymizer, SQL ReCaser (MySQL, PostgreSQL, AWS Redshift, Snowflake, Apache Drill, Hive, Impala, Cassandra CQL, Microsoft SQL Server, Oracle, Couchbase N1QL, Dockerfiles), Hadoop HDFS & Hive tools, Solr/SolrCloud CLI, Nginx stats & HTTP(S) URL watchers for load-balanced web farms, Linux tools etc.
 
-[![GitHub stars](https://img.shields.io/github/stars/harisekhon/devops-perl-tools?logo=github)](https://github.com/harisekhon/devops-perl-tools/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/harisekhon/devops-perl-tools?logo=github)](https://github.com/harisekhon/devops-perl-tools/network)
+[![GitHub stars](https://img.shields.io/github/stars/harisekhon/devops-perl-tools?logo=github)](https://github.com/HariSekhon/DevOps-Perl-tools/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/harisekhon/devops-perl-tools?logo=github)](https://github.com/HariSekhon/DevOps-Perl-tools/network)
 [![Lines of Code](https://img.shields.io/badge/lines%20of%20code-9.1k-lightgrey?logo=codecademy)](https://github.com/HariSekhon/DevOps-Perl-tools)
 [![License](https://img.shields.io/github/license/HariSekhon/DevOps-Perl-tools)](https://github.com/HariSekhon/DevOps-Perl-tools/blob/master/LICENSE)
 [![GitHub Last Commit](https://img.shields.io/github/last-commit/HariSekhon/DevOps-Perl-tools?logo=github)](https://github.com/HariSekhon/DevOps-Perl-tools/commits/master)
@@ -606,8 +606,8 @@ Link:  [HariSekhon/DevOps-Perl-tools](https://github.com/HariSekhon/DevOps-Perl-
 [![Codiga Grade](https://api.codiga.io/project/4745/status/svg)](https://app.codiga.io/project/4745/dashboard)
 [![Codiga Score](https://api.codiga.io/project/4745/score/svg)](https://app.codiga.io/project/4745/dashboard)
 
-[![Linux](https://img.shields.io/badge/OS-Linux-blue?logo=linux)](https://github.com/harisekhon/DevOps-Perl-tools)
-[![Mac](https://img.shields.io/badge/OS-Mac-blue?logo=apple)](https://github.com/harisekhon/DevOps-Perl-tools)
+[![Linux](https://img.shields.io/badge/OS-Linux-blue?logo=linux)](https://github.com/HariSekhon/DevOps-Perl-tools)
+[![Mac](https://img.shields.io/badge/OS-Mac-blue?logo=apple)](https://github.com/HariSekhon/DevOps-Perl-tools)
 [![Docker](https://img.shields.io/badge/container-Docker-blue?logo=docker&logoColor=white)](https://hub.docker.com/r/harisekhon/perl-tools/)
 [![Dockerfile](https://img.shields.io/badge/repo-Dockerfiles-blue?logo=docker&logoColor=white)](https://github.com/HariSekhon/Dockerfiles)
 [![DockerHub Pulls](https://img.shields.io/docker/pulls/harisekhon/perl-tools?label=DockerHub%20pulls&logo=docker&logoColor=white)](https://hub.docker.com/r/harisekhon/perl-tools)
@@ -675,7 +675,7 @@ Link:  [HariSekhon/DevOps-Perl-tools](https://github.com/HariSekhon/DevOps-Perl-
 [![Alpine](https://github.com/HariSekhon/DevOps-Perl-tools/workflows/Alpine/badge.svg)](https://github.com/HariSekhon/DevOps-Perl-tools/actions?query=workflow%3A%22Alpine%22)
 [![Alpine 3](https://github.com/HariSekhon/DevOps-Perl-tools/workflows/Alpine%203/badge.svg)](https://github.com/HariSekhon/DevOps-Perl-tools/actions?query=workflow%3A%22Alpine+3%22)
 
-[![Perl versions](https://img.shields.io/badge/Perl-5.10+-39457E?logo=perl)](https://github.com/harisekhon/DevOps-Perl-tools)
+[![Perl versions](https://img.shields.io/badge/Perl-5.10+-39457E?logo=perl)](https://github.com/HariSekhon/DevOps-Perl-tools)
 [![Perl](https://github.com/HariSekhon/DevOps-Perl-tools/workflows/Perl/badge.svg)](https://github.com/HariSekhon/DevOps-Perl-tools/actions?query=workflow%3A%22Perl%22)
 [![Perl 5.10](https://github.com/HariSekhon/DevOps-Perl-tools/workflows/Perl%205.10/badge.svg)](https://github.com/HariSekhon/DevOps-Perl-tools/actions?query=workflow%3A%22Perl+5.10%22)
 [![Perl 5.12](https://github.com/HariSekhon/DevOps-Perl-tools/workflows/Perl%205.12/badge.svg)](https://github.com/HariSekhon/DevOps-Perl-tools/actions?query=workflow%3A%22Perl+5.12%22)
@@ -730,10 +730,10 @@ Link:  [HariSekhon/Spotify-tools](https://github.com/HariSekhon/Spotify-tools)
 
 Spotify Tools - Playlists Backups, Spotify CLI, URI translator, duplication detection / removal, API search queries, API automation etc.
 
-[![GitHub stars](https://img.shields.io/github/stars/harisekhon/spotify-tools?logo=github)](https://github.com/harisekhon/spotify-tools/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/harisekhon/spotify-tools?logo=github)](https://github.com/harisekhon/spotify-tools/network)
+[![GitHub stars](https://img.shields.io/github/stars/harisekhon/spotify-tools?logo=github)](https://github.com/HariSekhon/Spotify-tools/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/harisekhon/spotify-tools?logo=github)](https://github.com/HariSekhon/Spotify-tools/network)
 [![License](https://img.shields.io/github/license/HariSekhon/Spotify-tools)](https://github.com/HariSekhon/Spotify-tools/blob/master/LICENSE)
-[![GitHub Last Commit](https://img.shields.io/github/last-commit/HariSekhon/Spotify-Tools?logo=github)](https://github.com/HariSekhon/Spotify-Tools/commits/master)
+[![GitHub Last Commit](https://img.shields.io/github/last-commit/HariSekhon/Spotify-Tools?logo=github)](https://github.com/HariSekhon/Spotify-tools/commits/master)
 
 [![Codacy](https://app.codacy.com/project/badge/Grade/afe697b0ce3f4df79f16b4b3d2ded54b)](https://www.codacy.com/gh/HariSekhon/Spotify-tools/dashboard)
 [![CodeFactor](https://www.codefactor.io/repository/github/harisekhon/spotify-tools/badge)](https://www.codefactor.io/repository/github/harisekhon/spotify-tools)
@@ -741,8 +741,8 @@ Spotify Tools - Playlists Backups, Spotify CLI, URI translator, duplication dete
 [![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_Spotify-tools&metric=sqale_rating)](https://sonarcloud.io/dashboard?id=HariSekhon_Spotify-tools)
 [![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_Spotify-tools&metric=reliability_rating)](https://sonarcloud.io/dashboard?id=HariSekhon_Spotify-tools)
 [![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_Spotify-tools&metric=security_rating)](https://sonarcloud.io/dashboard?id=HariSekhon_Spotify-tools)
-[![Linux](https://img.shields.io/badge/OS-Linux-blue?logo=linux)](https://github.com/HariSekhon/spotify-tools#spotify-tools)
-[![Mac](https://img.shields.io/badge/OS-Mac-blue?logo=apple)](https://github.com/HariSekhon/spotify-tools#spotify-tools)
+[![Linux](https://img.shields.io/badge/OS-Linux-blue?logo=linux)](https://github.com/HariSekhon/Spotify-tools#spotify-tools)
+[![Mac](https://img.shields.io/badge/OS-Mac-blue?logo=apple)](https://github.com/HariSekhon/Spotify-tools#spotify-tools)
 
 
 
@@ -780,24 +780,24 @@ Spotify Tools - Playlists Backups, Spotify CLI, URI translator, duplication dete
 [![Semgrep](https://github.com/HariSekhon/Spotify-tools/actions/workflows/semgrep.yaml/badge.svg)](https://github.com/HariSekhon/Spotify-tools/actions/workflows/semgrep.yaml)
 [![Kics](https://github.com/HariSekhon/Spotify-tools/actions/workflows/kics.yaml/badge.svg)](https://github.com/HariSekhon/Spotify-tools/actions/workflows/kics.yaml)
 
-[![GitHub Actions Ubuntu](https://github.com/HariSekhon/spotify-tools/workflows/GitHub%20Actions%20Ubuntu/badge.svg)](https://github.com/HariSekhon/spotify-tools/actions?query=workflow%3A%22GitHub+Actions+Ubuntu%22)
-[![Mac](https://github.com/HariSekhon/spotify-tools/workflows/Mac/badge.svg)](https://github.com/HariSekhon/spotify-tools/actions?query=workflow%3A%22Mac%22)
-[![Mac 10.15](https://github.com/HariSekhon/spotify-tools/workflows/Mac%2010.15/badge.svg)](https://github.com/HariSekhon/spotify-tools/actions?query=workflow%3A%22Mac+10.15%22)
-[![Ubuntu](https://github.com/HariSekhon/spotify-tools/workflows/Ubuntu/badge.svg)](https://github.com/HariSekhon/spotify-tools/actions?query=workflow%3A%22Ubuntu%22)
-[![Ubuntu 14.04](https://github.com/HariSekhon/spotify-tools/workflows/Ubuntu%2014.04/badge.svg)](https://github.com/HariSekhon/spotify-tools/actions?query=workflow%3A%22Ubuntu+14.04%22)
-[![Ubuntu 16.04](https://github.com/HariSekhon/spotify-tools/workflows/Ubuntu%2016.04/badge.svg)](https://github.com/HariSekhon/spotify-tools/actions?query=workflow%3A%22Ubuntu+16.04%22)
-[![Ubuntu 18.04](https://github.com/HariSekhon/spotify-tools/workflows/Ubuntu%2018.04/badge.svg)](https://github.com/HariSekhon/spotify-tools/actions?query=workflow%3A%22Ubuntu+18.04%22)
-[![Ubuntu 20.04](https://github.com/HariSekhon/spotify-tools/workflows/Ubuntu%2020.04/badge.svg)](https://github.com/HariSekhon/spotify-tools/actions?query=workflow%3A%22Ubuntu+20.04%22)
-[![Debian](https://github.com/HariSekhon/spotify-tools/workflows/Debian/badge.svg)](https://github.com/HariSekhon/spotify-tools/actions?query=workflow%3A%22Debian%22)
-[![Debian 8](https://github.com/HariSekhon/spotify-tools/workflows/Debian%208/badge.svg)](https://github.com/HariSekhon/spotify-tools/actions?query=workflow%3A%22Debian+8%22)
-[![Debian 9](https://github.com/HariSekhon/spotify-tools/workflows/Debian%209/badge.svg)](https://github.com/HariSekhon/spotify-tools/actions?query=workflow%3A%22Debian+9%22)
-[![Debian 10](https://github.com/HariSekhon/spotify-tools/workflows/Debian%2010/badge.svg)](https://github.com/HariSekhon/spotify-tools/actions?query=workflow%3A%22Debian+10%22)
-[![CentOS](https://github.com/HariSekhon/spotify-tools/workflows/CentOS/badge.svg)](https://github.com/HariSekhon/spotify-tools/actions?query=workflow%3A%22CentOS%22)
-[![CentOS 7](https://github.com/HariSekhon/spotify-tools/workflows/CentOS%207/badge.svg)](https://github.com/HariSekhon/spotify-tools/actions?query=workflow%3A%22CentOS+7%22)
-[![CentOS 8](https://github.com/HariSekhon/spotify-tools/workflows/CentOS%208/badge.svg)](https://github.com/HariSekhon/spotify-tools/actions?query=workflow%3A%22CentOS+8%22)
-[![Fedora](https://github.com/HariSekhon/spotify-tools/workflows/Fedora/badge.svg)](https://github.com/HariSekhon/spotify-tools/actions?query=workflow%3A%22Fedora%22)
-[![Alpine](https://github.com/HariSekhon/spotify-tools/workflows/Alpine/badge.svg)](https://github.com/HariSekhon/spotify-tools/actions?query=workflow%3A%22Alpine%22)
-[![Alpine 3](https://github.com/HariSekhon/spotify-tools/workflows/Alpine%203/badge.svg)](https://github.com/HariSekhon/spotify-tools/actions?query=workflow%3A%22Alpine+3%22)
+[![GitHub Actions Ubuntu](https://github.com/HariSekhon/Spotify-tools/workflows/GitHub%20Actions%20Ubuntu/badge.svg)](https://github.com/HariSekhon/Spotify-tools/actions?query=workflow%3A%22GitHub+Actions+Ubuntu%22)
+[![Mac](https://github.com/HariSekhon/Spotify-tools/workflows/Mac/badge.svg)](https://github.com/HariSekhon/Spotify-tools/actions?query=workflow%3A%22Mac%22)
+[![Mac 10.15](https://github.com/HariSekhon/Spotify-tools/workflows/Mac%2010.15/badge.svg)](https://github.com/HariSekhon/Spotify-tools/actions?query=workflow%3A%22Mac+10.15%22)
+[![Ubuntu](https://github.com/HariSekhon/Spotify-tools/workflows/Ubuntu/badge.svg)](https://github.com/HariSekhon/Spotify-tools/actions?query=workflow%3A%22Ubuntu%22)
+[![Ubuntu 14.04](https://github.com/HariSekhon/Spotify-tools/workflows/Ubuntu%2014.04/badge.svg)](https://github.com/HariSekhon/Spotify-tools/actions?query=workflow%3A%22Ubuntu+14.04%22)
+[![Ubuntu 16.04](https://github.com/HariSekhon/Spotify-tools/workflows/Ubuntu%2016.04/badge.svg)](https://github.com/HariSekhon/Spotify-tools/actions?query=workflow%3A%22Ubuntu+16.04%22)
+[![Ubuntu 18.04](https://github.com/HariSekhon/Spotify-tools/workflows/Ubuntu%2018.04/badge.svg)](https://github.com/HariSekhon/Spotify-tools/actions?query=workflow%3A%22Ubuntu+18.04%22)
+[![Ubuntu 20.04](https://github.com/HariSekhon/Spotify-tools/workflows/Ubuntu%2020.04/badge.svg)](https://github.com/HariSekhon/Spotify-tools/actions?query=workflow%3A%22Ubuntu+20.04%22)
+[![Debian](https://github.com/HariSekhon/Spotify-tools/workflows/Debian/badge.svg)](https://github.com/HariSekhon/Spotify-tools/actions?query=workflow%3A%22Debian%22)
+[![Debian 8](https://github.com/HariSekhon/Spotify-tools/workflows/Debian%208/badge.svg)](https://github.com/HariSekhon/Spotify-tools/actions?query=workflow%3A%22Debian+8%22)
+[![Debian 9](https://github.com/HariSekhon/Spotify-tools/workflows/Debian%209/badge.svg)](https://github.com/HariSekhon/Spotify-tools/actions?query=workflow%3A%22Debian+9%22)
+[![Debian 10](https://github.com/HariSekhon/Spotify-tools/workflows/Debian%2010/badge.svg)](https://github.com/HariSekhon/Spotify-tools/actions?query=workflow%3A%22Debian+10%22)
+[![CentOS](https://github.com/HariSekhon/Spotify-tools/workflows/CentOS/badge.svg)](https://github.com/HariSekhon/Spotify-tools/actions?query=workflow%3A%22CentOS%22)
+[![CentOS 7](https://github.com/HariSekhon/Spotify-tools/workflows/CentOS%207/badge.svg)](https://github.com/HariSekhon/Spotify-tools/actions?query=workflow%3A%22CentOS+7%22)
+[![CentOS 8](https://github.com/HariSekhon/Spotify-tools/workflows/CentOS%208/badge.svg)](https://github.com/HariSekhon/Spotify-tools/actions?query=workflow%3A%22CentOS+8%22)
+[![Fedora](https://github.com/HariSekhon/Spotify-tools/workflows/Fedora/badge.svg)](https://github.com/HariSekhon/Spotify-tools/actions?query=workflow%3A%22Fedora%22)
+[![Alpine](https://github.com/HariSekhon/Spotify-tools/workflows/Alpine/badge.svg)](https://github.com/HariSekhon/Spotify-tools/actions?query=workflow%3A%22Alpine%22)
+[![Alpine 3](https://github.com/HariSekhon/Spotify-tools/workflows/Alpine%203/badge.svg)](https://github.com/HariSekhon/Spotify-tools/actions?query=workflow%3A%22Alpine+3%22)
 
 [git.io/spotify](https://git.io/spotify)
 
@@ -837,8 +837,8 @@ Link:  [HariSekhon/lib](https://github.com/HariSekhon/lib)
 
 Perl Utility Library for my other repos
 
-[![GitHub stars](https://img.shields.io/github/stars/harisekhon/lib?logo=github)](https://github.com/harisekhon/lib/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/harisekhon/lib?logo=github)](https://github.com/harisekhon/lib/network)
+[![GitHub stars](https://img.shields.io/github/stars/harisekhon/lib?logo=github)](https://github.com/HariSekhon/lib/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/harisekhon/lib?logo=github)](https://github.com/HariSekhon/lib/network)
 [![Lines of Code](https://img.shields.io/badge/lines%20of%20code-10k-lightgrey?logo=codecademy)](https://github.com/HariSekhon/lib)
 [![License](https://img.shields.io/github/license/HariSekhon/lib)](https://github.com/HariSekhon/lib/blob/master/LICENSE)
 [![GitHub Last Commit](https://img.shields.io/github/last-commit/HariSekhon/lib?logo=github)](https://github.com/HariSekhon/lib/commits/master)
@@ -851,8 +851,8 @@ Perl Utility Library for my other repos
 [![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_lib&metric=reliability_rating)](https://sonarcloud.io/dashboard?id=HariSekhon_lib)
 [![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_lib&metric=security_rating)](https://sonarcloud.io/dashboard?id=HariSekhon_lib)
 
-[![Linux](https://img.shields.io/badge/OS-Linux-blue?logo=linux)](https://github.com/harisekhon/lib#hari-sekhon---perl-library)
-[![Mac](https://img.shields.io/badge/OS-Mac-blue?logo=apple)](https://github.com/harisekhon/lib#hari-sekhon---perl-library)
+[![Linux](https://img.shields.io/badge/OS-Linux-blue?logo=linux)](https://github.com/HariSekhon/lib#hari-sekhon---perl-library)
+[![Mac](https://img.shields.io/badge/OS-Mac-blue?logo=apple)](https://github.com/HariSekhon/lib#hari-sekhon---perl-library)
 [![Docker](https://img.shields.io/badge/container-Docker-blue?logo=docker&logoColor=white)](https://hub.docker.com/r/harisekhon/github/)
 [![Dockerfile](https://img.shields.io/badge/repo-Dockerfiles-blue?logo=docker&logoColor=white)](https://github.com/HariSekhon/Dockerfiles)
 [![DockerHub Pulls](https://img.shields.io/docker/pulls/harisekhon/centos-github?label=DockerHub%20pulls&logo=docker&logoColor=white)](https://hub.docker.com/r/harisekhon/github)
@@ -936,8 +936,8 @@ Link:  [HariSekhon/DevOps-Golang-tools](https://github.com/HariSekhon/DevOps-Gol
 
 DevOps Golang tools
 
-[![GitHub stars](https://img.shields.io/github/stars/harisekhon/devops-golang-tools?logo=github)](https://github.com/harisekhon/devops-golang-tools/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/harisekhon/devops-golang-tools?logo=github)](https://github.com/harisekhon/devops-golang-tools/network)
+[![GitHub stars](https://img.shields.io/github/stars/harisekhon/devops-golang-tools?logo=github)](https://github.com/HariSekhon/DevOps-Golang-tools/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/harisekhon/devops-golang-tools?logo=github)](https://github.com/HariSekhon/DevOps-Golang-tools/network)
 [![License](https://img.shields.io/github/license/HariSekhon/DevOps-Golang-tools)](https://github.com/HariSekhon/DevOps-Golang-tools/blob/master/LICENSE)
 [![GitHub Last Commit](https://img.shields.io/github/last-commit/HariSekhon/DevOps-Golang-tools?logo=github)](https://github.com/HariSekhon/DevOps-Golang-tools/commits/master)
 
@@ -1064,8 +1064,8 @@ Link:  [HariSekhon/Nagios-Plugin-Kafka](https://github.com/HariSekhon/Nagios-Plu
 
 Kafka Scala API CLI / Advanced Nagios Plugin, with Kerberos support (uses Kafka 0.9+ native Java API)
 
-[![GitHub stars](https://img.shields.io/github/stars/harisekhon/Nagios-Plugin-Kafka?logo=github)](https://github.com/harisekhon/Nagios-Plugin-Kafka/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/harisekhon/Nagios-Plugin-Kafka?logo=github)](https://github.com/harisekhon/Nagios-Plugin-Kafka/network)
+[![GitHub stars](https://img.shields.io/github/stars/harisekhon/Nagios-Plugin-Kafka?logo=github)](https://github.com/HariSekhon/Nagios-Plugin-Kafka/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/harisekhon/Nagios-Plugin-Kafka?logo=github)](https://github.com/HariSekhon/Nagios-Plugin-Kafka/network)
 [![License](https://img.shields.io/github/license/HariSekhon/Nagios-Plugin-Kafka)](https://github.com/HariSekhon/Nagios-Plugin-Kafka/blob/master/LICENSE)
 [![GitHub Last Commit](https://img.shields.io/github/last-commit/HariSekhon/Nagios-Plugin-Kafka?logo=github)](https://github.com/HariSekhon/Nagios-Plugin-Kafka/commits/master)
 
@@ -1161,9 +1161,9 @@ Link:  [HariSekhon/Spotify-Playlists](https://github.com/HariSekhon/Spotify-Play
 [![GitHub Last Commit](https://img.shields.io/github/last-commit/HariSekhon/Spotify-Playlists?logo=github)](https://github.com/HariSekhon/Spotify-Playlists/commits/master)
 
 [![CI Builds Overview](https://img.shields.io/badge/CI%20Builds-Overview%20Page-blue?logo=circleci)](https://harisekhon.github.io/CI-CD/)
-[![Validation](https://github.com/HariSekhon/Spotify-playlists/actions/workflows/validate.yaml/badge.svg)](https://github.com/HariSekhon/Spotify-playlists/actions/workflows/validate.yaml)
-[![Semgrep](https://github.com/HariSekhon/Spotify-playlists/actions/workflows/semgrep.yaml/badge.svg)](https://github.com/HariSekhon/Spotify-playlists/actions/workflows/semgrep.yaml)
-[![Kics](https://github.com/HariSekhon/Spotify-playlists/actions/workflows/kics.yaml/badge.svg)](https://github.com/HariSekhon/Spotify-playlists/actions/workflows/kics.yaml)
+[![Validation](https://github.com/HariSekhon/Spotify-Playlists/actions/workflows/validate.yaml/badge.svg)](https://github.com/HariSekhon/Spotify-Playlists/actions/workflows/validate.yaml)
+[![Semgrep](https://github.com/HariSekhon/Spotify-Playlists/actions/workflows/semgrep.yaml/badge.svg)](https://github.com/HariSekhon/Spotify-Playlists/actions/workflows/semgrep.yaml)
+[![Kics](https://github.com/HariSekhon/Spotify-Playlists/actions/workflows/kics.yaml/badge.svg)](https://github.com/HariSekhon/Spotify-Playlists/actions/workflows/kics.yaml)
 [![Travis CI](https://img.shields.io/badge/TravisCI-ready-blue?logo=travis&label=Travis%20CI)](https://github.com/HariSekhon/Spotify-Playlists/blob/master/.travis.yml)
 
 [![Repo on Azure DevOps](https://img.shields.io/badge/repo-Azure%20DevOps-0078D7?logo=azure%20devops)](https://dev.azure.com/harisekhon/GitHub/_git/Spotify-Playlists)
@@ -1207,8 +1207,8 @@ Link:  [HariSekhon/pylib](https://github.com/HariSekhon/pylib)
 
 Python / Jython Utility Library for my other repos
 
-[![GitHub stars](https://img.shields.io/github/stars/harisekhon/pylib?logo=github)](https://github.com/harisekhon/pylib/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/harisekhon/pylib?logo=github)](https://github.com/harisekhon/pylib/network)
+[![GitHub stars](https://img.shields.io/github/stars/harisekhon/pylib?logo=github)](https://github.com/HariSekhon/pylib/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/harisekhon/pylib?logo=github)](https://github.com/HariSekhon/pylib/network)
 [![Lines of Code](https://img.shields.io/badge/lines%20of%20code-10k-lightgrey?logo=codecademy)](https://github.com/HariSekhon/pylib)
 [![License](https://img.shields.io/github/license/HariSekhon/pylib)](https://github.com/HariSekhon/pylib/blob/master/LICENSE)
 [![GitHub Last Commit](https://img.shields.io/github/last-commit/HariSekhon/pylib?logo=github)](https://github.com/HariSekhon/pylib/commits/master)
@@ -1375,8 +1375,8 @@ Link:  [HariSekhon/lib-java](https://github.com/HariSekhon/lib-java)
 
 Java Utility library for my other repos
 
-[![GitHub stars](https://img.shields.io/github/stars/harisekhon/lib-java?logo=github)](https://github.com/harisekhon/lib-java/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/harisekhon/lib-java?logo=github)](https://github.com/harisekhon/lib-java/network)
+[![GitHub stars](https://img.shields.io/github/stars/harisekhon/lib-java?logo=github)](https://github.com/HariSekhon/lib-java/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/harisekhon/lib-java?logo=github)](https://github.com/HariSekhon/lib-java/network)
 [![Lines of Code](https://img.shields.io/badge/lines%20of%20code-5.7k-lightgrey?logo=codecademy)](https://github.com/HariSekhon/lib-java)
 [![License](https://img.shields.io/github/license/HariSekhon/lib-java)](https://github.com/HariSekhon/lib-java/blob/master/LICENSE)
 [![GitHub Last Commit](https://img.shields.io/github/last-commit/HariSekhon/lib-java?logo=github)](https://github.com/HariSekhon/lib-java/commits/master)
