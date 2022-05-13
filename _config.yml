@@ -5,8 +5,8 @@ theme: jekyll-theme-cayman
 
 #remote_theme: pages-themes/cayman@v0.2.0
 
-# GitHub loads this automatically
 plugins:
+  # GitHub loads front matter automatically
   - jekyll-optional-front-matter
   #- jekyll-remote-theme
 
