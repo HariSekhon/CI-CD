@@ -1,1 +1,16 @@
 theme: jekyll-theme-cayman
+
+# GitHub defaults to generating README.md -> index.html on GitHub Pages
+# but on Netlify needs this extra config
+
+# GitHub loads this automatically
+plugins:
+  - jekyll-optional-front-matter
+
+include:
+  - README.md
+defaults:
+  - scope:
+      path: README.md
+    values:
+      permalink: index.html
