@@ -16,4 +16,6 @@ defaults:
   - scope:
       path: README.md
     values:
+      # needed layout to get theme to apply in index.html to show on Netlify
+      layout: default
       permalink: index.html
