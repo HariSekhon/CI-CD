@@ -1,4 +1,27 @@
+#
+#  Author: Hari Sekhon
+#  Date: Fri Mar 25 18:33:55 2022 +0000
+#
+#  vim:ts=2:sts=2:sw=2:et:filetype=yaml
+#
+#  https://github.com/HariSekhon/CI-CD
+#
+#  License: see accompanying Hari Sekhon LICENSE file
+#
+#  If you're using my code you're welcome to connect with me on LinkedIn and optionally send me feedback to help steer this or other code I publish
+#
+#  https://www.linkedin.com/in/HariSekhon
+#
+
+# ============================================================================ #
+#                           J e k y l l   C o n f i g
+# ============================================================================ #
+
+# All that's needed on GitHub Pages is this line
 theme: jekyll-theme-cayman
+
+# ==========
+# Everything else from here on down is to get Netlify to behave similarly to GitHub Pages
 
 # GitHub defaults to generating README.md -> index.html on GitHub Pages
 # but on Netlify needs this extra config
@@ -11,8 +34,10 @@ plugins:
   - jekyll-titles-from-headings
   #- jekyll-remote-theme
 
+# GitHub adds this with a link to the CI-CD repo, but outside GitHub Pages must add something ourself
+#
 title : CI/CD Status Page
-tagline: CICI/CD Status page for Hari Sekhon's GitHub repos
+description: CI/CD Status page for Hari Sekhon's GitHub repos
 author:
   name: Hari Sekhon
   email: harisekhon@gmail.com
@@ -28,8 +53,11 @@ defaults:
     values:
       # needed layout to get theme to apply in index.html to show on Netlify
       layout: default
-      # GitHub adds this with a link to the CI-CD repo, but outside GitHub Pages must add something ourself
+      # moved to top level
       #title: CI/CD Status Page
-      #tagline: CI/CD Status page for Hari Sekhon's GitHub repos
+      #
+      # tagline doesn't work but description does
+      #description: CI/CD Status page for Hari Sekhon's GitHub repos
+      #
       # needed to get it to generate index.html rather than README.html, so that we don't get 404 error on base site
       permalink: index.html
