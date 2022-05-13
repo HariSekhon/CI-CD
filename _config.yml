@@ -8,6 +8,7 @@ theme: jekyll-theme-cayman
 plugins:
   # GitHub loads front matter automatically
   - jekyll-optional-front-matter
+  - jekyll-titles-from-headings
   #- jekyll-remote-theme
 
 include:
@@ -19,6 +20,7 @@ defaults:
       # needed layout to get theme to apply in index.html to show on Netlify
       layout: default
       # GitHub adds this with a link to the CI-CD repo, but outside GitHub Pages must add something ourself
-      title: CI/CD Status page for Hari Sekhon's GitHub repos
+      title: CI/CD Status Page
+      tagline: CI/CD Status page for Hari Sekhon's GitHub repos
       # needed to get it to generate index.html rather than README.html, so that we don't get 404 error on base site
       permalink: index.html
