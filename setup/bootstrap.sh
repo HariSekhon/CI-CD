@@ -40,7 +40,7 @@ if [ "$(uname -s)" = Darwin ]; then
 elif [ "$(uname -s)" = Linux ]; then
     echo "Bootstrapping on Linux:  $repo"
     if type apk >/dev/null 2>&1; then
-        $sudo apk --no-cache add bash ruby-dev
+        $sudo apk --no-cache add bash ruby-dev ruby-bundler
     elif type apt-get >/dev/null 2>&1; then
         if [ -n "${CI:-}" ]; then
             export DEBIAN_FRONTEND=noninteractive
@@ -57,7 +57,7 @@ elif [ "$(uname -s)" = Linux ]; then
             $sudo sed -i 's/^[[:space:]]*mirrorlist/#mirrorlist/' /etc/yum.repos.d/CentOS-Linux-*
             $sudo sed -i 's|^#baseurl=http://mirror.centos.org|baseurl=http://vault.centos.org|' /etc/yum.repos.d/CentOS-Linux-*
         fi
-        $sudo yum install -y git ruby-devel
+        $sudo yum install -y git ruby-devel rubygem-bundler make gcc gcc-c++ redhat-rpm-config # needs to make and compile ruby bits
     else
         echo "Package Manager not found on Linux, cannot bootstrap"
         exit 1
