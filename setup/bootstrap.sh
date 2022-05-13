@@ -50,7 +50,7 @@ elif [ "$(uname -s)" = Linux ]; then
             opts="-qq"
         fi
         $sudo apt-get update $opts
-        $sudo apt-get install $opts -y git ruby-dev build-essential # ruby-bundler
+        $sudo apt-get install $opts -y git build-essential ruby-dev ruby-bundler
     elif type yum >/dev/null 2>&1; then
         if grep -qi 'NAME=.*CentOS' /etc/*release; then
             echo "CentOS EOL detected, replacing yum base URL to vault to re-enable package installs"
