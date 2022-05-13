@@ -40,7 +40,7 @@ if [ "$(uname -s)" = Darwin ]; then
 elif [ "$(uname -s)" = Linux ]; then
     echo "Bootstrapping on Linux:  $repo"
     if type apk >/dev/null 2>&1; then
-        $sudo apk --no-cache add bash ruby-dev ruby-bundler
+        $sudo apk --no-cache add bash ruby-dev ruby-bundler build-base
     elif type apt-get >/dev/null 2>&1; then
         if [ -n "${CI:-}" ]; then
             export DEBIAN_FRONTEND=noninteractive
@@ -80,6 +80,25 @@ else
         cd "$directory"
     fi
 fi
+
+# XXX: fails on Alpine on older versions of Docker with error like this
+# XXX: workaround is to use alpine:3.13
+#
+#	Gem::FilePermissionError: You don't have write permissions for the /usr/lib/ruby/gems/3.0.0 directory.
+#	  /usr/lib/ruby/3.0.0/rubygems/installer.rb:715:in `verify_gem_home'
+#	  /usr/lib/ruby/3.0.0/rubygems/installer.rb:896:in `pre_install_checks'
+#	  /usr/lib/ruby/gems/3.0.0/gems/bundler-2.2.33/lib/bundler/rubygems_gem_installer.rb:64:in `pre_install_checks'
+#	  /usr/lib/ruby/gems/3.0.0/gems/bundler-2.2.33/lib/bundler/rubygems_gem_installer.rb:12:in `install'
+#	  /usr/lib/ruby/gems/3.0.0/gems/bundler-2.2.33/lib/bundler/source/rubygems.rb:204:in `install'
+#	  /usr/lib/ruby/gems/3.0.0/gems/bundler-2.2.33/lib/bundler/installer/gem_installer.rb:54:in `install'
+#	  /usr/lib/ruby/gems/3.0.0/gems/bundler-2.2.33/lib/bundler/installer/gem_installer.rb:16:in `install_from_spec'
+#	  /usr/lib/ruby/gems/3.0.0/gems/bundler-2.2.33/lib/bundler/installer/parallel_installer.rb:186:in `do_install'
+#	  /usr/lib/ruby/gems/3.0.0/gems/bundler-2.2.33/lib/bundler/installer/parallel_installer.rb:177:in `block in worker_pool'
+#	  /usr/lib/ruby/gems/3.0.0/gems/bundler-2.2.33/lib/bundler/worker.rb:62:in `apply_func'
+#	  /usr/lib/ruby/gems/3.0.0/gems/bundler-2.2.33/lib/bundler/worker.rb:57:in `block in process_queue'
+#	  /usr/lib/ruby/gems/3.0.0/gems/bundler-2.2.33/lib/bundler/worker.rb:54:in `loop'
+#	  /usr/lib/ruby/gems/3.0.0/gems/bundler-2.2.33/lib/bundler/worker.rb:54:in `process_queue'
+#	  /usr/lib/ruby/gems/3.0.0/gems/bundler-2.2.33/lib/bundler/worker.rb:91:in `block (2 levels) in create_threads'
 
 bundle install
 
