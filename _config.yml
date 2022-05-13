@@ -20,4 +20,5 @@ defaults:
       layout: default
       # GitHub adds this with a link to the CI-CD repo, but outside GitHub Pages must add something ourself
       title: CI/CD Status page for Hari Sekhon's GitHub repos
+      # needed to get it to generate index.html rather than README.html, so that we don't get 404 error on base site
       permalink: index.html
