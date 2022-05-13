@@ -13,6 +13,9 @@
 #  https://www.linkedin.com/in/HariSekhon
 #
 
+# Written for CI/CD workflow, assumes DevOps-Bash-tools repo is in the $PATH
+# or running in CI inside harisekhon/bash-tools docker container
+
 set -euo pipefail
 [ -n "${DEBUG:-}" ] && set -x
 srcdir="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
