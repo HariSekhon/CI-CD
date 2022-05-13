@@ -3,12 +3,12 @@ theme: jekyll-theme-cayman
 # GitHub defaults to generating README.md -> index.html on GitHub Pages
 # but on Netlify needs this extra config
 
-remote_theme: pages-themes/cayman@v0.2.0
+#remote_theme: pages-themes/cayman@v0.2.0
 
 # GitHub loads this automatically
 plugins:
   - jekyll-optional-front-matter
-  - jekyll-remote-theme
+  #- jekyll-remote-theme
 
 include:
   - README.md
