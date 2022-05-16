@@ -35,9 +35,9 @@ plugins:
   #- jekyll-remote-theme
 
 # GitHub adds this with a link to the CI-CD repo, but outside GitHub Pages must add something ourself
-#
+# title is automatically added by jekyll-titles-from-headings plugin
 #title : CI/CD Status Page
-#description: CI/CD Status page for Hari Sekhon's GitHub repos
+description: CI/CD Status page for Hari Sekhon's GitHub repos
 author:
   name: Hari Sekhon
   email: harisekhon@gmail.com
