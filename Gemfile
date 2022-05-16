@@ -24,6 +24,7 @@ gem 'github-pages'
 group :jekyll_plugins do
   gem 'jekyll-optional-front-matter'
   gem 'jekyll-theme-cayman'
+  # automatically installed
   #gem 'jekyll-titles-from-headings'
 end
 
