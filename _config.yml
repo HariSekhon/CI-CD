@@ -31,13 +31,13 @@ theme: jekyll-theme-cayman
 plugins:
   # GitHub loads front matter automatically
   - jekyll-optional-front-matter
-  - jekyll-titles-from-headings
+  #- jekyll-titles-from-headings
   #- jekyll-remote-theme
 
 # GitHub adds this with a link to the CI-CD repo, but outside GitHub Pages must add something ourself
 #
-title : CI/CD Status Page
-description: CI/CD Status page for Hari Sekhon's GitHub repos
+#title : CI/CD Status Page
+#description: CI/CD Status page for Hari Sekhon's GitHub repos
 author:
   name: Hari Sekhon
   email: harisekhon@gmail.com
