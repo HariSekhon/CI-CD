@@ -24,7 +24,7 @@ gem 'github-pages'
 group :jekyll_plugins do
   gem 'jekyll-optional-front-matter'
   gem 'jekyll-theme-cayman'
-  gem 'jekyll-titles-from-headings'
+  #gem 'jekyll-titles-from-headings'
 end
 
 # on Alpine, installing 'json' and 'bigdecimal' gems solves errors like this:
