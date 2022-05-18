@@ -16,14 +16,13 @@
 [![Netlify](https://img.shields.io/badge/Netlify-site-00C7B7?logo=netlify)](https://harisekhon.netlify.app/)
 
 [![CI/CD Builds](https://img.shields.io/badge/CI%2FCD%20Builds-655-blue?logo=circleci)](https://harisekhon.github.io/CI-CD/)
-
 [![Generate README](https://github.com/HariSekhon/CI-CD/actions/workflows/readme.yaml/badge.svg)](https://github.com/HariSekhon/CI-CD/actions/workflows/readme.yaml)
 [![pages-build-deployment](https://github.com/HariSekhon/CI-CD/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/HariSekhon/CI-CD/actions/workflows/pages/pages-build-deployment)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/853ef60c-c01b-4b83-99ba-8fda541f850f/deploy-status)](https://app.netlify.com/sites/harisekhon/deploys)
 [![GitHub Last Commit](https://img.shields.io/github/last-commit/HariSekhon/CI-CD?logo=github)](https://github.com/HariSekhon/CI-CD/commits/master)
 ![Last Generated](https://img.shields.io/badge/Last%20Generated-2022--05--18-yellowgreen?logo=github)
 
-22 original source git repos with 655 CI builds (603 hosted, 49 self-hosted) across 23 different CI/CD systems:
+22 original source git repos with 655 CI builds (606 hosted, 49 self-hosted) across 23 different CI/CD systems:
 
 ---
 # Advanced Nagios Plugins Collection
@@ -1494,4 +1493,4 @@ CI/CD Status page for Hari Sekhon's GitHub repos
 
 
 
-22 git repos summarized with 655 CI builds (603 hosted, 49 self-hosted) across 23 different CI/CD systems
+22 git repos summarized with 655 CI builds (606 hosted, 49 self-hosted) across 23 different CI/CD systems
