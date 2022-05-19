@@ -1,7 +1,7 @@
 # CI/CD Status Page
 
 ![Original Repos](https://img.shields.io/badge/Repos-22-blue?logo=github)
-![Stars](https://img.shields.io/badge/Stars-3771-blue?logo=github)
+![Stars](https://img.shields.io/badge/Stars-3774-blue?logo=github)
 ![Forks](https://img.shields.io/badge/Forks-1662-blue?logo=github)
 ![Followers](https://img.shields.io/badge/Followers-726-blue?logo=github)
 ![Lines of Code](https://img.shields.io/badge/lines%20of%20code-249.7k-lightgrey?logo=codecademy)
@@ -15,14 +15,14 @@
 [![GitHub Pages](https://img.shields.io/badge/GitHub-Pages-2088FF?logo=github)](https://harisekhon.github.io/CI-CD/)
 [![Netlify](https://img.shields.io/badge/Netlify-site-00C7B7?logo=netlify)](https://harisekhon.netlify.app/)
 
-[![CI/CD Builds](https://img.shields.io/badge/CI%2FCD%20Builds-655-blue?logo=circleci)](https://harisekhon.github.io/CI-CD/)
+[![CI Builds](https://img.shields.io/badge/CI%20Builds-655-blue?logo=circleci)](https://harisekhon.github.io/CI-CD/)
 [![Generate README](https://github.com/HariSekhon/CI-CD/actions/workflows/readme.yaml/badge.svg)](https://github.com/HariSekhon/CI-CD/actions/workflows/readme.yaml)
 [![pages-build-deployment](https://github.com/HariSekhon/CI-CD/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/HariSekhon/CI-CD/actions/workflows/pages/pages-build-deployment)
-[![Netlify Status](https://api.netlify.com/api/v1/badges/853ef60c-c01b-4b83-99ba-8fda541f850f/deploy-status)](https://app.netlify.com/sites/harisekhon/deploys)
+![Last Generated](https://img.shields.io/badge/Last%20Generated-2022--05--19-yellowgreen?logo=github)
 [![GitHub Last Commit](https://img.shields.io/github/last-commit/HariSekhon/CI-CD?logo=github)](https://github.com/HariSekhon/CI-CD/commits/master)
-![Last Generated](https://img.shields.io/badge/Last%20Generated-2022--05--18-yellowgreen?logo=github)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/853ef60c-c01b-4b83-99ba-8fda541f850f/deploy-status)](https://app.netlify.com/sites/harisekhon/deploys)
 
-22 original source git repos with 655 CI builds (606 hosted, 49 self-hosted) across 23 different CI/CD systems:
+22 original source git repos with 655 CI builds (603 hosted, 49 self-hosted) across 22 different CI systems:
 
 ---
 # Advanced Nagios Plugins Collection
@@ -1493,4 +1493,4 @@ CI/CD Status page for Hari Sekhon's GitHub repos
 
 
 
-22 git repos summarized with 655 CI builds (606 hosted, 49 self-hosted) across 23 different CI/CD systems
+22 git repos summarized with 655 CI builds (603 hosted, 49 self-hosted) across 22 different CI systems
