@@ -1,8 +1,8 @@
 # CI/CD Status Page
 
 ![Original Repos](https://img.shields.io/badge/Repos-22-blue?logo=github)
-![Stars](https://img.shields.io/badge/Stars-3873-blue?logo=github)
-![Forks](https://img.shields.io/badge/Forks-1690-blue?logo=github)
+![Stars](https://img.shields.io/badge/Stars-3875-blue?logo=github)
+![Forks](https://img.shields.io/badge/Forks-1691-blue?logo=github)
 ![Followers](https://img.shields.io/badge/Followers-744-blue?logo=github)
 ![Lines of Code](https://img.shields.io/badge/lines%20of%20code-254.1k-lightgrey?logo=codecademy)
 [![GitStar Ranking Profile](https://img.shields.io/badge/GitStar%20Ranking-HariSekhon-blue?logo=github)](https://gitstar-ranking.com/HariSekhon)
@@ -15,14 +15,14 @@
 [![GitHub Pages](https://img.shields.io/badge/GitHub-Pages-2088FF?logo=github)](https://harisekhon.github.io/CI-CD/)
 [![Netlify](https://img.shields.io/badge/Netlify-site-00C7B7?logo=netlify)](https://harisekhon.netlify.app/)
 
-[![CI/CD Builds](https://img.shields.io/badge/CI%2FCD%20Builds-740-blue?logo=circleci)](https://harisekhon.github.io/CI-CD/)
+[![CI/CD Builds](https://img.shields.io/badge/CI%2FCD%20Builds-741-blue?logo=circleci)](https://harisekhon.github.io/CI-CD/)
 [![Generate README](https://github.com/HariSekhon/CI-CD/actions/workflows/readme.yaml/badge.svg)](https://github.com/HariSekhon/CI-CD/actions/workflows/readme.yaml)
 [![pages-build-deployment](https://github.com/HariSekhon/CI-CD/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/HariSekhon/CI-CD/actions/workflows/pages/pages-build-deployment)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/853ef60c-c01b-4b83-99ba-8fda541f850f/deploy-status)](https://app.netlify.com/sites/harisekhon/deploys)
-![Last Generated](https://img.shields.io/badge/Last%20Generated-2022--06--16-yellowgreen?logo=github)
+![Last Generated](https://img.shields.io/badge/Last%20Generated-2022--06--17-yellowgreen?logo=github)
 [![GitHub Last Commit](https://img.shields.io/github/last-commit/HariSekhon/CI-CD?logo=github)](https://github.com/HariSekhon/CI-CD/commits/master)
 
-22 original source git repos with 740 CI builds (691 hosted, 49 self-hosted) across 23 different CI/CD systems:
+22 original source git repos with 741 CI builds (692 hosted, 49 self-hosted) across 23 different CI/CD systems:
 
 ---
 # Advanced Nagios Plugins Collection
@@ -1090,7 +1090,7 @@ DevOps Golang tools
 
 Link:  [HariSekhon/Terraform](https://github.com/HariSekhon/Terraform)
 
-Terraform templates for AWS / GCP / Azure
+Terraform templates for AWS / GCP / Azure / GitHub management
 
 [![GitHub stars](https://img.shields.io/github/stars/HariSekhon/Terraform?logo=github)](https://github.com/HariSekhon/Terraform//stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/HariSekhon/Terraform?logo=github)](https://github.com/HariSekhon/Terraform/network)
@@ -1101,6 +1101,7 @@ Terraform templates for AWS / GCP / Azure
 [![CI Builds Overview](https://img.shields.io/badge/CI%20Builds-Overview%20Page-blue?logo=circleci)](https://harisekhon.github.io/CI-CD/)
 [![Fmt](https://github.com/HariSekhon/Terraform/actions/workflows/terraform-fmt-write.yaml/badge.svg)](https://github.com/HariSekhon/Terraform/actions/workflows/terraform-fmt-write.yaml)
 [![YAML](https://github.com/HariSekhon/Terraform/actions/workflows/yaml.yaml/badge.svg)](https://github.com/HariSekhon/Terraform/actions/workflows/yaml.yaml)
+[![ShellCheck](https://github.com/HariSekhon/Terraform/actions/workflows/shellcheck.yaml/badge.svg)](https://github.com/HariSekhon/Terraform/actions/workflows/shellcheck.yaml)
 [![Validation](https://github.com/HariSekhon/Terraform/actions/workflows/validate.yaml/badge.svg)](https://github.com/HariSekhon/Terraform/actions/workflows/validate.yaml)
 [![tfsec](https://github.com/HariSekhon/Terraform/actions/workflows/tfsec.yaml/badge.svg)](https://github.com/HariSekhon/Terraform/actions/workflows/tfsec.yaml)
 [![Semgrep](https://github.com/HariSekhon/Terraform/actions/workflows/semgrep.yaml/badge.svg)](https://github.com/HariSekhon/Terraform/actions/workflows/semgrep.yaml)
@@ -1579,4 +1580,4 @@ CI/CD Status page for Hari Sekhon's GitHub repos
 
 
 
-22 git repos summarized with 740 CI builds (691 hosted, 49 self-hosted) across 23 different CI/CD systems
+22 git repos summarized with 741 CI builds (692 hosted, 49 self-hosted) across 23 different CI/CD systems
