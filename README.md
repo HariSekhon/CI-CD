@@ -1,9 +1,9 @@
 # CI/CD Status Page
 
 ![Original Repos](https://img.shields.io/badge/Repos-22-blue?logo=github)
-![Stars](https://img.shields.io/badge/Stars-3875-blue?logo=github)
-![Forks](https://img.shields.io/badge/Forks-1691-blue?logo=github)
-![Followers](https://img.shields.io/badge/Followers-744-blue?logo=github)
+![Stars](https://img.shields.io/badge/Stars-3892-blue?logo=github)
+![Forks](https://img.shields.io/badge/Forks-1696-blue?logo=github)
+![Followers](https://img.shields.io/badge/Followers-781-blue?logo=github)
 ![Lines of Code](https://img.shields.io/badge/lines%20of%20code-254.1k-lightgrey?logo=codecademy)
 [![GitStar Ranking Profile](https://img.shields.io/badge/GitStar%20Ranking-HariSekhon-blue?logo=github)](https://gitstar-ranking.com/HariSekhon)
 [![StarCharts](https://img.shields.io/badge/Star-Charts-blue?logo=github)](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/STARCHARTS.md)
@@ -19,7 +19,7 @@
 [![Generate README](https://github.com/HariSekhon/CI-CD/actions/workflows/readme.yaml/badge.svg)](https://github.com/HariSekhon/CI-CD/actions/workflows/readme.yaml)
 [![pages-build-deployment](https://github.com/HariSekhon/CI-CD/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/HariSekhon/CI-CD/actions/workflows/pages/pages-build-deployment)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/853ef60c-c01b-4b83-99ba-8fda541f850f/deploy-status)](https://app.netlify.com/sites/harisekhon/deploys)
-![Last Generated](https://img.shields.io/badge/Last%20Generated-2022--06--17-yellowgreen?logo=github)
+![Last Generated](https://img.shields.io/badge/Last%20Generated-2022--06--20-yellowgreen?logo=github)
 [![GitHub Last Commit](https://img.shields.io/github/last-commit/HariSekhon/CI-CD?logo=github)](https://github.com/HariSekhon/CI-CD/commits/master)
 
 22 original source git repos with 741 CI builds (692 hosted, 49 self-hosted) across 23 different CI/CD systems:
@@ -253,120 +253,6 @@ Link:  [HariSekhon/Dockerfiles](https://github.com/HariSekhon/Dockerfiles)
 
 
 ---
-# Hari Sekhon - DevOps Python Tools
-
-Link:  [HariSekhon/DevOps-Python-tools](https://github.com/HariSekhon/DevOps-Python-tools)
-
-80+ DevOps & Data CLI Tools - AWS, GCP, GCF Python Cloud Functions, Log Anonymizer, Spark, Hadoop, HBase, Hive, Impala, Linux, Docker, Spark Data Converters & Validators (Avro/Parquet/JSON/CSV/INI/XML/YAML), Travis CI, AWS CloudFormation, Elasticsearch, Solr etc.
-
-[![GitHub stars](https://img.shields.io/github/stars/harisekhon/devops-python-tools?logo=github)](https://github.com/HariSekhon/DevOps-Python-tools/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/harisekhon/devops-python-tools?logo=github)](https://github.com/HariSekhon/DevOps-Python-tools/network)
-[![License](https://img.shields.io/github/license/HariSekhon/DevOps-Python-tools)](https://github.com/HariSekhon/DevOps-Python-tools/blob/master/LICENSE)
-[![Lines of Code](https://img.shields.io/badge/lines%20of%20code-26k-lightgrey?logo=codecademy)](https://github.com/HariSekhon/DevOps-Python-tools)
-[![GitHub Last Commit](https://img.shields.io/github/last-commit/HariSekhon/DevOps-Python-tools?logo=github)](https://github.com/HariSekhon/DevOps-Python-tools/commits/master)
-
-
-
-
-[![Codacy](https://app.codacy.com/project/badge/Grade/40a82d53f3394f4b99aa6eccb08e3c8d)](https://www.codacy.com/gh/HariSekhon/DevOps-Python-tools/dashboard)
-[![CodeFactor](https://www.codefactor.io/repository/github/harisekhon/DevOps-Python-tools/badge)](https://www.codefactor.io/repository/github/harisekhon/DevOps-Python-tools)
-[![Codiga Grade](https://api.codiga.io/project/8839/status/svg)](https://app.codiga.io/project/8839/dashboard)
-[![Codiga Score](https://api.codiga.io/project/8839/score/svg)](https://app.codiga.io/project/8839/dashboard)
-[![Language grade: Python](https://img.shields.io/lgtm/grade/python/g/HariSekhon/DevOps-Python-tools.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/HariSekhon/DevOps-Python-tools/context:python)
-[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_DevOps-Python-tools&metric=alert_status)](https://sonarcloud.io/dashboard?id=HariSekhon_DevOps-Python-tools)
-[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_DevOps-Python-tools&metric=sqale_rating)](https://sonarcloud.io/dashboard?id=HariSekhon_DevOps-Python-tools)
-[![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_DevOps-Python-tools&metric=reliability_rating)](https://sonarcloud.io/dashboard?id=HariSekhon_DevOps-Python-tools)
-[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_DevOps-Python-tools&metric=security_rating)](https://sonarcloud.io/dashboard?id=HariSekhon_DevOps-Python-tools)
-[![Total alerts](https://img.shields.io/lgtm/alerts/g/HariSekhon/DevOps-Python-tools.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/HariSekhon/DevOps-Python-tools/alerts/)
-
-[![Linux](https://img.shields.io/badge/OS-Linux-blue?logo=linux)](https://github.com/HariSekhon/DevOps-Python-tools)
-[![Mac](https://img.shields.io/badge/OS-Mac-blue?logo=apple)](https://github.com/HariSekhon/DevOps-Python-tools)
-[![Docker](https://img.shields.io/badge/container-Docker-blue?logo=docker&logoColor=white)](https://hub.docker.com/r/harisekhon/github/)
-[![Dockerfile](https://img.shields.io/badge/repo-Dockerfiles-blue?logo=docker&logoColor=white)](https://github.com/HariSekhon/Dockerfiles)
-[![DockerHub Pulls](https://img.shields.io/docker/pulls/harisekhon/pytools?label=DockerHub%20pulls&logo=docker&logoColor=white)](https://hub.docker.com/r/harisekhon/pytools)
-[![DockerHub Build Automated](https://img.shields.io/docker/automated/harisekhon/pytools?logo=docker&logoColor=white)](https://hub.docker.com/r/harisekhon/pytools/)
-[![StarTrack](https://img.shields.io/badge/Star-Track-blue?logo=github)](https://seladb.github.io/StarTrack-js/#/preload?r=HariSekhon,Nagios-Plugins&r=HariSekhon,Dockerfiles&r=HariSekhon,DevOps-Python-tools&r=HariSekhon,DevOps-Perl-tools&r=HariSekhon,DevOps-Bash-tools&r=HariSekhon,HAProxy-configs&r=HariSekhon,SQL-scripts)
-[![StarCharts](https://img.shields.io/badge/Star-Charts-blue?logo=github)](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/STARCHARTS.md)
-
-
-[![CI Builds Overview](https://img.shields.io/badge/CI%20Builds-Overview%20Page-blue?logo=circleci)](https://harisekhon.github.io/CI-CD/)
-[![Jenkins](https://img.shields.io/badge/Jenkins-ready-blue?logo=jenkins&logoColor=white)](https://github.com/HariSekhon/DevOps-Python-tools/blob/master/Jenkinsfile)
-[![Concourse](https://img.shields.io/badge/Concourse-ready-blue?logo=concourse)](https://github.com/HariSekhon/DevOps-Python-tools/blob/master/.concourse.yml)
-[![GoCD](https://img.shields.io/badge/GoCD-ready-blue?logo=go)](https://github.com/HariSekhon/DevOps-Python-tools/blob/master/.gocd.yml)
-[![TeamCity](https://img.shields.io/badge/TeamCity-ready-blue?logo=teamcity)](https://github.com/HariSekhon/TeamCity-CI)
-
-[![CircleCI](https://circleci.com/gh/HariSekhon/DevOps-Python-tools.svg?style=svg)](https://circleci.com/gh/HariSekhon/DevOps-Python-tools)
-[![BuildKite](https://img.shields.io/buildkite/8377537d0d9dddf4bf32826a6bf1c4e9ab88bc265007e1882c/master?label=BuildKite&logo=buildkite)](https://buildkite.com/hari-sekhon/devops-python-tools)
-[![AppVeyor](https://img.shields.io/appveyor/build/harisekhon/DevOps-Python-tools/master?logo=appveyor&label=AppVeyor)](https://ci.appveyor.com/project/HariSekhon/DevOps-Python-tools/branch/master)
-[![Drone](https://img.shields.io/drone/build/HariSekhon/DevOps-Python-tools/master?logo=drone&label=Drone)](https://cloud.drone.io/HariSekhon/DevOps-Python-tools)
-[![Codeship Status for HariSekhon/DevOps-Python-tools](https://app.codeship.com/projects/b281baa0-3c5f-0138-caef-66210e546d42/status?branch=master)](https://app.codeship.com/projects/387251)
-[![Codefresh](https://g.codefresh.io/api/badges/pipeline/harisekhon/GitHub%2FDevOps-Python-tools?branch=master&key=eyJhbGciOiJIUzI1NiJ9.NWU1MmM5OGNiM2FiOWUzM2Y3ZDZmYjM3.O69674cW7vYom3v5JOGKXDbYgCVIJU9EWhXUMHl3zwA&type=cf-1)](https://g.codefresh.io/pipelines/edit/new/builds?id=5e58e2e6353f5d1ada385bf2&pipeline=DevOps-Python-tools&projects=GitHub&projectId=5e52ca8ea284e00f882ea992&context=github&filter=page:1;pageSize:10;timeFrameStart:week)
-[![Cirrus CI](https://img.shields.io/cirrus/github/HariSekhon/DevOps-Python-tools/master?logo=Cirrus%20CI&label=Cirrus%20CI)](https://cirrus-ci.com/github/HariSekhon/DevOps-Python-tools)
-[![Semaphore](https://harisekhon.semaphoreci.com/badges/DevOps-Python-tools.svg)](https://harisekhon.semaphoreci.com/projects/DevOps-Python-tools)
-[![Wercker](https://app.wercker.com/status/b40735fb89e7d989dbaf5659a9af9a20/s/master "wercker status")](https://app.wercker.com/harisekhon/DevOps-Python-tools/runs)
-[![Buddy](https://img.shields.io/badge/Buddy-ready-1A86FD?logo=buddy)](https://github.com/HariSekhon/DevOps-Python-tools/blob/master/buddy.yml)
-[![Shippable](https://img.shields.io/badge/Shippable-legacy-lightgrey?logo=jfrog&label=Shippable)](https://github.com/HariSekhon/DevOps-Python-tools/blob/master/shippable.yml)
-[![Travis CI](https://img.shields.io/badge/TravisCI-ready-blue?logo=travis&label=Travis%20CI)](https://github.com/HariSekhon/DevOps-Python-tools/blob/master/.travis.yml)
-
-
-[![Azure DevOps Pipeline](https://dev.azure.com/harisekhon/GitHub/_apis/build/status/HariSekhon.DevOps-Python-tools?branchName=master)](https://dev.azure.com/harisekhon/GitHub/_build/latest?definitionId=8&branchName=master)
-[![GitLab Pipeline](https://img.shields.io/gitlab/pipeline/harisekhon/DevOps-Python-tools?logo=gitlab&label=GitLab%20CI)](https://gitlab.com/HariSekhon/DevOps-Python-tools/pipelines)
-[![BitBucket Pipeline](https://img.shields.io/bitbucket/pipelines/harisekhon/devops-python-tools/master?logo=bitbucket&label=BitBucket%20CI)](https://bitbucket.org/harisekhon/devops-python-tools/addon/pipelines/home#!/)
-[![AWS CodeBuild](https://img.shields.io/badge/AWS%20CodeBuild-ready-blue?logo=amazon%20aws)](https://github.com/HariSekhon/DevOps-Python-tools/blob/master/buildspec.yml)
-[![GCP Cloud Build](https://img.shields.io/badge/GCP%20Cloud%20Build-ready-blue?logo=google%20cloud&logoColor=white)](https://github.com/HariSekhon/DevOps-Python-tools/blob/master/cloudbuild.yaml)
-
-[![Repo on Azure DevOps](https://img.shields.io/badge/repo-Azure%20DevOps-0078D7?logo=azure%20devops)](https://dev.azure.com/harisekhon/GitHub/_git/DevOps-Python-tools)
-[![Repo on GitHub](https://img.shields.io/badge/repo-GitHub-2088FF?logo=github)](https://github.com/HariSekhon/DevOps-Python-tools)
-[![Repo on GitLab](https://img.shields.io/badge/repo-GitLab-FCA121?logo=gitlab)](https://gitlab.com/HariSekhon/DevOps-Python-tools)
-[![Repo on BitBucket](https://img.shields.io/badge/repo-BitBucket-0052CC?logo=bitbucket)](https://bitbucket.org/HariSekhon/DevOps-Python-tools)
-[![ShellCheck](https://github.com/HariSekhon/DevOps-Python-tools/actions/workflows/shellcheck.yaml/badge.svg)](https://github.com/HariSekhon/DevOps-Python-tools/actions/workflows/shellcheck.yaml)
-[![JSON](https://github.com/HariSekhon/DevOps-Python-tools/actions/workflows/json.yaml/badge.svg)](https://github.com/HariSekhon/DevOps-Python-tools/actions/workflows/json.yaml)
-[![YAML](https://github.com/HariSekhon/DevOps-Python-tools/actions/workflows/yaml.yaml/badge.svg)](https://github.com/HariSekhon/DevOps-Python-tools/actions/workflows/yaml.yaml)
-[![XML](https://github.com/HariSekhon/DevOps-Python-tools/actions/workflows/xml.yaml/badge.svg)](https://github.com/HariSekhon/DevOps-Python-tools/actions/workflows/xml.yaml)
-[![Validation](https://github.com/HariSekhon/DevOps-Python-tools/actions/workflows/validate.yaml/badge.svg)](https://github.com/HariSekhon/DevOps-Python-tools/actions/workflows/validate.yaml)
-[![Semgrep](https://github.com/HariSekhon/DevOps-Python-tools/actions/workflows/semgrep.yaml/badge.svg)](https://github.com/HariSekhon/DevOps-Python-tools/actions/workflows/semgrep.yaml)
-[![Semgrep Cloud](https://github.com/HariSekhon/DevOps-Python-tools/actions/workflows/semgrep-cloud.yaml/badge.svg)](https://github.com/HariSekhon/DevOps-Python-tools/actions/workflows/semgrep-cloud.yaml)
-[![Kics](https://github.com/HariSekhon/DevOps-Python-tools/actions/workflows/kics.yaml/badge.svg)](https://github.com/HariSekhon/DevOps-Python-tools/actions/workflows/kics.yaml)
-
-[![Docker Build (Alpine)](https://github.com/HariSekhon/DevOps-Python-tools/actions/workflows/docker_pytools_alpine.yaml/badge.svg)](https://github.com/HariSekhon/DevOps-Python-tools/actions/workflows/docker_pytools_alpine.yaml)
-[![Docker Build (CentOS)](https://github.com/HariSekhon/DevOps-Python-tools/actions/workflows/docker_pytools_centos.yaml/badge.svg)](https://github.com/HariSekhon/DevOps-Python-tools/actions/workflows/docker_pytools_centos.yaml)
-[![Docker Build (Debian)](https://github.com/HariSekhon/DevOps-Python-tools/actions/workflows/docker_pytools_debian.yaml/badge.svg)](https://github.com/HariSekhon/DevOps-Python-tools/actions/workflows/docker_pytools_debian.yaml)
-[![Docker Build (Fedora)](https://github.com/HariSekhon/DevOps-Python-tools/actions/workflows/docker_pytools_fedora.yaml/badge.svg)](https://github.com/HariSekhon/DevOps-Python-tools/actions/workflows/docker_pytools_fedora.yaml)
-[![Docker Build (Ubuntu)](https://github.com/HariSekhon/DevOps-Python-tools/actions/workflows/docker_pytools_ubuntu.yaml/badge.svg)](https://github.com/HariSekhon/DevOps-Python-tools/actions/workflows/docker_pytools_ubuntu.yaml)
-
-[![GitHub Actions Ubuntu](https://github.com/HariSekhon/DevOps-Python-tools/workflows/GitHub%20Actions%20Ubuntu/badge.svg)](https://github.com/HariSekhon/DevOps-Python-tools/actions?query=workflow%3A%22GitHub+Actions+Ubuntu%22)
-[![Mac](https://github.com/HariSekhon/DevOps-Python-tools/workflows/Mac/badge.svg)](https://github.com/HariSekhon/DevOps-Python-tools/actions?query=workflow%3A%22Mac%22)
-[![Mac 10.15](https://github.com/HariSekhon/DevOps-Python-tools/workflows/Mac%2010.15/badge.svg)](https://github.com/HariSekhon/DevOps-Python-tools/actions?query=workflow%3A%22Mac+10.15%22)
-[![Ubuntu](https://github.com/HariSekhon/DevOps-Python-tools/workflows/Ubuntu/badge.svg)](https://github.com/HariSekhon/DevOps-Python-tools/actions?query=workflow%3A%22Ubuntu%22)
-[![Ubuntu 14.04](https://github.com/HariSekhon/DevOps-Python-tools/workflows/Ubuntu%2014.04/badge.svg)](https://github.com/HariSekhon/DevOps-Python-tools/actions?query=workflow%3A%22Ubuntu+14.04%22)
-[![Ubuntu 16.04](https://github.com/HariSekhon/DevOps-Python-tools/workflows/Ubuntu%2016.04/badge.svg)](https://github.com/HariSekhon/DevOps-Python-tools/actions?query=workflow%3A%22Ubuntu+16.04%22)
-[![Ubuntu 18.04](https://github.com/HariSekhon/DevOps-Python-tools/workflows/Ubuntu%2018.04/badge.svg)](https://github.com/HariSekhon/DevOps-Python-tools/actions?query=workflow%3A%22Ubuntu+18.04%22)
-[![Ubuntu 20.04](https://github.com/HariSekhon/DevOps-Python-tools/workflows/Ubuntu%2020.04/badge.svg)](https://github.com/HariSekhon/DevOps-Python-tools/actions?query=workflow%3A%22Ubuntu+20.04%22)
-[![Debian](https://github.com/HariSekhon/DevOps-Python-tools/workflows/Debian/badge.svg)](https://github.com/HariSekhon/DevOps-Python-tools/actions?query=workflow%3A%22Debian%22)
-[![Debian 8](https://github.com/HariSekhon/DevOps-Python-tools/workflows/Debian%208/badge.svg)](https://github.com/HariSekhon/DevOps-Python-tools/actions?query=workflow%3A%22Debian+8%22)
-[![Debian 9](https://github.com/HariSekhon/DevOps-Python-tools/workflows/Debian%209/badge.svg)](https://github.com/HariSekhon/DevOps-Python-tools/actions?query=workflow%3A%22Debian+9%22)
-[![Debian 10](https://github.com/HariSekhon/DevOps-Python-tools/workflows/Debian%2010/badge.svg)](https://github.com/HariSekhon/DevOps-Python-tools/actions?query=workflow%3A%22Debian+10%22)
-[![CentOS](https://github.com/HariSekhon/DevOps-Python-tools/workflows/CentOS/badge.svg)](https://github.com/HariSekhon/DevOps-Python-tools/actions?query=workflow%3A%22CentOS%22)
-[![CentOS 7](https://github.com/HariSekhon/DevOps-Python-tools/workflows/CentOS%207/badge.svg)](https://github.com/HariSekhon/DevOps-Python-tools/actions?query=workflow%3A%22CentOS+7%22)
-[![CentOS 8](https://github.com/HariSekhon/DevOps-Python-tools/workflows/CentOS%208/badge.svg)](https://github.com/HariSekhon/DevOps-Python-tools/actions?query=workflow%3A%22CentOS+8%22)
-[![Fedora](https://github.com/HariSekhon/DevOps-Python-tools/workflows/Fedora/badge.svg)](https://github.com/HariSekhon/DevOps-Python-tools/actions?query=workflow%3A%22Fedora%22)
-[![Alpine](https://github.com/HariSekhon/DevOps-Python-tools/workflows/Alpine/badge.svg)](https://github.com/HariSekhon/DevOps-Python-tools/actions?query=workflow%3A%22Alpine%22)
-[![Alpine 3](https://github.com/HariSekhon/DevOps-Python-tools/workflows/Alpine%203/badge.svg)](https://github.com/HariSekhon/DevOps-Python-tools/actions?query=workflow%3A%22Alpine+3%22)
-
-[![Python versions](https://img.shields.io/badge/Python-2.7+-3776AB?logo=python&logoColor=white)](https://github.com/HariSekhon/DevOps-Python-tools)
-[![Python 2.7](https://github.com/HariSekhon/DevOps-Python-tools/workflows/Python%202.7/badge.svg)](https://github.com/HariSekhon/DevOps-Python-tools/actions?query=workflow%3A%22Python+2.7%22)
-[![Python 3.6](https://github.com/HariSekhon/DevOps-Python-tools/workflows/Python%203.6/badge.svg)](https://github.com/HariSekhon/DevOps-Python-tools/actions?query=workflow%3A%22Python+3.6%22)
-[![Python 3.7](https://github.com/HariSekhon/DevOps-Python-tools/workflows/Python%203.7/badge.svg)](https://github.com/HariSekhon/DevOps-Python-tools/actions?query=workflow%3A%22Python+3.7%22)
-[![Python 3.8](https://github.com/HariSekhon/DevOps-Python-tools/workflows/Python%203.8/badge.svg)](https://github.com/HariSekhon/DevOps-Python-tools/actions?query=workflow%3A%22Python+3.8%22)
-[![Python 3.9](https://github.com/HariSekhon/DevOps-Python-tools/workflows/Python%203.9/badge.svg)](https://github.com/HariSekhon/DevOps-Python-tools/actions?query=workflow%3A%22Python+3.9%22)
-[![Python 3.10](https://github.com/HariSekhon/DevOps-Python-tools/workflows/Python%203.10/badge.svg)](https://github.com/HariSekhon/DevOps-Python-tools/actions?query=workflow%3A%22Python+3.10%22)
-[![PyPy 2](https://github.com/HariSekhon/DevOps-Python-tools/workflows/PyPy%202/badge.svg)](https://github.com/HariSekhon/DevOps-Python-tools/actions?query=workflow%3A%22PyPy+2%22)
-[![PyPy 3](https://github.com/HariSekhon/DevOps-Python-tools/workflows/PyPy%203/badge.svg)](https://github.com/HariSekhon/DevOps-Python-tools/actions?query=workflow%3A%22PyPy+3%22)
-
-[git.io/pytools](https://git.io/pytools)
-
-
----
 # Hari Sekhon - DevOps Bash Tools
 
 Link:  [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools)
@@ -487,6 +373,120 @@ Link:  [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-
 
 
 [git.io/bash-tools](https://git.io/bash-tools)
+
+
+---
+# Hari Sekhon - DevOps Python Tools
+
+Link:  [HariSekhon/DevOps-Python-tools](https://github.com/HariSekhon/DevOps-Python-tools)
+
+80+ DevOps & Data CLI Tools - AWS, GCP, GCF Python Cloud Functions, Log Anonymizer, Spark, Hadoop, HBase, Hive, Impala, Linux, Docker, Spark Data Converters & Validators (Avro/Parquet/JSON/CSV/INI/XML/YAML), Travis CI, AWS CloudFormation, Elasticsearch, Solr etc.
+
+[![GitHub stars](https://img.shields.io/github/stars/harisekhon/devops-python-tools?logo=github)](https://github.com/HariSekhon/DevOps-Python-tools/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/harisekhon/devops-python-tools?logo=github)](https://github.com/HariSekhon/DevOps-Python-tools/network)
+[![License](https://img.shields.io/github/license/HariSekhon/DevOps-Python-tools)](https://github.com/HariSekhon/DevOps-Python-tools/blob/master/LICENSE)
+[![Lines of Code](https://img.shields.io/badge/lines%20of%20code-26k-lightgrey?logo=codecademy)](https://github.com/HariSekhon/DevOps-Python-tools)
+[![GitHub Last Commit](https://img.shields.io/github/last-commit/HariSekhon/DevOps-Python-tools?logo=github)](https://github.com/HariSekhon/DevOps-Python-tools/commits/master)
+
+
+
+
+[![Codacy](https://app.codacy.com/project/badge/Grade/40a82d53f3394f4b99aa6eccb08e3c8d)](https://www.codacy.com/gh/HariSekhon/DevOps-Python-tools/dashboard)
+[![CodeFactor](https://www.codefactor.io/repository/github/harisekhon/DevOps-Python-tools/badge)](https://www.codefactor.io/repository/github/harisekhon/DevOps-Python-tools)
+[![Codiga Grade](https://api.codiga.io/project/8839/status/svg)](https://app.codiga.io/project/8839/dashboard)
+[![Codiga Score](https://api.codiga.io/project/8839/score/svg)](https://app.codiga.io/project/8839/dashboard)
+[![Language grade: Python](https://img.shields.io/lgtm/grade/python/g/HariSekhon/DevOps-Python-tools.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/HariSekhon/DevOps-Python-tools/context:python)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_DevOps-Python-tools&metric=alert_status)](https://sonarcloud.io/dashboard?id=HariSekhon_DevOps-Python-tools)
+[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_DevOps-Python-tools&metric=sqale_rating)](https://sonarcloud.io/dashboard?id=HariSekhon_DevOps-Python-tools)
+[![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_DevOps-Python-tools&metric=reliability_rating)](https://sonarcloud.io/dashboard?id=HariSekhon_DevOps-Python-tools)
+[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_DevOps-Python-tools&metric=security_rating)](https://sonarcloud.io/dashboard?id=HariSekhon_DevOps-Python-tools)
+[![Total alerts](https://img.shields.io/lgtm/alerts/g/HariSekhon/DevOps-Python-tools.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/HariSekhon/DevOps-Python-tools/alerts/)
+
+[![Linux](https://img.shields.io/badge/OS-Linux-blue?logo=linux)](https://github.com/HariSekhon/DevOps-Python-tools)
+[![Mac](https://img.shields.io/badge/OS-Mac-blue?logo=apple)](https://github.com/HariSekhon/DevOps-Python-tools)
+[![Docker](https://img.shields.io/badge/container-Docker-blue?logo=docker&logoColor=white)](https://hub.docker.com/r/harisekhon/github/)
+[![Dockerfile](https://img.shields.io/badge/repo-Dockerfiles-blue?logo=docker&logoColor=white)](https://github.com/HariSekhon/Dockerfiles)
+[![DockerHub Pulls](https://img.shields.io/docker/pulls/harisekhon/pytools?label=DockerHub%20pulls&logo=docker&logoColor=white)](https://hub.docker.com/r/harisekhon/pytools)
+[![DockerHub Build Automated](https://img.shields.io/docker/automated/harisekhon/pytools?logo=docker&logoColor=white)](https://hub.docker.com/r/harisekhon/pytools/)
+[![StarTrack](https://img.shields.io/badge/Star-Track-blue?logo=github)](https://seladb.github.io/StarTrack-js/#/preload?r=HariSekhon,Nagios-Plugins&r=HariSekhon,Dockerfiles&r=HariSekhon,DevOps-Python-tools&r=HariSekhon,DevOps-Perl-tools&r=HariSekhon,DevOps-Bash-tools&r=HariSekhon,HAProxy-configs&r=HariSekhon,SQL-scripts)
+[![StarCharts](https://img.shields.io/badge/Star-Charts-blue?logo=github)](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/STARCHARTS.md)
+
+
+[![CI Builds Overview](https://img.shields.io/badge/CI%20Builds-Overview%20Page-blue?logo=circleci)](https://harisekhon.github.io/CI-CD/)
+[![Jenkins](https://img.shields.io/badge/Jenkins-ready-blue?logo=jenkins&logoColor=white)](https://github.com/HariSekhon/DevOps-Python-tools/blob/master/Jenkinsfile)
+[![Concourse](https://img.shields.io/badge/Concourse-ready-blue?logo=concourse)](https://github.com/HariSekhon/DevOps-Python-tools/blob/master/.concourse.yml)
+[![GoCD](https://img.shields.io/badge/GoCD-ready-blue?logo=go)](https://github.com/HariSekhon/DevOps-Python-tools/blob/master/.gocd.yml)
+[![TeamCity](https://img.shields.io/badge/TeamCity-ready-blue?logo=teamcity)](https://github.com/HariSekhon/TeamCity-CI)
+
+[![CircleCI](https://circleci.com/gh/HariSekhon/DevOps-Python-tools.svg?style=svg)](https://circleci.com/gh/HariSekhon/DevOps-Python-tools)
+[![BuildKite](https://img.shields.io/buildkite/8377537d0d9dddf4bf32826a6bf1c4e9ab88bc265007e1882c/master?label=BuildKite&logo=buildkite)](https://buildkite.com/hari-sekhon/devops-python-tools)
+[![AppVeyor](https://img.shields.io/appveyor/build/harisekhon/DevOps-Python-tools/master?logo=appveyor&label=AppVeyor)](https://ci.appveyor.com/project/HariSekhon/DevOps-Python-tools/branch/master)
+[![Drone](https://img.shields.io/drone/build/HariSekhon/DevOps-Python-tools/master?logo=drone&label=Drone)](https://cloud.drone.io/HariSekhon/DevOps-Python-tools)
+[![Codeship Status for HariSekhon/DevOps-Python-tools](https://app.codeship.com/projects/b281baa0-3c5f-0138-caef-66210e546d42/status?branch=master)](https://app.codeship.com/projects/387251)
+[![Codefresh](https://g.codefresh.io/api/badges/pipeline/harisekhon/GitHub%2FDevOps-Python-tools?branch=master&key=eyJhbGciOiJIUzI1NiJ9.NWU1MmM5OGNiM2FiOWUzM2Y3ZDZmYjM3.O69674cW7vYom3v5JOGKXDbYgCVIJU9EWhXUMHl3zwA&type=cf-1)](https://g.codefresh.io/pipelines/edit/new/builds?id=5e58e2e6353f5d1ada385bf2&pipeline=DevOps-Python-tools&projects=GitHub&projectId=5e52ca8ea284e00f882ea992&context=github&filter=page:1;pageSize:10;timeFrameStart:week)
+[![Cirrus CI](https://img.shields.io/cirrus/github/HariSekhon/DevOps-Python-tools/master?logo=Cirrus%20CI&label=Cirrus%20CI)](https://cirrus-ci.com/github/HariSekhon/DevOps-Python-tools)
+[![Semaphore](https://harisekhon.semaphoreci.com/badges/DevOps-Python-tools.svg)](https://harisekhon.semaphoreci.com/projects/DevOps-Python-tools)
+[![Wercker](https://app.wercker.com/status/b40735fb89e7d989dbaf5659a9af9a20/s/master "wercker status")](https://app.wercker.com/harisekhon/DevOps-Python-tools/runs)
+[![Buddy](https://img.shields.io/badge/Buddy-ready-1A86FD?logo=buddy)](https://github.com/HariSekhon/DevOps-Python-tools/blob/master/buddy.yml)
+[![Shippable](https://img.shields.io/badge/Shippable-legacy-lightgrey?logo=jfrog&label=Shippable)](https://github.com/HariSekhon/DevOps-Python-tools/blob/master/shippable.yml)
+[![Travis CI](https://img.shields.io/badge/TravisCI-ready-blue?logo=travis&label=Travis%20CI)](https://github.com/HariSekhon/DevOps-Python-tools/blob/master/.travis.yml)
+
+
+[![Azure DevOps Pipeline](https://dev.azure.com/harisekhon/GitHub/_apis/build/status/HariSekhon.DevOps-Python-tools?branchName=master)](https://dev.azure.com/harisekhon/GitHub/_build/latest?definitionId=8&branchName=master)
+[![GitLab Pipeline](https://img.shields.io/gitlab/pipeline/harisekhon/DevOps-Python-tools?logo=gitlab&label=GitLab%20CI)](https://gitlab.com/HariSekhon/DevOps-Python-tools/pipelines)
+[![BitBucket Pipeline](https://img.shields.io/bitbucket/pipelines/harisekhon/devops-python-tools/master?logo=bitbucket&label=BitBucket%20CI)](https://bitbucket.org/harisekhon/devops-python-tools/addon/pipelines/home#!/)
+[![AWS CodeBuild](https://img.shields.io/badge/AWS%20CodeBuild-ready-blue?logo=amazon%20aws)](https://github.com/HariSekhon/DevOps-Python-tools/blob/master/buildspec.yml)
+[![GCP Cloud Build](https://img.shields.io/badge/GCP%20Cloud%20Build-ready-blue?logo=google%20cloud&logoColor=white)](https://github.com/HariSekhon/DevOps-Python-tools/blob/master/cloudbuild.yaml)
+
+[![Repo on Azure DevOps](https://img.shields.io/badge/repo-Azure%20DevOps-0078D7?logo=azure%20devops)](https://dev.azure.com/harisekhon/GitHub/_git/DevOps-Python-tools)
+[![Repo on GitHub](https://img.shields.io/badge/repo-GitHub-2088FF?logo=github)](https://github.com/HariSekhon/DevOps-Python-tools)
+[![Repo on GitLab](https://img.shields.io/badge/repo-GitLab-FCA121?logo=gitlab)](https://gitlab.com/HariSekhon/DevOps-Python-tools)
+[![Repo on BitBucket](https://img.shields.io/badge/repo-BitBucket-0052CC?logo=bitbucket)](https://bitbucket.org/HariSekhon/DevOps-Python-tools)
+[![ShellCheck](https://github.com/HariSekhon/DevOps-Python-tools/actions/workflows/shellcheck.yaml/badge.svg)](https://github.com/HariSekhon/DevOps-Python-tools/actions/workflows/shellcheck.yaml)
+[![JSON](https://github.com/HariSekhon/DevOps-Python-tools/actions/workflows/json.yaml/badge.svg)](https://github.com/HariSekhon/DevOps-Python-tools/actions/workflows/json.yaml)
+[![YAML](https://github.com/HariSekhon/DevOps-Python-tools/actions/workflows/yaml.yaml/badge.svg)](https://github.com/HariSekhon/DevOps-Python-tools/actions/workflows/yaml.yaml)
+[![XML](https://github.com/HariSekhon/DevOps-Python-tools/actions/workflows/xml.yaml/badge.svg)](https://github.com/HariSekhon/DevOps-Python-tools/actions/workflows/xml.yaml)
+[![Validation](https://github.com/HariSekhon/DevOps-Python-tools/actions/workflows/validate.yaml/badge.svg)](https://github.com/HariSekhon/DevOps-Python-tools/actions/workflows/validate.yaml)
+[![Semgrep](https://github.com/HariSekhon/DevOps-Python-tools/actions/workflows/semgrep.yaml/badge.svg)](https://github.com/HariSekhon/DevOps-Python-tools/actions/workflows/semgrep.yaml)
+[![Semgrep Cloud](https://github.com/HariSekhon/DevOps-Python-tools/actions/workflows/semgrep-cloud.yaml/badge.svg)](https://github.com/HariSekhon/DevOps-Python-tools/actions/workflows/semgrep-cloud.yaml)
+[![Kics](https://github.com/HariSekhon/DevOps-Python-tools/actions/workflows/kics.yaml/badge.svg)](https://github.com/HariSekhon/DevOps-Python-tools/actions/workflows/kics.yaml)
+
+[![Docker Build (Alpine)](https://github.com/HariSekhon/DevOps-Python-tools/actions/workflows/docker_pytools_alpine.yaml/badge.svg)](https://github.com/HariSekhon/DevOps-Python-tools/actions/workflows/docker_pytools_alpine.yaml)
+[![Docker Build (CentOS)](https://github.com/HariSekhon/DevOps-Python-tools/actions/workflows/docker_pytools_centos.yaml/badge.svg)](https://github.com/HariSekhon/DevOps-Python-tools/actions/workflows/docker_pytools_centos.yaml)
+[![Docker Build (Debian)](https://github.com/HariSekhon/DevOps-Python-tools/actions/workflows/docker_pytools_debian.yaml/badge.svg)](https://github.com/HariSekhon/DevOps-Python-tools/actions/workflows/docker_pytools_debian.yaml)
+[![Docker Build (Fedora)](https://github.com/HariSekhon/DevOps-Python-tools/actions/workflows/docker_pytools_fedora.yaml/badge.svg)](https://github.com/HariSekhon/DevOps-Python-tools/actions/workflows/docker_pytools_fedora.yaml)
+[![Docker Build (Ubuntu)](https://github.com/HariSekhon/DevOps-Python-tools/actions/workflows/docker_pytools_ubuntu.yaml/badge.svg)](https://github.com/HariSekhon/DevOps-Python-tools/actions/workflows/docker_pytools_ubuntu.yaml)
+
+[![GitHub Actions Ubuntu](https://github.com/HariSekhon/DevOps-Python-tools/workflows/GitHub%20Actions%20Ubuntu/badge.svg)](https://github.com/HariSekhon/DevOps-Python-tools/actions?query=workflow%3A%22GitHub+Actions+Ubuntu%22)
+[![Mac](https://github.com/HariSekhon/DevOps-Python-tools/workflows/Mac/badge.svg)](https://github.com/HariSekhon/DevOps-Python-tools/actions?query=workflow%3A%22Mac%22)
+[![Mac 10.15](https://github.com/HariSekhon/DevOps-Python-tools/workflows/Mac%2010.15/badge.svg)](https://github.com/HariSekhon/DevOps-Python-tools/actions?query=workflow%3A%22Mac+10.15%22)
+[![Ubuntu](https://github.com/HariSekhon/DevOps-Python-tools/workflows/Ubuntu/badge.svg)](https://github.com/HariSekhon/DevOps-Python-tools/actions?query=workflow%3A%22Ubuntu%22)
+[![Ubuntu 14.04](https://github.com/HariSekhon/DevOps-Python-tools/workflows/Ubuntu%2014.04/badge.svg)](https://github.com/HariSekhon/DevOps-Python-tools/actions?query=workflow%3A%22Ubuntu+14.04%22)
+[![Ubuntu 16.04](https://github.com/HariSekhon/DevOps-Python-tools/workflows/Ubuntu%2016.04/badge.svg)](https://github.com/HariSekhon/DevOps-Python-tools/actions?query=workflow%3A%22Ubuntu+16.04%22)
+[![Ubuntu 18.04](https://github.com/HariSekhon/DevOps-Python-tools/workflows/Ubuntu%2018.04/badge.svg)](https://github.com/HariSekhon/DevOps-Python-tools/actions?query=workflow%3A%22Ubuntu+18.04%22)
+[![Ubuntu 20.04](https://github.com/HariSekhon/DevOps-Python-tools/workflows/Ubuntu%2020.04/badge.svg)](https://github.com/HariSekhon/DevOps-Python-tools/actions?query=workflow%3A%22Ubuntu+20.04%22)
+[![Debian](https://github.com/HariSekhon/DevOps-Python-tools/workflows/Debian/badge.svg)](https://github.com/HariSekhon/DevOps-Python-tools/actions?query=workflow%3A%22Debian%22)
+[![Debian 8](https://github.com/HariSekhon/DevOps-Python-tools/workflows/Debian%208/badge.svg)](https://github.com/HariSekhon/DevOps-Python-tools/actions?query=workflow%3A%22Debian+8%22)
+[![Debian 9](https://github.com/HariSekhon/DevOps-Python-tools/workflows/Debian%209/badge.svg)](https://github.com/HariSekhon/DevOps-Python-tools/actions?query=workflow%3A%22Debian+9%22)
+[![Debian 10](https://github.com/HariSekhon/DevOps-Python-tools/workflows/Debian%2010/badge.svg)](https://github.com/HariSekhon/DevOps-Python-tools/actions?query=workflow%3A%22Debian+10%22)
+[![CentOS](https://github.com/HariSekhon/DevOps-Python-tools/workflows/CentOS/badge.svg)](https://github.com/HariSekhon/DevOps-Python-tools/actions?query=workflow%3A%22CentOS%22)
+[![CentOS 7](https://github.com/HariSekhon/DevOps-Python-tools/workflows/CentOS%207/badge.svg)](https://github.com/HariSekhon/DevOps-Python-tools/actions?query=workflow%3A%22CentOS+7%22)
+[![CentOS 8](https://github.com/HariSekhon/DevOps-Python-tools/workflows/CentOS%208/badge.svg)](https://github.com/HariSekhon/DevOps-Python-tools/actions?query=workflow%3A%22CentOS+8%22)
+[![Fedora](https://github.com/HariSekhon/DevOps-Python-tools/workflows/Fedora/badge.svg)](https://github.com/HariSekhon/DevOps-Python-tools/actions?query=workflow%3A%22Fedora%22)
+[![Alpine](https://github.com/HariSekhon/DevOps-Python-tools/workflows/Alpine/badge.svg)](https://github.com/HariSekhon/DevOps-Python-tools/actions?query=workflow%3A%22Alpine%22)
+[![Alpine 3](https://github.com/HariSekhon/DevOps-Python-tools/workflows/Alpine%203/badge.svg)](https://github.com/HariSekhon/DevOps-Python-tools/actions?query=workflow%3A%22Alpine+3%22)
+
+[![Python versions](https://img.shields.io/badge/Python-2.7+-3776AB?logo=python&logoColor=white)](https://github.com/HariSekhon/DevOps-Python-tools)
+[![Python 2.7](https://github.com/HariSekhon/DevOps-Python-tools/workflows/Python%202.7/badge.svg)](https://github.com/HariSekhon/DevOps-Python-tools/actions?query=workflow%3A%22Python+2.7%22)
+[![Python 3.6](https://github.com/HariSekhon/DevOps-Python-tools/workflows/Python%203.6/badge.svg)](https://github.com/HariSekhon/DevOps-Python-tools/actions?query=workflow%3A%22Python+3.6%22)
+[![Python 3.7](https://github.com/HariSekhon/DevOps-Python-tools/workflows/Python%203.7/badge.svg)](https://github.com/HariSekhon/DevOps-Python-tools/actions?query=workflow%3A%22Python+3.7%22)
+[![Python 3.8](https://github.com/HariSekhon/DevOps-Python-tools/workflows/Python%203.8/badge.svg)](https://github.com/HariSekhon/DevOps-Python-tools/actions?query=workflow%3A%22Python+3.8%22)
+[![Python 3.9](https://github.com/HariSekhon/DevOps-Python-tools/workflows/Python%203.9/badge.svg)](https://github.com/HariSekhon/DevOps-Python-tools/actions?query=workflow%3A%22Python+3.9%22)
+[![Python 3.10](https://github.com/HariSekhon/DevOps-Python-tools/workflows/Python%203.10/badge.svg)](https://github.com/HariSekhon/DevOps-Python-tools/actions?query=workflow%3A%22Python+3.10%22)
+[![PyPy 2](https://github.com/HariSekhon/DevOps-Python-tools/workflows/PyPy%202/badge.svg)](https://github.com/HariSekhon/DevOps-Python-tools/actions?query=workflow%3A%22PyPy+2%22)
+[![PyPy 3](https://github.com/HariSekhon/DevOps-Python-tools/workflows/PyPy%203/badge.svg)](https://github.com/HariSekhon/DevOps-Python-tools/actions?query=workflow%3A%22PyPy+3%22)
+
+[git.io/pytools](https://git.io/pytools)
 
 
 ---
