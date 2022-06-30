@@ -1,10 +1,10 @@
 # CI/CD Status Page
 
 ![Original Repos](https://img.shields.io/badge/Repos-22-blue?logo=github)
-![Stars](https://img.shields.io/badge/Stars-3941-blue?logo=github)
+![Stars](https://img.shields.io/badge/Stars-3944-blue?logo=github)
 ![Forks](https://img.shields.io/badge/Forks-1721-blue?logo=github)
 ![Followers](https://img.shields.io/badge/Followers-823-blue?logo=github)
-![Lines of Code](https://img.shields.io/badge/lines%20of%20code-255.3k-lightgrey?logo=codecademy)
+![Lines of Code](https://img.shields.io/badge/lines%20of%20code-263.3k-lightgrey?logo=codecademy)
 [![GitStar Ranking Profile](https://img.shields.io/badge/GitStar%20Ranking-HariSekhon-blue?logo=github)](https://gitstar-ranking.com/HariSekhon)
 [![StarCharts](https://img.shields.io/badge/Star-Charts-blue?logo=github)](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/STARCHARTS.md)
 
@@ -19,7 +19,7 @@
 [![Generate README](https://github.com/HariSekhon/CI-CD/actions/workflows/readme.yaml/badge.svg)](https://github.com/HariSekhon/CI-CD/actions/workflows/readme.yaml)
 [![pages-build-deployment](https://github.com/HariSekhon/CI-CD/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/HariSekhon/CI-CD/actions/workflows/pages/pages-build-deployment)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/853ef60c-c01b-4b83-99ba-8fda541f850f/deploy-status)](https://app.netlify.com/sites/harisekhon/deploys)
-![Last Generated](https://img.shields.io/badge/Last%20Generated-2022--06--29-yellowgreen?logo=github)
+![Last Generated](https://img.shields.io/badge/Last%20Generated-2022--06--30-yellowgreen?logo=github)
 [![GitHub Last Commit](https://img.shields.io/github/last-commit/HariSekhon/CI-CD?logo=github)](https://github.com/HariSekhon/CI-CD/commits/master)
 
 22 original source git repos with 744 CI builds (695 hosted, 49 self-hosted) across 23 different CI/CD systems:
@@ -261,7 +261,7 @@ Link:  [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-
 
 [![GitHub stars](https://img.shields.io/github/stars/harisekhon/devops-bash-tools?logo=github)](https://github.com/HariSekhon/DevOps-Bash-tools/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/harisekhon/devops-bash-tools?logo=github)](https://github.com/HariSekhon/DevOps-Bash-tools/network)
-[![Lines of Code](https://img.shields.io/badge/lines%20of%20code-76k-lightgrey?logo=codecademy)](https://github.com/HariSekhon/DevOps-Bash-tools#hari-sekhon---devops-bash-tools)
+[![Lines of Code](https://img.shields.io/badge/lines%20of%20code-84k-lightgrey?logo=codecademy)](https://github.com/HariSekhon/DevOps-Bash-tools#hari-sekhon---devops-bash-tools)
 [![License](https://img.shields.io/badge/license-MIT-green)](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/LICENSE)
 [![GitHub Last Commit](https://img.shields.io/github/last-commit/HariSekhon/DevOps-Bash-tools?logo=github)](https://github.com/HariSekhon/DevOps-Bash-tools/commits/master)
 
@@ -879,6 +879,112 @@ DevOps Templates for Kubernetes, AWS, GCP, Terraform, Docker, Jenkins, CircleCI,
 
 
 ---
+# Hari Sekhon - DevOps Golang Tools
+
+Link:  [HariSekhon/DevOps-Golang-tools](https://github.com/HariSekhon/DevOps-Golang-tools)
+
+DevOps Golang tools
+
+[![GitHub stars](https://img.shields.io/github/stars/harisekhon/devops-golang-tools?logo=github)](https://github.com/HariSekhon/DevOps-Golang-tools/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/harisekhon/devops-golang-tools?logo=github)](https://github.com/HariSekhon/DevOps-Golang-tools/network)
+[![License](https://img.shields.io/github/license/HariSekhon/DevOps-Golang-tools)](https://github.com/HariSekhon/DevOps-Golang-tools/blob/master/LICENSE)
+[![GitHub Last Commit](https://img.shields.io/github/last-commit/HariSekhon/DevOps-Golang-tools?logo=github)](https://github.com/HariSekhon/DevOps-Golang-tools/commits/master)
+
+
+[![Codacy](https://app.codacy.com/project/badge/Grade/7b64fbfcff2240b9b18c6754c22d39bb)](https://www.codacy.com/gh/HariSekhon/DevOps-Golang-tools/dashboard)
+[![CodeFactor](https://www.codefactor.io/repository/github/harisekhon/DevOps-Golang-tools/badge)](https://www.codefactor.io/repository/github/harisekhon/DevOps-Golang-tools)
+[![Language grade: Golang](https://img.shields.io/lgtm/grade/golang/g/HariSekhon/DevOps-Golang-tools.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/HariSekhon/DevOps-Golang-tools/context:golang)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_DevOps-Golang-tools&metric=alert_status)](https://sonarcloud.io/dashboard?id=HariSekhon_DevOps-Golang-tools)
+[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_DevOps-Golang-tools&metric=sqale_rating)](https://sonarcloud.io/dashboard?id=HariSekhon_DevOps-Golang-tools)
+[![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_DevOps-Golang-tools&metric=reliability_rating)](https://sonarcloud.io/dashboard?id=HariSekhon_DevOps-Golang-tools)
+[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_DevOps-Golang-tools&metric=security_rating)](https://sonarcloud.io/dashboard?id=HariSekhon_DevOps-Golang-tools)
+[![Codiga Grade](https://api.codiga.io/project/7517/status/svg)](https://app.codiga.io/project/7517/dashboard)
+[![Codiga Score](https://api.codiga.io/project/7517/score/svg)](https://app.codiga.io/project/7517/dashboard)
+[![Total alerts](https://img.shields.io/lgtm/alerts/g/HariSekhon/DevOps-Golang-tools.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/HariSekhon/DevOps-Golang-tools/alerts/)
+
+
+
+[![Linux](https://img.shields.io/badge/OS-Linux-blue?logo=linux)](https://github.com/HariSekhon/DevOps-Golang-tools)
+[![Mac](https://img.shields.io/badge/OS-Mac-blue?logo=apple)](https://github.com/HariSekhon/DevOps-Golang-tools)
+[![Docker](https://img.shields.io/badge/container-Docker-blue?logo=docker&logoColor=white)](https://hub.docker.com/r/harisekhon/github/)
+[![Dockerfile](https://img.shields.io/badge/repo-Dockerfiles-blue?logo=docker&logoColor=white)](https://github.com/HariSekhon/Dockerfiles)
+[![DockerHub Pulls](https://img.shields.io/docker/pulls/harisekhon/centos-github?label=DockerHub%20pulls&logo=docker&logoColor=white)](https://hub.docker.com/r/harisekhon/github)
+
+
+[![CI Builds Overview](https://img.shields.io/badge/CI%20Builds-Overview%20Page-blue?logo=circleci)](https://harisekhon.github.io/CI-CD/)
+[![Jenkins](https://img.shields.io/badge/Jenkins-ready-blue?logo=jenkins&logoColor=white)](https://github.com/HariSekhon/DevOps-Golang-tools/blob/master/Jenkinsfile)
+[![Concourse](https://img.shields.io/badge/Concourse-ready-blue?logo=concourse)](https://github.com/HariSekhon/DevOps-Golang-tools/blob/master/.concourse.yml)
+[![GoCD](https://img.shields.io/badge/GoCD-ready-blue?logo=go)](https://github.com/HariSekhon/DevOps-Golang-tools/blob/master/.gocd.yml)
+[![TeamCity](https://img.shields.io/badge/TeamCity-ready-blue?logo=teamcity)](https://github.com/HariSekhon/TeamCity-CI)
+
+[![CircleCI](https://circleci.com/gh/HariSekhon/DevOps-Golang-tools.svg?style=svg)](https://circleci.com/gh/HariSekhon/DevOps-Golang-tools)
+[![BuildKite](https://img.shields.io/buildkite/e2deddfa45087ac7984c456cb93319ef434ac996c7c1006833/master?label=BuildKite&logo=buildkite)](https://buildkite.com/hari-sekhon/devops-golang-tools)
+[![AppVeyor](https://img.shields.io/appveyor/build/harisekhon/DevOps-Golang-tools/master?logo=appveyor&label=AppVeyor)](https://ci.appveyor.com/project/HariSekhon/DevOps-Golang-tools/branch/master)
+[![Drone](https://img.shields.io/drone/build/HariSekhon/DevOps-Golang-tools/master?logo=drone&label=Drone)](https://cloud.drone.io/HariSekhon/DevOps-Golang-tools)
+[![Codeship Status for HariSekhon/DevOps-Golang-tools](https://app.codeship.com/projects/11baaaff-5962-45dd-8a7d-477f60632c16/status?branch=master)](https://app.codeship.com/projects/387251)
+[![Codefresh](https://g.codefresh.io/api/badges/pipeline/harisekhon/GitHub%2FDevOps-Golang-tools?key=eyJhbGciOiJIUzI1NiJ9.NWU1MmM5OGNiM2FiOWUzM2Y3ZDZmYjM3.O69674cW7vYom3v5JOGKXDbYgCVIJU9EWhXUMHl3zwA&date=1609528430541)](https://g.codefresh.io/pipelines/edit/new/builds?id=5fef73e62e168ebc6dd24d07&pipeline=DevOps-Golang-tools&projects=GitHub&projectId=5fef73e62e168ebc6dd24d07&context=github&filter=page:1;pageSize:10;timeFrameStart:week)
+[![Cirrus CI](https://img.shields.io/cirrus/github/HariSekhon/DevOps-Golang-tools/master?logo=Cirrus%20CI&label=Cirrus%20CI)](https://cirrus-ci.com/github/HariSekhon/DevOps-Golang-tools)
+[![Semaphore](https://harisekhon.semaphoreci.com/badges/DevOps-Golang-tools.svg)](https://harisekhon.semaphoreci.com/projects/DevOps-Golang-tools)
+[![Wercker](https://app.wercker.com/status/0a1cc64a81b6e218ea4f662341aea1cc/s/master "wercker status")](https://app.wercker.com/harisekhon/DevOps-Golang-tools/runs)
+[![Buddy](https://img.shields.io/badge/Buddy-ready-1A86FD?logo=buddy)](https://github.com/HariSekhon/DevOps-Golang-tools/blob/master/buddy.yml)
+[![Shippable](https://img.shields.io/badge/Shippable-legacy-lightgrey?logo=jfrog&label=Shippable)](https://github.com/HariSekhon/DevOps-Golang-tools/blob/master/shippable.yml)
+[![Travis CI](https://img.shields.io/badge/TravisCI-ready-blue?logo=travis&label=Travis%20CI)](https://github.com/HariSekhon/DevOps-Golang-tools/blob/master/.travis.yml)
+
+[![Azure DevOps Pipeline](https://dev.azure.com/harisekhon/GitHub/_apis/build/status/DevOps-Golang-tools?branchName=master)](https://dev.azure.com/harisekhon/GitHub/_build/latest?definitionId=13&branchName=master)
+[![GitLab Pipeline](https://img.shields.io/gitlab/pipeline/harisekhon/DevOps-Golang-tools?logo=gitlab&label=GitLab%20CI)](https://gitlab.com/HariSekhon/DevOps-Golang-tools/pipelines)
+[![BitBucket Pipeline](https://img.shields.io/bitbucket/pipelines/harisekhon/devops-golang-tools/master?logo=bitbucket&label=BitBucket%20CI)](https://bitbucket.org/harisekhon/devops-golang-tools/addon/pipelines/home#!/)
+[![AWS CodeBuild](https://img.shields.io/badge/AWS%20CodeBuild-ready-blue?logo=amazon%20aws)](https://github.com/HariSekhon/DevOps-Golang-tools/blob/master/buildspec.yml)
+[![GCP Cloud Build](https://img.shields.io/badge/GCP%20Cloud%20Build-ready-blue?logo=google%20cloud&logoColor=white)](https://github.com/HariSekhon/DevOps-Golang-tools/blob/master/cloudbuild.yaml)
+
+[![Repo on Azure DevOps](https://img.shields.io/badge/repo-Azure%20DevOps-0078D7?logo=azure%20devops)](https://dev.azure.com/harisekhon/GitHub/_git/DevOps-Golang-tools)
+[![Repo on GitHub](https://img.shields.io/badge/repo-GitHub-2088FF?logo=github)](https://github.com/HariSekhon/DevOps-Golang-tools)
+[![Repo on GitLab](https://img.shields.io/badge/repo-GitLab-FCA121?logo=gitlab)](https://gitlab.com/HariSekhon/DevOps-Golang-tools)
+[![Repo on BitBucket](https://img.shields.io/badge/repo-BitBucket-0052CC?logo=bitbucket)](https://bitbucket.org/HariSekhon/DevOps-Golang-tools)
+[![ShellCheck](https://github.com/HariSekhon/DevOps-Golang-tools/actions/workflows/shellcheck.yaml/badge.svg)](https://github.com/HariSekhon/DevOps-Golang-tools/actions/workflows/shellcheck.yaml)
+[![JSON](https://github.com/HariSekhon/DevOps-Golang-tools/actions/workflows/json.yaml/badge.svg)](https://github.com/HariSekhon/DevOps-Golang-tools/actions/workflows/json.yaml)
+[![YAML](https://github.com/HariSekhon/DevOps-Golang-tools/actions/workflows/yaml.yaml/badge.svg)](https://github.com/HariSekhon/DevOps-Golang-tools/actions/workflows/yaml.yaml)
+[![XML](https://github.com/HariSekhon/DevOps-Golang-tools/actions/workflows/xml.yaml/badge.svg)](https://github.com/HariSekhon/DevOps-Golang-tools/actions/workflows/xml.yaml)
+[![Validation](https://github.com/HariSekhon/DevOps-Golang-tools/actions/workflows/validate.yaml/badge.svg)](https://github.com/HariSekhon/DevOps-Golang-tools/actions/workflows/validate.yaml)
+[![Semgrep](https://github.com/HariSekhon/DevOps-Golang-tools/actions/workflows/semgrep.yaml/badge.svg)](https://github.com/HariSekhon/DevOps-Golang-tools/actions/workflows/semgrep.yaml)
+[![Semgrep Cloud](https://github.com/HariSekhon/DevOps-Golang-tools/actions/workflows/semgrep-cloud.yaml/badge.svg)](https://github.com/HariSekhon/DevOps-Golang-tools/actions/workflows/semgrep-cloud.yaml)
+[![Kics](https://github.com/HariSekhon/DevOps-Golang-tools/actions/workflows/kics.yaml/badge.svg)](https://github.com/HariSekhon/DevOps-Golang-tools/actions/workflows/kics.yaml)
+
+[![GitHub Actions Ubuntu](https://github.com/HariSekhon/DevOps-Golang-tools/workflows/GitHub%20Actions%20Ubuntu/badge.svg)](https://github.com/HariSekhon/DevOps-Golang-tools/actions?query=workflow%3A%22GitHub+Actions+Ubuntu%22)
+[![Mac](https://github.com/HariSekhon/DevOps-Golang-tools/workflows/Mac/badge.svg)](https://github.com/HariSekhon/DevOps-Golang-tools/actions?query=workflow%3A%22Mac%22)
+[![Mac 10.15](https://github.com/HariSekhon/DevOps-Golang-tools/workflows/Mac%2010.15/badge.svg)](https://github.com/HariSekhon/DevOps-Golang-tools/actions?query=workflow%3A%22Mac+10.15%22)
+[![Ubuntu](https://github.com/HariSekhon/DevOps-Golang-tools/workflows/Ubuntu/badge.svg)](https://github.com/HariSekhon/DevOps-Golang-tools/actions?query=workflow%3A%22Ubuntu%22)
+[![Ubuntu 14.04](https://github.com/HariSekhon/DevOps-Golang-tools/workflows/Ubuntu%2014.04/badge.svg)](https://github.com/HariSekhon/DevOps-Golang-tools/actions?query=workflow%3A%22Ubuntu+14.04%22)
+[![Ubuntu 16.04](https://github.com/HariSekhon/DevOps-Golang-tools/workflows/Ubuntu%2016.04/badge.svg)](https://github.com/HariSekhon/DevOps-Golang-tools/actions?query=workflow%3A%22Ubuntu+16.04%22)
+[![Ubuntu 18.04](https://github.com/HariSekhon/DevOps-Golang-tools/workflows/Ubuntu%2018.04/badge.svg)](https://github.com/HariSekhon/DevOps-Golang-tools/actions?query=workflow%3A%22Ubuntu+18.04%22)
+[![Ubuntu 20.04](https://github.com/HariSekhon/DevOps-Golang-tools/workflows/Ubuntu%2020.04/badge.svg)](https://github.com/HariSekhon/DevOps-Golang-tools/actions?query=workflow%3A%22Ubuntu+20.04%22)
+[![Debian](https://github.com/HariSekhon/DevOps-Golang-tools/workflows/Debian/badge.svg)](https://github.com/HariSekhon/DevOps-Golang-tools/actions?query=workflow%3A%22Debian%22)
+[![Debian 8](https://github.com/HariSekhon/DevOps-Golang-tools/workflows/Debian%208/badge.svg)](https://github.com/HariSekhon/DevOps-Golang-tools/actions?query=workflow%3A%22Debian+8%22)
+[![Debian 9](https://github.com/HariSekhon/DevOps-Golang-tools/workflows/Debian%209/badge.svg)](https://github.com/HariSekhon/DevOps-Golang-tools/actions?query=workflow%3A%22Debian+9%22)
+[![Debian 10](https://github.com/HariSekhon/DevOps-Golang-tools/workflows/Debian%2010/badge.svg)](https://github.com/HariSekhon/DevOps-Golang-tools/actions?query=workflow%3A%22Debian+10%22)
+[![CentOS](https://github.com/HariSekhon/DevOps-Golang-tools/workflows/CentOS/badge.svg)](https://github.com/HariSekhon/DevOps-Golang-tools/actions?query=workflow%3A%22CentOS%22)
+[![CentOS 7](https://github.com/HariSekhon/DevOps-Golang-tools/workflows/CentOS%207/badge.svg)](https://github.com/HariSekhon/DevOps-Golang-tools/actions?query=workflow%3A%22CentOS+7%22)
+[![CentOS 8](https://github.com/HariSekhon/DevOps-Golang-tools/workflows/CentOS%208/badge.svg)](https://github.com/HariSekhon/DevOps-Golang-tools/actions?query=workflow%3A%22CentOS+8%22)
+[![Fedora](https://github.com/HariSekhon/DevOps-Golang-tools/workflows/Fedora/badge.svg)](https://github.com/HariSekhon/DevOps-Golang-tools/actions?query=workflow%3A%22Fedora%22)
+[![Alpine](https://github.com/HariSekhon/DevOps-Golang-tools/workflows/Alpine/badge.svg)](https://github.com/HariSekhon/DevOps-Golang-tools/actions?query=workflow%3A%22Alpine%22)
+[![Alpine 3](https://github.com/HariSekhon/DevOps-Golang-tools/workflows/Alpine%203/badge.svg)](https://github.com/HariSekhon/DevOps-Golang-tools/actions?query=workflow%3A%22Alpine+3%22)
+
+[![Golang versions](https://img.shields.io/badge/Golang-1.9+-00ADD8?logo=go)](https://github.com/HariSekhon/DevOps-Golang-tools)
+[![Golang](https://github.com/HariSekhon/DevOps-Golang-tools/workflows/Golang/badge.svg)](https://github.com/HariSekhon/DevOps-Golang-tools/actions?query=workflow%3A%22Golang+latest%22)
+[![Golang 1.9](https://github.com/HariSekhon/DevOps-Golang-tools/workflows/Golang%201.9/badge.svg)](https://github.com/HariSekhon/DevOps-Golang-tools/actions?query=workflow%3A%22Golang+1.9%22)
+[![Golang 1.10](https://github.com/HariSekhon/DevOps-Golang-tools/workflows/Golang%201.10/badge.svg)](https://github.com/HariSekhon/DevOps-Golang-tools/actions?query=workflow%3A%22Golang+1.10%22)
+[![Golang 1.11](https://github.com/HariSekhon/DevOps-Golang-tools/workflows/Golang%201.11/badge.svg)](https://github.com/HariSekhon/DevOps-Golang-tools/actions?query=workflow%3A%22Golang+1.11%22)
+[![Golang 1.12](https://github.com/HariSekhon/DevOps-Golang-tools/workflows/Golang%201.12/badge.svg)](https://github.com/HariSekhon/DevOps-Golang-tools/actions?query=workflow%3A%22Golang+1.12%22)
+[![Golang 1.13](https://github.com/HariSekhon/DevOps-Golang-tools/workflows/Golang%201.13/badge.svg)](https://github.com/HariSekhon/DevOps-Golang-tools/actions?query=workflow%3A%22Golang+1.13%22)
+[![Golang 1.14](https://github.com/HariSekhon/DevOps-Golang-tools/workflows/Golang%201.14/badge.svg)](https://github.com/HariSekhon/DevOps-Golang-tools/actions?query=workflow%3A%22Golang+1.14%22)
+[![Golang 1.15](https://github.com/HariSekhon/DevOps-Golang-tools/workflows/Golang%201.15/badge.svg)](https://github.com/HariSekhon/DevOps-Golang-tools/actions?query=workflow%3A%22Golang+1.15%22)
+[![Golang 1.16](https://github.com/HariSekhon/DevOps-Golang-tools/workflows/Golang%201.16/badge.svg)](https://github.com/HariSekhon/DevOps-Golang-tools/actions?query=workflow%3A%22Golang+1.16%22)
+[![Golang 1.17](https://github.com/HariSekhon/DevOps-Golang-tools/workflows/Golang%201.17/badge.svg)](https://github.com/HariSekhon/DevOps-Golang-tools/actions?query=workflow%3A%22Golang+1.17%22)
+[![Golang 1.18](https://github.com/HariSekhon/DevOps-Golang-tools/workflows/Golang%201.18/badge.svg)](https://github.com/HariSekhon/DevOps-Golang-tools/actions?query=workflow%3A%22Golang+1.18%22)
+
+[git.io/go-tools](https://git.io/go-tools)
+
+
+---
 # Terraform Templates
 
 Link:  [HariSekhon/Terraform](https://github.com/HariSekhon/Terraform)
@@ -1013,112 +1119,6 @@ Perl Utility Library for my other repos
 [![Perl 5.30](https://github.com/HariSekhon/lib/workflows/Perl%205.30/badge.svg)](https://github.com/HariSekhon/lib/actions?query=workflow%3A%22Perl+5.30%22)
 [![Perl 5.32](https://github.com/HariSekhon/lib/workflows/Perl%205.32/badge.svg)](https://github.com/HariSekhon/lib/actions?query=workflow%3A%22Perl+5.32%22)
 [![Perl 5.34](https://github.com/HariSekhon/lib/workflows/Perl%205.34/badge.svg)](https://github.com/HariSekhon/lib/actions?query=workflow%3A%22Perl+5.34%22)
-
-
----
-# Hari Sekhon - DevOps Golang Tools
-
-Link:  [HariSekhon/DevOps-Golang-tools](https://github.com/HariSekhon/DevOps-Golang-tools)
-
-DevOps Golang tools
-
-[![GitHub stars](https://img.shields.io/github/stars/harisekhon/devops-golang-tools?logo=github)](https://github.com/HariSekhon/DevOps-Golang-tools/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/harisekhon/devops-golang-tools?logo=github)](https://github.com/HariSekhon/DevOps-Golang-tools/network)
-[![License](https://img.shields.io/github/license/HariSekhon/DevOps-Golang-tools)](https://github.com/HariSekhon/DevOps-Golang-tools/blob/master/LICENSE)
-[![GitHub Last Commit](https://img.shields.io/github/last-commit/HariSekhon/DevOps-Golang-tools?logo=github)](https://github.com/HariSekhon/DevOps-Golang-tools/commits/master)
-
-
-[![Codacy](https://app.codacy.com/project/badge/Grade/7b64fbfcff2240b9b18c6754c22d39bb)](https://www.codacy.com/gh/HariSekhon/DevOps-Golang-tools/dashboard)
-[![CodeFactor](https://www.codefactor.io/repository/github/harisekhon/DevOps-Golang-tools/badge)](https://www.codefactor.io/repository/github/harisekhon/DevOps-Golang-tools)
-[![Language grade: Golang](https://img.shields.io/lgtm/grade/golang/g/HariSekhon/DevOps-Golang-tools.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/HariSekhon/DevOps-Golang-tools/context:golang)
-[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_DevOps-Golang-tools&metric=alert_status)](https://sonarcloud.io/dashboard?id=HariSekhon_DevOps-Golang-tools)
-[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_DevOps-Golang-tools&metric=sqale_rating)](https://sonarcloud.io/dashboard?id=HariSekhon_DevOps-Golang-tools)
-[![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_DevOps-Golang-tools&metric=reliability_rating)](https://sonarcloud.io/dashboard?id=HariSekhon_DevOps-Golang-tools)
-[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_DevOps-Golang-tools&metric=security_rating)](https://sonarcloud.io/dashboard?id=HariSekhon_DevOps-Golang-tools)
-[![Codiga Grade](https://api.codiga.io/project/7517/status/svg)](https://app.codiga.io/project/7517/dashboard)
-[![Codiga Score](https://api.codiga.io/project/7517/score/svg)](https://app.codiga.io/project/7517/dashboard)
-[![Total alerts](https://img.shields.io/lgtm/alerts/g/HariSekhon/DevOps-Golang-tools.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/HariSekhon/DevOps-Golang-tools/alerts/)
-
-
-
-[![Linux](https://img.shields.io/badge/OS-Linux-blue?logo=linux)](https://github.com/HariSekhon/DevOps-Golang-tools)
-[![Mac](https://img.shields.io/badge/OS-Mac-blue?logo=apple)](https://github.com/HariSekhon/DevOps-Golang-tools)
-[![Docker](https://img.shields.io/badge/container-Docker-blue?logo=docker&logoColor=white)](https://hub.docker.com/r/harisekhon/github/)
-[![Dockerfile](https://img.shields.io/badge/repo-Dockerfiles-blue?logo=docker&logoColor=white)](https://github.com/HariSekhon/Dockerfiles)
-[![DockerHub Pulls](https://img.shields.io/docker/pulls/harisekhon/centos-github?label=DockerHub%20pulls&logo=docker&logoColor=white)](https://hub.docker.com/r/harisekhon/github)
-
-
-[![CI Builds Overview](https://img.shields.io/badge/CI%20Builds-Overview%20Page-blue?logo=circleci)](https://harisekhon.github.io/CI-CD/)
-[![Jenkins](https://img.shields.io/badge/Jenkins-ready-blue?logo=jenkins&logoColor=white)](https://github.com/HariSekhon/DevOps-Golang-tools/blob/master/Jenkinsfile)
-[![Concourse](https://img.shields.io/badge/Concourse-ready-blue?logo=concourse)](https://github.com/HariSekhon/DevOps-Golang-tools/blob/master/.concourse.yml)
-[![GoCD](https://img.shields.io/badge/GoCD-ready-blue?logo=go)](https://github.com/HariSekhon/DevOps-Golang-tools/blob/master/.gocd.yml)
-[![TeamCity](https://img.shields.io/badge/TeamCity-ready-blue?logo=teamcity)](https://github.com/HariSekhon/TeamCity-CI)
-
-[![CircleCI](https://circleci.com/gh/HariSekhon/DevOps-Golang-tools.svg?style=svg)](https://circleci.com/gh/HariSekhon/DevOps-Golang-tools)
-[![BuildKite](https://img.shields.io/buildkite/e2deddfa45087ac7984c456cb93319ef434ac996c7c1006833/master?label=BuildKite&logo=buildkite)](https://buildkite.com/hari-sekhon/devops-golang-tools)
-[![AppVeyor](https://img.shields.io/appveyor/build/harisekhon/DevOps-Golang-tools/master?logo=appveyor&label=AppVeyor)](https://ci.appveyor.com/project/HariSekhon/DevOps-Golang-tools/branch/master)
-[![Drone](https://img.shields.io/drone/build/HariSekhon/DevOps-Golang-tools/master?logo=drone&label=Drone)](https://cloud.drone.io/HariSekhon/DevOps-Golang-tools)
-[![Codeship Status for HariSekhon/DevOps-Golang-tools](https://app.codeship.com/projects/11baaaff-5962-45dd-8a7d-477f60632c16/status?branch=master)](https://app.codeship.com/projects/387251)
-[![Codefresh](https://g.codefresh.io/api/badges/pipeline/harisekhon/GitHub%2FDevOps-Golang-tools?key=eyJhbGciOiJIUzI1NiJ9.NWU1MmM5OGNiM2FiOWUzM2Y3ZDZmYjM3.O69674cW7vYom3v5JOGKXDbYgCVIJU9EWhXUMHl3zwA&date=1609528430541)](https://g.codefresh.io/pipelines/edit/new/builds?id=5fef73e62e168ebc6dd24d07&pipeline=DevOps-Golang-tools&projects=GitHub&projectId=5fef73e62e168ebc6dd24d07&context=github&filter=page:1;pageSize:10;timeFrameStart:week)
-[![Cirrus CI](https://img.shields.io/cirrus/github/HariSekhon/DevOps-Golang-tools/master?logo=Cirrus%20CI&label=Cirrus%20CI)](https://cirrus-ci.com/github/HariSekhon/DevOps-Golang-tools)
-[![Semaphore](https://harisekhon.semaphoreci.com/badges/DevOps-Golang-tools.svg)](https://harisekhon.semaphoreci.com/projects/DevOps-Golang-tools)
-[![Wercker](https://app.wercker.com/status/0a1cc64a81b6e218ea4f662341aea1cc/s/master "wercker status")](https://app.wercker.com/harisekhon/DevOps-Golang-tools/runs)
-[![Buddy](https://img.shields.io/badge/Buddy-ready-1A86FD?logo=buddy)](https://github.com/HariSekhon/DevOps-Golang-tools/blob/master/buddy.yml)
-[![Shippable](https://img.shields.io/badge/Shippable-legacy-lightgrey?logo=jfrog&label=Shippable)](https://github.com/HariSekhon/DevOps-Golang-tools/blob/master/shippable.yml)
-[![Travis CI](https://img.shields.io/badge/TravisCI-ready-blue?logo=travis&label=Travis%20CI)](https://github.com/HariSekhon/DevOps-Golang-tools/blob/master/.travis.yml)
-
-[![Azure DevOps Pipeline](https://dev.azure.com/harisekhon/GitHub/_apis/build/status/DevOps-Golang-tools?branchName=master)](https://dev.azure.com/harisekhon/GitHub/_build/latest?definitionId=13&branchName=master)
-[![GitLab Pipeline](https://img.shields.io/gitlab/pipeline/harisekhon/DevOps-Golang-tools?logo=gitlab&label=GitLab%20CI)](https://gitlab.com/HariSekhon/DevOps-Golang-tools/pipelines)
-[![BitBucket Pipeline](https://img.shields.io/bitbucket/pipelines/harisekhon/devops-golang-tools/master?logo=bitbucket&label=BitBucket%20CI)](https://bitbucket.org/harisekhon/devops-golang-tools/addon/pipelines/home#!/)
-[![AWS CodeBuild](https://img.shields.io/badge/AWS%20CodeBuild-ready-blue?logo=amazon%20aws)](https://github.com/HariSekhon/DevOps-Golang-tools/blob/master/buildspec.yml)
-[![GCP Cloud Build](https://img.shields.io/badge/GCP%20Cloud%20Build-ready-blue?logo=google%20cloud&logoColor=white)](https://github.com/HariSekhon/DevOps-Golang-tools/blob/master/cloudbuild.yaml)
-
-[![Repo on Azure DevOps](https://img.shields.io/badge/repo-Azure%20DevOps-0078D7?logo=azure%20devops)](https://dev.azure.com/harisekhon/GitHub/_git/DevOps-Golang-tools)
-[![Repo on GitHub](https://img.shields.io/badge/repo-GitHub-2088FF?logo=github)](https://github.com/HariSekhon/DevOps-Golang-tools)
-[![Repo on GitLab](https://img.shields.io/badge/repo-GitLab-FCA121?logo=gitlab)](https://gitlab.com/HariSekhon/DevOps-Golang-tools)
-[![Repo on BitBucket](https://img.shields.io/badge/repo-BitBucket-0052CC?logo=bitbucket)](https://bitbucket.org/HariSekhon/DevOps-Golang-tools)
-[![ShellCheck](https://github.com/HariSekhon/DevOps-Golang-tools/actions/workflows/shellcheck.yaml/badge.svg)](https://github.com/HariSekhon/DevOps-Golang-tools/actions/workflows/shellcheck.yaml)
-[![JSON](https://github.com/HariSekhon/DevOps-Golang-tools/actions/workflows/json.yaml/badge.svg)](https://github.com/HariSekhon/DevOps-Golang-tools/actions/workflows/json.yaml)
-[![YAML](https://github.com/HariSekhon/DevOps-Golang-tools/actions/workflows/yaml.yaml/badge.svg)](https://github.com/HariSekhon/DevOps-Golang-tools/actions/workflows/yaml.yaml)
-[![XML](https://github.com/HariSekhon/DevOps-Golang-tools/actions/workflows/xml.yaml/badge.svg)](https://github.com/HariSekhon/DevOps-Golang-tools/actions/workflows/xml.yaml)
-[![Validation](https://github.com/HariSekhon/DevOps-Golang-tools/actions/workflows/validate.yaml/badge.svg)](https://github.com/HariSekhon/DevOps-Golang-tools/actions/workflows/validate.yaml)
-[![Semgrep](https://github.com/HariSekhon/DevOps-Golang-tools/actions/workflows/semgrep.yaml/badge.svg)](https://github.com/HariSekhon/DevOps-Golang-tools/actions/workflows/semgrep.yaml)
-[![Semgrep Cloud](https://github.com/HariSekhon/DevOps-Golang-tools/actions/workflows/semgrep-cloud.yaml/badge.svg)](https://github.com/HariSekhon/DevOps-Golang-tools/actions/workflows/semgrep-cloud.yaml)
-[![Kics](https://github.com/HariSekhon/DevOps-Golang-tools/actions/workflows/kics.yaml/badge.svg)](https://github.com/HariSekhon/DevOps-Golang-tools/actions/workflows/kics.yaml)
-
-[![GitHub Actions Ubuntu](https://github.com/HariSekhon/DevOps-Golang-tools/workflows/GitHub%20Actions%20Ubuntu/badge.svg)](https://github.com/HariSekhon/DevOps-Golang-tools/actions?query=workflow%3A%22GitHub+Actions+Ubuntu%22)
-[![Mac](https://github.com/HariSekhon/DevOps-Golang-tools/workflows/Mac/badge.svg)](https://github.com/HariSekhon/DevOps-Golang-tools/actions?query=workflow%3A%22Mac%22)
-[![Mac 10.15](https://github.com/HariSekhon/DevOps-Golang-tools/workflows/Mac%2010.15/badge.svg)](https://github.com/HariSekhon/DevOps-Golang-tools/actions?query=workflow%3A%22Mac+10.15%22)
-[![Ubuntu](https://github.com/HariSekhon/DevOps-Golang-tools/workflows/Ubuntu/badge.svg)](https://github.com/HariSekhon/DevOps-Golang-tools/actions?query=workflow%3A%22Ubuntu%22)
-[![Ubuntu 14.04](https://github.com/HariSekhon/DevOps-Golang-tools/workflows/Ubuntu%2014.04/badge.svg)](https://github.com/HariSekhon/DevOps-Golang-tools/actions?query=workflow%3A%22Ubuntu+14.04%22)
-[![Ubuntu 16.04](https://github.com/HariSekhon/DevOps-Golang-tools/workflows/Ubuntu%2016.04/badge.svg)](https://github.com/HariSekhon/DevOps-Golang-tools/actions?query=workflow%3A%22Ubuntu+16.04%22)
-[![Ubuntu 18.04](https://github.com/HariSekhon/DevOps-Golang-tools/workflows/Ubuntu%2018.04/badge.svg)](https://github.com/HariSekhon/DevOps-Golang-tools/actions?query=workflow%3A%22Ubuntu+18.04%22)
-[![Ubuntu 20.04](https://github.com/HariSekhon/DevOps-Golang-tools/workflows/Ubuntu%2020.04/badge.svg)](https://github.com/HariSekhon/DevOps-Golang-tools/actions?query=workflow%3A%22Ubuntu+20.04%22)
-[![Debian](https://github.com/HariSekhon/DevOps-Golang-tools/workflows/Debian/badge.svg)](https://github.com/HariSekhon/DevOps-Golang-tools/actions?query=workflow%3A%22Debian%22)
-[![Debian 8](https://github.com/HariSekhon/DevOps-Golang-tools/workflows/Debian%208/badge.svg)](https://github.com/HariSekhon/DevOps-Golang-tools/actions?query=workflow%3A%22Debian+8%22)
-[![Debian 9](https://github.com/HariSekhon/DevOps-Golang-tools/workflows/Debian%209/badge.svg)](https://github.com/HariSekhon/DevOps-Golang-tools/actions?query=workflow%3A%22Debian+9%22)
-[![Debian 10](https://github.com/HariSekhon/DevOps-Golang-tools/workflows/Debian%2010/badge.svg)](https://github.com/HariSekhon/DevOps-Golang-tools/actions?query=workflow%3A%22Debian+10%22)
-[![CentOS](https://github.com/HariSekhon/DevOps-Golang-tools/workflows/CentOS/badge.svg)](https://github.com/HariSekhon/DevOps-Golang-tools/actions?query=workflow%3A%22CentOS%22)
-[![CentOS 7](https://github.com/HariSekhon/DevOps-Golang-tools/workflows/CentOS%207/badge.svg)](https://github.com/HariSekhon/DevOps-Golang-tools/actions?query=workflow%3A%22CentOS+7%22)
-[![CentOS 8](https://github.com/HariSekhon/DevOps-Golang-tools/workflows/CentOS%208/badge.svg)](https://github.com/HariSekhon/DevOps-Golang-tools/actions?query=workflow%3A%22CentOS+8%22)
-[![Fedora](https://github.com/HariSekhon/DevOps-Golang-tools/workflows/Fedora/badge.svg)](https://github.com/HariSekhon/DevOps-Golang-tools/actions?query=workflow%3A%22Fedora%22)
-[![Alpine](https://github.com/HariSekhon/DevOps-Golang-tools/workflows/Alpine/badge.svg)](https://github.com/HariSekhon/DevOps-Golang-tools/actions?query=workflow%3A%22Alpine%22)
-[![Alpine 3](https://github.com/HariSekhon/DevOps-Golang-tools/workflows/Alpine%203/badge.svg)](https://github.com/HariSekhon/DevOps-Golang-tools/actions?query=workflow%3A%22Alpine+3%22)
-
-[![Golang versions](https://img.shields.io/badge/Golang-1.9+-00ADD8?logo=go)](https://github.com/HariSekhon/DevOps-Golang-tools)
-[![Golang](https://github.com/HariSekhon/DevOps-Golang-tools/workflows/Golang/badge.svg)](https://github.com/HariSekhon/DevOps-Golang-tools/actions?query=workflow%3A%22Golang+latest%22)
-[![Golang 1.9](https://github.com/HariSekhon/DevOps-Golang-tools/workflows/Golang%201.9/badge.svg)](https://github.com/HariSekhon/DevOps-Golang-tools/actions?query=workflow%3A%22Golang+1.9%22)
-[![Golang 1.10](https://github.com/HariSekhon/DevOps-Golang-tools/workflows/Golang%201.10/badge.svg)](https://github.com/HariSekhon/DevOps-Golang-tools/actions?query=workflow%3A%22Golang+1.10%22)
-[![Golang 1.11](https://github.com/HariSekhon/DevOps-Golang-tools/workflows/Golang%201.11/badge.svg)](https://github.com/HariSekhon/DevOps-Golang-tools/actions?query=workflow%3A%22Golang+1.11%22)
-[![Golang 1.12](https://github.com/HariSekhon/DevOps-Golang-tools/workflows/Golang%201.12/badge.svg)](https://github.com/HariSekhon/DevOps-Golang-tools/actions?query=workflow%3A%22Golang+1.12%22)
-[![Golang 1.13](https://github.com/HariSekhon/DevOps-Golang-tools/workflows/Golang%201.13/badge.svg)](https://github.com/HariSekhon/DevOps-Golang-tools/actions?query=workflow%3A%22Golang+1.13%22)
-[![Golang 1.14](https://github.com/HariSekhon/DevOps-Golang-tools/workflows/Golang%201.14/badge.svg)](https://github.com/HariSekhon/DevOps-Golang-tools/actions?query=workflow%3A%22Golang+1.14%22)
-[![Golang 1.15](https://github.com/HariSekhon/DevOps-Golang-tools/workflows/Golang%201.15/badge.svg)](https://github.com/HariSekhon/DevOps-Golang-tools/actions?query=workflow%3A%22Golang+1.15%22)
-[![Golang 1.16](https://github.com/HariSekhon/DevOps-Golang-tools/workflows/Golang%201.16/badge.svg)](https://github.com/HariSekhon/DevOps-Golang-tools/actions?query=workflow%3A%22Golang+1.16%22)
-[![Golang 1.17](https://github.com/HariSekhon/DevOps-Golang-tools/workflows/Golang%201.17/badge.svg)](https://github.com/HariSekhon/DevOps-Golang-tools/actions?query=workflow%3A%22Golang+1.17%22)
-[![Golang 1.18](https://github.com/HariSekhon/DevOps-Golang-tools/workflows/Golang%201.18/badge.svg)](https://github.com/HariSekhon/DevOps-Golang-tools/actions?query=workflow%3A%22Golang+1.18%22)
-
-[git.io/go-tools](https://git.io/go-tools)
 
 
 ---
