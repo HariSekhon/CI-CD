@@ -1,9 +1,9 @@
 # CI/CD Status Page
 
 ![Original Repos](https://img.shields.io/badge/Repos-22-blue?logo=github)
-![Stars](https://img.shields.io/badge/Stars-4057-blue?logo=github)
+![Stars](https://img.shields.io/badge/Stars-4063-blue?logo=github)
 ![Forks](https://img.shields.io/badge/Forks-1756-blue?logo=github)
-![Followers](https://img.shields.io/badge/Followers-908-blue?logo=github)
+![Followers](https://img.shields.io/badge/Followers-910-blue?logo=github)
 ![Lines of Code](https://img.shields.io/badge/lines%20of%20code-265.1k-lightgrey?logo=codecademy)
 [![GitStar Ranking Profile](https://img.shields.io/badge/GitStar%20Ranking-HariSekhon-blue?logo=github)](https://gitstar-ranking.com/HariSekhon)
 [![StarCharts](https://img.shields.io/badge/Star-Charts-blue?logo=github)](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/STARCHARTS.md)
@@ -19,7 +19,7 @@
 [![Generate README](https://github.com/HariSekhon/CI-CD/actions/workflows/readme.yaml/badge.svg)](https://github.com/HariSekhon/CI-CD/actions/workflows/readme.yaml)
 [![pages-build-deployment](https://github.com/HariSekhon/CI-CD/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/HariSekhon/CI-CD/actions/workflows/pages/pages-build-deployment)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/853ef60c-c01b-4b83-99ba-8fda541f850f/deploy-status)](https://app.netlify.com/sites/harisekhon/deploys)
-![Last Generated](https://img.shields.io/badge/Last%20Generated-2022--07--29-yellowgreen?logo=github)
+![Last Generated](https://img.shields.io/badge/Last%20Generated-2022--08--01-yellowgreen?logo=github)
 [![GitHub Last Commit](https://img.shields.io/github/last-commit/HariSekhon/CI-CD?logo=github)](https://github.com/HariSekhon/CI-CD/commits/master)
 
 22 original source git repos with 744 CI builds (695 hosted, 49 self-hosted) across 23 different CI/CD systems:
@@ -1122,11 +1122,11 @@ Perl Utility Library for my other repos
 
 
 ---
-# Jenkinsfile & Jenkins Shared Library
+# Jenkins - Advanced Jenkinsfile & Groovy Shared Library
 
 Link:  [HariSekhon/Jenkins](https://github.com/HariSekhon/Jenkins)
 
-Advanced Jenkinsfile & Jenkins Shared Library (Groovy)
+Jenkins - Advanced Jenkinsfile & Groovy Shared Library of reusable functions and pipelines - including for AWS, GCP, Docker, Kubernetes, ArgoCD, Slack notifications, Git Merge, Terraform, Cloudflare, Jenkins Job Backups, most major Docker registries, DockerHub, GHCR, ECR, GCR, GAR, ACR, GitLab, Quay
 
 [![GitHub stars](https://img.shields.io/github/stars/HariSekhon/Jenkins?logo=github)](https://github.com/HariSekhon/Jenkins/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/HariSekhon/Jenkins?logo=github)](https://github.com/HariSekhon/Jenkins/network)
