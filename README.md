@@ -1,7 +1,7 @@
 # CI/CD Status Page
 
 ![Original Repos](https://img.shields.io/badge/Repos-22-blue?logo=github)
-![Stars](https://img.shields.io/badge/Stars-4064-blue?logo=github)
+![Stars](https://img.shields.io/badge/Stars-4067-blue?logo=github)
 ![Forks](https://img.shields.io/badge/Forks-1757-blue?logo=github)
 ![Followers](https://img.shields.io/badge/Followers-911-blue?logo=github)
 ![Lines of Code](https://img.shields.io/badge/lines%20of%20code-265.1k-lightgrey?logo=codecademy)
@@ -15,14 +15,14 @@
 [![GitHub Pages](https://img.shields.io/badge/GitHub-Pages-2088FF?logo=github)](https://harisekhon.github.io/CI-CD/)
 [![Netlify](https://img.shields.io/badge/Netlify-site-00C7B7?logo=netlify)](https://harisekhon.netlify.app/)
 
-[![CI/CD Builds](https://img.shields.io/badge/CI%2FCD%20Builds-744-blue?logo=circleci)](https://harisekhon.github.io/CI-CD/)
+[![CI/CD Builds](https://img.shields.io/badge/CI%2FCD%20Builds-756-blue?logo=circleci)](https://harisekhon.github.io/CI-CD/)
 [![Generate README](https://github.com/HariSekhon/CI-CD/actions/workflows/readme.yaml/badge.svg)](https://github.com/HariSekhon/CI-CD/actions/workflows/readme.yaml)
 [![pages-build-deployment](https://github.com/HariSekhon/CI-CD/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/HariSekhon/CI-CD/actions/workflows/pages/pages-build-deployment)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/853ef60c-c01b-4b83-99ba-8fda541f850f/deploy-status)](https://app.netlify.com/sites/harisekhon/deploys)
-![Last Generated](https://img.shields.io/badge/Last%20Generated-2022--08--03-yellowgreen?logo=github)
+![Last Generated](https://img.shields.io/badge/Last%20Generated-2022--08--04-yellowgreen?logo=github)
 [![GitHub Last Commit](https://img.shields.io/github/last-commit/HariSekhon/CI-CD?logo=github)](https://github.com/HariSekhon/CI-CD/commits/master)
 
-22 original source git repos with 744 CI builds (695 hosted, 49 self-hosted) across 23 different CI/CD systems:
+22 original source git repos with 756 CI builds (707 hosted, 49 self-hosted) across 23 different CI/CD systems:
 
 ---
 # Advanced Nagios Plugins Collection
@@ -107,8 +107,9 @@ Link:  [HariSekhon/Nagios-Plugins](https://github.com/HariSekhon/Nagios-Plugins)
 [![Docker Build (Ubuntu)](https://github.com/HariSekhon/Nagios-Plugins/actions/workflows/docker_nagios_plugins_ubuntu.yaml/badge.svg)](https://github.com/HariSekhon/Nagios-Plugins/actions/workflows/docker_nagios_plugins_ubuntu.yaml)
 
 [![GitHub Actions Ubuntu](https://github.com/HariSekhon/Nagios-Plugins/workflows/GitHub%20Actions%20Ubuntu/badge.svg)](https://github.com/HariSekhon/Nagios-Plugins/actions?query=workflow%3A%22GitHub+Actions+Ubuntu%22)
-[![Mac](https://github.com/HariSekhon/Nagios-Plugins/workflows/Mac/badge.svg)](https://github.com/HariSekhon/Nagios-Plugins/actions?query=workflow%3A%22Mac%22)
-[![Mac 10.15](https://github.com/HariSekhon/Nagios-Plugins/workflows/Mac%2010.15/badge.svg)](https://github.com/HariSekhon/Nagios-Plugins/actions?query=workflow%3A%22Mac+10.15%22)
+[![Mac](https://github.com/HariSekhon/Nagios-Plugins/actions/workflows/mac.yaml/badge.svg)](https://github.com/HariSekhon/Nagios-Plugins/actions/workflows/mac.yaml)
+[![Mac 11](https://github.com/HariSekhon/Nagios-Plugins/actions/workflows/mac_11.yaml/badge.svg)](https://github.com/HariSekhon/Nagios-Plugins/actions/workflows/mac_11.yaml)
+[![Mac 12](https://github.com/HariSekhon/Nagios-Plugins/actions/workflows/mac_12.yaml/badge.svg)](https://github.com/HariSekhon/Nagios-Plugins/actions/workflows/mac_12.yaml)
 [![Ubuntu](https://github.com/HariSekhon/Nagios-Plugins/workflows/Ubuntu/badge.svg)](https://github.com/HariSekhon/Nagios-Plugins/actions?query=workflow%3A%22Ubuntu%22)
 [![Ubuntu 14.04](https://github.com/HariSekhon/Nagios-Plugins/workflows/Ubuntu%2014.04/badge.svg)](https://github.com/HariSekhon/Nagios-Plugins/actions?query=workflow%3A%22Ubuntu+14.04%22)
 [![Ubuntu 16.04](https://github.com/HariSekhon/Nagios-Plugins/workflows/Ubuntu%2016.04/badge.svg)](https://github.com/HariSekhon/Nagios-Plugins/actions?query=workflow%3A%22Ubuntu+16.04%22)
@@ -231,8 +232,9 @@ Link:  [HariSekhon/Dockerfiles](https://github.com/HariSekhon/Dockerfiles)
 [![Kics](https://github.com/HariSekhon/Dockerfiles/actions/workflows/kics.yaml/badge.svg)](https://github.com/HariSekhon/Dockerfiles/actions/workflows/kics.yaml)
 
 [![GitHub Actions Ubuntu](https://github.com/HariSekhon/Dockerfiles/workflows/GitHub%20Actions%20Ubuntu/badge.svg)](https://github.com/HariSekhon/Dockerfiles/actions?query=workflow%3A%22GitHub+Actions+Ubuntu%22)
-[![Mac](https://github.com/HariSekhon/Dockerfiles/workflows/Mac/badge.svg)](https://github.com/HariSekhon/Dockerfiles/actions?query=workflow%3A%22Mac%22)
-[![Mac 10.15](https://github.com/HariSekhon/Dockerfiles/workflows/Mac%2010.15/badge.svg)](https://github.com/HariSekhon/Dockerfiles/actions?query=workflow%3A%22Mac+10.15%22)
+[![Mac](https://github.com/HariSekhon/Dockerfiles/actions/workflows/mac.yaml/badge.svg)](https://github.com/HariSekhon/Dockerfiles/actions/workflows/mac.yaml)
+[![Mac 11](https://github.com/HariSekhon/Dockerfiles/actions/workflows/mac_11.yaml/badge.svg)](https://github.com/HariSekhon/Dockerfiles/actions/workflows/mac_11.yaml)
+[![Mac 12](https://github.com/HariSekhon/Dockerfiles/actions/workflows/mac_12.yaml/badge.svg)](https://github.com/HariSekhon/Dockerfiles/actions/workflows/mac_12.yaml)
 [![Ubuntu](https://github.com/HariSekhon/Dockerfiles/workflows/Ubuntu/badge.svg)](https://github.com/HariSekhon/Dockerfiles/actions?query=workflow%3A%22Ubuntu%22)
 [![Ubuntu 14.04](https://github.com/HariSekhon/Dockerfiles/workflows/Ubuntu%2014.04/badge.svg)](https://github.com/HariSekhon/Dockerfiles/actions?query=workflow%3A%22Ubuntu+14.04%22)
 [![Ubuntu 16.04](https://github.com/HariSekhon/Dockerfiles/workflows/Ubuntu%2016.04/badge.svg)](https://github.com/HariSekhon/Dockerfiles/actions?query=workflow%3A%22Ubuntu+16.04%22)
@@ -343,8 +345,9 @@ Link:  [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-
 [![Docker Build (Ubuntu)](https://github.com/HariSekhon/DevOps-Bash-tools/actions/workflows/docker_bash_ubuntu.yaml/badge.svg)](https://github.com/HariSekhon/DevOps-Bash-tools/actions/workflows/docker_bash_ubuntu.yaml)
 
 [![GitHub Actions Ubuntu](https://github.com/HariSekhon/DevOps-Bash-tools/workflows/GitHub%20Actions%20Ubuntu/badge.svg)](https://github.com/HariSekhon/DevOps-Bash-tools/actions?query=workflow%3A%22GitHub+Actions+Ubuntu%22)
-[![Mac](https://github.com/HariSekhon/DevOps-Bash-tools/workflows/Mac/badge.svg)](https://github.com/HariSekhon/DevOps-Bash-tools/actions?query=workflow%3A%22Mac%22)
-[![Mac 10.15](https://github.com/HariSekhon/DevOps-Bash-tools/workflows/Mac%2010.15/badge.svg)](https://github.com/HariSekhon/DevOps-Bash-tools/actions?query=workflow%3A%22Mac+10.15%22)
+[![Mac](https://github.com/HariSekhon/DevOps-Bash-tools/actions/workflows/mac.yaml/badge.svg)](https://github.com/HariSekhon/DevOps-Bash-tools/actions/workflows/mac.yaml)
+[![Mac 11](https://github.com/HariSekhon/DevOps-Bash-tools/actions/workflows/mac_11.yaml/badge.svg)](https://github.com/HariSekhon/DevOps-Bash-tools/actions/workflows/mac_11.yaml)
+[![Mac 12](https://github.com/HariSekhon/DevOps-Bash-tools/actions/workflows/mac_12.yaml/badge.svg)](https://github.com/HariSekhon/DevOps-Bash-tools/actions/workflows/mac_12.yaml)
 [![Ubuntu](https://github.com/HariSekhon/DevOps-Bash-tools/workflows/Ubuntu/badge.svg)](https://github.com/HariSekhon/DevOps-Bash-tools/actions?query=workflow%3A%22Ubuntu%22)
 [![Ubuntu 14.04](https://github.com/HariSekhon/DevOps-Bash-tools/workflows/Ubuntu%2014.04/badge.svg)](https://github.com/HariSekhon/DevOps-Bash-tools/actions?query=workflow%3A%22Ubuntu+14.04%22)
 [![Ubuntu 16.04](https://github.com/HariSekhon/DevOps-Bash-tools/workflows/Ubuntu%2016.04/badge.svg)](https://github.com/HariSekhon/DevOps-Bash-tools/actions?query=workflow%3A%22Ubuntu+16.04%22)
@@ -458,8 +461,9 @@ Link:  [HariSekhon/DevOps-Python-tools](https://github.com/HariSekhon/DevOps-Pyt
 [![Docker Build (Ubuntu)](https://github.com/HariSekhon/DevOps-Python-tools/actions/workflows/docker_pytools_ubuntu.yaml/badge.svg)](https://github.com/HariSekhon/DevOps-Python-tools/actions/workflows/docker_pytools_ubuntu.yaml)
 
 [![GitHub Actions Ubuntu](https://github.com/HariSekhon/DevOps-Python-tools/workflows/GitHub%20Actions%20Ubuntu/badge.svg)](https://github.com/HariSekhon/DevOps-Python-tools/actions?query=workflow%3A%22GitHub+Actions+Ubuntu%22)
-[![Mac](https://github.com/HariSekhon/DevOps-Python-tools/workflows/Mac/badge.svg)](https://github.com/HariSekhon/DevOps-Python-tools/actions?query=workflow%3A%22Mac%22)
-[![Mac 10.15](https://github.com/HariSekhon/DevOps-Python-tools/workflows/Mac%2010.15/badge.svg)](https://github.com/HariSekhon/DevOps-Python-tools/actions?query=workflow%3A%22Mac+10.15%22)
+[![Mac](https://github.com/HariSekhon/DevOps-Python-tools/actions/workflows/mac.yaml/badge.svg)](https://github.com/HariSekhon/DevOps-Python-tools/actions/workflows/mac.yaml)
+[![Mac 11](https://github.com/HariSekhon/DevOps-Python-tools/actions/workflows/mac_11.yaml/badge.svg)](https://github.com/HariSekhon/DevOps-Python-tools/actions/workflows/mac_11.yaml)
+[![Mac 12](https://github.com/HariSekhon/DevOps-Python-tools/actions/workflows/mac_12.yaml/badge.svg)](https://github.com/HariSekhon/DevOps-Python-tools/actions/workflows/mac_12.yaml)
 [![Ubuntu](https://github.com/HariSekhon/DevOps-Python-tools/workflows/Ubuntu/badge.svg)](https://github.com/HariSekhon/DevOps-Python-tools/actions?query=workflow%3A%22Ubuntu%22)
 [![Ubuntu 14.04](https://github.com/HariSekhon/DevOps-Python-tools/workflows/Ubuntu%2014.04/badge.svg)](https://github.com/HariSekhon/DevOps-Python-tools/actions?query=workflow%3A%22Ubuntu+14.04%22)
 [![Ubuntu 16.04](https://github.com/HariSekhon/DevOps-Python-tools/workflows/Ubuntu%2016.04/badge.svg)](https://github.com/HariSekhon/DevOps-Python-tools/actions?query=workflow%3A%22Ubuntu+16.04%22)
@@ -591,8 +595,9 @@ Link:  [HariSekhon/HAProxy-configs](https://github.com/HariSekhon/HAProxy-config
 [![Kics](https://github.com/HariSekhon/HAProxy-configs/actions/workflows/kics.yaml/badge.svg)](https://github.com/HariSekhon/HAProxy-configs/actions/workflows/kics.yaml)
 
 [![GitHub Actions Ubuntu](https://github.com/HariSekhon/HAProxy-configs/workflows/GitHub%20Actions%20Ubuntu/badge.svg)](https://github.com/HariSekhon/HAProxy-configs/actions?query=workflow%3A%22GitHub+Actions+Ubuntu%22)
-[![Mac](https://github.com/HariSekhon/HAProxy-configs/workflows/Mac/badge.svg)](https://github.com/HariSekhon/HAProxy-configs/actions?query=workflow%3A%22Mac%22)
-[![Mac 10.15](https://github.com/HariSekhon/HAProxy-configs/workflows/Mac%2010.15/badge.svg)](https://github.com/HariSekhon/HAProxy-configs/actions?query=workflow%3A%22Mac+10.15%22)
+[![Mac](https://github.com/HariSekhon/HAProxy-configs/actions/workflows/mac.yaml/badge.svg)](https://github.com/HariSekhon/HAProxy-configs/actions/workflows/mac.yaml)
+[![Mac 11](https://github.com/HariSekhon/HAProxy-configs/actions/workflows/mac_11.yaml/badge.svg)](https://github.com/HariSekhon/HAProxy-configs/actions/workflows/mac_11.yaml)
+[![Mac 12](https://github.com/HariSekhon/HAProxy-configs/actions/workflows/mac_12.yaml/badge.svg)](https://github.com/HariSekhon/HAProxy-configs/actions/workflows/mac_12.yaml)
 [![Ubuntu](https://github.com/HariSekhon/HAProxy-configs/workflows/Ubuntu/badge.svg)](https://github.com/HariSekhon/HAProxy-configs/actions?query=workflow%3A%22Ubuntu%22)
 [![Ubuntu 14.04](https://github.com/HariSekhon/HAProxy-configs/workflows/Ubuntu%2014.04/badge.svg)](https://github.com/HariSekhon/HAProxy-configs/actions?query=workflow%3A%22Ubuntu+14.04%22)
 [![Ubuntu 16.04](https://github.com/HariSekhon/HAProxy-configs/workflows/Ubuntu%2016.04/badge.svg)](https://github.com/HariSekhon/HAProxy-configs/actions?query=workflow%3A%22Ubuntu+16.04%22)
@@ -724,8 +729,9 @@ Link:  [HariSekhon/DevOps-Perl-tools](https://github.com/HariSekhon/DevOps-Perl-
 [![Docker Build (Ubuntu)](https://github.com/HariSekhon/DevOps-Perl-tools/actions/workflows/docker_perl_ubuntu.yaml/badge.svg)](https://github.com/HariSekhon/DevOps-Perl-tools/actions/workflows/docker_perl_ubuntu.yaml)
 
 [![GitHub Actions Ubuntu](https://github.com/HariSekhon/DevOps-Perl-tools/workflows/GitHub%20Actions%20Ubuntu/badge.svg)](https://github.com/HariSekhon/DevOps-Perl-tools/actions?query=workflow%3A%22GitHub+Actions+Ubuntu%22)
-[![Mac](https://github.com/HariSekhon/DevOps-Perl-tools/workflows/Mac/badge.svg)](https://github.com/HariSekhon/DevOps-Perl-tools/actions?query=workflow%3A%22Mac%22)
-[![Mac 10.15](https://github.com/HariSekhon/DevOps-Perl-tools/workflows/Mac%2010.15/badge.svg)](https://github.com/HariSekhon/DevOps-Perl-tools/actions?query=workflow%3A%22Mac+10.15)
+[![Mac](https://github.com/HariSekhon/DevOps-Perl-tools/actions/workflows/mac.yaml/badge.svg)](https://github.com/HariSekhon/DevOps-Perl-tools/actions/workflows/mac.yaml)
+[![Mac 11](https://github.com/HariSekhon/DevOps-Perl-tools/actions/workflows/mac_11.yaml/badge.svg)](https://github.com/HariSekhon/DevOps-Perl-tools/actions/workflows/mac_11.yaml)
+[![Mac 12](https://github.com/HariSekhon/DevOps-Perl-tools/actions/workflows/mac_12.yaml/badge.svg)](https://github.com/HariSekhon/DevOps-Perl-tools/actions/workflows/mac_12.yaml)
 [![Ubuntu](https://github.com/HariSekhon/DevOps-Perl-tools/workflows/Ubuntu/badge.svg)](https://github.com/HariSekhon/DevOps-Perl-tools/actions?query=workflow%3A%22Ubuntu%22)
 [![Ubuntu 14.04](https://github.com/HariSekhon/DevOps-Perl-tools/workflows/Ubuntu%2014.04/badge.svg)](https://github.com/HariSekhon/DevOps-Perl-tools/actions?query=workflow%3A%22Ubuntu+14.04%22)
 [![Ubuntu 16.04](https://github.com/HariSekhon/DevOps-Perl-tools/workflows/Ubuntu%2016.04/badge.svg)](https://github.com/HariSekhon/DevOps-Perl-tools/actions?query=workflow%3A%22Ubuntu+16.04%22)
@@ -824,8 +830,9 @@ Spotify Tools - Playlists Backups, Spotify CLI, URI translator, duplication dete
 [![Kics](https://github.com/HariSekhon/Spotify-tools/actions/workflows/kics.yaml/badge.svg)](https://github.com/HariSekhon/Spotify-tools/actions/workflows/kics.yaml)
 
 [![GitHub Actions Ubuntu](https://github.com/HariSekhon/Spotify-tools/workflows/GitHub%20Actions%20Ubuntu/badge.svg)](https://github.com/HariSekhon/Spotify-tools/actions?query=workflow%3A%22GitHub+Actions+Ubuntu%22)
-[![Mac](https://github.com/HariSekhon/Spotify-tools/workflows/Mac/badge.svg)](https://github.com/HariSekhon/Spotify-tools/actions?query=workflow%3A%22Mac%22)
-[![Mac 10.15](https://github.com/HariSekhon/Spotify-tools/workflows/Mac%2010.15/badge.svg)](https://github.com/HariSekhon/Spotify-tools/actions?query=workflow%3A%22Mac+10.15%22)
+[![Mac](https://github.com/HariSekhon/Spotify-tools/actions/workflows/mac.yaml/badge.svg)](https://github.com/HariSekhon/Spotify-tools/actions/workflows/mac.yaml)
+[![Mac 11](https://github.com/HariSekhon/Spotify-tools/actions/workflows/mac_11.yaml/badge.svg)](https://github.com/HariSekhon/Spotify-tools/actions/workflows/mac_11.yaml)
+[![Mac 12](https://github.com/HariSekhon/Spotify-tools/actions/workflows/mac_12.yaml/badge.svg)](https://github.com/HariSekhon/Spotify-tools/actions/workflows/mac_12.yaml)
 [![Ubuntu](https://github.com/HariSekhon/Spotify-tools/workflows/Ubuntu/badge.svg)](https://github.com/HariSekhon/Spotify-tools/actions?query=workflow%3A%22Ubuntu%22)
 [![Ubuntu 14.04](https://github.com/HariSekhon/Spotify-tools/workflows/Ubuntu%2014.04/badge.svg)](https://github.com/HariSekhon/Spotify-tools/actions?query=workflow%3A%22Ubuntu+14.04%22)
 [![Ubuntu 16.04](https://github.com/HariSekhon/Spotify-tools/workflows/Ubuntu%2016.04/badge.svg)](https://github.com/HariSekhon/Spotify-tools/actions?query=workflow%3A%22Ubuntu+16.04%22)
@@ -950,8 +957,9 @@ DevOps Golang tools
 [![Kics](https://github.com/HariSekhon/DevOps-Golang-tools/actions/workflows/kics.yaml/badge.svg)](https://github.com/HariSekhon/DevOps-Golang-tools/actions/workflows/kics.yaml)
 
 [![GitHub Actions Ubuntu](https://github.com/HariSekhon/DevOps-Golang-tools/workflows/GitHub%20Actions%20Ubuntu/badge.svg)](https://github.com/HariSekhon/DevOps-Golang-tools/actions?query=workflow%3A%22GitHub+Actions+Ubuntu%22)
-[![Mac](https://github.com/HariSekhon/DevOps-Golang-tools/workflows/Mac/badge.svg)](https://github.com/HariSekhon/DevOps-Golang-tools/actions?query=workflow%3A%22Mac%22)
-[![Mac 10.15](https://github.com/HariSekhon/DevOps-Golang-tools/workflows/Mac%2010.15/badge.svg)](https://github.com/HariSekhon/DevOps-Golang-tools/actions?query=workflow%3A%22Mac+10.15%22)
+[![Mac](https://github.com/HariSekhon/DevOps-Golang-tools/actions/workflows/mac.yaml/badge.svg)](https://github.com/HariSekhon/DevOps-Golang-tools/actions/workflows/mac.yaml)
+[![Mac 11](https://github.com/HariSekhon/DevOps-Golang-tools/actions/workflows/mac_11.yaml/badge.svg)](https://github.com/HariSekhon/DevOps-Golang-tools/actions/workflows/mac_11.yaml)
+[![Mac 12](https://github.com/HariSekhon/DevOps-Golang-tools/actions/workflows/mac_12.yaml/badge.svg)](https://github.com/HariSekhon/DevOps-Golang-tools/actions/workflows/mac_12.yaml)
 [![Ubuntu](https://github.com/HariSekhon/DevOps-Golang-tools/workflows/Ubuntu/badge.svg)](https://github.com/HariSekhon/DevOps-Golang-tools/actions?query=workflow%3A%22Ubuntu%22)
 [![Ubuntu 14.04](https://github.com/HariSekhon/DevOps-Golang-tools/workflows/Ubuntu%2014.04/badge.svg)](https://github.com/HariSekhon/DevOps-Golang-tools/actions?query=workflow%3A%22Ubuntu+14.04%22)
 [![Ubuntu 16.04](https://github.com/HariSekhon/DevOps-Golang-tools/workflows/Ubuntu%2016.04/badge.svg)](https://github.com/HariSekhon/DevOps-Golang-tools/actions?query=workflow%3A%22Ubuntu+16.04%22)
@@ -1086,8 +1094,9 @@ Perl Utility Library for my other repos
 [![Kics](https://github.com/HariSekhon/lib/actions/workflows/kics.yaml/badge.svg)](https://github.com/HariSekhon/lib/actions/workflows/kics.yaml)
 
 [![GitHub Actions Ubuntu](https://github.com/HariSekhon/lib/workflows/GitHub%20Actions%20Ubuntu/badge.svg)](https://github.com/HariSekhon/lib/actions?query=workflow%3A%22GitHub+Actions+Ubuntu%22)
-[![Mac](https://github.com/HariSekhon/lib/workflows/Mac/badge.svg)](https://github.com/HariSekhon/lib/actions?query=workflow%3A%22Mac%22)
-[![Mac 10.15](https://github.com/HariSekhon/lib/workflows/Mac%2010.15/badge.svg)](https://github.com/HariSekhon/lib/actions?query=workflow%3A%22Mac+10.15%22)
+[![Mac](https://github.com/HariSekhon/lib/actions/workflows/mac.yaml/badge.svg)](https://github.com/HariSekhon/lib/actions/workflows/mac.yaml)
+[![Mac 11](https://github.com/HariSekhon/lib/actions/workflows/mac_11.yaml/badge.svg)](https://github.com/HariSekhon/lib/actions/workflows/mac_11.yaml)
+[![Mac 12](https://github.com/HariSekhon/lib/actions/workflows/mac_12.yaml/badge.svg)](https://github.com/HariSekhon/lib/actions/workflows/mac_12.yaml)
 [![Ubuntu](https://github.com/HariSekhon/lib/workflows/Ubuntu/badge.svg)](https://github.com/HariSekhon/lib/actions?query=workflow%3A%22Ubuntu%22)
 [![Ubuntu 14.04](https://github.com/HariSekhon/lib/workflows/Ubuntu%2014.04/badge.svg)](https://github.com/HariSekhon/lib/actions?query=workflow%3A%22Ubuntu+14.04%22)
 [![Ubuntu 16.04](https://github.com/HariSekhon/lib/workflows/Ubuntu%2016.04/badge.svg)](https://github.com/HariSekhon/lib/actions?query=workflow%3A%22Ubuntu+16.04%22)
@@ -1217,8 +1226,9 @@ Kafka Scala API CLI / Advanced Nagios Plugin, with Kerberos support (uses Kafka 
 [![Kics](https://github.com/HariSekhon/Nagios-Plugin-Kafka/actions/workflows/kics.yaml/badge.svg)](https://github.com/HariSekhon/Nagios-Plugin-Kafka/actions/workflows/kics.yaml)
 
 [![GitHub Actions Ubuntu](https://github.com/HariSekhon/Nagios-Plugin-Kafka/workflows/GitHub%20Actions%20Ubuntu/badge.svg)](https://github.com/HariSekhon/Nagios-Plugin-Kafka/actions?query=workflow%3A%22GitHub+Actions+Ubuntu%22)
-[![Mac](https://github.com/HariSekhon/Nagios-Plugin-Kafka/workflows/Mac/badge.svg)](https://github.com/HariSekhon/Nagios-Plugin-Kafka/actions?query=workflow%3A%22Mac%22)
-[![Mac 10.15](https://github.com/HariSekhon/Nagios-Plugin-Kafka/workflows/Mac%2010.15/badge.svg)](https://github.com/HariSekhon/Nagios-Plugin-Kafka/actions?query=workflow%3A%22Mac+10.15%22)
+[![Mac](https://github.com/HariSekhon/Nagios-Plugin-Kafka/actions/workflows/mac.yaml/badge.svg)](https://github.com/HariSekhon/Nagios-Plugin-Kafka/actions/workflows/mac.yaml)
+[![Mac 11](https://github.com/HariSekhon/Nagios-Plugin-Kafka/actions/workflows/mac_11.yaml/badge.svg)](https://github.com/HariSekhon/Nagios-Plugin-Kafka/actions/workflows/mac_11.yaml)
+[![Mac 12](https://github.com/HariSekhon/Nagios-Plugin-Kafka/actions/workflows/mac_12.yaml/badge.svg)](https://github.com/HariSekhon/Nagios-Plugin-Kafka/actions/workflows/mac_12.yaml)
 [![Ubuntu](https://github.com/HariSekhon/Nagios-Plugin-Kafka/workflows/Ubuntu/badge.svg)](https://github.com/HariSekhon/Nagios-Plugin-Kafka/actions?query=workflow%3A%22Ubuntu%22)
 [![Ubuntu 16.04](https://github.com/HariSekhon/Nagios-Plugin-Kafka/workflows/Ubuntu%2016.04/badge.svg)](https://github.com/HariSekhon/Nagios-Plugin-Kafka/actions?query=workflow%3A%22Ubuntu+16.04%22)
 [![Ubuntu 18.04](https://github.com/HariSekhon/Nagios-Plugin-Kafka/workflows/Ubuntu%2018.04/badge.svg)](https://github.com/HariSekhon/Nagios-Plugin-Kafka/actions?query=workflow%3A%22Ubuntu+18.04%22)
@@ -1378,8 +1388,9 @@ Python / Jython Utility Library for my other repos
 [![Kics](https://github.com/HariSekhon/pylib/actions/workflows/kics.yaml/badge.svg)](https://github.com/HariSekhon/pylib/actions/workflows/kics.yaml)
 
 [![GitHub Actions Ubuntu](https://github.com/HariSekhon/pylib/workflows/GitHub%20Actions%20Ubuntu/badge.svg)](https://github.com/HariSekhon/pylib/actions?query=workflow%3A%22GitHub+Actions+Ubuntu%22)
-[![Mac](https://github.com/HariSekhon/pylib/workflows/Mac/badge.svg)](https://github.com/HariSekhon/pylib/actions?query=workflow%3A%22Mac%22)
-[![Mac 10.15](https://github.com/HariSekhon/pylib/workflows/Mac%2010.15/badge.svg)](https://github.com/HariSekhon/pylib/actions?query=workflow%3A%22Mac+10.15%22)
+[![Mac](https://github.com/HariSekhon/pylib/actions/workflows/mac.yaml/badge.svg)](https://github.com/HariSekhon/pylib/actions/workflows/mac.yaml)
+[![Mac 11](https://github.com/HariSekhon/pylib/actions/workflows/mac_11.yaml/badge.svg)](https://github.com/HariSekhon/pylib/actions/workflows/mac_11.yaml)
+[![Mac 12](https://github.com/HariSekhon/pylib/actions/workflows/mac_12.yaml/badge.svg)](https://github.com/HariSekhon/pylib/actions/workflows/mac_12.yaml)
 [![Ubuntu](https://github.com/HariSekhon/pylib/workflows/Ubuntu/badge.svg)](https://github.com/HariSekhon/pylib/actions?query=workflow%3A%22Ubuntu%22)
 [![Ubuntu 14.04](https://github.com/HariSekhon/pylib/workflows/Ubuntu%2014.04/badge.svg)](https://github.com/HariSekhon/pylib/actions?query=workflow%3A%22Ubuntu+14.04%22)
 [![Ubuntu 16.04](https://github.com/HariSekhon/pylib/workflows/Ubuntu%2016.04/badge.svg)](https://github.com/HariSekhon/pylib/actions?query=workflow%3A%22Ubuntu+16.04%22)
@@ -1553,8 +1564,9 @@ Java Utility library for my other repos
 [![Kics](https://github.com/HariSekhon/lib-java/actions/workflows/kics.yaml/badge.svg)](https://github.com/HariSekhon/lib-java/actions/workflows/kics.yaml)
 
 [![GitHub Actions Ubuntu](https://github.com/HariSekhon/lib-java/workflows/GitHub%20Actions%20Ubuntu/badge.svg)](https://github.com/HariSekhon/lib-java/actions?query=workflow%3A%22GitHub+Actions+Ubuntu%22)
-[![Mac](https://github.com/HariSekhon/lib-java/workflows/Mac/badge.svg)](https://github.com/HariSekhon/lib-java/actions?query=workflow%3A%22Mac%22)
-[![Mac 10.15](https://github.com/HariSekhon/lib-java/workflows/Mac%2010.15/badge.svg)](https://github.com/HariSekhon/lib-java/actions?query=workflow%3A%22Mac+10.15%22)
+[![Mac](https://github.com/HariSekhon/lib-java/actions/workflows/mac.yaml/badge.svg)](https://github.com/HariSekhon/lib-java/actions/workflows/mac.yaml)
+[![Mac 11](https://github.com/HariSekhon/lib-java/actions/workflows/mac_11.yaml/badge.svg)](https://github.com/HariSekhon/lib-java/actions/workflows/mac_11.yaml)
+[![Mac 12](https://github.com/HariSekhon/lib-java/actions/workflows/mac_12.yaml/badge.svg)](https://github.com/HariSekhon/lib-java/actions/workflows/mac_12.yaml)
 [![Ubuntu](https://github.com/HariSekhon/lib-java/workflows/Ubuntu/badge.svg)](https://github.com/HariSekhon/lib-java/actions?query=workflow%3A%22Ubuntu%22)
 [![Ubuntu 16.04](https://github.com/HariSekhon/lib-java/workflows/Ubuntu%2016.04/badge.svg)](https://github.com/HariSekhon/lib-java/actions?query=workflow%3A%22Ubuntu+16.04%22)
 [![Ubuntu 18.04](https://github.com/HariSekhon/lib-java/workflows/Ubuntu%2018.04/badge.svg)](https://github.com/HariSekhon/lib-java/actions?query=workflow%3A%22Ubuntu+18.04%22)
@@ -1583,4 +1595,4 @@ CI/CD Status page for Hari Sekhon's GitHub repos
 
 
 
-22 git repos summarized with 744 CI builds (695 hosted, 49 self-hosted) across 23 different CI/CD systems
+22 git repos summarized with 756 CI builds (707 hosted, 49 self-hosted) across 23 different CI/CD systems
