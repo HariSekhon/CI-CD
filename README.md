@@ -1,8 +1,8 @@
 # CI/CD Status Page
 
-![Original Repos](https://img.shields.io/badge/Repos-22-blue?logo=github)
-![Stars](https://img.shields.io/badge/Stars-4129-blue?logo=github)
-![Forks](https://img.shields.io/badge/Forks-1781-blue?logo=github)
+![Original Repos](https://img.shields.io/badge/Repos-23-blue?logo=github)
+![Stars](https://img.shields.io/badge/Stars-4134-blue?logo=github)
+![Forks](https://img.shields.io/badge/Forks-1782-blue?logo=github)
 ![Followers](https://img.shields.io/badge/Followers-920-blue?logo=github)
 ![Lines of Code](https://img.shields.io/badge/lines%20of%20code-265.1k-lightgrey?logo=codecademy)
 [![GitStar Ranking Profile](https://img.shields.io/badge/GitStar%20Ranking-HariSekhon-blue?logo=github)](https://gitstar-ranking.com/HariSekhon)
@@ -15,14 +15,14 @@
 [![GitHub Pages](https://img.shields.io/badge/GitHub-Pages-2088FF?logo=github)](https://harisekhon.github.io/CI-CD/)
 [![Netlify](https://img.shields.io/badge/Netlify-site-00C7B7?logo=netlify)](https://harisekhon.netlify.app/)
 
-[![CI/CD Builds](https://img.shields.io/badge/CI%2FCD%20Builds-758-blue?logo=circleci)](https://harisekhon.github.io/CI-CD/)
+[![CI/CD Builds](https://img.shields.io/badge/CI%2FCD%20Builds-759-blue?logo=circleci)](https://harisekhon.github.io/CI-CD/)
 [![Generate README](https://github.com/HariSekhon/CI-CD/actions/workflows/readme.yaml/badge.svg)](https://github.com/HariSekhon/CI-CD/actions/workflows/readme.yaml)
 [![pages-build-deployment](https://github.com/HariSekhon/CI-CD/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/HariSekhon/CI-CD/actions/workflows/pages/pages-build-deployment)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/853ef60c-c01b-4b83-99ba-8fda541f850f/deploy-status)](https://app.netlify.com/sites/harisekhon/deploys)
-![Last Generated](https://img.shields.io/badge/Last%20Generated-2022--08--17-yellowgreen?logo=github)
+![Last Generated](https://img.shields.io/badge/Last%20Generated-2022--08--18-yellowgreen?logo=github)
 [![GitHub Last Commit](https://img.shields.io/github/last-commit/HariSekhon/CI-CD?logo=github)](https://github.com/HariSekhon/CI-CD/commits/master)
 
-22 original source git repos with 758 CI builds (709 hosted, 49 self-hosted) across 23 different CI/CD systems:
+23 original source git repos with 759 CI builds (710 hosted, 49 self-hosted) across 23 different CI/CD systems:
 
 ---
 # Advanced Nagios Plugins Collection
@@ -1596,5 +1596,15 @@ Link:  [HariSekhon/CI-CD](https://github.com/HariSekhon/CI-CD)
 CI/CD Status page for Hari Sekhon's GitHub repos
 
 
+---
+# GitHub Actions Contexts
 
-22 git repos summarized with 758 CI builds (709 hosted, 49 self-hosted) across 23 different CI/CD systems
+Link:  [HariSekhon/GitHub-Actions-Contexts](https://github.com/HariSekhon/GitHub-Actions-Contexts)
+
+Dumps GitHub Actions Contexts from different triggers. Useful for seeing undocumented context fields to use in workflows
+
+[![Dump Contexts](https://github.com/HariSekhon/GitHub-Actions-Contexts/actions/workflows/dump_contexts.yaml/badge.svg)](https://github.com/HariSekhon/GitHub-Actions-Contexts/actions/workflows/dump_contexts.yaml)
+
+
+
+23 git repos summarized with 759 CI builds (710 hosted, 49 self-hosted) across 23 different CI/CD systems
