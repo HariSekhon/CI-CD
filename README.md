@@ -1,9 +1,9 @@
 # CI/CD Status Page
 
 ![Original Repos](https://img.shields.io/badge/Repos-23-blue?logo=github)
-![Stars](https://img.shields.io/badge/Stars-4354-blue?logo=github)
-![Forks](https://img.shields.io/badge/Forks-1855-blue?logo=github)
-![Followers](https://img.shields.io/badge/Followers-972-blue?logo=github)
+![Stars](https://img.shields.io/badge/Stars-4381-blue?logo=github)
+![Forks](https://img.shields.io/badge/Forks-1860-blue?logo=github)
+![Followers](https://img.shields.io/badge/Followers-974-blue?logo=github)
 ![Lines of Code](https://img.shields.io/badge/lines%20of%20code-265.1k-lightgrey?logo=codecademy)
 [![GitStar Ranking Profile](https://img.shields.io/badge/GitStar%20Ranking-HariSekhon-blue?logo=github)](https://gitstar-ranking.com/HariSekhon)
 [![StarCharts](https://img.shields.io/badge/Star-Charts-blue?logo=github)](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/STARCHARTS.md)
@@ -19,7 +19,7 @@
 [![Generate README](https://github.com/HariSekhon/CI-CD/actions/workflows/readme.yaml/badge.svg)](https://github.com/HariSekhon/CI-CD/actions/workflows/readme.yaml)
 [![pages-build-deployment](https://github.com/HariSekhon/CI-CD/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/HariSekhon/CI-CD/actions/workflows/pages/pages-build-deployment)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/853ef60c-c01b-4b83-99ba-8fda541f850f/deploy-status)](https://app.netlify.com/sites/harisekhon/deploys)
-![Last Generated](https://img.shields.io/badge/Last%20Generated-2022--10--28-yellowgreen?logo=github)
+![Last Generated](https://img.shields.io/badge/Last%20Generated-2022--10--31-yellowgreen?logo=github)
 [![GitHub Last Commit](https://img.shields.io/github/last-commit/HariSekhon/CI-CD?logo=github)](https://github.com/HariSekhon/CI-CD/commits/master)
 
 23 original source git repos with 760 CI builds (711 hosted, 49 self-hosted) across 23 different CI/CD systems:
@@ -1031,6 +1031,34 @@ Terraform templates for AWS / GCP / Azure / GitHub management
 
 
 ---
+# Jenkins - Advanced Jenkinsfile & Groovy Shared Library
+
+Link:  [HariSekhon/Jenkins](https://github.com/HariSekhon/Jenkins)
+
+Jenkins - Advanced Jenkinsfile & Groovy Shared Library of reusable functions and pipelines - including for AWS, GCP, Docker, Kubernetes, ArgoCD, Slack notifications, Git Merge, Terraform, Cloudflare, Jenkins Job Backups, most major Docker registries, DockerHub, GHCR, ECR, GCR, GAR, ACR, GitLab, Quay
+
+[![GitHub stars](https://img.shields.io/github/stars/HariSekhon/Jenkins?logo=github)](https://github.com/HariSekhon/Jenkins/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/HariSekhon/Jenkins?logo=github)](https://github.com/HariSekhon/Jenkins/network)
+[![Lines of Code](https://img.shields.io/badge/lines%20of%20code-5.8k-lightgrey?logo=codecademy)](https://github.com/HariSekhon/Jenkins)
+[![License](https://img.shields.io/github/license/HariSekhon/Jenkins)](https://github.com/HariSekhon/Jenkins/blob/master/LICENSE)
+[![GitHub Last Commit](https://img.shields.io/github/last-commit/HariSekhon/Jenkins?logo=github)](https://github.com/HariSekhon/Jenkins/commits/master)
+
+[![CI Builds Overview](https://img.shields.io/badge/CI%20Builds-Overview%20Page-blue?logo=circleci)](https://harisekhon.github.io/CI-CD/)
+[![Jenkinsfile](https://github.com/HariSekhon/Jenkins/actions/workflows/jenkinsfile.yaml/badge.svg)](https://github.com/HariSekhon/Jenkins/actions/workflows/jenkinsfile.yaml)
+[![Groovy](https://github.com/HariSekhon/Jenkins/actions/workflows/groovyc.yaml/badge.svg)](https://github.com/HariSekhon/Jenkins/actions/workflows/groovyc.yaml)
+[![YAML](https://github.com/HariSekhon/Jenkins/actions/workflows/yaml.yaml/badge.svg)](https://github.com/HariSekhon/Jenkins/actions/workflows/yaml.yaml)
+[![Validation](https://github.com/HariSekhon/Jenkins/actions/workflows/validate.yaml/badge.svg)](https://github.com/HariSekhon/Jenkins/actions/workflows/validate.yaml)
+[![Semgrep](https://github.com/HariSekhon/Jenkins/actions/workflows/semgrep.yaml/badge.svg)](https://github.com/HariSekhon/Jenkins/actions/workflows/semgrep.yaml)
+[![Semgrep Cloud](https://github.com/HariSekhon/Jenkins/actions/workflows/semgrep-cloud.yaml/badge.svg)](https://github.com/HariSekhon/Jenkins/actions/workflows/semgrep-cloud.yaml)
+[![Kics](https://github.com/HariSekhon/Jenkins/actions/workflows/kics.yaml/badge.svg)](https://github.com/HariSekhon/Jenkins/actions/workflows/kics.yaml)
+
+[![Repo on Azure DevOps](https://img.shields.io/badge/repo-Azure%20DevOps-0078D7?logo=azure%20devops)](https://dev.azure.com/harisekhon/GitHub/_git/Jenkins)
+[![Repo on GitHub](https://img.shields.io/badge/repo-GitHub-2088FF?logo=github)](https://github.com/HariSekhon/Jenkins)
+[![Repo on GitLab](https://img.shields.io/badge/repo-GitLab-FCA121?logo=gitlab)](https://gitlab.com/HariSekhon/Jenkins)
+[![Repo on BitBucket](https://img.shields.io/badge/repo-BitBucket-0052CC?logo=bitbucket)](https://bitbucket.org/HariSekhon/Jenkins)
+
+
+---
 # Hari Sekhon - Perl Library
 
 Link:  [HariSekhon/lib](https://github.com/HariSekhon/lib)
@@ -1136,34 +1164,6 @@ Perl Utility Library for my other repos
 
 
 ---
-# Jenkins - Advanced Jenkinsfile & Groovy Shared Library
-
-Link:  [HariSekhon/Jenkins](https://github.com/HariSekhon/Jenkins)
-
-Jenkins - Advanced Jenkinsfile & Groovy Shared Library of reusable functions and pipelines - including for AWS, GCP, Docker, Kubernetes, ArgoCD, Slack notifications, Git Merge, Terraform, Cloudflare, Jenkins Job Backups, most major Docker registries, DockerHub, GHCR, ECR, GCR, GAR, ACR, GitLab, Quay
-
-[![GitHub stars](https://img.shields.io/github/stars/HariSekhon/Jenkins?logo=github)](https://github.com/HariSekhon/Jenkins/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/HariSekhon/Jenkins?logo=github)](https://github.com/HariSekhon/Jenkins/network)
-[![Lines of Code](https://img.shields.io/badge/lines%20of%20code-5.8k-lightgrey?logo=codecademy)](https://github.com/HariSekhon/Jenkins)
-[![License](https://img.shields.io/github/license/HariSekhon/Jenkins)](https://github.com/HariSekhon/Jenkins/blob/master/LICENSE)
-[![GitHub Last Commit](https://img.shields.io/github/last-commit/HariSekhon/Jenkins?logo=github)](https://github.com/HariSekhon/Jenkins/commits/master)
-
-[![CI Builds Overview](https://img.shields.io/badge/CI%20Builds-Overview%20Page-blue?logo=circleci)](https://harisekhon.github.io/CI-CD/)
-[![Jenkinsfile](https://github.com/HariSekhon/Jenkins/actions/workflows/jenkinsfile.yaml/badge.svg)](https://github.com/HariSekhon/Jenkins/actions/workflows/jenkinsfile.yaml)
-[![Groovy](https://github.com/HariSekhon/Jenkins/actions/workflows/groovyc.yaml/badge.svg)](https://github.com/HariSekhon/Jenkins/actions/workflows/groovyc.yaml)
-[![YAML](https://github.com/HariSekhon/Jenkins/actions/workflows/yaml.yaml/badge.svg)](https://github.com/HariSekhon/Jenkins/actions/workflows/yaml.yaml)
-[![Validation](https://github.com/HariSekhon/Jenkins/actions/workflows/validate.yaml/badge.svg)](https://github.com/HariSekhon/Jenkins/actions/workflows/validate.yaml)
-[![Semgrep](https://github.com/HariSekhon/Jenkins/actions/workflows/semgrep.yaml/badge.svg)](https://github.com/HariSekhon/Jenkins/actions/workflows/semgrep.yaml)
-[![Semgrep Cloud](https://github.com/HariSekhon/Jenkins/actions/workflows/semgrep-cloud.yaml/badge.svg)](https://github.com/HariSekhon/Jenkins/actions/workflows/semgrep-cloud.yaml)
-[![Kics](https://github.com/HariSekhon/Jenkins/actions/workflows/kics.yaml/badge.svg)](https://github.com/HariSekhon/Jenkins/actions/workflows/kics.yaml)
-
-[![Repo on Azure DevOps](https://img.shields.io/badge/repo-Azure%20DevOps-0078D7?logo=azure%20devops)](https://dev.azure.com/harisekhon/GitHub/_git/Jenkins)
-[![Repo on GitHub](https://img.shields.io/badge/repo-GitHub-2088FF?logo=github)](https://github.com/HariSekhon/Jenkins)
-[![Repo on GitLab](https://img.shields.io/badge/repo-GitLab-FCA121?logo=gitlab)](https://gitlab.com/HariSekhon/Jenkins)
-[![Repo on BitBucket](https://img.shields.io/badge/repo-BitBucket-0052CC?logo=bitbucket)](https://bitbucket.org/HariSekhon/Jenkins)
-
-
----
 # GitHub Actions
 
 Link:  [HariSekhon/GitHub-Actions](https://github.com/HariSekhon/GitHub-Actions)
@@ -1188,6 +1188,42 @@ GitHub Actions master template and GitHub Actions Reusable Workflows
 [![Repo on GitHub](https://img.shields.io/badge/repo-GitHub-2088FF?logo=github)](https://github.com/HariSekhon/GitHub-Actions)
 [![Repo on GitLab](https://img.shields.io/badge/repo-GitLab-FCA121?logo=gitlab)](https://gitlab.com/HariSekhon/GitHub-Actions)
 [![Repo on BitBucket](https://img.shields.io/badge/repo-BitBucket-0052CC?logo=bitbucket)](https://bitbucket.org/HariSekhon/GitHub-Actions)
+
+
+---
+# Hari Sekhon - Spotify Playlists
+
+Link:  [HariSekhon/Spotify-Playlists](https://github.com/HariSekhon/Spotify-Playlists)
+
+240+ playlists, 36,000+ tracks - in both Spotify URI and human-readable formats. Spotify Profile: https://open.spotify.com/user/harisekhon. Spotify API tools are submodules of this repo.
+
+[![Spotify Profile](https://img.shields.io/badge/Spotify%20Profile-HariSekhon-brightgreen?logo=spotify&style=social)](https://open.spotify.com/user/harisekhon)
+[![Playlists](https://img.shields.io/badge/Playlists-240+-blue?logo=spotify)](https://open.spotify.com/user/harisekhon)
+[![Tracks](https://img.shields.io/badge/Tracks-36,600+-blue?logo=spotify)](https://open.spotify.com/user/harisekhon)
+[![Unique Tracks](https://img.shields.io/badge/Unique%20Tracks-17,500+-blue?logo=spotify)](https://open.spotify.com/user/harisekhon)
+
+[![GitHub stars](https://img.shields.io/github/stars/HariSekhon/Spotify-Playlists?logo=github)](https://github.com/HariSekhon/Spotify-Playlists/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/HariSekhon/Spotify-Playlists?logo=github)](https://github.com/HariSekhon/Spotify-Playlists/network)
+[![License](https://img.shields.io/github/license/HariSekhon/Spotify-Playlists)](https://github.com/HariSekhon/Spotify-Playlists/blob/master/LICENSE)
+[![GitHub Last Commit](https://img.shields.io/github/last-commit/HariSekhon/Spotify-Playlists?logo=github)](https://github.com/HariSekhon/Spotify-Playlists/commits/master)
+
+[![CI Builds Overview](https://img.shields.io/badge/CI%20Builds-Overview%20Page-blue?logo=circleci)](https://harisekhon.github.io/CI-CD/)
+[![ShellCheck](https://github.com/HariSekhon/Spotify-Playlists/actions/workflows/shellcheck.yaml/badge.svg)](https://github.com/HariSekhon/Spotify-Playlists/actions/workflows/shellcheck.yaml)
+[![JSON](https://github.com/HariSekhon/Spotify-Playlists/actions/workflows/json.yaml/badge.svg)](https://github.com/HariSekhon/Spotify-Playlists/actions/workflows/json.yaml)
+[![YAML](https://github.com/HariSekhon/Spotify-Playlists/actions/workflows/yaml.yaml/badge.svg)](https://github.com/HariSekhon/Spotify-Playlists/actions/workflows/yaml.yaml)
+[![XML](https://github.com/HariSekhon/Spotify-Playlists/actions/workflows/xml.yaml/badge.svg)](https://github.com/HariSekhon/Spotify-Playlists/actions/workflows/xml.yaml)
+[![Validation](https://github.com/HariSekhon/Spotify-Playlists/actions/workflows/validate.yaml/badge.svg)](https://github.com/HariSekhon/Spotify-Playlists/actions/workflows/validate.yaml)
+[![Semgrep](https://github.com/HariSekhon/Spotify-Playlists/actions/workflows/semgrep.yaml/badge.svg)](https://github.com/HariSekhon/Spotify-Playlists/actions/workflows/semgrep.yaml)
+[![Semgrep Cloud](https://github.com/HariSekhon/Spotify-Playlists/actions/workflows/semgrep-cloud.yaml/badge.svg)](https://github.com/HariSekhon/Spotify-Playlists/actions/workflows/semgrep-cloud.yaml)
+[![Kics](https://github.com/HariSekhon/Spotify-Playlists/actions/workflows/kics.yaml/badge.svg)](https://github.com/HariSekhon/Spotify-Playlists/actions/workflows/kics.yaml)
+[![Travis CI](https://img.shields.io/badge/TravisCI-ready-blue?logo=travis&label=Travis%20CI)](https://github.com/HariSekhon/Spotify-Playlists/blob/master/.travis.yml)
+
+[![Repo on Azure DevOps](https://img.shields.io/badge/repo-Azure%20DevOps-0078D7?logo=azure%20devops)](https://dev.azure.com/harisekhon/GitHub/_git/Spotify-Playlists)
+[![Repo on GitHub](https://img.shields.io/badge/repo-GitHub-2088FF?logo=github)](https://github.com/HariSekhon/Spotify-Playlists)
+[![Repo on GitLab](https://img.shields.io/badge/repo-GitLab-FCA121?logo=gitlab)](https://gitlab.com/HariSekhon/Spotify-Playlists)
+[![Repo on BitBucket](https://img.shields.io/badge/repo-BitBucket-0052CC?logo=bitbucket)](https://bitbucket.org/HariSekhon/Spotify-Playlists)
+
+[git.io/spotify-playlists](https://git.io/spotify-playlists)
 
 
 ---
@@ -1280,42 +1316,6 @@ Kafka Scala API CLI / Advanced Nagios Plugin, with Kerberos support (uses Kafka 
 [![Gradle](https://github.com/HariSekhon/Nagios-Plugin-Kafka/workflows/Gradle/badge.svg)](https://github.com/HariSekhon/Nagios-Plugin-Kafka/actions?query=workflow%3A%22Gradle%22)
 
 [git.io/nagios-plugin-kafka](https://git.io/nagios-plugin-kafka)
-
-
----
-# Hari Sekhon - Spotify Playlists
-
-Link:  [HariSekhon/Spotify-Playlists](https://github.com/HariSekhon/Spotify-Playlists)
-
-240+ playlists, 36,000+ tracks - in both Spotify URI and human-readable formats. Spotify Profile: https://open.spotify.com/user/harisekhon. Spotify API tools are submodules of this repo.
-
-[![Spotify Profile](https://img.shields.io/badge/Spotify%20Profile-HariSekhon-brightgreen?logo=spotify&style=social)](https://open.spotify.com/user/harisekhon)
-[![Playlists](https://img.shields.io/badge/Playlists-240+-blue?logo=spotify)](https://open.spotify.com/user/harisekhon)
-[![Tracks](https://img.shields.io/badge/Tracks-36,600+-blue?logo=spotify)](https://open.spotify.com/user/harisekhon)
-[![Unique Tracks](https://img.shields.io/badge/Unique%20Tracks-17,500+-blue?logo=spotify)](https://open.spotify.com/user/harisekhon)
-
-[![GitHub stars](https://img.shields.io/github/stars/HariSekhon/Spotify-Playlists?logo=github)](https://github.com/HariSekhon/Spotify-Playlists/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/HariSekhon/Spotify-Playlists?logo=github)](https://github.com/HariSekhon/Spotify-Playlists/network)
-[![License](https://img.shields.io/github/license/HariSekhon/Spotify-Playlists)](https://github.com/HariSekhon/Spotify-Playlists/blob/master/LICENSE)
-[![GitHub Last Commit](https://img.shields.io/github/last-commit/HariSekhon/Spotify-Playlists?logo=github)](https://github.com/HariSekhon/Spotify-Playlists/commits/master)
-
-[![CI Builds Overview](https://img.shields.io/badge/CI%20Builds-Overview%20Page-blue?logo=circleci)](https://harisekhon.github.io/CI-CD/)
-[![ShellCheck](https://github.com/HariSekhon/Spotify-Playlists/actions/workflows/shellcheck.yaml/badge.svg)](https://github.com/HariSekhon/Spotify-Playlists/actions/workflows/shellcheck.yaml)
-[![JSON](https://github.com/HariSekhon/Spotify-Playlists/actions/workflows/json.yaml/badge.svg)](https://github.com/HariSekhon/Spotify-Playlists/actions/workflows/json.yaml)
-[![YAML](https://github.com/HariSekhon/Spotify-Playlists/actions/workflows/yaml.yaml/badge.svg)](https://github.com/HariSekhon/Spotify-Playlists/actions/workflows/yaml.yaml)
-[![XML](https://github.com/HariSekhon/Spotify-Playlists/actions/workflows/xml.yaml/badge.svg)](https://github.com/HariSekhon/Spotify-Playlists/actions/workflows/xml.yaml)
-[![Validation](https://github.com/HariSekhon/Spotify-Playlists/actions/workflows/validate.yaml/badge.svg)](https://github.com/HariSekhon/Spotify-Playlists/actions/workflows/validate.yaml)
-[![Semgrep](https://github.com/HariSekhon/Spotify-Playlists/actions/workflows/semgrep.yaml/badge.svg)](https://github.com/HariSekhon/Spotify-Playlists/actions/workflows/semgrep.yaml)
-[![Semgrep Cloud](https://github.com/HariSekhon/Spotify-Playlists/actions/workflows/semgrep-cloud.yaml/badge.svg)](https://github.com/HariSekhon/Spotify-Playlists/actions/workflows/semgrep-cloud.yaml)
-[![Kics](https://github.com/HariSekhon/Spotify-Playlists/actions/workflows/kics.yaml/badge.svg)](https://github.com/HariSekhon/Spotify-Playlists/actions/workflows/kics.yaml)
-[![Travis CI](https://img.shields.io/badge/TravisCI-ready-blue?logo=travis&label=Travis%20CI)](https://github.com/HariSekhon/Spotify-Playlists/blob/master/.travis.yml)
-
-[![Repo on Azure DevOps](https://img.shields.io/badge/repo-Azure%20DevOps-0078D7?logo=azure%20devops)](https://dev.azure.com/harisekhon/GitHub/_git/Spotify-Playlists)
-[![Repo on GitHub](https://img.shields.io/badge/repo-GitHub-2088FF?logo=github)](https://github.com/HariSekhon/Spotify-Playlists)
-[![Repo on GitLab](https://img.shields.io/badge/repo-GitLab-FCA121?logo=gitlab)](https://gitlab.com/HariSekhon/Spotify-Playlists)
-[![Repo on BitBucket](https://img.shields.io/badge/repo-BitBucket-0052CC?logo=bitbucket)](https://bitbucket.org/HariSekhon/Spotify-Playlists)
-
-[git.io/spotify-playlists](https://git.io/spotify-playlists)
 
 
 ---
@@ -1460,6 +1460,14 @@ TeamCity CI configs - plus links to one-touch Jenkins, GoCD, Concourse, TeamCity
 
 
 ---
+# CI/CD Status Page
+
+Link:  [HariSekhon/CI-CD](https://github.com/HariSekhon/CI-CD)
+
+CI/CD Status page for Hari Sekhon's GitHub repos
+
+
+---
 # SQL Keywords
 
 Link:  [HariSekhon/SQL-keywords](https://github.com/HariSekhon/SQL-keywords)
@@ -1589,14 +1597,6 @@ Java Utility library for my other repos
 [![Maven](https://github.com/HariSekhon/lib-java/workflows/Maven/badge.svg)](https://github.com/HariSekhon/lib-java/actions?query=workflow%3A%22Maven%22)
 [![SBT](https://github.com/HariSekhon/lib-java/workflows/SBT/badge.svg)](https://github.com/HariSekhon/lib-java/actions?query=workflow%3A%22SBT%22)
 [![Gradle](https://github.com/HariSekhon/lib-java/workflows/Gradle/badge.svg)](https://github.com/HariSekhon/lib-java/actions?query=workflow%3A%22Gradle%22)
-
-
----
-# CI/CD Status Page
-
-Link:  [HariSekhon/CI-CD](https://github.com/HariSekhon/CI-CD)
-
-CI/CD Status page for Hari Sekhon's GitHub repos
 
 
 ---
