@@ -1,9 +1,9 @@
 # CI/CD Status Page
 
 ![Original Repos](https://img.shields.io/badge/Repos-23-blue?logo=github)
-![Stars](https://img.shields.io/badge/Stars-4928-blue?logo=github)
-![Forks](https://img.shields.io/badge/Forks-2056-blue?logo=github)
-![Followers](https://img.shields.io/badge/Followers-1084-blue?logo=github)
+![Stars](https://img.shields.io/badge/Stars-4932-blue?logo=github)
+![Forks](https://img.shields.io/badge/Forks-2057-blue?logo=github)
+![Followers](https://img.shields.io/badge/Followers-1085-blue?logo=github)
 ![Lines of Code](https://img.shields.io/badge/lines%20of%20code-271.1k-lightgrey?logo=codecademy)
 [![GitStar Ranking Profile](https://img.shields.io/badge/GitStar%20Ranking-HariSekhon-blue?logo=github)](https://gitstar-ranking.com/HariSekhon)
 [![StarCharts](https://img.shields.io/badge/Star-Charts-blue?logo=github)](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/STARCHARTS.md)
@@ -19,107 +19,10 @@
 [![Generate README](https://github.com/HariSekhon/CI-CD/actions/workflows/readme.yaml/badge.svg)](https://github.com/HariSekhon/CI-CD/actions/workflows/readme.yaml)
 [![pages-build-deployment](https://github.com/HariSekhon/CI-CD/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/HariSekhon/CI-CD/actions/workflows/pages/pages-build-deployment)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/853ef60c-c01b-4b83-99ba-8fda541f850f/deploy-status)](https://app.netlify.com/sites/harisekhon/deploys)
-![Last Generated](https://img.shields.io/badge/Last%20Generated-2023--03--30-yellowgreen?logo=github)
+![Last Generated](https://img.shields.io/badge/Last%20Generated-2023--03--31-yellowgreen?logo=github)
 [![GitHub Last Commit](https://img.shields.io/github/last-commit/HariSekhon/CI-CD?logo=github)](https://github.com/HariSekhon/CI-CD/commits/master)
 
 23 original source git repos with 760 CI builds (711 hosted, 49 self-hosted) across 23 different CI/CD systems:
-
----
-# Dockerfiles for DevOps, CI/CD, Big Data & NoSQL
-
-Link:  [HariSekhon/Dockerfiles](https://github.com/HariSekhon/Dockerfiles)
-
-50+ DockerHub public images for Docker & Kubernetes - DevOps, CI/CD, GitHub Actions, CircleCI, Jenkins, TeamCity, Alpine, CentOS, Debian, Fedora, Ubuntu, Hadoop, Kafka, ZooKeeper, HBase, Cassandra, Solr, SolrCloud, Presto, Apache Drill, Nifi, Spark, Consul, Riak
-
-[![GitHub stars](https://img.shields.io/github/stars/harisekhon/Dockerfiles?logo=github)](https://github.com/HariSekhon/Dockerfiles/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/harisekhon/Dockerfiles?logo=github)](https://github.com/HariSekhon/Dockerfiles/network)
-[![Contributors](https://img.shields.io/github/contributors/HariSekhon/Dockerfiles?logo=github)](https://github.com/HariSekhon/Dockerfiles/graphs/contributors)
-[![Lines of Code](https://img.shields.io/badge/lines%20of%20code-8k-lightgrey?logo=codecademy)](https://github.com/HariSekhon/Dockerfiles)
-[![License](https://img.shields.io/github/license/HariSekhon/Dockerfiles)](https://github.com/HariSekhon/Dockerfiles/blob/master/LICENSE)
-[![GitHub Last Commit](https://img.shields.io/github/last-commit/HariSekhon/Dockerfiles?logo=github)](https://github.com/HariSekhon/Dockerfiles/commits/master)
-
-[![Codacy](https://api.codacy.com/project/badge/Grade/de6229f2d2ba4945acde9f86f59d2c66)](https://app.codacy.com/gh/HariSekhon/Dockerfiles/dashboard)
-[![CodeFactor](https://www.codefactor.io/repository/github/harisekhon/Dockerfiles/badge)](https://www.codefactor.io/repository/github/harisekhon/Dockerfiles)
-[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_Dockerfiles&metric=alert_status)](https://sonarcloud.io/dashboard?id=HariSekhon_Dockerfiles)
-[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_Dockerfiles&metric=sqale_rating)](https://sonarcloud.io/dashboard?id=HariSekhon_Dockerfiles)
-[![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_Dockerfiles&metric=reliability_rating)](https://sonarcloud.io/dashboard?id=HariSekhon_Dockerfiles)
-[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_Dockerfiles&metric=security_rating)](https://sonarcloud.io/dashboard?id=HariSekhon_Dockerfiles)
-
-[![Linux](https://img.shields.io/badge/OS-Linux-blue?logo=linux)](https://github.com/HariSekhon/Dockerfiles)
-[![Mac](https://img.shields.io/badge/OS-Mac-blue?logo=apple)](https://github.com/HariSekhon/Dockerfiles)
-[![Docker](https://img.shields.io/badge/container-Docker-blue?logo=docker&logoColor=white)](https://hub.docker.com/u/harisekhon)
-[![StarTrack](https://img.shields.io/badge/Star-Track-blue?logo=github)](https://seladb.github.io/StarTrack-js/#/preload?r=HariSekhon,Nagios-Plugins&r=HariSekhon,Dockerfiles&r=HariSekhon,DevOps-Python-tools&r=HariSekhon,DevOps-Perl-tools&r=HariSekhon,DevOps-Bash-tools&r=HariSekhon,HAProxy-configs&r=HariSekhon,SQL-scripts)
-[![StarCharts](https://img.shields.io/badge/Star-Charts-blue?logo=github)](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/STARCHARTS.md)
-
-[![Alpine](https://img.shields.io/badge/Linux-Alpine-0D597F?logo=alpine%20linux&color=0D597F)](https://alpinelinux.org/)
-[![CentOS](https://img.shields.io/badge/Linux-CentOS-red?logo=centos&color=262577&logoColor=white)](https://www.centos.org/)
-[![Debian](https://img.shields.io/badge/Linux-Debian-red?logo=debian&color=A81D33)](https://www.debian.org/)
-[![Fedora](https://img.shields.io/badge/Linux-Fedora-294172?logo=fedora)](https://getfedora.org/)
-[![Redhat](https://img.shields.io/badge/Linux-Redhat-red?logo=red%20hat)](https://www.redhat.com/en)
-[![Ubuntu](https://img.shields.io/badge/Linux-Ubuntu-orange?logo=ubuntu&logoColor=white)](https://ubuntu.com/)
-
-[![CI Builds Overview](https://img.shields.io/badge/CI%20Builds-Overview%20Page-blue?logo=circleci)](https://harisekhon.github.io/CI-CD/)
-[![Jenkins](https://img.shields.io/badge/Jenkins-ready-blue?logo=jenkins&logoColor=white)](https://github.com/HariSekhon/Dockerfiles/blob/master/Jenkinsfile)
-[![Concourse](https://img.shields.io/badge/Concourse-ready-blue?logo=concourse)](https://github.com/HariSekhon/Dockerfiles/blob/master/.concourse.yml)
-[![GoCD](https://img.shields.io/badge/GoCD-ready-blue?logo=go)](https://github.com/HariSekhon/Dockerfiles/blob/master/.gocd.yml)
-[![TeamCity](https://img.shields.io/badge/TeamCity-ready-blue?logo=teamcity)](https://github.com/HariSekhon/TeamCity-CI)
-
-[![CircleCI](https://circleci.com/gh/HariSekhon/Dockerfiles.svg?style=svg)](https://circleci.com/gh/HariSekhon/Dockerfiles)
-[![BuildKite](https://img.shields.io/buildkite/503cefcbf7f8c60c2826d7a22a22496d1187a4839b71619914/master?label=BuildKite&logo=buildkite)](https://buildkite.com/hari-sekhon/dockerfiles)
-[![AppVeyor](https://img.shields.io/appveyor/build/harisekhon/Dockerfiles/master?logo=appveyor&label=AppVeyor)](https://ci.appveyor.com/project/HariSekhon/Dockerfiles/branch/master)
-[![Drone](https://img.shields.io/drone/build/HariSekhon/Dockerfiles/master?logo=drone&label=Drone)](https://cloud.drone.io/HariSekhon/Dockerfiles)
-[![Codeship Status for HariSekhon/Dockerfiles](https://app.codeship.com/projects/915368e0-3c5f-0138-52ff-1ecbdb7eccb9/status?branch=master)](https://app.codeship.com/projects/387249)
-[![Codefresh](https://g.codefresh.io/api/badges/pipeline/harisekhon/GitHub%2FDockerfiles?branch=master&key=eyJhbGciOiJIUzI1NiJ9.NWU1MmM5OGNiM2FiOWUzM2Y3ZDZmYjM3.O69674cW7vYom3v5JOGKXDbYgCVIJU9EWhXUMHl3zwA&type=cf-1)](https://g.codefresh.io/pipelines/edit/new/builds?id=5e58e32c9604d7520e95ee26&pipeline=Dockerfiles&projects=GitHub&projectId=5e52ca8ea284e00f882ea992&context=github&filter=page:1;pageSize:10;timeFrameStart:week)
-[![Cirrus CI](https://img.shields.io/cirrus/github/HariSekhon/Dockerfiles/master?logo=Cirrus%20CI&label=Cirrus%20CI)](https://cirrus-ci.com/github/HariSekhon/Dockerfiles)
-[![Semaphore](https://harisekhon.semaphoreci.com/badges/Dockerfiles.svg)](https://harisekhon.semaphoreci.com/projects/Dockerfiles)
-[![Wercker](https://app.wercker.com/status/26a0f1151450a0de3d8a339345b70019/s/master "wercker status")](https://app.wercker.com/harisekhon/dockerfiles/runs)
-[![Buddy](https://img.shields.io/badge/Buddy-ready-1A86FD?logo=buddy)](https://github.com/HariSekhon/Dockerfiles/blob/master/buddy.yml)
-[![Shippable](https://img.shields.io/badge/Shippable-legacy-lightgrey?logo=jfrog&label=Shippable)](https://github.com/HariSekhon/Dockerfiles/blob/master/shippable.yml)
-[![Travis CI](https://img.shields.io/badge/TravisCI-ready-blue?logo=travis&label=Travis%20CI)](https://github.com/HariSekhon/Dockerfiles/blob/master/.travis.yml)
-
-
-[![Azure DevOps Pipeline](https://dev.azure.com/harisekhon/GitHub/_apis/build/status/HariSekhon.Dockerfiles?branchName=master)](https://dev.azure.com/harisekhon/GitHub/_build/latest?definitionId=6&branchName=master)
-[![GitLab Pipeline](https://img.shields.io/gitlab/pipeline/harisekhon/Dockerfiles?logo=gitlab&label=GitLab%20CI)](https://gitlab.com/HariSekhon/Dockerfiles/pipelines)
-[![BitBucket Pipeline](https://img.shields.io/bitbucket/pipelines/harisekhon/dockerfiles/master?logo=bitbucketi&label=BitBucket%20CI)](https://bitbucket.org/harisekhon/dockerfiles/addon/pipelines/home#!/)
-[![AWS CodeBuild](https://img.shields.io/badge/AWS%20CodeBuild-ready-blue?logo=amazon%20aws)](https://github.com/HariSekhon/Dockerfiles/blob/master/buildspec.yml)
-[![GCP Cloud Build](https://img.shields.io/badge/GCP%20Cloud%20Build-ready-blue?logo=google%20cloud&logoColor=white)](https://github.com/HariSekhon/Dockerfiles/blob/master/cloudbuild.yaml)
-
-[![Repo on Azure DevOps](https://img.shields.io/badge/repo-Azure%20DevOps-0078D7?logo=azure%20devops)](https://dev.azure.com/harisekhon/GitHub/_git/Dockerfiles)
-[![Repo on GitHub](https://img.shields.io/badge/repo-GitHub-2088FF?logo=github)](https://github.com/HariSekhon/Dockerfiles)
-[![Repo on GitLab](https://img.shields.io/badge/repo-GitLab-FCA121?logo=gitlab)](https://gitlab.com/HariSekhon/Dockerfiles)
-[![Repo on BitBucket](https://img.shields.io/badge/repo-BitBucket-0052CC?logo=bitbucket)](https://bitbucket.org/HariSekhon/Dockerfiles)
-[![Dockerfiles](https://github.com/HariSekhon/Dockerfiles/actions/workflows/dockerfiles.yaml/badge.svg)](https://github.com/HariSekhon/Dockerfiles/actions/workflows/dockerfiles.yaml)
-[![ShellCheck](https://github.com/HariSekhon/Dockerfiles/actions/workflows/shellcheck.yaml/badge.svg)](https://github.com/HariSekhon/Dockerfiles/actions/workflows/shellcheck.yaml)
-[![JSON](https://github.com/HariSekhon/Dockerfiles/actions/workflows/json.yaml/badge.svg)](https://github.com/HariSekhon/Dockerfiles/actions/workflows/json.yaml)
-[![YAML](https://github.com/HariSekhon/Dockerfiles/actions/workflows/yaml.yaml/badge.svg)](https://github.com/HariSekhon/Dockerfiles/actions/workflows/yaml.yaml)
-[![XML](https://github.com/HariSekhon/Dockerfiles/actions/workflows/xml.yaml/badge.svg)](https://github.com/HariSekhon/Dockerfiles/actions/workflows/xml.yaml)
-[![Validation](https://github.com/HariSekhon/Dockerfiles/actions/workflows/validate.yaml/badge.svg)](https://github.com/HariSekhon/Dockerfiles/actions/workflows/validate.yaml)
-[![Semgrep](https://github.com/HariSekhon/Dockerfiles/actions/workflows/semgrep.yaml/badge.svg)](https://github.com/HariSekhon/Dockerfiles/actions/workflows/semgrep.yaml)
-[![Semgrep Cloud](https://github.com/HariSekhon/Dockerfiles/actions/workflows/semgrep-cloud.yaml/badge.svg)](https://github.com/HariSekhon/Dockerfiles/actions/workflows/semgrep-cloud.yaml)
-[![Kics](https://github.com/HariSekhon/Dockerfiles/actions/workflows/kics.yaml/badge.svg)](https://github.com/HariSekhon/Dockerfiles/actions/workflows/kics.yaml)
-
-[![GitHub Actions Ubuntu](https://github.com/HariSekhon/Dockerfiles/workflows/GitHub%20Actions%20Ubuntu/badge.svg)](https://github.com/HariSekhon/Dockerfiles/actions?query=workflow%3A%22GitHub+Actions+Ubuntu%22)
-[![Mac](https://github.com/HariSekhon/Dockerfiles/actions/workflows/mac.yaml/badge.svg)](https://github.com/HariSekhon/Dockerfiles/actions/workflows/mac.yaml)
-[![Mac 11](https://github.com/HariSekhon/Dockerfiles/actions/workflows/mac_11.yaml/badge.svg)](https://github.com/HariSekhon/Dockerfiles/actions/workflows/mac_11.yaml)
-[![Mac 12](https://github.com/HariSekhon/Dockerfiles/actions/workflows/mac_12.yaml/badge.svg)](https://github.com/HariSekhon/Dockerfiles/actions/workflows/mac_12.yaml)
-[![Ubuntu](https://github.com/HariSekhon/Dockerfiles/workflows/Ubuntu/badge.svg)](https://github.com/HariSekhon/Dockerfiles/actions?query=workflow%3A%22Ubuntu%22)
-[![Ubuntu 14.04](https://github.com/HariSekhon/Dockerfiles/workflows/Ubuntu%2014.04/badge.svg)](https://github.com/HariSekhon/Dockerfiles/actions?query=workflow%3A%22Ubuntu+14.04%22)
-[![Ubuntu 16.04](https://github.com/HariSekhon/Dockerfiles/workflows/Ubuntu%2016.04/badge.svg)](https://github.com/HariSekhon/Dockerfiles/actions?query=workflow%3A%22Ubuntu+16.04%22)
-[![Ubuntu 18.04](https://github.com/HariSekhon/Dockerfiles/workflows/Ubuntu%2018.04/badge.svg)](https://github.com/HariSekhon/Dockerfiles/actions?query=workflow%3A%22Ubuntu+18.04%22)
-[![Ubuntu 20.04](https://github.com/HariSekhon/Dockerfiles/workflows/Ubuntu%2020.04/badge.svg)](https://github.com/HariSekhon/Dockerfiles/actions?query=workflow%3A%22Ubuntu+20.04%22)
-[![Debian](https://github.com/HariSekhon/Dockerfiles/workflows/Debian/badge.svg)](https://github.com/HariSekhon/Dockerfiles/actions?query=workflow%3A%22Debian%22)
-[![Debian 8](https://github.com/HariSekhon/Dockerfiles/workflows/Debian%208/badge.svg)](https://github.com/HariSekhon/Dockerfiles/actions?query=workflow%3A%22Debian+8%22)
-[![Debian 9](https://github.com/HariSekhon/Dockerfiles/workflows/Debian%209/badge.svg)](https://github.com/HariSekhon/Dockerfiles/actions?query=workflow%3A%22Debian+9%22)
-[![Debian 10](https://github.com/HariSekhon/Dockerfiles/workflows/Debian%2010/badge.svg)](https://github.com/HariSekhon/Dockerfiles/actions?query=workflow%3A%22Debian+10%22)
-[![CentOS](https://github.com/HariSekhon/Dockerfiles/workflows/CentOS/badge.svg)](https://github.com/HariSekhon/Dockerfiles/actions?query=workflow%3A%22CentOS%22)
-[![CentOS 7](https://github.com/HariSekhon/Dockerfiles/workflows/CentOS%207/badge.svg)](https://github.com/HariSekhon/Dockerfiles/actions?query=workflow%3A%22CentOS+7%22)
-[![CentOS 8](https://github.com/HariSekhon/Dockerfiles/workflows/CentOS%208/badge.svg)](https://github.com/HariSekhon/Dockerfiles/actions?query=workflow%3A%22CentOS+8%22)
-[![Fedora](https://github.com/HariSekhon/Dockerfiles/workflows/Fedora/badge.svg)](https://github.com/HariSekhon/Dockerfiles/actions?query=workflow%3A%22Fedora%22)
-[![Alpine](https://github.com/HariSekhon/Dockerfiles/workflows/Alpine/badge.svg)](https://github.com/HariSekhon/Dockerfiles/actions?query=workflow%3A%22Alpine%22)
-[![Alpine 3](https://github.com/HariSekhon/Dockerfiles/workflows/Alpine%203/badge.svg)](https://github.com/HariSekhon/Dockerfiles/actions?query=workflow%3A%22Alpine+3%22)
-
-[git.io/dockerhub](https://git.io/dockerhub)
-
 
 ---
 # Hari Sekhon - DevOps Bash Tools
@@ -243,6 +146,103 @@ Link:  [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-
 
 
 [git.io/bash-tools](https://git.io/bash-tools)
+
+
+---
+# Dockerfiles for DevOps, CI/CD, Big Data & NoSQL
+
+Link:  [HariSekhon/Dockerfiles](https://github.com/HariSekhon/Dockerfiles)
+
+50+ DockerHub public images for Docker & Kubernetes - DevOps, CI/CD, GitHub Actions, CircleCI, Jenkins, TeamCity, Alpine, CentOS, Debian, Fedora, Ubuntu, Hadoop, Kafka, ZooKeeper, HBase, Cassandra, Solr, SolrCloud, Presto, Apache Drill, Nifi, Spark, Consul, Riak
+
+[![GitHub stars](https://img.shields.io/github/stars/harisekhon/Dockerfiles?logo=github)](https://github.com/HariSekhon/Dockerfiles/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/harisekhon/Dockerfiles?logo=github)](https://github.com/HariSekhon/Dockerfiles/network)
+[![Contributors](https://img.shields.io/github/contributors/HariSekhon/Dockerfiles?logo=github)](https://github.com/HariSekhon/Dockerfiles/graphs/contributors)
+[![Lines of Code](https://img.shields.io/badge/lines%20of%20code-8k-lightgrey?logo=codecademy)](https://github.com/HariSekhon/Dockerfiles)
+[![License](https://img.shields.io/github/license/HariSekhon/Dockerfiles)](https://github.com/HariSekhon/Dockerfiles/blob/master/LICENSE)
+[![GitHub Last Commit](https://img.shields.io/github/last-commit/HariSekhon/Dockerfiles?logo=github)](https://github.com/HariSekhon/Dockerfiles/commits/master)
+
+[![Codacy](https://api.codacy.com/project/badge/Grade/de6229f2d2ba4945acde9f86f59d2c66)](https://app.codacy.com/gh/HariSekhon/Dockerfiles/dashboard)
+[![CodeFactor](https://www.codefactor.io/repository/github/harisekhon/Dockerfiles/badge)](https://www.codefactor.io/repository/github/harisekhon/Dockerfiles)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_Dockerfiles&metric=alert_status)](https://sonarcloud.io/dashboard?id=HariSekhon_Dockerfiles)
+[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_Dockerfiles&metric=sqale_rating)](https://sonarcloud.io/dashboard?id=HariSekhon_Dockerfiles)
+[![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_Dockerfiles&metric=reliability_rating)](https://sonarcloud.io/dashboard?id=HariSekhon_Dockerfiles)
+[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_Dockerfiles&metric=security_rating)](https://sonarcloud.io/dashboard?id=HariSekhon_Dockerfiles)
+
+[![Linux](https://img.shields.io/badge/OS-Linux-blue?logo=linux)](https://github.com/HariSekhon/Dockerfiles)
+[![Mac](https://img.shields.io/badge/OS-Mac-blue?logo=apple)](https://github.com/HariSekhon/Dockerfiles)
+[![Docker](https://img.shields.io/badge/container-Docker-blue?logo=docker&logoColor=white)](https://hub.docker.com/u/harisekhon)
+[![StarTrack](https://img.shields.io/badge/Star-Track-blue?logo=github)](https://seladb.github.io/StarTrack-js/#/preload?r=HariSekhon,Nagios-Plugins&r=HariSekhon,Dockerfiles&r=HariSekhon,DevOps-Python-tools&r=HariSekhon,DevOps-Perl-tools&r=HariSekhon,DevOps-Bash-tools&r=HariSekhon,HAProxy-configs&r=HariSekhon,SQL-scripts)
+[![StarCharts](https://img.shields.io/badge/Star-Charts-blue?logo=github)](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/STARCHARTS.md)
+
+[![Alpine](https://img.shields.io/badge/Linux-Alpine-0D597F?logo=alpine%20linux&color=0D597F)](https://alpinelinux.org/)
+[![CentOS](https://img.shields.io/badge/Linux-CentOS-red?logo=centos&color=262577&logoColor=white)](https://www.centos.org/)
+[![Debian](https://img.shields.io/badge/Linux-Debian-red?logo=debian&color=A81D33)](https://www.debian.org/)
+[![Fedora](https://img.shields.io/badge/Linux-Fedora-294172?logo=fedora)](https://getfedora.org/)
+[![Redhat](https://img.shields.io/badge/Linux-Redhat-red?logo=red%20hat)](https://www.redhat.com/en)
+[![Ubuntu](https://img.shields.io/badge/Linux-Ubuntu-orange?logo=ubuntu&logoColor=white)](https://ubuntu.com/)
+
+[![CI Builds Overview](https://img.shields.io/badge/CI%20Builds-Overview%20Page-blue?logo=circleci)](https://harisekhon.github.io/CI-CD/)
+[![Jenkins](https://img.shields.io/badge/Jenkins-ready-blue?logo=jenkins&logoColor=white)](https://github.com/HariSekhon/Dockerfiles/blob/master/Jenkinsfile)
+[![Concourse](https://img.shields.io/badge/Concourse-ready-blue?logo=concourse)](https://github.com/HariSekhon/Dockerfiles/blob/master/.concourse.yml)
+[![GoCD](https://img.shields.io/badge/GoCD-ready-blue?logo=go)](https://github.com/HariSekhon/Dockerfiles/blob/master/.gocd.yml)
+[![TeamCity](https://img.shields.io/badge/TeamCity-ready-blue?logo=teamcity)](https://github.com/HariSekhon/TeamCity-CI)
+
+[![CircleCI](https://circleci.com/gh/HariSekhon/Dockerfiles.svg?style=svg)](https://circleci.com/gh/HariSekhon/Dockerfiles)
+[![BuildKite](https://img.shields.io/buildkite/503cefcbf7f8c60c2826d7a22a22496d1187a4839b71619914/master?label=BuildKite&logo=buildkite)](https://buildkite.com/hari-sekhon/dockerfiles)
+[![AppVeyor](https://img.shields.io/appveyor/build/harisekhon/Dockerfiles/master?logo=appveyor&label=AppVeyor)](https://ci.appveyor.com/project/HariSekhon/Dockerfiles/branch/master)
+[![Drone](https://img.shields.io/drone/build/HariSekhon/Dockerfiles/master?logo=drone&label=Drone)](https://cloud.drone.io/HariSekhon/Dockerfiles)
+[![Codeship Status for HariSekhon/Dockerfiles](https://app.codeship.com/projects/915368e0-3c5f-0138-52ff-1ecbdb7eccb9/status?branch=master)](https://app.codeship.com/projects/387249)
+[![Codefresh](https://g.codefresh.io/api/badges/pipeline/harisekhon/GitHub%2FDockerfiles?branch=master&key=eyJhbGciOiJIUzI1NiJ9.NWU1MmM5OGNiM2FiOWUzM2Y3ZDZmYjM3.O69674cW7vYom3v5JOGKXDbYgCVIJU9EWhXUMHl3zwA&type=cf-1)](https://g.codefresh.io/pipelines/edit/new/builds?id=5e58e32c9604d7520e95ee26&pipeline=Dockerfiles&projects=GitHub&projectId=5e52ca8ea284e00f882ea992&context=github&filter=page:1;pageSize:10;timeFrameStart:week)
+[![Cirrus CI](https://img.shields.io/cirrus/github/HariSekhon/Dockerfiles/master?logo=Cirrus%20CI&label=Cirrus%20CI)](https://cirrus-ci.com/github/HariSekhon/Dockerfiles)
+[![Semaphore](https://harisekhon.semaphoreci.com/badges/Dockerfiles.svg)](https://harisekhon.semaphoreci.com/projects/Dockerfiles)
+[![Wercker](https://app.wercker.com/status/26a0f1151450a0de3d8a339345b70019/s/master "wercker status")](https://app.wercker.com/harisekhon/dockerfiles/runs)
+[![Buddy](https://img.shields.io/badge/Buddy-ready-1A86FD?logo=buddy)](https://github.com/HariSekhon/Dockerfiles/blob/master/buddy.yml)
+[![Shippable](https://img.shields.io/badge/Shippable-legacy-lightgrey?logo=jfrog&label=Shippable)](https://github.com/HariSekhon/Dockerfiles/blob/master/shippable.yml)
+[![Travis CI](https://img.shields.io/badge/TravisCI-ready-blue?logo=travis&label=Travis%20CI)](https://github.com/HariSekhon/Dockerfiles/blob/master/.travis.yml)
+
+
+[![Azure DevOps Pipeline](https://dev.azure.com/harisekhon/GitHub/_apis/build/status/HariSekhon.Dockerfiles?branchName=master)](https://dev.azure.com/harisekhon/GitHub/_build/latest?definitionId=6&branchName=master)
+[![GitLab Pipeline](https://img.shields.io/gitlab/pipeline/harisekhon/Dockerfiles?logo=gitlab&label=GitLab%20CI)](https://gitlab.com/HariSekhon/Dockerfiles/pipelines)
+[![BitBucket Pipeline](https://img.shields.io/bitbucket/pipelines/harisekhon/dockerfiles/master?logo=bitbucketi&label=BitBucket%20CI)](https://bitbucket.org/harisekhon/dockerfiles/addon/pipelines/home#!/)
+[![AWS CodeBuild](https://img.shields.io/badge/AWS%20CodeBuild-ready-blue?logo=amazon%20aws)](https://github.com/HariSekhon/Dockerfiles/blob/master/buildspec.yml)
+[![GCP Cloud Build](https://img.shields.io/badge/GCP%20Cloud%20Build-ready-blue?logo=google%20cloud&logoColor=white)](https://github.com/HariSekhon/Dockerfiles/blob/master/cloudbuild.yaml)
+
+[![Repo on Azure DevOps](https://img.shields.io/badge/repo-Azure%20DevOps-0078D7?logo=azure%20devops)](https://dev.azure.com/harisekhon/GitHub/_git/Dockerfiles)
+[![Repo on GitHub](https://img.shields.io/badge/repo-GitHub-2088FF?logo=github)](https://github.com/HariSekhon/Dockerfiles)
+[![Repo on GitLab](https://img.shields.io/badge/repo-GitLab-FCA121?logo=gitlab)](https://gitlab.com/HariSekhon/Dockerfiles)
+[![Repo on BitBucket](https://img.shields.io/badge/repo-BitBucket-0052CC?logo=bitbucket)](https://bitbucket.org/HariSekhon/Dockerfiles)
+[![Dockerfiles](https://github.com/HariSekhon/Dockerfiles/actions/workflows/dockerfiles.yaml/badge.svg)](https://github.com/HariSekhon/Dockerfiles/actions/workflows/dockerfiles.yaml)
+[![ShellCheck](https://github.com/HariSekhon/Dockerfiles/actions/workflows/shellcheck.yaml/badge.svg)](https://github.com/HariSekhon/Dockerfiles/actions/workflows/shellcheck.yaml)
+[![JSON](https://github.com/HariSekhon/Dockerfiles/actions/workflows/json.yaml/badge.svg)](https://github.com/HariSekhon/Dockerfiles/actions/workflows/json.yaml)
+[![YAML](https://github.com/HariSekhon/Dockerfiles/actions/workflows/yaml.yaml/badge.svg)](https://github.com/HariSekhon/Dockerfiles/actions/workflows/yaml.yaml)
+[![XML](https://github.com/HariSekhon/Dockerfiles/actions/workflows/xml.yaml/badge.svg)](https://github.com/HariSekhon/Dockerfiles/actions/workflows/xml.yaml)
+[![Validation](https://github.com/HariSekhon/Dockerfiles/actions/workflows/validate.yaml/badge.svg)](https://github.com/HariSekhon/Dockerfiles/actions/workflows/validate.yaml)
+[![Semgrep](https://github.com/HariSekhon/Dockerfiles/actions/workflows/semgrep.yaml/badge.svg)](https://github.com/HariSekhon/Dockerfiles/actions/workflows/semgrep.yaml)
+[![Semgrep Cloud](https://github.com/HariSekhon/Dockerfiles/actions/workflows/semgrep-cloud.yaml/badge.svg)](https://github.com/HariSekhon/Dockerfiles/actions/workflows/semgrep-cloud.yaml)
+[![Kics](https://github.com/HariSekhon/Dockerfiles/actions/workflows/kics.yaml/badge.svg)](https://github.com/HariSekhon/Dockerfiles/actions/workflows/kics.yaml)
+
+[![GitHub Actions Ubuntu](https://github.com/HariSekhon/Dockerfiles/workflows/GitHub%20Actions%20Ubuntu/badge.svg)](https://github.com/HariSekhon/Dockerfiles/actions?query=workflow%3A%22GitHub+Actions+Ubuntu%22)
+[![Mac](https://github.com/HariSekhon/Dockerfiles/actions/workflows/mac.yaml/badge.svg)](https://github.com/HariSekhon/Dockerfiles/actions/workflows/mac.yaml)
+[![Mac 11](https://github.com/HariSekhon/Dockerfiles/actions/workflows/mac_11.yaml/badge.svg)](https://github.com/HariSekhon/Dockerfiles/actions/workflows/mac_11.yaml)
+[![Mac 12](https://github.com/HariSekhon/Dockerfiles/actions/workflows/mac_12.yaml/badge.svg)](https://github.com/HariSekhon/Dockerfiles/actions/workflows/mac_12.yaml)
+[![Ubuntu](https://github.com/HariSekhon/Dockerfiles/workflows/Ubuntu/badge.svg)](https://github.com/HariSekhon/Dockerfiles/actions?query=workflow%3A%22Ubuntu%22)
+[![Ubuntu 14.04](https://github.com/HariSekhon/Dockerfiles/workflows/Ubuntu%2014.04/badge.svg)](https://github.com/HariSekhon/Dockerfiles/actions?query=workflow%3A%22Ubuntu+14.04%22)
+[![Ubuntu 16.04](https://github.com/HariSekhon/Dockerfiles/workflows/Ubuntu%2016.04/badge.svg)](https://github.com/HariSekhon/Dockerfiles/actions?query=workflow%3A%22Ubuntu+16.04%22)
+[![Ubuntu 18.04](https://github.com/HariSekhon/Dockerfiles/workflows/Ubuntu%2018.04/badge.svg)](https://github.com/HariSekhon/Dockerfiles/actions?query=workflow%3A%22Ubuntu+18.04%22)
+[![Ubuntu 20.04](https://github.com/HariSekhon/Dockerfiles/workflows/Ubuntu%2020.04/badge.svg)](https://github.com/HariSekhon/Dockerfiles/actions?query=workflow%3A%22Ubuntu+20.04%22)
+[![Debian](https://github.com/HariSekhon/Dockerfiles/workflows/Debian/badge.svg)](https://github.com/HariSekhon/Dockerfiles/actions?query=workflow%3A%22Debian%22)
+[![Debian 8](https://github.com/HariSekhon/Dockerfiles/workflows/Debian%208/badge.svg)](https://github.com/HariSekhon/Dockerfiles/actions?query=workflow%3A%22Debian+8%22)
+[![Debian 9](https://github.com/HariSekhon/Dockerfiles/workflows/Debian%209/badge.svg)](https://github.com/HariSekhon/Dockerfiles/actions?query=workflow%3A%22Debian+9%22)
+[![Debian 10](https://github.com/HariSekhon/Dockerfiles/workflows/Debian%2010/badge.svg)](https://github.com/HariSekhon/Dockerfiles/actions?query=workflow%3A%22Debian+10%22)
+[![CentOS](https://github.com/HariSekhon/Dockerfiles/workflows/CentOS/badge.svg)](https://github.com/HariSekhon/Dockerfiles/actions?query=workflow%3A%22CentOS%22)
+[![CentOS 7](https://github.com/HariSekhon/Dockerfiles/workflows/CentOS%207/badge.svg)](https://github.com/HariSekhon/Dockerfiles/actions?query=workflow%3A%22CentOS+7%22)
+[![CentOS 8](https://github.com/HariSekhon/Dockerfiles/workflows/CentOS%208/badge.svg)](https://github.com/HariSekhon/Dockerfiles/actions?query=workflow%3A%22CentOS+8%22)
+[![Fedora](https://github.com/HariSekhon/Dockerfiles/workflows/Fedora/badge.svg)](https://github.com/HariSekhon/Dockerfiles/actions?query=workflow%3A%22Fedora%22)
+[![Alpine](https://github.com/HariSekhon/Dockerfiles/workflows/Alpine/badge.svg)](https://github.com/HariSekhon/Dockerfiles/actions?query=workflow%3A%22Alpine%22)
+[![Alpine 3](https://github.com/HariSekhon/Dockerfiles/workflows/Alpine%203/badge.svg)](https://github.com/HariSekhon/Dockerfiles/actions?query=workflow%3A%22Alpine+3%22)
+
+[git.io/dockerhub](https://git.io/dockerhub)
 
 
 ---
