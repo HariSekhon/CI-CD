@@ -1,10 +1,10 @@
 # CI/CD Status Page
 
-![Original Repos](https://img.shields.io/badge/Repos-23-blue?logo=github)
-![Stars](https://img.shields.io/badge/Stars-4966-blue?logo=github)
+![Original Repos](https://img.shields.io/badge/Repos-25-blue?logo=github)
+![Stars](https://img.shields.io/badge/Stars-4981-blue?logo=github)
 ![Forks](https://img.shields.io/badge/Forks-2071-blue?logo=github)
-![Followers](https://img.shields.io/badge/Followers-1087-blue?logo=github)
-![Lines of Code](https://img.shields.io/badge/lines%20of%20code-271.1k-lightgrey?logo=codecademy)
+![Followers](https://img.shields.io/badge/Followers-1089-blue?logo=github)
+![Lines of Code](https://img.shields.io/badge/lines%20of%20code-273.1k-lightgrey?logo=codecademy)
 [![GitStar Ranking Profile](https://img.shields.io/badge/GitStar%20Ranking-HariSekhon-blue?logo=github)](https://gitstar-ranking.com/HariSekhon)
 [![StarCharts](https://img.shields.io/badge/Star-Charts-blue?logo=github)](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/STARCHARTS.md)
 
@@ -19,10 +19,10 @@
 [![Generate README](https://github.com/HariSekhon/CI-CD/actions/workflows/readme.yaml/badge.svg)](https://github.com/HariSekhon/CI-CD/actions/workflows/readme.yaml)
 [![pages-build-deployment](https://github.com/HariSekhon/CI-CD/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/HariSekhon/CI-CD/actions/workflows/pages/pages-build-deployment)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/853ef60c-c01b-4b83-99ba-8fda541f850f/deploy-status)](https://app.netlify.com/sites/harisekhon/deploys)
-![Last Generated](https://img.shields.io/badge/Last%20Generated-2023--04--14-yellowgreen?logo=github)
+![Last Generated](https://img.shields.io/badge/Last%20Generated-2023--04--17-yellowgreen?logo=github)
 [![GitHub Last Commit](https://img.shields.io/github/last-commit/HariSekhon/CI-CD?logo=github)](https://github.com/HariSekhon/CI-CD/commits/master)
 
-23 original source git repos with 748 CI builds (699 hosted, 49 self-hosted) across 23 different CI/CD systems:
+25 original source git repos with 748 CI builds (699 hosted, 49 self-hosted) across 23 different CI/CD systems:
 
 ---
 # Hari Sekhon - DevOps Bash Tools
@@ -622,7 +622,7 @@ Advanced Kubernetes YAML configs - Best Practices, Tips & Tricks from production
 [![GitHub stars](https://img.shields.io/github/stars/HariSekhon/Kubernetes-configs?logo=github)](https://github.com/HariSekhon/Kubernetes-configs//stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/HariSekhon/Kubernetes-configs?logo=github)](https://github.com/HariSekhon/Kubernetes-configs/network)
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/0a56edfc0ec9454dafffb02d37890cbc)](https://www.codacy.com/gh/HariSekhon/Kubernetes-configs/dashboard)
-[![Lines of Config](https://img.shields.io/badge/lines%20of%20config-19k-lightgrey?logo=codecademy)](https://github.com/HariSekhon/Kubernetes-configs)
+[![Lines of Config](https://img.shields.io/badge/lines%20of%20config-22k-lightgrey?logo=codecademy)](https://github.com/HariSekhon/Kubernetes-configs)
 [![License](https://img.shields.io/github/license/HariSekhon/Kubernetes-configs)](https://github.com/HariSekhon/Kubernetes-configs/blob/master/LICENSE)
 [![GitHub Last Commit](https://img.shields.io/github/last-commit/HariSekhon/Kubernetes-configs?logo=github)](https://github.com/HariSekhon/Kubernetes-configs/commits/master)
 
@@ -1449,6 +1449,27 @@ TeamCity CI configs - plus links to one-touch Jenkins, GoCD, Concourse, TeamCity
 
 
 ---
+# Hari Sekhon - Diagrams as Code
+
+Link:  [HariSekhon/Diagrams-as-Code](https://github.com/HariSekhon/Diagrams-as-Code)
+
+Cloud & DevOps Architecture Diagrams-as-Code in Python
+
+[![GitHub stars](https://img.shields.io/github/stars/HariSekhon/Diagrams-as-Code?logo=github)](https://github.com/HariSekhon/Diagrams-as-Code/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/HariSekhon/Diagrams-as-Code?logo=github)](https://github.com/HariSekhon/Diagrams-as-Code/network)
+[![Lines of Code](https://img.shields.io/badge/lines%20of%20code-1k-lightgrey?logo=codecademy)](https://github.com/HariSekhon/Diagrams-as-Code#Hari-Sekhon---Diagrams-as-Code)
+[![License](https://img.shields.io/badge/license-MIT-green)](https://github.com/HariSekhon/Diagrams-as-Code/blob/master/LICENSE)
+[![GitHub Last Commit](https://img.shields.io/github/last-commit/HariSekhon/Diagrams-as-Code?logo=github)](https://github.com/HariSekhon/Diagrams-as-Code/commits/master)
+
+[![Codacy](https://app.codacy.com/project/badge/Grade/dffc1bfd13404c95b5a0ab97fd47974e)](https://www.codacy.com/gh/HariSekhon/Diagrams-as-Code/dashboard)
+[![CodeFactor](https://www.codefactor.io/repository/github/harisekhon/Diagrams-as-Code/badge)](https://www.codefactor.io/repository/github/harisekhon/Diagrams-as-Code)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_Diagrams-as-Code&metric=alert_status)](https://sonarcloud.io/dashboard?id=HariSekhon_Diagrams-as-Code)
+[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_Diagrams-as-Code&metric=sqale_rating)](https://sonarcloud.io/dashboard?id=HariSekhon_Diagrams-as-Code)
+[![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_Diagrams-as-Code&metric=reliability_rating)](https://sonarcloud.io/dashboard?id=HariSekhon_Diagrams-as-Code)
+[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_Diagrams-as-Code&metric=security_rating)](https://sonarcloud.io/dashboard?id=HariSekhon_Diagrams-as-Code)
+
+
+---
 # CI/CD Status Page
 
 Link:  [HariSekhon/CI-CD](https://github.com/HariSekhon/CI-CD)
@@ -1597,5 +1618,28 @@ Java Utility library for my other repos
 [![Gradle](https://github.com/HariSekhon/lib-java/workflows/Gradle/badge.svg)](https://github.com/HariSekhon/lib-java/actions?query=workflow%3A%22Gradle%22)
 
 
+---
+# Hari Sekhon - Template Repo
 
-23 git repos summarized with 748 CI builds (699 hosted, 49 self-hosted) across 23 different CI/CD systems
+Link:  [HariSekhon/Template-Repo](https://github.com/HariSekhon/Template-Repo)
+
+Template repository with basic skeleton of build and CI/CD configs
+
+[![GitHub stars](https://img.shields.io/github/stars/HariSekhon/Template-Repo?logo=github)](https://github.com/HariSekhon/Template-Repo/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/HariSekhon/Template-Repo?logo=github)](https://github.com/HariSekhon/Template-Repo/network)
+[![Lines of Code](https://img.shields.io/badge/lines%20of%20code-1k-lightgrey?logo=codecademy)](https://github.com/HariSekhon/Template-Repo#Hari-Sekhon---Template-Repo)
+[![License](https://img.shields.io/badge/license-MIT-green)](https://github.com/HariSekhon/Template-Repo/blob/master/LICENSE)
+[![GitHub Last Commit](https://img.shields.io/github/last-commit/HariSekhon/Template-Repo?logo=github)](https://github.com/HariSekhon/Template-Repo/commits/master)
+
+[![Codacy](https://app.codacy.com/project/badge/Grade/dffc1bfd13404c95b5a0ab97fd47974e)](https://www.codacy.com/gh/HariSekhon/Template-Repo/dashboard)
+[![CodeFactor](https://www.codefactor.io/repository/github/harisekhon/Template-Repo/badge)](https://www.codefactor.io/repository/github/harisekhon/Template-Repo)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_Template-Repo&metric=alert_status)](https://sonarcloud.io/dashboard?id=HariSekhon_Template-Repo)
+[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_Template-Repo&metric=sqale_rating)](https://sonarcloud.io/dashboard?id=HariSekhon_Template-Repo)
+[![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_Template-Repo&metric=reliability_rating)](https://sonarcloud.io/dashboard?id=HariSekhon_Template-Repo)
+[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_Template-Repo&metric=security_rating)](https://sonarcloud.io/dashboard?id=HariSekhon_Template-Repo)
+[![Codiga Grade](https://api.codiga.io/project/8840/status/svg)](https://app.codiga.io/project/8840/dashboard)
+[![Codiga Score](https://api.codiga.io/project/8840/score/svg)](https://app.codiga.io/project/8840/dashboard)
+
+
+
+25 git repos summarized with 748 CI builds (699 hosted, 49 self-hosted) across 23 different CI/CD systems
