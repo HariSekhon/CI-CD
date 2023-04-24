@@ -1,9 +1,9 @@
 # CI/CD Status Page
 
 ![Original Repos](https://img.shields.io/badge/Repos-25-blue?logo=github)
-![Stars](https://img.shields.io/badge/Stars-5004-blue?logo=github)
+![Stars](https://img.shields.io/badge/Stars-5015-blue?logo=github)
 ![Forks](https://img.shields.io/badge/Forks-2076-blue?logo=github)
-![Followers](https://img.shields.io/badge/Followers-1090-blue?logo=github)
+![Followers](https://img.shields.io/badge/Followers-1094-blue?logo=github)
 ![Lines of Code](https://img.shields.io/badge/lines%20of%20code-274.1k-lightgrey?logo=codecademy)
 [![GitStar Ranking Profile](https://img.shields.io/badge/GitStar%20Ranking-HariSekhon-blue?logo=github)](https://gitstar-ranking.com/HariSekhon)
 [![StarCharts](https://img.shields.io/badge/Star-Charts-blue?logo=github)](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/STARCHARTS.md)
@@ -19,7 +19,7 @@
 [![Generate README](https://github.com/HariSekhon/CI-CD/actions/workflows/readme.yaml/badge.svg)](https://github.com/HariSekhon/CI-CD/actions/workflows/readme.yaml)
 [![pages-build-deployment](https://github.com/HariSekhon/CI-CD/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/HariSekhon/CI-CD/actions/workflows/pages/pages-build-deployment)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/853ef60c-c01b-4b83-99ba-8fda541f850f/deploy-status)](https://app.netlify.com/sites/harisekhon/deploys)
-![Last Generated](https://img.shields.io/badge/Last%20Generated-2023--04--21-yellowgreen?logo=github)
+![Last Generated](https://img.shields.io/badge/Last%20Generated-2023--04--24-yellowgreen?logo=github)
 [![GitHub Last Commit](https://img.shields.io/github/last-commit/HariSekhon/CI-CD?logo=github)](https://github.com/HariSekhon/CI-CD/commits/master)
 
 25 original source git repos with 643 CI builds (594 hosted, 49 self-hosted) across 23 different CI/CD systems:
@@ -1126,6 +1126,29 @@ Link:  [HariSekhon/Spotify-Playlists](https://github.com/HariSekhon/Spotify-Play
 
 
 ---
+# Hari Sekhon - Diagrams as Code
+
+Link:  [HariSekhon/Diagrams-as-Code](https://github.com/HariSekhon/Diagrams-as-Code)
+
+Cloud & DevOps Architecture Diagrams-as-Code in Python
+
+[![GitHub stars](https://img.shields.io/github/stars/HariSekhon/Diagrams-as-Code?logo=github)](https://github.com/HariSekhon/Diagrams-as-Code/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/HariSekhon/Diagrams-as-Code?logo=github)](https://github.com/HariSekhon/Diagrams-as-Code/network)
+[![Lines of Code](https://img.shields.io/badge/lines%20of%20code-2k-lightgrey?logo=codecademy)](https://github.com/HariSekhon/Diagrams-as-Code#Hari-Sekhon---Diagrams-as-Code)
+[![License](https://img.shields.io/badge/license-MIT-green)](https://github.com/HariSekhon/Diagrams-as-Code/blob/master/LICENSE)
+[![GitHub Last Commit](https://img.shields.io/github/last-commit/HariSekhon/Diagrams-as-Code?logo=github)](https://github.com/HariSekhon/Diagrams-as-Code/commits/master)
+
+[![Codacy](https://app.codacy.com/project/badge/Grade/dffc1bfd13404c95b5a0ab97fd47974e)](https://www.codacy.com/gh/HariSekhon/Diagrams-as-Code/dashboard)
+[![CodeFactor](https://www.codefactor.io/repository/github/harisekhon/Diagrams-as-Code/badge)](https://www.codefactor.io/repository/github/harisekhon/Diagrams-as-Code)
+[![SonarCloud](https://github.com/HariSekhon/Diagrams-as-Code/actions/workflows/sonarcloud.yaml/badge.svg)](https://github.com/HariSekhon/Diagrams-as-Code/actions/workflows/sonarcloud.yaml)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_Diagrams-as-Code&metric=alert_status)](https://sonarcloud.io/dashboard?id=HariSekhon_Diagrams-as-Code)
+[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_Diagrams-as-Code&metric=sqale_rating)](https://sonarcloud.io/dashboard?id=HariSekhon_Diagrams-as-Code)
+[![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_Diagrams-as-Code&metric=reliability_rating)](https://sonarcloud.io/dashboard?id=HariSekhon_Diagrams-as-Code)
+[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_Diagrams-as-Code&metric=security_rating)](https://sonarcloud.io/dashboard?id=HariSekhon_Diagrams-as-Code)
+[![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_Diagrams-as-Code&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=HariSekhon_Diagrams-as-Code)
+
+
+---
 # Kafka Scala API - Advanced Nagios Plugin / CLI Tool with Kerberos support
 
 Link:  [HariSekhon/Nagios-Plugin-Kafka](https://github.com/HariSekhon/Nagios-Plugin-Kafka)
@@ -1343,29 +1366,6 @@ TeamCity CI configs - plus links to one-touch Jenkins, GoCD, Concourse, TeamCity
 
 [TeamCity](https://www.jetbrains.com/teamcity/) CI configurations, synchronized from my automated TeamCity cluster.
 
-
-
----
-# Hari Sekhon - Diagrams as Code
-
-Link:  [HariSekhon/Diagrams-as-Code](https://github.com/HariSekhon/Diagrams-as-Code)
-
-Cloud & DevOps Architecture Diagrams-as-Code in Python
-
-[![GitHub stars](https://img.shields.io/github/stars/HariSekhon/Diagrams-as-Code?logo=github)](https://github.com/HariSekhon/Diagrams-as-Code/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/HariSekhon/Diagrams-as-Code?logo=github)](https://github.com/HariSekhon/Diagrams-as-Code/network)
-[![Lines of Code](https://img.shields.io/badge/lines%20of%20code-2k-lightgrey?logo=codecademy)](https://github.com/HariSekhon/Diagrams-as-Code#Hari-Sekhon---Diagrams-as-Code)
-[![License](https://img.shields.io/badge/license-MIT-green)](https://github.com/HariSekhon/Diagrams-as-Code/blob/master/LICENSE)
-[![GitHub Last Commit](https://img.shields.io/github/last-commit/HariSekhon/Diagrams-as-Code?logo=github)](https://github.com/HariSekhon/Diagrams-as-Code/commits/master)
-
-[![Codacy](https://app.codacy.com/project/badge/Grade/dffc1bfd13404c95b5a0ab97fd47974e)](https://www.codacy.com/gh/HariSekhon/Diagrams-as-Code/dashboard)
-[![CodeFactor](https://www.codefactor.io/repository/github/harisekhon/Diagrams-as-Code/badge)](https://www.codefactor.io/repository/github/harisekhon/Diagrams-as-Code)
-[![SonarCloud](https://github.com/HariSekhon/Diagrams-as-Code/actions/workflows/sonarcloud.yaml/badge.svg)](https://github.com/HariSekhon/Diagrams-as-Code/actions/workflows/sonarcloud.yaml)
-[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_Diagrams-as-Code&metric=alert_status)](https://sonarcloud.io/dashboard?id=HariSekhon_Diagrams-as-Code)
-[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_Diagrams-as-Code&metric=sqale_rating)](https://sonarcloud.io/dashboard?id=HariSekhon_Diagrams-as-Code)
-[![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_Diagrams-as-Code&metric=reliability_rating)](https://sonarcloud.io/dashboard?id=HariSekhon_Diagrams-as-Code)
-[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_Diagrams-as-Code&metric=security_rating)](https://sonarcloud.io/dashboard?id=HariSekhon_Diagrams-as-Code)
-[![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_Diagrams-as-Code&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=HariSekhon_Diagrams-as-Code)
 
 
 ---
