@@ -1,10 +1,10 @@
 # CI/CD Status Page
 
 ![Original Repos](https://img.shields.io/badge/Repos-25-blue?logo=github)
-![Stars](https://img.shields.io/badge/Stars-5042-blue?logo=github)
+![Stars](https://img.shields.io/badge/Stars-5047-blue?logo=github)
 ![Forks](https://img.shields.io/badge/Forks-2075-blue?logo=github)
-![Followers](https://img.shields.io/badge/Followers-1119-blue?logo=github)
-![Lines of Code](https://img.shields.io/badge/lines%20of%20code-274.1k-lightgrey?logo=codecademy)
+![Followers](https://img.shields.io/badge/Followers-1120-blue?logo=github)
+![Lines of Code](https://img.shields.io/badge/lines%20of%20code-275.1k-lightgrey?logo=codecademy)
 [![GitStar Ranking Profile](https://img.shields.io/badge/GitStar%20Ranking-HariSekhon-blue?logo=github)](https://gitstar-ranking.com/HariSekhon)
 [![StarCharts](https://img.shields.io/badge/Star-Charts-blue?logo=github)](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/STARCHARTS.md)
 
@@ -15,14 +15,14 @@
 [![GitHub Pages](https://img.shields.io/badge/GitHub-Pages-2088FF?logo=github)](https://harisekhon.github.io/CI-CD/)
 [![Netlify](https://img.shields.io/badge/Netlify-site-00C7B7?logo=netlify)](https://harisekhon.netlify.app/)
 
-[![CI/CD Builds](https://img.shields.io/badge/CI%2FCD%20Builds-643-blue?logo=circleci)](https://harisekhon.github.io/CI-CD/)
+[![CI/CD Builds](https://img.shields.io/badge/CI%2FCD%20Builds-652-blue?logo=circleci)](https://harisekhon.github.io/CI-CD/)
 [![Generate README](https://github.com/HariSekhon/CI-CD/actions/workflows/readme.yaml/badge.svg)](https://github.com/HariSekhon/CI-CD/actions/workflows/readme.yaml)
 [![pages-build-deployment](https://github.com/HariSekhon/CI-CD/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/HariSekhon/CI-CD/actions/workflows/pages/pages-build-deployment)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/853ef60c-c01b-4b83-99ba-8fda541f850f/deploy-status)](https://app.netlify.com/sites/harisekhon/deploys)
-![Last Generated](https://img.shields.io/badge/Last%20Generated-2023--05--03-yellowgreen?logo=github)
+![Last Generated](https://img.shields.io/badge/Last%20Generated-2023--05--04-yellowgreen?logo=github)
 [![GitHub Last Commit](https://img.shields.io/github/last-commit/HariSekhon/CI-CD?logo=github)](https://github.com/HariSekhon/CI-CD/commits/master)
 
-25 original source git repos with 643 CI builds (594 hosted, 49 self-hosted) across 23 different CI/CD systems:
+25 original source git repos with 652 CI builds (603 hosted, 49 self-hosted) across 23 different CI/CD systems:
 
 ---
 # Hari Sekhon - DevOps Bash Tools
@@ -1134,7 +1134,7 @@ Cloud & DevOps Architecture Diagrams-as-Code in Python and D2 languages
 
 [![GitHub stars](https://img.shields.io/github/stars/HariSekhon/Diagrams-as-Code?logo=github)](https://github.com/HariSekhon/Diagrams-as-Code/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/HariSekhon/Diagrams-as-Code?logo=github)](https://github.com/HariSekhon/Diagrams-as-Code/network)
-[![Lines of Code](https://img.shields.io/badge/lines%20of%20code-2k-lightgrey?logo=codecademy)](https://github.com/HariSekhon/Diagrams-as-Code#Hari-Sekhon---Diagrams-as-Code)
+[![Lines of Code](https://img.shields.io/badge/lines%20of%20code-3k-lightgrey?logo=codecademy)](https://github.com/HariSekhon/Diagrams-as-Code#Hari-Sekhon---Diagrams-as-Code)
 [![License](https://img.shields.io/badge/license-MIT-green)](https://github.com/HariSekhon/Diagrams-as-Code/blob/master/LICENSE)
 [![GitHub Last Commit](https://img.shields.io/github/last-commit/HariSekhon/Diagrams-as-Code?logo=github)](https://github.com/HariSekhon/Diagrams-as-Code/commits/master)
 
@@ -1146,6 +1146,39 @@ Cloud & DevOps Architecture Diagrams-as-Code in Python and D2 languages
 [![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_Diagrams-as-Code&metric=reliability_rating)](https://sonarcloud.io/dashboard?id=HariSekhon_Diagrams-as-Code)
 [![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_Diagrams-as-Code&metric=security_rating)](https://sonarcloud.io/dashboard?id=HariSekhon_Diagrams-as-Code)
 [![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_Diagrams-as-Code&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=HariSekhon_Diagrams-as-Code)
+
+[![Mac](https://img.shields.io/badge/OS-Mac-blue?logo=apple)](https://github.com/HariSekhon/DevOps-Bash-tools#hari-sekhon---devops-bash-tools)
+[![Linux](https://img.shields.io/badge/OS-Linux-blue?logo=linux)](https://github.com/HariSekhon/DevOps-Bash-tools#hari-sekhon---devops-bash-tools)
+[![Mac Homebrew](https://img.shields.io/badge/Mac-Homebrew-999999?logo=apple&logoColor=white)](https://brew.sh/)
+[![Alpine](https://img.shields.io/badge/Linux-Alpine-0D597F?logo=alpine%20linux&color=0D597F)](https://alpinelinux.org/)
+[![CentOS](https://img.shields.io/badge/Linux-CentOS-red?logo=centos&color=262577&logoColor=white)](https://www.centos.org/)
+[![Debian](https://img.shields.io/badge/Linux-Debian-red?logo=debian&color=A81D33)](https://www.debian.org/)
+[![Fedora](https://img.shields.io/badge/Linux-Fedora-294172?logo=fedora)](https://getfedora.org/)
+[![Redhat](https://img.shields.io/badge/Linux-Redhat-red?logo=red%20hat)](https://www.redhat.com/en)
+[![Ubuntu](https://img.shields.io/badge/Linux-Ubuntu-orange?logo=ubuntu&logoColor=white)](https://ubuntu.com/)
+
+[![CI Builds Overview](https://img.shields.io/badge/CI%20Builds-Overview%20Page-blue?logo=circleci)](https://harisekhon.github.io/CI-CD/)
+[![Azure DevOps Pipeline](https://dev.azure.com/harisekhon/GitHub/_apis/build/status%2FDiagrams-as-Code?branchName=master)](https://dev.azure.com/harisekhon/GitHub/_build/latest?definitionId=14&branchName=master)
+[![GitLab Pipeline](https://img.shields.io/gitlab/pipeline/HariSekhon/Diagrams-as-Code?logo=gitlab&label=GitLab%20CI)](https://gitlab.com/HariSekhon/Diagrams-as-Code/pipelines)
+[![BitBucket Pipeline](https://img.shields.io/bitbucket/pipelines/HariSekhon/Diagrams-as-Code/master?logo=bitbucket&label=BitBucket%20CI)](https://bitbucket.org/HariSekhon/Diagrams-as-Code/addon/pipelines/home#!/)
+
+[![Repo on Azure DevOps](https://img.shields.io/badge/repo-Azure%20DevOps-0078D7?logo=azure%20devops)](https://dev.azure.com/HariSekhon/GitHub/_git/Diagrams-as-Code)
+[![Repo on GitHub](https://img.shields.io/badge/repo-GitHub-2088FF?logo=github)](https://github.com/HariSekhon/Diagrams-as-Code)
+[![Repo on GitLab](https://img.shields.io/badge/repo-GitLab-FCA121?logo=gitlab)](https://gitlab.com/HariSekhon/Diagrams-as-Code)
+[![Repo on BitBucket](https://img.shields.io/badge/repo-BitBucket-0052CC?logo=bitbucket)](https://bitbucket.org/HariSekhon/Diagrams-as-Code)
+
+[![Generate D2 Images](https://github.com/HariSekhon/Diagrams-as-Code/actions/workflows/generate-d2-images.yaml/badge.svg)](https://github.com/HariSekhon/Diagrams-as-Code/actions/workflows/generate-d2-images.yaml)
+[![Generate Python Images](https://github.com/HariSekhon/Diagrams-as-Code/actions/workflows/generate-python-images.yaml/badge.svg)](https://github.com/HariSekhon/Diagrams-as-Code/actions/workflows/generate-python-images.yaml)
+[![Validation](https://github.com/HariSekhon/Diagrams-as-Code/actions/workflows/validate.yaml/badge.svg)](https://github.com/HariSekhon/Diagrams-as-Code/actions/workflows/validate.yaml)
+[![Semgrep](https://github.com/HariSekhon/Diagrams-as-Code/actions/workflows/semgrep.yaml/badge.svg)](https://github.com/HariSekhon/Diagrams-as-Code/actions/workflows/semgrep.yaml)
+[![Semgrep Cloud](https://github.com/HariSekhon/Diagrams-as-Code/actions/workflows/semgrep-cloud.yaml/badge.svg)](https://github.com/HariSekhon/Diagrams-as-Code/actions/workflows/semgrep-cloud.yaml)
+[![Kics](https://github.com/HariSekhon/Diagrams-as-Code/actions/workflows/kics.yaml/badge.svg)](https://github.com/HariSekhon/Diagrams-as-Code/actions/workflows/kics.yaml)
+
+[![D2](https://img.shields.io/badge/D2-Declarative%20Diagramming-3776AB?logo=pending&logoColor=white)](https://d2lang.com/)
+[![MermaidJS](https://img.shields.io/badge/NodeJS-MermaidJS-339933?logo=nodedotjs&logoColor=white)](https://mermaid.js.org/)
+[![Python](https://img.shields.io/badge/Python-3-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+[![Python Diagrams](https://img.shields.io/badge/Python-diagrams-3776AB?logo=python&logoColor=white)](https://diagrams.mingrammer.com/)
+[![Draw.io](https://img.shields.io/badge/draw.io-xml-3776AB?logo=diagrams.net&color=F08705&logoColor=white)](https://app.diagrams.net/?splash=0&libs=gcp)
 
 
 ---
@@ -1539,4 +1572,4 @@ Template repository with basic skeleton of build and CI/CD configs
 
 
 
-25 git repos summarized with 643 CI builds (594 hosted, 49 self-hosted) across 23 different CI/CD systems
+25 git repos summarized with 652 CI builds (603 hosted, 49 self-hosted) across 23 different CI/CD systems
