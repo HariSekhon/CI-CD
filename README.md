@@ -1,7 +1,7 @@
 # CI/CD Status Page
 
 ![Original Repos](https://img.shields.io/badge/Repos-25-blue?logo=github)
-![Stars](https://img.shields.io/badge/Stars-5085-blue?logo=github)
+![Stars](https://img.shields.io/badge/Stars-5086-blue?logo=github)
 ![Forks](https://img.shields.io/badge/Forks-2084-blue?logo=github)
 ![Followers](https://img.shields.io/badge/Followers-1125-blue?logo=github)
 ![Lines of Code](https://img.shields.io/badge/lines%20of%20code-275.1k-lightgrey?logo=codecademy)
@@ -15,14 +15,14 @@
 [![GitHub Pages](https://img.shields.io/badge/GitHub-Pages-2088FF?logo=github)](https://harisekhon.github.io/CI-CD/)
 [![Netlify](https://img.shields.io/badge/Netlify-site-00C7B7?logo=netlify)](https://harisekhon.netlify.app/)
 
-[![CI/CD Builds](https://img.shields.io/badge/CI%2FCD%20Builds-652-blue?logo=circleci)](https://harisekhon.github.io/CI-CD/)
+[![CI/CD Builds](https://img.shields.io/badge/CI%2FCD%20Builds-654-blue?logo=circleci)](https://harisekhon.github.io/CI-CD/)
 [![Generate README](https://github.com/HariSekhon/CI-CD/actions/workflows/readme.yaml/badge.svg)](https://github.com/HariSekhon/CI-CD/actions/workflows/readme.yaml)
 [![pages-build-deployment](https://github.com/HariSekhon/CI-CD/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/HariSekhon/CI-CD/actions/workflows/pages/pages-build-deployment)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/853ef60c-c01b-4b83-99ba-8fda541f850f/deploy-status)](https://app.netlify.com/sites/harisekhon/deploys)
-![Last Generated](https://img.shields.io/badge/Last%20Generated-2023--05--11-yellowgreen?logo=github)
+![Last Generated](https://img.shields.io/badge/Last%20Generated-2023--05--12-yellowgreen?logo=github)
 [![GitHub Last Commit](https://img.shields.io/github/last-commit/HariSekhon/CI-CD?logo=github)](https://github.com/HariSekhon/CI-CD/commits/master)
 
-25 original source git repos with 652 CI builds (603 hosted, 49 self-hosted) across 23 different CI/CD systems:
+25 original source git repos with 654 CI builds (605 hosted, 49 self-hosted) across 23 different CI/CD systems:
 
 ---
 # Hari Sekhon - DevOps Bash Tools
@@ -811,6 +811,12 @@ Jenkins - Advanced Jenkinsfile & Groovy Shared Library of reusable functions and
 [![License](https://img.shields.io/github/license/HariSekhon/Jenkins)](https://github.com/HariSekhon/Jenkins/blob/master/LICENSE)
 [![GitHub Last Commit](https://img.shields.io/github/last-commit/HariSekhon/Jenkins?logo=github)](https://github.com/HariSekhon/Jenkins/commits/master)
 
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/48126b1db0ed4471a9888012b1ccab73)](https://app.codacy.com/gh/HariSekhon/Jenkins/dashboard)
+[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_Jenkins&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=HariSekhon_Jenkins)
+[![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_Jenkins&metric=reliability_rating)](https://sonarcloud.io/summary/new_code?id=HariSekhon_Jenkins)
+[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_Jenkins&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=HariSekhon_Jenkins)
+[![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_Jenkins&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=HariSekhon_Jenkins)
+
 [![CI Builds Overview](https://img.shields.io/badge/CI%20Builds-Overview%20Page-blue?logo=circleci)](https://harisekhon.github.io/CI-CD/)
 [![Jenkinsfile](https://github.com/HariSekhon/Jenkins/actions/workflows/jenkinsfile.yaml/badge.svg)](https://github.com/HariSekhon/Jenkins/actions/workflows/jenkinsfile.yaml)
 [![Groovy](https://github.com/HariSekhon/Jenkins/actions/workflows/groovyc.yaml/badge.svg)](https://github.com/HariSekhon/Jenkins/actions/workflows/groovyc.yaml)
@@ -818,6 +824,7 @@ Jenkins - Advanced Jenkinsfile & Groovy Shared Library of reusable functions and
 [![Validation](https://github.com/HariSekhon/Jenkins/actions/workflows/validate.yaml/badge.svg)](https://github.com/HariSekhon/Jenkins/actions/workflows/validate.yaml)
 [![Semgrep](https://github.com/HariSekhon/Jenkins/actions/workflows/semgrep.yaml/badge.svg)](https://github.com/HariSekhon/Jenkins/actions/workflows/semgrep.yaml)
 [![Semgrep Cloud](https://github.com/HariSekhon/Jenkins/actions/workflows/semgrep-cloud.yaml/badge.svg)](https://github.com/HariSekhon/Jenkins/actions/workflows/semgrep-cloud.yaml)
+[![SonarCloud](https://github.com/HariSekhon/Jenkins/actions/workflows/sonarcloud.yaml/badge.svg)](https://github.com/HariSekhon/Jenkins/actions/workflows/sonarcloud.yaml)
 [![Kics](https://github.com/HariSekhon/Jenkins/actions/workflows/kics.yaml/badge.svg)](https://github.com/HariSekhon/Jenkins/actions/workflows/kics.yaml)
 
 [![Repo on Azure DevOps](https://img.shields.io/badge/repo-Azure%20DevOps-0078D7?logo=azure%20devops)](https://dev.azure.com/harisekhon/GitHub/_git/Jenkins)
@@ -1078,7 +1085,7 @@ Perl Utility Library for my other repos
 
 
 ---
-# Hari Sekhon - Diagrams as Code
+# Hari Sekhon - Diagrams-as-Code
 
 Link:  [HariSekhon/Diagrams-as-Code](https://github.com/HariSekhon/Diagrams-as-Code)
 
@@ -1124,6 +1131,7 @@ Cloud & DevOps Architecture Diagrams-as-Code in Python and D2 languages
 [![Validation](https://github.com/HariSekhon/Diagrams-as-Code/actions/workflows/validate.yaml/badge.svg)](https://github.com/HariSekhon/Diagrams-as-Code/actions/workflows/validate.yaml)
 [![Semgrep](https://github.com/HariSekhon/Diagrams-as-Code/actions/workflows/semgrep.yaml/badge.svg)](https://github.com/HariSekhon/Diagrams-as-Code/actions/workflows/semgrep.yaml)
 [![Semgrep Cloud](https://github.com/HariSekhon/Diagrams-as-Code/actions/workflows/semgrep-cloud.yaml/badge.svg)](https://github.com/HariSekhon/Diagrams-as-Code/actions/workflows/semgrep-cloud.yaml)
+[![SonarCloud](https://github.com/HariSekhon/Diagrams-as-Code/actions/workflows/sonarcloud.yaml/badge.svg)](https://github.com/HariSekhon/Diagrams-as-Code/actions/workflows/sonarcloud.yaml)
 [![Kics](https://github.com/HariSekhon/Diagrams-as-Code/actions/workflows/kics.yaml/badge.svg)](https://github.com/HariSekhon/Diagrams-as-Code/actions/workflows/kics.yaml)
 
 [![Draw.io](https://img.shields.io/badge/draw.io-All%20icons%20editor-3776AB?logo=diagrams.net&color=F08705&logoColor=white)](https://app.diagrams.net/?splash=0&ui=dark&libs=aws3;aws3d;aws4;azure;gcp2;network;webicons)
@@ -1568,4 +1576,4 @@ Template repository with basic skeleton of build and CI/CD configs
 
 
 
-25 git repos summarized with 652 CI builds (603 hosted, 49 self-hosted) across 23 different CI/CD systems
+25 git repos summarized with 654 CI builds (605 hosted, 49 self-hosted) across 23 different CI/CD systems
