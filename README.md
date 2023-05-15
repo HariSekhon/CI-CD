@@ -1,10 +1,10 @@
 # CI/CD Status Page
 
 ![Original Repos](https://img.shields.io/badge/Repos-25-blue?logo=github)
-![Stars](https://img.shields.io/badge/Stars-5086-blue?logo=github)
-![Forks](https://img.shields.io/badge/Forks-2084-blue?logo=github)
-![Followers](https://img.shields.io/badge/Followers-1125-blue?logo=github)
-![Lines of Code](https://img.shields.io/badge/lines%20of%20code-275.1k-lightgrey?logo=codecademy)
+![Stars](https://img.shields.io/badge/Stars-5110-blue?logo=github)
+![Forks](https://img.shields.io/badge/Forks-2092-blue?logo=github)
+![Followers](https://img.shields.io/badge/Followers-1154-blue?logo=github)
+![Lines of Code](https://img.shields.io/badge/lines%20of%20code-277.1k-lightgrey?logo=codecademy)
 [![GitStar Ranking Profile](https://img.shields.io/badge/GitStar%20Ranking-HariSekhon-blue?logo=github)](https://gitstar-ranking.com/HariSekhon)
 [![StarCharts](https://img.shields.io/badge/Star-Charts-blue?logo=github)](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/STARCHARTS.md)
 
@@ -15,14 +15,14 @@
 [![GitHub Pages](https://img.shields.io/badge/GitHub-Pages-2088FF?logo=github)](https://harisekhon.github.io/CI-CD/)
 [![Netlify](https://img.shields.io/badge/Netlify-site-00C7B7?logo=netlify)](https://harisekhon.netlify.app/)
 
-[![CI/CD Builds](https://img.shields.io/badge/CI%2FCD%20Builds-654-blue?logo=circleci)](https://harisekhon.github.io/CI-CD/)
+[![CI/CD Builds](https://img.shields.io/badge/CI%2FCD%20Builds-679-blue?logo=circleci)](https://harisekhon.github.io/CI-CD/)
 [![Generate README](https://github.com/HariSekhon/CI-CD/actions/workflows/readme.yaml/badge.svg)](https://github.com/HariSekhon/CI-CD/actions/workflows/readme.yaml)
 [![pages-build-deployment](https://github.com/HariSekhon/CI-CD/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/HariSekhon/CI-CD/actions/workflows/pages/pages-build-deployment)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/853ef60c-c01b-4b83-99ba-8fda541f850f/deploy-status)](https://app.netlify.com/sites/harisekhon/deploys)
-![Last Generated](https://img.shields.io/badge/Last%20Generated-2023--05--12-yellowgreen?logo=github)
+![Last Generated](https://img.shields.io/badge/Last%20Generated-2023--05--15-yellowgreen?logo=github)
 [![GitHub Last Commit](https://img.shields.io/github/last-commit/HariSekhon/CI-CD?logo=github)](https://github.com/HariSekhon/CI-CD/commits/master)
 
-25 original source git repos with 654 CI builds (605 hosted, 49 self-hosted) across 23 different CI/CD systems:
+25 original source git repos with 679 CI builds (630 hosted, 49 self-hosted) across 23 different CI/CD systems:
 
 ---
 # Hari Sekhon - DevOps Bash Tools
@@ -101,9 +101,11 @@ Link:  [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-
 [![YAML](https://github.com/HariSekhon/DevOps-Bash-tools/actions/workflows/yaml.yaml/badge.svg)](https://github.com/HariSekhon/DevOps-Bash-tools/actions/workflows/yaml.yaml)
 [![XML](https://github.com/HariSekhon/DevOps-Bash-tools/actions/workflows/xml.yaml/badge.svg)](https://github.com/HariSekhon/DevOps-Bash-tools/actions/workflows/xml.yaml)
 [![Validation](https://github.com/HariSekhon/DevOps-Bash-tools/actions/workflows/validate.yaml/badge.svg)](https://github.com/HariSekhon/DevOps-Bash-tools/actions/workflows/validate.yaml)
+[![Kics](https://github.com/HariSekhon/DevOps-Bash-tools/actions/workflows/kics.yaml/badge.svg)](https://github.com/HariSekhon/DevOps-Bash-tools/actions/workflows/kics.yaml)
+[![Grype](https://github.com/HariSekhon/DevOps-Bash-tools/actions/workflows/grype.yaml/badge.svg)](https://github.com/HariSekhon/DevOps-Bash-tools/actions/workflows/grype.yaml)
 [![Semgrep](https://github.com/HariSekhon/DevOps-Bash-tools/actions/workflows/semgrep.yaml/badge.svg)](https://github.com/HariSekhon/DevOps-Bash-tools/actions/workflows/semgrep.yaml)
 [![Semgrep Cloud](https://github.com/HariSekhon/DevOps-Bash-tools/actions/workflows/semgrep-cloud.yaml/badge.svg)](https://github.com/HariSekhon/DevOps-Bash-tools/actions/workflows/semgrep-cloud.yaml)
-[![Kics](https://github.com/HariSekhon/DevOps-Bash-tools/actions/workflows/kics.yaml/badge.svg)](https://github.com/HariSekhon/DevOps-Bash-tools/actions/workflows/kics.yaml)
+[![Trivy](https://github.com/HariSekhon/DevOps-Bash-tools/actions/workflows/trivy.yaml/badge.svg)](https://github.com/HariSekhon/DevOps-Bash-tools/actions/workflows/trivy.yaml)
 
 [![Docker Build (Alpine)](https://github.com/HariSekhon/DevOps-Bash-tools/actions/workflows/docker_bash_alpine.yaml/badge.svg)](https://github.com/HariSekhon/DevOps-Bash-tools/actions/workflows/docker_bash_alpine.yaml)
 [![Docker Build (Debian)](https://github.com/HariSekhon/DevOps-Bash-tools/actions/workflows/docker_bash_debian.yaml/badge.svg)](https://github.com/HariSekhon/DevOps-Bash-tools/actions/workflows/docker_bash_debian.yaml)
@@ -456,10 +458,11 @@ Link:  [HariSekhon/SQL-scripts](https://github.com/HariSekhon/SQL-scripts)
 [![ShellCheck](https://github.com/HariSekhon/SQL-scripts/actions/workflows/shellcheck.yaml/badge.svg)](https://github.com/HariSekhon/SQL-scripts/actions/workflows/shellcheck.yaml)
 [![YAML](https://github.com/HariSekhon/SQL-scripts/actions/workflows/yaml.yaml/badge.svg)](https://github.com/HariSekhon/SQL-scripts/actions/workflows/yaml.yaml)
 [![Validation](https://github.com/HariSekhon/SQL-scripts/actions/workflows/validate.yaml/badge.svg)](https://github.com/HariSekhon/SQL-scripts/actions/workflows/validate.yaml)
+[![Grype](https://github.com/HariSekhon/SQL-scripts/actions/workflows/grype.yaml/badge.svg)](https://github.com/HariSekhon/SQL-scripts/actions/workflows/grype.yaml)
+[![Kics](https://github.com/HariSekhon/SQL-scripts/actions/workflows/kics.yaml/badge.svg)](https://github.com/HariSekhon/SQL-scripts/actions/workflows/kics.yaml)
 [![Semgrep](https://github.com/HariSekhon/SQL-scripts/actions/workflows/semgrep.yaml/badge.svg)](https://github.com/HariSekhon/SQL-scripts/actions/workflows/semgrep.yaml)
 [![Semgrep Cloud](https://github.com/HariSekhon/SQL-scripts/actions/workflows/semgrep-cloud.yaml/badge.svg)](https://github.com/HariSekhon/SQL-scripts/actions/workflows/semgrep-cloud.yaml)
-[![Kics](https://github.com/HariSekhon/SQL-scripts/actions/workflows/kics.yaml/badge.svg)](https://github.com/HariSekhon/SQL-scripts/actions/workflows/kics.yaml)
-[![Travis CI](https://img.shields.io/badge/TravisCI-ready-blue?logo=travis&label=Travis%20CI)](https://github.com/HariSekhon/SQL-scripts/blob/master/.travis.yml)
+[![Trivy](https://github.com/HariSekhon/SQL-scripts/actions/workflows/trivy.yaml/badge.svg)](https://github.com/HariSekhon/SQL-scripts/actions/workflows/trivy.yaml)
 
 [![Linux](https://img.shields.io/badge/OS-Linux-blue?logo=linux)](https://github.com/HariSekhon/SQL-scripts#SQL-Scripts)
 [![Mac](https://img.shields.io/badge/OS-Mac-blue?logo=apple)](https://github.com/HariSekhon/SQL-scripts#SQL-Scripts)
@@ -583,10 +586,12 @@ Advanced Kubernetes YAML configs - Best Practices, Tips & Tricks from production
 [![Datree Kustomize](https://github.com/HariSekhon/Kubernetes-configs/actions/workflows/datree-kustomize.yaml/badge.svg)](https://github.com/HariSekhon/Kubernetes-configs/actions/workflows/datree-kustomize.yaml)
 [![Pluto](https://github.com/HariSekhon/Kubernetes-configs/actions/workflows/pluto.yaml/badge.svg)](https://github.com/HariSekhon/Kubernetes-configs/actions/workflows/pluto.yaml)
 [![Kustomize Nova](https://github.com/HariSekhon/Kubernetes-configs/actions/workflows/kustomize-nova.yaml/badge.svg)](https://github.com/HariSekhon/Kubernetes-configs/actions/workflows/kustomize-nova.yaml)
+[![Checkov](https://github.com/HariSekhon/Kubernetes-configs/actions/workflows/checkov.yaml/badge.svg)](https://github.com/HariSekhon/Kubernetes-configs/actions/workflows/checkov.yaml)
+[![Grype](https://github.com/HariSekhon/Kubernetes-configs/actions/workflows/grype.yaml/badge.svg)](https://github.com/HariSekhon/Kubernetes-configs/actions/workflows/grype.yaml)
+[![Kics](https://github.com/HariSekhon/Kubernetes-configs/actions/workflows/kics.yaml/badge.svg)](https://github.com/HariSekhon/Kubernetes-configs/actions/workflows/kics.yaml)
 [![Semgrep](https://github.com/HariSekhon/Kubernetes-configs/actions/workflows/semgrep.yaml/badge.svg)](https://github.com/HariSekhon/Kubernetes-configs/actions/workflows/semgrep.yaml)
 [![Semgrep Cloud](https://github.com/HariSekhon/Kubernetes-configs/actions/workflows/semgrep-cloud.yaml/badge.svg)](https://github.com/HariSekhon/Kubernetes-configs/actions/workflows/semgrep-cloud.yaml)
-[![Kics](https://github.com/HariSekhon/Kubernetes-configs/actions/workflows/kics.yaml/badge.svg)](https://github.com/HariSekhon/Kubernetes-configs/actions/workflows/kics.yaml)
-[![Checkov](https://github.com/HariSekhon/Kubernetes-configs/actions/workflows/checkov.yaml/badge.svg)](https://github.com/HariSekhon/Kubernetes-configs/actions/workflows/checkov.yaml)
+[![Trivy](https://github.com/HariSekhon/Kubernetes-configs/actions/workflows/trivy.yaml/badge.svg)](https://github.com/HariSekhon/Kubernetes-configs/actions/workflows/trivy.yaml)
 
 [git.io/k8s-configs](https://git.io/k8s-configs)
 
@@ -654,9 +659,11 @@ Link:  [HariSekhon/DevOps-Perl-tools](https://github.com/HariSekhon/DevOps-Perl-
 [![YAML](https://github.com/HariSekhon/DevOps-Perl-tools/actions/workflows/yaml.yaml/badge.svg)](https://github.com/HariSekhon/DevOps-Perl-tools/actions/workflows/yaml.yaml)
 [![XML](https://github.com/HariSekhon/DevOps-Perl-tools/actions/workflows/xml.yaml/badge.svg)](https://github.com/HariSekhon/DevOps-Perl-tools/actions/workflows/xml.yaml)
 [![Validation](https://github.com/HariSekhon/DevOps-Perl-tools/actions/workflows/validate.yaml/badge.svg)](https://github.com/HariSekhon/DevOps-Perl-tools/actions/workflows/validate.yaml)
+[![Kics](https://github.com/HariSekhon/DevOps-Perl-tools/actions/workflows/kics.yaml/badge.svg)](https://github.com/HariSekhon/DevOps-Perl-tools/actions/workflows/kics.yaml)
+[![Grype](https://github.com/HariSekhon/DevOps-Perl-tools/actions/workflows/grype.yaml/badge.svg)](https://github.com/HariSekhon/DevOps-Perl-tools/actions/workflows/grype.yaml)
 [![Semgrep](https://github.com/HariSekhon/DevOps-Perl-tools/actions/workflows/semgrep.yaml/badge.svg)](https://github.com/HariSekhon/DevOps-Perl-tools/actions/workflows/semgrep.yaml)
 [![Semgrep Cloud](https://github.com/HariSekhon/DevOps-Perl-tools/actions/workflows/semgrep-cloud.yaml/badge.svg)](https://github.com/HariSekhon/DevOps-Perl-tools/actions/workflows/semgrep-cloud.yaml)
-[![Kics](https://github.com/HariSekhon/DevOps-Perl-tools/actions/workflows/kics.yaml/badge.svg)](https://github.com/HariSekhon/DevOps-Perl-tools/actions/workflows/kics.yaml)
+[![Trivy](https://github.com/HariSekhon/DevOps-Perl-tools/actions/workflows/trivy.yaml/badge.svg)](https://github.com/HariSekhon/DevOps-Perl-tools/actions/workflows/trivy.yaml)
 
 [![Docker Build (Alpine)](https://github.com/HariSekhon/DevOps-Perl-tools/actions/workflows/docker_perl_alpine.yaml/badge.svg)](https://github.com/HariSekhon/DevOps-Perl-tools/actions/workflows/docker_perl_alpine.yaml)
 [![Docker Build (Debian)](https://github.com/HariSekhon/DevOps-Perl-tools/actions/workflows/docker_perl_debian.yaml/badge.svg)](https://github.com/HariSekhon/DevOps-Perl-tools/actions/workflows/docker_perl_debian.yaml)
@@ -703,11 +710,12 @@ DevOps Templates for Kubernetes, AWS, GCP, Terraform, Docker, Jenkins, CircleCI,
 [![YAML](https://github.com/HariSekhon/Templates/actions/workflows/yaml.yaml/badge.svg)](https://github.com/HariSekhon/Templates/actions/workflows/yaml.yaml)
 [![XML](https://github.com/HariSekhon/Templates/actions/workflows/xml.yaml/badge.svg)](https://github.com/HariSekhon/Templates/actions/workflows/xml.yaml)
 [![Validation](https://github.com/HariSekhon/Templates/actions/workflows/validate.yaml/badge.svg)](https://github.com/HariSekhon/Templates/actions/workflows/validate.yaml)
-[![Semgrep](https://github.com/HariSekhon/Templates/actions/workflows/semgrep.yaml/badge.svg)](https://github.com/HariSekhon/Templates/actions/workflows/semgrep.yaml)
-[![Semgrep Cloud](https://github.com/HariSekhon/Templates/actions/workflows/semgrep-cloud.yaml/badge.svg)](https://github.com/HariSekhon/Templates/actions/workflows/semgrep-cloud.yaml)
 [![Checkov](https://github.com/HariSekhon/Templates/actions/workflows/checkov.yaml/badge.svg)](https://github.com/HariSekhon/Templates/actions/workflows/checkov.yaml)
 [![Kics](https://github.com/HariSekhon/Templates/actions/workflows/kics.yaml/badge.svg)](https://github.com/HariSekhon/Templates/actions/workflows/kics.yaml)
-[![Travis CI](https://img.shields.io/badge/TravisCI-ready-blue?logo=travis&label=Travis%20CI)](https://github.com/HariSekhon/Templates/blob/master/.travis.yml)
+[![Grype](https://github.com/HariSekhon/Templates/actions/workflows/grype.yaml/badge.svg)](https://github.com/HariSekhon/Templates/actions/workflows/grype.yaml)
+[![Semgrep](https://github.com/HariSekhon/Templates/actions/workflows/semgrep.yaml/badge.svg)](https://github.com/HariSekhon/Templates/actions/workflows/semgrep.yaml)
+[![Semgrep Cloud](https://github.com/HariSekhon/Templates/actions/workflows/semgrep-cloud.yaml/badge.svg)](https://github.com/HariSekhon/Templates/actions/workflows/semgrep-cloud.yaml)
+[![Trivy](https://github.com/HariSekhon/Templates/actions/workflows/trivy.yaml/badge.svg)](https://github.com/HariSekhon/Templates/actions/workflows/trivy.yaml)
 
 [![Repo on Azure DevOps](https://img.shields.io/badge/repo-Azure%20DevOps-0078D7?logo=azure%20devops)](https://dev.azure.com/harisekhon/GitHub/_git/Templates)
 [![Repo on GitHub](https://img.shields.io/badge/repo-GitHub-2088FF?logo=github)](https://github.com/HariSekhon/Templates)
@@ -822,10 +830,12 @@ Jenkins - Advanced Jenkinsfile & Groovy Shared Library of reusable functions and
 [![Groovy](https://github.com/HariSekhon/Jenkins/actions/workflows/groovyc.yaml/badge.svg)](https://github.com/HariSekhon/Jenkins/actions/workflows/groovyc.yaml)
 [![YAML](https://github.com/HariSekhon/Jenkins/actions/workflows/yaml.yaml/badge.svg)](https://github.com/HariSekhon/Jenkins/actions/workflows/yaml.yaml)
 [![Validation](https://github.com/HariSekhon/Jenkins/actions/workflows/validate.yaml/badge.svg)](https://github.com/HariSekhon/Jenkins/actions/workflows/validate.yaml)
+[![Grype](https://github.com/HariSekhon/Jenkins/actions/workflows/grype.yaml/badge.svg)](https://github.com/HariSekhon/Jenkins/actions/workflows/grype.yaml)
+[![Kics](https://github.com/HariSekhon/Jenkins/actions/workflows/kics.yaml/badge.svg)](https://github.com/HariSekhon/Jenkins/actions/workflows/kics.yaml)
 [![Semgrep](https://github.com/HariSekhon/Jenkins/actions/workflows/semgrep.yaml/badge.svg)](https://github.com/HariSekhon/Jenkins/actions/workflows/semgrep.yaml)
 [![Semgrep Cloud](https://github.com/HariSekhon/Jenkins/actions/workflows/semgrep-cloud.yaml/badge.svg)](https://github.com/HariSekhon/Jenkins/actions/workflows/semgrep-cloud.yaml)
 [![SonarCloud](https://github.com/HariSekhon/Jenkins/actions/workflows/sonarcloud.yaml/badge.svg)](https://github.com/HariSekhon/Jenkins/actions/workflows/sonarcloud.yaml)
-[![Kics](https://github.com/HariSekhon/Jenkins/actions/workflows/kics.yaml/badge.svg)](https://github.com/HariSekhon/Jenkins/actions/workflows/kics.yaml)
+[![Trivy](https://github.com/HariSekhon/Jenkins/actions/workflows/trivy.yaml/badge.svg)](https://github.com/HariSekhon/Jenkins/actions/workflows/trivy.yaml)
 
 [![Repo on Azure DevOps](https://img.shields.io/badge/repo-Azure%20DevOps-0078D7?logo=azure%20devops)](https://dev.azure.com/harisekhon/GitHub/_git/Jenkins)
 [![Repo on GitHub](https://img.shields.io/badge/repo-GitHub-2088FF?logo=github)](https://github.com/HariSekhon/Jenkins)
@@ -954,11 +964,12 @@ Terraform templates for AWS / GCP / Azure / GitHub management
 [![ShellCheck](https://github.com/HariSekhon/Terraform/actions/workflows/shellcheck.yaml/badge.svg)](https://github.com/HariSekhon/Terraform/actions/workflows/shellcheck.yaml)
 [![Validation](https://github.com/HariSekhon/Terraform/actions/workflows/validate.yaml/badge.svg)](https://github.com/HariSekhon/Terraform/actions/workflows/validate.yaml)
 [![tfsec](https://github.com/HariSekhon/Terraform/actions/workflows/tfsec.yaml/badge.svg)](https://github.com/HariSekhon/Terraform/actions/workflows/tfsec.yaml)
+[![Checkov](https://github.com/HariSekhon/Terraform/actions/workflows/checkov.yaml/badge.svg)](https://github.com/HariSekhon/Terraform/actions/workflows/checkov.yaml)
+[![Grype](https://github.com/HariSekhon/Terraform/actions/workflows/grype.yaml/badge.svg)](https://github.com/HariSekhon/Terraform/actions/workflows/grype.yaml)
+[![Kics](https://github.com/HariSekhon/Terraform/actions/workflows/kics.yaml/badge.svg)](https://github.com/HariSekhon/Terraform/actions/workflows/kics.yaml)
 [![Semgrep](https://github.com/HariSekhon/Terraform/actions/workflows/semgrep.yaml/badge.svg)](https://github.com/HariSekhon/Terraform/actions/workflows/semgrep.yaml)
 [![Semgrep Cloud](https://github.com/HariSekhon/Terraform/actions/workflows/semgrep-cloud.yaml/badge.svg)](https://github.com/HariSekhon/Terraform/actions/workflows/semgrep-cloud.yaml)
-[![Checkov](https://github.com/HariSekhon/Terraform/actions/workflows/checkov.yaml/badge.svg)](https://github.com/HariSekhon/Terraform/actions/workflows/checkov.yaml)
-[![Kics](https://github.com/HariSekhon/Terraform/actions/workflows/kics.yaml/badge.svg)](https://github.com/HariSekhon/Terraform/actions/workflows/kics.yaml)
-[![Travis CI](https://img.shields.io/badge/TravisCI-ready-blue?logo=travis&label=Travis%20CI)](https://github.com/HariSekhon/Terraform/blob/master/.travis.yml)
+[![Trivy](https://github.com/HariSekhon/Terraform/actions/workflows/trivy.yaml/badge.svg)](https://github.com/HariSekhon/Terraform/actions/workflows/trivy.yaml)
 
 [![Repo on Azure DevOps](https://img.shields.io/badge/repo-Azure%20DevOps-0078D7?logo=azure%20devops)](https://dev.azure.com/harisekhon/GitHub/_git/Terraform)
 [![Repo on GitHub](https://img.shields.io/badge/repo-GitHub-2088FF?logo=github)](https://github.com/HariSekhon/Terraform)
@@ -984,10 +995,12 @@ GitHub Actions master template and GitHub Actions Reusable Workflows
 [![CI Builds Overview](https://img.shields.io/badge/CI%20Builds-Overview%20Page-blue?logo=circleci)](https://harisekhon.github.io/CI-CD/)
 [![YAML](https://github.com/HariSekhon/GitHub-Actions/actions/workflows/yaml.yaml/badge.svg)](https://github.com/HariSekhon/GitHub-Actions/actions/workflows/yaml.yaml)
 [![Validation](https://github.com/HariSekhon/GitHub-Actions/actions/workflows/validate.yaml/badge.svg)](https://github.com/HariSekhon/GitHub-Actions/actions/workflows/validate.yaml)
+[![Grype](https://github.com/HariSekhon/GitHub-Actions/actions/workflows/grype.yaml/badge.svg)](https://github.com/HariSekhon/GitHub-Actions/actions/workflows/grype.yaml)
+[![Kics](https://github.com/HariSekhon/GitHub-Actions/actions/workflows/kics.yaml/badge.svg)](https://github.com/HariSekhon/GitHub-Actions/actions/workflows/kics.yaml)
 [![Semgrep](https://github.com/HariSekhon/GitHub-Actions/actions/workflows/semgrep.yaml/badge.svg)](https://github.com/HariSekhon/GitHub-Actions/actions/workflows/semgrep.yaml)
 [![Semgrep Cloud](https://github.com/HariSekhon/GitHub-Actions/actions/workflows/semgrep-cloud.yaml/badge.svg)](https://github.com/HariSekhon/GitHub-Actions/actions/workflows/semgrep-cloud.yaml)
-[![Kics](https://github.com/HariSekhon/GitHub-Actions/actions/workflows/kics.yaml/badge.svg)](https://github.com/HariSekhon/GitHub-Actions/actions/workflows/kics.yaml)
 [![URL Links](https://github.com/HariSekhon/GitHub-Actions/actions/workflows/url_links.yaml/badge.svg)](https://github.com/HariSekhon/GitHub-Actions/actions/workflows/url_links.yaml)
+[![Trivy](https://github.com/HariSekhon/GitHub-Actions/actions/workflows/trivy.yaml/badge.svg)](https://github.com/HariSekhon/GitHub-Actions/actions/workflows/trivy.yaml)
 
 [![Repo on Azure DevOps](https://img.shields.io/badge/repo-Azure%20DevOps-0078D7?logo=azure%20devops)](https://dev.azure.com/harisekhon/GitHub/_git/GitHub-Actions)
 [![Repo on GitHub](https://img.shields.io/badge/repo-GitHub-2088FF?logo=github)](https://github.com/HariSekhon/GitHub-Actions)
@@ -1058,9 +1071,11 @@ Perl Utility Library for my other repos
 [![YAML](https://github.com/HariSekhon/lib/actions/workflows/yaml.yaml/badge.svg)](https://github.com/HariSekhon/lib/actions/workflows/yaml.yaml)
 [![XML](https://github.com/HariSekhon/lib/actions/workflows/xml.yaml/badge.svg)](https://github.com/HariSekhon/lib/actions/workflows/xml.yaml)
 [![Validation](https://github.com/HariSekhon/lib/actions/workflows/validate.yaml/badge.svg)](https://github.com/HariSekhon/lib/actions/workflows/validate.yaml)
+[![Kics](https://github.com/HariSekhon/lib/actions/workflows/kics.yaml/badge.svg)](https://github.com/HariSekhon/lib/actions/workflows/kics.yaml)
+[![Grype](https://github.com/HariSekhon/lib/actions/workflows/grype.yaml/badge.svg)](https://github.com/HariSekhon/lib/actions/workflows/grype.yaml)
 [![Semgrep](https://github.com/HariSekhon/lib/actions/workflows/semgrep.yaml/badge.svg)](https://github.com/HariSekhon/lib/actions/workflows/semgrep.yaml)
 [![Semgrep Cloud](https://github.com/HariSekhon/lib/actions/workflows/semgrep-cloud.yaml/badge.svg)](https://github.com/HariSekhon/lib/actions/workflows/semgrep-cloud.yaml)
-[![Kics](https://github.com/HariSekhon/lib/actions/workflows/kics.yaml/badge.svg)](https://github.com/HariSekhon/lib/actions/workflows/kics.yaml)
+[![Trivy](https://github.com/HariSekhon/lib/actions/workflows/trivy.yaml/badge.svg)](https://github.com/HariSekhon/lib/actions/workflows/trivy.yaml)
 
 [![GitHub Actions Ubuntu](https://github.com/HariSekhon/lib/workflows/GitHub%20Actions%20Ubuntu/badge.svg)](https://github.com/HariSekhon/lib/actions?query=workflow%3A%22GitHub+Actions+Ubuntu%22)
 [![Mac](https://github.com/HariSekhon/lib/actions/workflows/mac.yaml/badge.svg)](https://github.com/HariSekhon/lib/actions/workflows/mac.yaml)
@@ -1093,7 +1108,7 @@ Cloud & DevOps Architecture Diagrams-as-Code in Python and D2 languages
 
 [![GitHub stars](https://img.shields.io/github/stars/HariSekhon/Diagrams-as-Code?logo=github)](https://github.com/HariSekhon/Diagrams-as-Code/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/HariSekhon/Diagrams-as-Code?logo=github)](https://github.com/HariSekhon/Diagrams-as-Code/network)
-[![Lines of Code](https://img.shields.io/badge/lines%20of%20code-3k-lightgrey?logo=codecademy)](https://github.com/HariSekhon/Diagrams-as-Code#Hari-Sekhon---Diagrams-as-Code)
+[![Lines of Code](https://img.shields.io/badge/lines%20of%20code-5k-lightgrey?logo=codecademy)](https://github.com/HariSekhon/Diagrams-as-Code#Hari-Sekhon---Diagrams-as-Code)
 [![License](https://img.shields.io/badge/license-MIT-green)](https://github.com/HariSekhon/Diagrams-as-Code/blob/master/LICENSE)
 [![GitHub Last Commit](https://img.shields.io/github/last-commit/HariSekhon/Diagrams-as-Code?logo=github)](https://github.com/HariSekhon/Diagrams-as-Code/commits/master)
 
@@ -1128,11 +1143,14 @@ Cloud & DevOps Architecture Diagrams-as-Code in Python and D2 languages
 
 [![Generate D2 Images](https://github.com/HariSekhon/Diagrams-as-Code/actions/workflows/generate-d2-images.yaml/badge.svg)](https://github.com/HariSekhon/Diagrams-as-Code/actions/workflows/generate-d2-images.yaml)
 [![Generate Python Images](https://github.com/HariSekhon/Diagrams-as-Code/actions/workflows/generate-python-images.yaml/badge.svg)](https://github.com/HariSekhon/Diagrams-as-Code/actions/workflows/generate-python-images.yaml)
+[![D2 fmt](https://github.com/HariSekhon/Diagrams-as-Code/actions/workflows/d2-fmt.yaml/badge.svg)](https://github.com/HariSekhon/Diagrams-as-Code/actions/workflows/d2-fmt.yaml)
 [![Validation](https://github.com/HariSekhon/Diagrams-as-Code/actions/workflows/validate.yaml/badge.svg)](https://github.com/HariSekhon/Diagrams-as-Code/actions/workflows/validate.yaml)
+[![Kics](https://github.com/HariSekhon/Diagrams-as-Code/actions/workflows/kics.yaml/badge.svg)](https://github.com/HariSekhon/Diagrams-as-Code/actions/workflows/kics.yaml)
+[![Grype](https://github.com/HariSekhon/Diagrams-as-Code/actions/workflows/grype.yaml/badge.svg)](https://github.com/HariSekhon/Diagrams-as-Code/actions/workflows/grype.yaml)
 [![Semgrep](https://github.com/HariSekhon/Diagrams-as-Code/actions/workflows/semgrep.yaml/badge.svg)](https://github.com/HariSekhon/Diagrams-as-Code/actions/workflows/semgrep.yaml)
 [![Semgrep Cloud](https://github.com/HariSekhon/Diagrams-as-Code/actions/workflows/semgrep-cloud.yaml/badge.svg)](https://github.com/HariSekhon/Diagrams-as-Code/actions/workflows/semgrep-cloud.yaml)
 [![SonarCloud](https://github.com/HariSekhon/Diagrams-as-Code/actions/workflows/sonarcloud.yaml/badge.svg)](https://github.com/HariSekhon/Diagrams-as-Code/actions/workflows/sonarcloud.yaml)
-[![Kics](https://github.com/HariSekhon/Diagrams-as-Code/actions/workflows/kics.yaml/badge.svg)](https://github.com/HariSekhon/Diagrams-as-Code/actions/workflows/kics.yaml)
+[![Trivy](https://github.com/HariSekhon/Diagrams-as-Code/actions/workflows/trivy.yaml/badge.svg)](https://github.com/HariSekhon/Diagrams-as-Code/actions/workflows/trivy.yaml)
 
 [![Draw.io](https://img.shields.io/badge/draw.io-All%20icons%20editor-3776AB?logo=diagrams.net&color=F08705&logoColor=white)](https://app.diagrams.net/?splash=0&ui=dark&libs=aws3;aws3d;aws4;azure;gcp2;network;webicons)
 [![Draw.io](https://img.shields.io/badge/draw.io-AWS%20icons%20editor-FF9900?logo=diagrams.net&color=FF9900&logoColor=white)](https://app.diagrams.net/?splash=0&ui=dark&libs=aws3;aws3d;aws4)
@@ -1341,9 +1359,11 @@ Python / Jython Utility Library for my other repos
 [![YAML](https://github.com/HariSekhon/pylib/actions/workflows/yaml.yaml/badge.svg)](https://github.com/HariSekhon/pylib/actions/workflows/yaml.yaml)
 [![XML](https://github.com/HariSekhon/pylib/actions/workflows/xml.yaml/badge.svg)](https://github.com/HariSekhon/pylib/actions/workflows/xml.yaml)
 [![Validation](https://github.com/HariSekhon/pylib/actions/workflows/validate.yaml/badge.svg)](https://github.com/HariSekhon/pylib/actions/workflows/validate.yaml)
+[![Kics](https://github.com/HariSekhon/pylib/actions/workflows/kics.yaml/badge.svg)](https://github.com/HariSekhon/pylib/actions/workflows/kics.yaml)
+[![Grype](https://github.com/HariSekhon/pylib/actions/workflows/grype.yaml/badge.svg)](https://github.com/HariSekhon/pylib/actions/workflows/grype.yaml)
 [![Semgrep](https://github.com/HariSekhon/pylib/actions/workflows/semgrep.yaml/badge.svg)](https://github.com/HariSekhon/pylib/actions/workflows/semgrep.yaml)
 [![Semgrep Cloud](https://github.com/HariSekhon/pylib/actions/workflows/semgrep-cloud.yaml/badge.svg)](https://github.com/HariSekhon/pylib/actions/workflows/semgrep-cloud.yaml)
-[![Kics](https://github.com/HariSekhon/pylib/actions/workflows/kics.yaml/badge.svg)](https://github.com/HariSekhon/pylib/actions/workflows/kics.yaml)
+[![Trivy](https://github.com/HariSekhon/pylib/actions/workflows/trivy.yaml/badge.svg)](https://github.com/HariSekhon/pylib/actions/workflows/trivy.yaml)
 
 [![GitHub Actions Ubuntu](https://github.com/HariSekhon/pylib/workflows/GitHub%20Actions%20Ubuntu/badge.svg)](https://github.com/HariSekhon/pylib/actions?query=workflow%3A%22GitHub+Actions+Ubuntu%22)
 [![Mac](https://github.com/HariSekhon/pylib/actions/workflows/mac.yaml/badge.svg)](https://github.com/HariSekhon/pylib/actions/workflows/mac.yaml)
@@ -1394,9 +1414,11 @@ TeamCity CI configs - plus links to one-touch Jenkins, GoCD, Concourse, TeamCity
 [![YAML](https://github.com/HariSekhon/TeamCity-CI/actions/workflows/yaml.yaml/badge.svg)](https://github.com/HariSekhon/TeamCity-CI/actions/workflows/yaml.yaml)
 [![XML](https://github.com/HariSekhon/TeamCity-CI/actions/workflows/xml.yaml/badge.svg)](https://github.com/HariSekhon/TeamCity-CI/actions/workflows/xml.yaml)
 [![Validation](https://github.com/HariSekhon/TeamCity-CI/actions/workflows/validate.yaml/badge.svg)](https://github.com/HariSekhon/TeamCity-CI/actions/workflows/validate.yaml)
+[![Kics](https://github.com/HariSekhon/TeamCity-CI/actions/workflows/kics.yaml/badge.svg)](https://github.com/HariSekhon/TeamCity-CI/actions/workflows/kics.yaml)
+[![Grype](https://github.com/HariSekhon/TeamCity-CI/actions/workflows/grype.yaml/badge.svg)](https://github.com/HariSekhon/TeamCity-CI/actions/workflows/grype.yaml)
 [![Semgrep](https://github.com/HariSekhon/TeamCity-CI/actions/workflows/semgrep.yaml/badge.svg)](https://github.com/HariSekhon/TeamCity-CI/actions/workflows/semgrep.yaml)
 [![Semgrep Cloud](https://github.com/HariSekhon/TeamCity-CI/actions/workflows/semgrep-cloud.yaml/badge.svg)](https://github.com/HariSekhon/TeamCity-CI/actions/workflows/semgrep-cloud.yaml)
-[![Kics](https://github.com/HariSekhon/TeamCity-CI/actions/workflows/kics.yaml/badge.svg)](https://github.com/HariSekhon/TeamCity-CI/actions/workflows/kics.yaml)
+[![Trivy](https://github.com/HariSekhon/TeamCity-CI/actions/workflows/trivy.yaml/badge.svg)](https://github.com/HariSekhon/TeamCity-CI/actions/workflows/trivy.yaml)
 
 [![Repo on Azure DevOps](https://img.shields.io/badge/repo-Azure%20DevOps-0078D7?logo=azure%20devops)](https://dev.azure.com/harisekhon/GitHub/_git/TeamCity-CI)
 [![Repo on GitHub](https://img.shields.io/badge/repo-GitHub-2088FF?logo=github)](https://github.com/HariSekhon/TeamCity-CI)
@@ -1441,10 +1463,11 @@ SQL keywords and built-in functions for most major RDBMS, MPP SQL & NoSQL system
 [![CI Builds Overview](https://img.shields.io/badge/CI%20Builds-Overview%20Page-blue?logo=circleci)](https://harisekhon.github.io/CI-CD/)
 [![YAML](https://github.com/HariSekhon/SQL-keywords/actions/workflows/yaml.yaml/badge.svg)](https://github.com/HariSekhon/SQL-keywords/actions/workflows/yaml.yaml)
 [![Validation](https://github.com/HariSekhon/SQL-keywords/actions/workflows/validate.yaml/badge.svg)](https://github.com/HariSekhon/SQL-keywords/actions/workflows/validate.yaml)
+[![Grype](https://github.com/HariSekhon/SQL-keywords/actions/workflows/grype.yaml/badge.svg)](https://github.com/HariSekhon/SQL-keywords/actions/workflows/grype.yaml)
+[![Kics](https://github.com/HariSekhon/SQL-keywords/actions/workflows/kics.yaml/badge.svg)](https://github.com/HariSekhon/SQL-keywords/actions/workflows/kics.yaml)
 [![Semgrep](https://github.com/HariSekhon/SQL-keywords/actions/workflows/semgrep.yaml/badge.svg)](https://github.com/HariSekhon/SQL-keywords/actions/workflows/semgrep.yaml)
 [![Semgrep Cloud](https://github.com/HariSekhon/SQL-keywords/actions/workflows/semgrep-cloud.yaml/badge.svg)](https://github.com/HariSekhon/SQL-keywords/actions/workflows/semgrep-cloud.yaml)
-[![Kics](https://github.com/HariSekhon/SQL-keywords/actions/workflows/kics.yaml/badge.svg)](https://github.com/HariSekhon/SQL-keywords/actions/workflows/kics.yaml)
-[![Travis CI](https://img.shields.io/badge/TravisCI-ready-blue?logo=travis&label=Travis%20CI)](https://github.com/HariSekhon/SQL-keywords/blob/master/.travis.yml)
+[![Trivy](https://github.com/HariSekhon/SQL-keywords/actions/workflows/trivy.yaml/badge.svg)](https://github.com/HariSekhon/SQL-keywords/actions/workflows/trivy.yaml)
 
 [![Repo on Azure DevOps](https://img.shields.io/badge/repo-Azure%20DevOps-0078D7?logo=azure%20devops)](https://dev.azure.com/harisekhon/GitHub/_git/SQL-keywords)
 [![Repo on GitHub](https://img.shields.io/badge/repo-GitHub-2088FF?logo=github)](https://github.com/HariSekhon/SQL-keywords)
@@ -1528,9 +1551,11 @@ Java Utility library for my other repos
 [![YAML](https://github.com/HariSekhon/lib-java/actions/workflows/yaml.yaml/badge.svg)](https://github.com/HariSekhon/lib-java/actions/workflows/yaml.yaml)
 [![XML](https://github.com/HariSekhon/lib-java/actions/workflows/xml.yaml/badge.svg)](https://github.com/HariSekhon/lib-java/actions/workflows/xml.yaml)
 [![Validation](https://github.com/HariSekhon/lib-java/actions/workflows/validate.yaml/badge.svg)](https://github.com/HariSekhon/lib-java/actions/workflows/validate.yaml)
+[![Kics](https://github.com/HariSekhon/lib-java/actions/workflows/kics.yaml/badge.svg)](https://github.com/HariSekhon/lib-java/actions/workflows/kics.yaml)
+[![Grype](https://github.com/HariSekhon/lib-java/actions/workflows/grype.yaml/badge.svg)](https://github.com/HariSekhon/lib-java/actions/workflows/grype.yaml)
 [![Semgrep](https://github.com/HariSekhon/lib-java/actions/workflows/semgrep.yaml/badge.svg)](https://github.com/HariSekhon/lib-java/actions/workflows/semgrep.yaml)
 [![Semgrep Cloud](https://github.com/HariSekhon/lib-java/actions/workflows/semgrep-cloud.yaml/badge.svg)](https://github.com/HariSekhon/lib-java/actions/workflows/semgrep-cloud.yaml)
-[![Kics](https://github.com/HariSekhon/lib-java/actions/workflows/kics.yaml/badge.svg)](https://github.com/HariSekhon/lib-java/actions/workflows/kics.yaml)
+[![Trivy](https://github.com/HariSekhon/lib-java/actions/workflows/trivy.yaml/badge.svg)](https://github.com/HariSekhon/lib-java/actions/workflows/trivy.yaml)
 
 [![GitHub Actions Ubuntu](https://github.com/HariSekhon/lib-java/workflows/GitHub%20Actions%20Ubuntu/badge.svg)](https://github.com/HariSekhon/lib-java/actions?query=workflow%3A%22GitHub+Actions+Ubuntu%22)
 [![Mac](https://github.com/HariSekhon/lib-java/actions/workflows/mac.yaml/badge.svg)](https://github.com/HariSekhon/lib-java/actions/workflows/mac.yaml)
@@ -1576,4 +1601,4 @@ Template repository with basic skeleton of build and CI/CD configs
 
 
 
-25 git repos summarized with 654 CI builds (605 hosted, 49 self-hosted) across 23 different CI/CD systems
+25 git repos summarized with 679 CI builds (630 hosted, 49 self-hosted) across 23 different CI/CD systems
