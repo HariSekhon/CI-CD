@@ -1,10 +1,10 @@
 # CI/CD Status Page
 
 ![Original Repos](https://img.shields.io/badge/Repos-25-blue?logo=github)
-![Stars](https://img.shields.io/badge/Stars-5177-blue?logo=github)
+![Stars](https://img.shields.io/badge/Stars-5180-blue?logo=github)
 ![Forks](https://img.shields.io/badge/Forks-2101-blue?logo=github)
 ![Followers](https://img.shields.io/badge/Followers-1204-blue?logo=github)
-![Lines of Code](https://img.shields.io/badge/lines%20of%20code-280.3k-lightgrey?logo=codecademy)
+![Lines of Code](https://img.shields.io/badge/lines%20of%20code-282.3k-lightgrey?logo=codecademy)
 [![GitStar Ranking Profile](https://img.shields.io/badge/GitStar%20Ranking-HariSekhon-blue?logo=github)](https://gitstar-ranking.com/HariSekhon)
 [![StarCharts](https://img.shields.io/badge/Star-Charts-blue?logo=github)](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/STARCHARTS.md)
 
@@ -15,14 +15,14 @@
 [![GitHub Pages](https://img.shields.io/badge/GitHub-Pages-2088FF?logo=github)](https://harisekhon.github.io/CI-CD/)
 [![Netlify](https://img.shields.io/badge/Netlify-site-00C7B7?logo=netlify)](https://harisekhon.netlify.app/)
 
-[![CI/CD Builds](https://img.shields.io/badge/CI%2FCD%20Builds-679-blue?logo=circleci)](https://harisekhon.github.io/CI-CD/)
+[![CI/CD Builds](https://img.shields.io/badge/CI%2FCD%20Builds-680-blue?logo=circleci)](https://harisekhon.github.io/CI-CD/)
 [![Generate README](https://github.com/HariSekhon/CI-CD/actions/workflows/readme.yaml/badge.svg)](https://github.com/HariSekhon/CI-CD/actions/workflows/readme.yaml)
 [![pages-build-deployment](https://github.com/HariSekhon/CI-CD/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/HariSekhon/CI-CD/actions/workflows/pages/pages-build-deployment)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/853ef60c-c01b-4b83-99ba-8fda541f850f/deploy-status)](https://app.netlify.com/sites/harisekhon/deploys)
-![Last Generated](https://img.shields.io/badge/Last%20Generated-2023--05--23-yellowgreen?logo=github)
+![Last Generated](https://img.shields.io/badge/Last%20Generated-2023--05--24-yellowgreen?logo=github)
 [![GitHub Last Commit](https://img.shields.io/github/last-commit/HariSekhon/CI-CD?logo=github)](https://github.com/HariSekhon/CI-CD/commits/master)
 
-25 original source git repos with 679 CI builds (630 hosted, 49 self-hosted) across 23 different CI/CD systems:
+25 original source git repos with 680 CI builds (631 hosted, 49 self-hosted) across 23 different CI/CD systems:
 
 ---
 # Hari Sekhon - DevOps Bash Tools
@@ -33,7 +33,7 @@ Link:  [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-
 
 [![GitHub stars](https://img.shields.io/github/stars/harisekhon/devops-bash-tools?logo=github)](https://github.com/HariSekhon/DevOps-Bash-tools/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/harisekhon/devops-bash-tools?logo=github)](https://github.com/HariSekhon/DevOps-Bash-tools/network)
-[![Lines of Code](https://img.shields.io/badge/lines%20of%20code-90k-lightgrey?logo=codecademy)](https://github.com/HariSekhon/DevOps-Bash-tools#hari-sekhon---devops-bash-tools)
+[![Lines of Code](https://img.shields.io/badge/lines%20of%20code-92k-lightgrey?logo=codecademy)](https://github.com/HariSekhon/DevOps-Bash-tools#hari-sekhon---devops-bash-tools)
 [![License](https://img.shields.io/badge/license-MIT-green)](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/LICENSE)
 [![GitHub Last Commit](https://img.shields.io/github/last-commit/HariSekhon/DevOps-Bash-tools?logo=github)](https://github.com/HariSekhon/DevOps-Bash-tools/commits/master)
 
@@ -575,6 +575,7 @@ Advanced Kubernetes YAML configs - Best Practices, Tips & Tricks from production
 [![Repo on GitLab](https://img.shields.io/badge/repo-GitLab-FCA121?logo=gitlab)](https://gitlab.com/HariSekhon/Kubernetes-configs)
 [![Repo on BitBucket](https://img.shields.io/badge/repo-BitBucket-0052CC?logo=bitbucket)](https://bitbucket.org/HariSekhon/Kubernetes-configs)
 
+[![Kubevious](https://github.com/HariSekhon/Kubernetes-configs/actions/workflows/kubevious.yaml/badge.svg)](https://github.com/HariSekhon/Kubernetes-configs/actions/workflows/kubevious.yaml)
 [![Kustomize Installs](https://github.com/HariSekhon/Kubernetes-configs/actions/workflows/kustomize-install.yaml/badge.svg)](https://github.com/HariSekhon/Kubernetes-configs/actions/workflows/kustomize-install.yaml)
 [![Kustomize Namespace](https://github.com/HariSekhon/Kubernetes-configs/actions/workflows/kustomize-namespace.yaml/badge.svg)](https://github.com/HariSekhon/Kubernetes-configs/actions/workflows/kustomize-namespace.yaml)
 [![Kustomize Objects Namespaced](https://github.com/HariSekhon/Kubernetes-configs/actions/workflows/kustomize-objects-namespaced.yaml/badge.svg)](https://github.com/HariSekhon/Kubernetes-configs/actions/workflows/kustomize-objects-namespaced.yaml)
@@ -1601,4 +1602,4 @@ Template repository with basic skeleton of build and CI/CD configs
 
 
 
-25 git repos summarized with 679 CI builds (630 hosted, 49 self-hosted) across 23 different CI/CD systems
+25 git repos summarized with 680 CI builds (631 hosted, 49 self-hosted) across 23 different CI/CD systems
