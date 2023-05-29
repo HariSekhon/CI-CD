@@ -1,8 +1,8 @@
 # CI/CD Status Page
 
 ![Original Repos](https://img.shields.io/badge/Repos-25-blue?logo=github)
-![Stars](https://img.shields.io/badge/Stars-5193-blue?logo=github)
-![Forks](https://img.shields.io/badge/Forks-2105-blue?logo=github)
+![Stars](https://img.shields.io/badge/Stars-5201-blue?logo=github)
+![Forks](https://img.shields.io/badge/Forks-2109-blue?logo=github)
 ![Followers](https://img.shields.io/badge/Followers-1207-blue?logo=github)
 ![Lines of Code](https://img.shields.io/badge/lines%20of%20code-282.3k-lightgrey?logo=codecademy)
 [![GitStar Ranking Profile](https://img.shields.io/badge/GitStar%20Ranking-HariSekhon-blue?logo=github)](https://gitstar-ranking.com/HariSekhon)
@@ -15,14 +15,14 @@
 [![GitHub Pages](https://img.shields.io/badge/GitHub-Pages-2088FF?logo=github)](https://harisekhon.github.io/CI-CD/)
 [![Netlify](https://img.shields.io/badge/Netlify-site-00C7B7?logo=netlify)](https://harisekhon.netlify.app/)
 
-[![CI/CD Builds](https://img.shields.io/badge/CI%2FCD%20Builds-680-blue?logo=circleci)](https://harisekhon.github.io/CI-CD/)
+[![CI/CD Builds](https://img.shields.io/badge/CI%2FCD%20Builds-682-blue?logo=circleci)](https://harisekhon.github.io/CI-CD/)
 [![Generate README](https://github.com/HariSekhon/CI-CD/actions/workflows/readme.yaml/badge.svg)](https://github.com/HariSekhon/CI-CD/actions/workflows/readme.yaml)
 [![pages-build-deployment](https://github.com/HariSekhon/CI-CD/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/HariSekhon/CI-CD/actions/workflows/pages/pages-build-deployment)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/853ef60c-c01b-4b83-99ba-8fda541f850f/deploy-status)](https://app.netlify.com/sites/harisekhon/deploys)
-![Last Generated](https://img.shields.io/badge/Last%20Generated-2023--05--26-yellowgreen?logo=github)
+![Last Generated](https://img.shields.io/badge/Last%20Generated-2023--05--29-yellowgreen?logo=github)
 [![GitHub Last Commit](https://img.shields.io/github/last-commit/HariSekhon/CI-CD?logo=github)](https://github.com/HariSekhon/CI-CD/commits/master)
 
-25 original source git repos with 680 CI builds (631 hosted, 49 self-hosted) across 23 different CI/CD systems:
+25 original source git repos with 682 CI builds (633 hosted, 49 self-hosted) across 23 different CI/CD systems:
 
 ---
 # Hari Sekhon - DevOps Bash Tools
@@ -400,9 +400,11 @@ Link:  [HariSekhon/DevOps-Python-tools](https://github.com/HariSekhon/DevOps-Pyt
 [![YAML](https://github.com/HariSekhon/DevOps-Python-tools/actions/workflows/yaml.yaml/badge.svg)](https://github.com/HariSekhon/DevOps-Python-tools/actions/workflows/yaml.yaml)
 [![XML](https://github.com/HariSekhon/DevOps-Python-tools/actions/workflows/xml.yaml/badge.svg)](https://github.com/HariSekhon/DevOps-Python-tools/actions/workflows/xml.yaml)
 [![Validation](https://github.com/HariSekhon/DevOps-Python-tools/actions/workflows/validate.yaml/badge.svg)](https://github.com/HariSekhon/DevOps-Python-tools/actions/workflows/validate.yaml)
+[![Kics](https://github.com/HariSekhon/DevOps-Python-tools/actions/workflows/kics.yaml/badge.svg)](https://github.com/HariSekhon/DevOps-Python-tools/actions/workflows/kics.yaml)
+[![Grype](https://github.com/HariSekhon/DevOps-Python-tools/actions/workflows/grype.yaml/badge.svg)](https://github.com/HariSekhon/DevOps-Python-tools/actions/workflows/grype.yaml)
 [![Semgrep](https://github.com/HariSekhon/DevOps-Python-tools/actions/workflows/semgrep.yaml/badge.svg)](https://github.com/HariSekhon/DevOps-Python-tools/actions/workflows/semgrep.yaml)
 [![Semgrep Cloud](https://github.com/HariSekhon/DevOps-Python-tools/actions/workflows/semgrep-cloud.yaml/badge.svg)](https://github.com/HariSekhon/DevOps-Python-tools/actions/workflows/semgrep-cloud.yaml)
-[![Kics](https://github.com/HariSekhon/DevOps-Python-tools/actions/workflows/kics.yaml/badge.svg)](https://github.com/HariSekhon/DevOps-Python-tools/actions/workflows/kics.yaml)
+[![Trivy](https://github.com/HariSekhon/DevOps-Python-tools/actions/workflows/trivy.yaml/badge.svg)](https://github.com/HariSekhon/DevOps-Python-tools/actions/workflows/trivy.yaml)
 
 [![Docker Build (Alpine)](https://github.com/HariSekhon/DevOps-Python-tools/actions/workflows/docker_pytools_alpine.yaml/badge.svg)](https://github.com/HariSekhon/DevOps-Python-tools/actions/workflows/docker_pytools_alpine.yaml)
 [![Docker Build (Debian)](https://github.com/HariSekhon/DevOps-Python-tools/actions/workflows/docker_pytools_debian.yaml/badge.svg)](https://github.com/HariSekhon/DevOps-Python-tools/actions/workflows/docker_pytools_debian.yaml)
@@ -1602,4 +1604,4 @@ Template repository with basic skeleton of build and CI/CD configs
 
 
 
-25 git repos summarized with 680 CI builds (631 hosted, 49 self-hosted) across 23 different CI/CD systems
+25 git repos summarized with 682 CI builds (633 hosted, 49 self-hosted) across 23 different CI/CD systems
