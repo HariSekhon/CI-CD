@@ -1,9 +1,9 @@
 # CI/CD Status Page
 
 ![Original Repos](https://img.shields.io/badge/Repos-25-blue?logo=github)
-![Stars](https://img.shields.io/badge/Stars-5208-blue?logo=github)
-![Forks](https://img.shields.io/badge/Forks-2109-blue?logo=github)
-![Followers](https://img.shields.io/badge/Followers-1206-blue?logo=github)
+![Stars](https://img.shields.io/badge/Stars-5210-blue?logo=github)
+![Forks](https://img.shields.io/badge/Forks-2111-blue?logo=github)
+![Followers](https://img.shields.io/badge/Followers-1209-blue?logo=github)
 ![Lines of Code](https://img.shields.io/badge/lines%20of%20code-284.3k-lightgrey?logo=codecademy)
 [![GitStar Ranking Profile](https://img.shields.io/badge/GitStar%20Ranking-HariSekhon-blue?logo=github)](https://gitstar-ranking.com/HariSekhon)
 [![StarCharts](https://img.shields.io/badge/Star-Charts-blue?logo=github)](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/STARCHARTS.md)
@@ -19,7 +19,7 @@
 [![Generate README](https://github.com/HariSekhon/CI-CD/actions/workflows/readme.yaml/badge.svg)](https://github.com/HariSekhon/CI-CD/actions/workflows/readme.yaml)
 [![pages-build-deployment](https://github.com/HariSekhon/CI-CD/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/HariSekhon/CI-CD/actions/workflows/pages/pages-build-deployment)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/853ef60c-c01b-4b83-99ba-8fda541f850f/deploy-status)](https://app.netlify.com/sites/harisekhon/deploys)
-![Last Generated](https://img.shields.io/badge/Last%20Generated-2023--05--31-yellowgreen?logo=github)
+![Last Generated](https://img.shields.io/badge/Last%20Generated-2023--06--01-yellowgreen?logo=github)
 [![GitHub Last Commit](https://img.shields.io/github/last-commit/HariSekhon/CI-CD?logo=github)](https://github.com/HariSekhon/CI-CD/commits/master)
 
 25 original source git repos with 686 CI builds (637 hosted, 49 self-hosted) across 23 different CI/CD systems:
@@ -721,7 +721,7 @@ DevOps Templates for Kubernetes, AWS, GCP, Terraform, Docker, Packer, Jenkins, C
 [![Trivy](https://github.com/HariSekhon/Templates/actions/workflows/trivy.yaml/badge.svg)](https://github.com/HariSekhon/Templates/actions/workflows/trivy.yaml)
 [![Redhat Kickstart](https://github.com/HariSekhon/Templates/actions/workflows/kickstart.yaml/badge.svg)](https://github.com/HariSekhon/Templates/actions/workflows/kickstart.yaml)
 [![Debian Preseed](https://github.com/HariSekhon/Templates/actions/workflows/preseed.yaml/badge.svg)](https://github.com/HariSekhon/Templates/actions/workflows/preseed.yaml)
-[![Ubuntu AutoInstall CloudInit](https://github.com/HariSekhon/Templates/actions/workflows/autoinstall-user-data.yaml/badge.svg)](https://github.com/HariSekhon/Templates/actions/workflows/autoinstall-user-data.yaml)
+[![Ubuntu AutoInstall Cloud-Init](https://github.com/HariSekhon/Templates/actions/workflows/autoinstall-user-data.yaml/badge.svg)](https://github.com/HariSekhon/Templates/actions/workflows/autoinstall-user-data.yaml)
 [![HashiCorp Packer](https://github.com/HariSekhon/Templates/actions/workflows/packer.yaml/badge.svg)](https://github.com/HariSekhon/Templates/actions/workflows/packer.yaml)
 
 [![Repo on Azure DevOps](https://img.shields.io/badge/repo-Azure%20DevOps-0078D7?logo=azure%20devops)](https://dev.azure.com/harisekhon/GitHub/_git/Templates)
