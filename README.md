@@ -1,7 +1,7 @@
 # CI/CD Status Page
 
 ![Original Repos](https://img.shields.io/badge/Repos-26-blue?logo=github)
-![Stars](https://img.shields.io/badge/Stars-5240-blue?logo=github)
+![Stars](https://img.shields.io/badge/Stars-5244-blue?logo=github)
 ![Forks](https://img.shields.io/badge/Forks-2115-blue?logo=github)
 ![Followers](https://img.shields.io/badge/Followers-1208-blue?logo=github)
 ![Lines of Code](https://img.shields.io/badge/lines%20of%20code-285.3k-lightgrey?logo=codecademy)
@@ -19,7 +19,7 @@
 [![Generate README](https://github.com/HariSekhon/CI-CD/actions/workflows/readme.yaml/badge.svg)](https://github.com/HariSekhon/CI-CD/actions/workflows/readme.yaml)
 [![pages-build-deployment](https://github.com/HariSekhon/CI-CD/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/HariSekhon/CI-CD/actions/workflows/pages/pages-build-deployment)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/853ef60c-c01b-4b83-99ba-8fda541f850f/deploy-status)](https://app.netlify.com/sites/harisekhon/deploys)
-![Last Generated](https://img.shields.io/badge/Last%20Generated-2023--06--07-yellowgreen?logo=github)
+![Last Generated](https://img.shields.io/badge/Last%20Generated-2023--06--08-yellowgreen?logo=github)
 [![GitHub Last Commit](https://img.shields.io/github/last-commit/HariSekhon/CI-CD?logo=github)](https://github.com/HariSekhon/CI-CD/commits/master)
 
 26 original source git repos with 675 CI builds (650 hosted, 25 self-hosted) across 23 different CI/CD systems:
