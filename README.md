@@ -1,10 +1,10 @@
 # CI/CD Status Page
 
-![Original Repos](https://img.shields.io/badge/Repos-26-blue?logo=github)
-![Stars](https://img.shields.io/badge/Stars-5247-blue?logo=github)
-![Forks](https://img.shields.io/badge/Forks-2116-blue?logo=github)
-![Followers](https://img.shields.io/badge/Followers-1209-blue?logo=github)
-![Lines of Code](https://img.shields.io/badge/lines%20of%20code-285.3k-lightgrey?logo=codecademy)
+![Original Repos](https://img.shields.io/badge/Repos-27-blue?logo=github)
+![Stars](https://img.shields.io/badge/Stars-5261-blue?logo=github)
+![Forks](https://img.shields.io/badge/Forks-2118-blue?logo=github)
+![Followers](https://img.shields.io/badge/Followers-1213-blue?logo=github)
+![Lines of Code](https://img.shields.io/badge/lines%20of%20code-287.3k-lightgrey?logo=codecademy)
 [![GitStar Ranking Profile](https://img.shields.io/badge/GitStar%20Ranking-HariSekhon-blue?logo=github)](https://gitstar-ranking.com/HariSekhon)
 [![StarCharts](https://img.shields.io/badge/Star-Charts-blue?logo=github)](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/STARCHARTS.md)
 
@@ -15,14 +15,14 @@
 [![GitHub Pages](https://img.shields.io/badge/GitHub-Pages-2088FF?logo=github)](https://harisekhon.github.io/CI-CD/)
 [![Netlify](https://img.shields.io/badge/Netlify-site-00C7B7?logo=netlify)](https://harisekhon.netlify.app/)
 
-[![CI/CD Builds](https://img.shields.io/badge/CI%2FCD%20Builds-675-blue?logo=circleci)](https://harisekhon.github.io/CI-CD/)
+[![CI/CD Builds](https://img.shields.io/badge/CI%2FCD%20Builds-682-blue?logo=circleci)](https://harisekhon.github.io/CI-CD/)
 [![Generate README](https://github.com/HariSekhon/CI-CD/actions/workflows/readme.yaml/badge.svg)](https://github.com/HariSekhon/CI-CD/actions/workflows/readme.yaml)
 [![pages-build-deployment](https://github.com/HariSekhon/CI-CD/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/HariSekhon/CI-CD/actions/workflows/pages/pages-build-deployment)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/853ef60c-c01b-4b83-99ba-8fda541f850f/deploy-status)](https://app.netlify.com/sites/harisekhon/deploys)
-![Last Generated](https://img.shields.io/badge/Last%20Generated-2023--06--09-yellowgreen?logo=github)
+![Last Generated](https://img.shields.io/badge/Last%20Generated-2023--06--12-yellowgreen?logo=github)
 [![GitHub Last Commit](https://img.shields.io/github/last-commit/HariSekhon/CI-CD?logo=github)](https://github.com/HariSekhon/CI-CD/commits/master)
 
-26 original source git repos with 675 CI builds (650 hosted, 25 self-hosted) across 23 different CI/CD systems:
+27 original source git repos with 682 CI builds (657 hosted, 25 self-hosted) across 23 different CI/CD systems:
 
 ---
 # Hari Sekhon - DevOps Bash Tools
@@ -56,12 +56,13 @@ Link:  [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-
 [![StarCharts](https://img.shields.io/badge/Star-Charts-blue?logo=github)](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/STARCHARTS.md)
 
 [![Mac Homebrew](https://img.shields.io/badge/Mac-Homebrew-999999?logo=apple&logoColor=white)](https://brew.sh/)
-[![Alpine](https://img.shields.io/badge/Linux-Alpine-0D597F?logo=alpine%20linux&color=0D597F)](https://alpinelinux.org/)
-[![CentOS](https://img.shields.io/badge/Linux-CentOS-red?logo=centos&color=262577&logoColor=white)](https://www.centos.org/)
-[![Debian](https://img.shields.io/badge/Linux-Debian-red?logo=debian&color=A81D33)](https://www.debian.org/)
-[![Fedora](https://img.shields.io/badge/Linux-Fedora-294172?logo=fedora)](https://getfedora.org/)
-[![Redhat](https://img.shields.io/badge/Linux-Redhat-red?logo=red%20hat)](https://www.redhat.com/en)
-[![Ubuntu](https://img.shields.io/badge/Linux-Ubuntu-orange?logo=ubuntu&logoColor=white)](https://ubuntu.com/)
+[![Alpine](https://img.shields.io/badge/Linux-Alpine-0D597F?logo=alpine%20linux)](https://alpinelinux.org/)
+[![CentOS](https://img.shields.io/badge/Linux-CentOS-262577?logo=centos&logoColor=white)](https://www.centos.org/)
+[![Debian](https://img.shields.io/badge/Linux-Debian-A81D33?logo=debian)](https://www.debian.org/)
+[![Fedora](https://img.shields.io/badge/Linux-Fedora-294172?logo=fedora&logoColor=white)](https://getfedora.org/)
+[![Redhat](https://img.shields.io/badge/Linux-Redhat-EE0000?logo=red%20hat)](https://www.redhat.com/en)
+[![Rocky](https://img.shields.io/badge/Linux-Rocky-10B981?logo=rockylinux&logoColor=white)](https://rockylinux.org/)
+[![Ubuntu](https://img.shields.io/badge/Linux-Ubuntu-E95420?logo=ubuntu&logoColor=white)](https://ubuntu.com/)
 
 
 
@@ -167,12 +168,13 @@ Link:  [HariSekhon/Dockerfiles](https://github.com/HariSekhon/Dockerfiles)
 [![StarTrack](https://img.shields.io/badge/Star-Track-blue?logo=github)](https://seladb.github.io/StarTrack-js/#/preload?r=HariSekhon,Nagios-Plugins&r=HariSekhon,Dockerfiles&r=HariSekhon,DevOps-Python-tools&r=HariSekhon,DevOps-Perl-tools&r=HariSekhon,DevOps-Bash-tools&r=HariSekhon,HAProxy-configs&r=HariSekhon,SQL-scripts)
 [![StarCharts](https://img.shields.io/badge/Star-Charts-blue?logo=github)](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/STARCHARTS.md)
 
-[![Alpine](https://img.shields.io/badge/Linux-Alpine-0D597F?logo=alpine%20linux&color=0D597F)](https://alpinelinux.org/)
-[![CentOS](https://img.shields.io/badge/Linux-CentOS-red?logo=centos&color=262577&logoColor=white)](https://www.centos.org/)
-[![Debian](https://img.shields.io/badge/Linux-Debian-red?logo=debian&color=A81D33)](https://www.debian.org/)
-[![Fedora](https://img.shields.io/badge/Linux-Fedora-294172?logo=fedora)](https://getfedora.org/)
-[![Redhat](https://img.shields.io/badge/Linux-Redhat-red?logo=red%20hat)](https://www.redhat.com/en)
-[![Ubuntu](https://img.shields.io/badge/Linux-Ubuntu-orange?logo=ubuntu&logoColor=white)](https://ubuntu.com/)
+[![Alpine](https://img.shields.io/badge/Linux-Alpine-0D597F?logo=alpine%20linux)](https://alpinelinux.org/)
+[![CentOS](https://img.shields.io/badge/Linux-CentOS-262577?logo=centos&logoColor=white)](https://www.centos.org/)
+[![Debian](https://img.shields.io/badge/Linux-Debian-A81D33?logo=debian)](https://www.debian.org/)
+[![Fedora](https://img.shields.io/badge/Linux-Fedora-294172?logo=fedora&logoColor=white)](https://getfedora.org/)
+[![Redhat](https://img.shields.io/badge/Linux-Redhat-EE0000?logo=red%20hat)](https://www.redhat.com/en)
+[![Rocky](https://img.shields.io/badge/Linux-Rocky-10B981?logo=rockylinux&logoColor=white)](https://rockylinux.org/)
+[![Ubuntu](https://img.shields.io/badge/Linux-Ubuntu-E95420?logo=ubuntu&logoColor=white)](https://ubuntu.com/)
 
 [![CI Builds Overview](https://img.shields.io/badge/CI%20Builds-Overview%20Page-blue?logo=circleci)](https://harisekhon.github.io/CI-CD/)
 [![Jenkins](https://img.shields.io/badge/Jenkins-ready-blue?logo=jenkins&logoColor=white)](https://github.com/HariSekhon/Dockerfiles/blob/master/Jenkinsfile)
@@ -830,7 +832,7 @@ Jenkins - Advanced Jenkinsfile & Groovy Shared Library of reusable functions and
 
 [![GitHub stars](https://img.shields.io/github/stars/HariSekhon/Jenkins?logo=github)](https://github.com/HariSekhon/Jenkins/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/HariSekhon/Jenkins?logo=github)](https://github.com/HariSekhon/Jenkins/network)
-[![Lines of Code](https://img.shields.io/badge/lines%20of%20code-9k-lightgrey?logo=codecademy)](https://github.com/HariSekhon/Jenkins)
+[![Lines of Code](https://img.shields.io/badge/lines%20of%20code-10k-lightgrey?logo=codecademy)](https://github.com/HariSekhon/Jenkins)
 [![License](https://img.shields.io/github/license/HariSekhon/Jenkins)](https://github.com/HariSekhon/Jenkins/blob/master/LICENSE)
 [![GitHub Last Commit](https://img.shields.io/github/last-commit/HariSekhon/Jenkins?logo=github)](https://github.com/HariSekhon/Jenkins/commits/master)
 
@@ -1036,6 +1038,8 @@ Cloud & DevOps Architecture Diagrams-as-Code in Python and D2 languages
 [![GitHub forks](https://img.shields.io/github/forks/HariSekhon/Diagrams-as-Code?logo=github)](https://github.com/HariSekhon/Diagrams-as-Code/network)
 [![Lines of Code](https://img.shields.io/badge/lines%20of%20code-5k-lightgrey?logo=codecademy)](https://github.com/HariSekhon/Diagrams-as-Code#Hari-Sekhon---Diagrams-as-Code)
 [![License](https://img.shields.io/badge/license-MIT-green)](https://github.com/HariSekhon/Diagrams-as-Code/blob/master/LICENSE)
+[![Mac](https://img.shields.io/badge/OS-Mac-blue?logo=apple)](https://github.com/HariSekhon/DevOps-Bash-tools#hari-sekhon---devops-bash-tools)
+[![Linux](https://img.shields.io/badge/OS-Linux-blue?logo=linux)](https://github.com/HariSekhon/DevOps-Bash-tools#hari-sekhon---devops-bash-tools)
 [![GitHub Last Commit](https://img.shields.io/github/last-commit/HariSekhon/Diagrams-as-Code?logo=github)](https://github.com/HariSekhon/Diagrams-as-Code/commits/master)
 
 [![Codacy](https://app.codacy.com/project/badge/Grade/dffc1bfd13404c95b5a0ab97fd47974e)](https://www.codacy.com/gh/HariSekhon/Diagrams-as-Code/dashboard)
@@ -1046,16 +1050,6 @@ Cloud & DevOps Architecture Diagrams-as-Code in Python and D2 languages
 [![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_Diagrams-as-Code&metric=reliability_rating)](https://sonarcloud.io/dashboard?id=HariSekhon_Diagrams-as-Code)
 [![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_Diagrams-as-Code&metric=security_rating)](https://sonarcloud.io/dashboard?id=HariSekhon_Diagrams-as-Code)
 [![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_Diagrams-as-Code&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=HariSekhon_Diagrams-as-Code)
-
-[![Mac](https://img.shields.io/badge/OS-Mac-blue?logo=apple)](https://github.com/HariSekhon/DevOps-Bash-tools#hari-sekhon---devops-bash-tools)
-[![Linux](https://img.shields.io/badge/OS-Linux-blue?logo=linux)](https://github.com/HariSekhon/DevOps-Bash-tools#hari-sekhon---devops-bash-tools)
-[![Mac Homebrew](https://img.shields.io/badge/Mac-Homebrew-999999?logo=apple&logoColor=white)](https://brew.sh/)
-[![Alpine](https://img.shields.io/badge/Linux-Alpine-0D597F?logo=alpine%20linux&color=0D597F)](https://alpinelinux.org/)
-[![CentOS](https://img.shields.io/badge/Linux-CentOS-red?logo=centos&color=262577&logoColor=white)](https://www.centos.org/)
-[![Debian](https://img.shields.io/badge/Linux-Debian-red?logo=debian&color=A81D33)](https://www.debian.org/)
-[![Fedora](https://img.shields.io/badge/Linux-Fedora-294172?logo=fedora)](https://getfedora.org/)
-[![Redhat](https://img.shields.io/badge/Linux-Redhat-red?logo=red%20hat)](https://www.redhat.com/en)
-[![Ubuntu](https://img.shields.io/badge/Linux-Ubuntu-orange?logo=ubuntu&logoColor=white)](https://ubuntu.com/)
 
 [![CI Builds Overview](https://img.shields.io/badge/CI%20Builds-Overview%20Page-blue?logo=circleci)](https://harisekhon.github.io/CI-CD/)
 [![Azure DevOps Pipeline](https://dev.azure.com/harisekhon/GitHub/_apis/build/status%2FDiagrams-as-Code?branchName=master)](https://dev.azure.com/harisekhon/GitHub/_build/latest?definitionId=14&branchName=master)
@@ -1508,6 +1502,27 @@ SQL keywords and built-in functions for most major RDBMS, MPP SQL & NoSQL system
 
 
 ---
+# Hari Sekhon - Template Repo
+
+Link:  [HariSekhon/Template-Repo](https://github.com/HariSekhon/Template-Repo)
+
+Template repository with basic skeleton of build and CI/CD configs
+
+[![GitHub stars](https://img.shields.io/github/stars/HariSekhon/Template-Repo?logo=github)](https://github.com/HariSekhon/Template-Repo/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/HariSekhon/Template-Repo?logo=github)](https://github.com/HariSekhon/Template-Repo/network)
+[![Lines of Code](https://img.shields.io/badge/lines%20of%20code-1k-lightgrey?logo=codecademy)](https://github.com/HariSekhon/Template-Repo#Hari-Sekhon---Template-Repo)
+[![License](https://img.shields.io/badge/license-MIT-green)](https://github.com/HariSekhon/Template-Repo/blob/master/LICENSE)
+[![GitHub Last Commit](https://img.shields.io/github/last-commit/HariSekhon/Template-Repo?logo=github)](https://github.com/HariSekhon/Template-Repo/commits/master)
+
+[![Codacy](https://app.codacy.com/project/badge/Grade/dffc1bfd13404c95b5a0ab97fd47974e)](https://www.codacy.com/gh/HariSekhon/Template-Repo/dashboard)
+[![CodeFactor](https://www.codefactor.io/repository/github/harisekhon/Template-Repo/badge)](https://www.codefactor.io/repository/github/harisekhon/Template-Repo)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_Template-Repo&metric=alert_status)](https://sonarcloud.io/dashboard?id=HariSekhon_Template-Repo)
+[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_Template-Repo&metric=sqale_rating)](https://sonarcloud.io/dashboard?id=HariSekhon_Template-Repo)
+[![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_Template-Repo&metric=reliability_rating)](https://sonarcloud.io/dashboard?id=HariSekhon_Template-Repo)
+[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_Template-Repo&metric=security_rating)](https://sonarcloud.io/dashboard?id=HariSekhon_Template-Repo)
+
+
+---
 # Hari Sekhon - HashiCorp Packer templates
 
 Link:  [HariSekhon/Packer-templates](https://github.com/HariSekhon/Packer-templates)
@@ -1526,6 +1541,45 @@ HashiCorp Packer templates to build portable virtual machines in OVA format for 
 [![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_Packer-templates&metric=sqale_rating)](https://sonarcloud.io/dashboard?id=HariSekhon_Packer-templates)
 [![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_Packer-templates&metric=reliability_rating)](https://sonarcloud.io/dashboard?id=HariSekhon_Packer-templates)
 [![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_Packer-templates&metric=security_rating)](https://sonarcloud.io/dashboard?id=HariSekhon_Packer-templates)
+
+
+---
+# Hari Sekhon - Vagrant templates
+
+Link:  [HariSekhon/Vagrant-templates](https://github.com/HariSekhon/Vagrant-templates)
+
+Vagrant templates to boot quick labs, including Ubuntu, Kubernetes, Rancher
+
+[![GitHub stars](https://img.shields.io/github/stars/HariSekhon/Vagrant-templates?logo=github)](https://github.com/HariSekhon/Vagrant-templates/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/HariSekhon/Vagrant-templates?logo=github)](https://github.com/HariSekhon/Vagrant-templates/network)
+[![Lines of Code](https://img.shields.io/badge/lines%20of%20code-1k-lightgrey?logo=codecademy)](https://github.com/HariSekhon/Vagrant-templates#Hari-Sekhon---Vagrant-templates)
+[![License](https://img.shields.io/badge/license-MIT-green)](https://github.com/HariSekhon/Vagrant-templates/blob/master/LICENSE)
+[![GitHub Last Commit](https://img.shields.io/github/last-commit/HariSekhon/Vagrant-templates?logo=github)](https://github.com/HariSekhon/Vagrant-templates/commits/master)
+
+[![Codacy](https://app.codacy.com/project/badge/Grade/dffc1bfd13404c95b5a0ab97fd47974e)](https://www.codacy.com/gh/HariSekhon/Vagrant-templates/dashboard)
+[![CodeFactor](https://www.codefactor.io/repository/github/harisekhon/Vagrant-templates/badge)](https://www.codefactor.io/repository/github/harisekhon/Vagrant-templates)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_Vagrant-templates&metric=alert_status)](https://sonarcloud.io/dashboard?id=HariSekhon_Vagrant-templates)
+[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_Vagrant-templates&metric=sqale_rating)](https://sonarcloud.io/dashboard?id=HariSekhon_Vagrant-templates)
+[![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_Vagrant-templates&metric=reliability_rating)](https://sonarcloud.io/dashboard?id=HariSekhon_Vagrant-templates)
+[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_Vagrant-templates&metric=security_rating)](https://sonarcloud.io/dashboard?id=HariSekhon_Vagrant-templates)
+
+[![Linux](https://img.shields.io/badge/OS-Linux-blue?logo=linux)](https://github.com/HariSekhon/DevOps-Bash-tools#hari-sekhon---devops-bash-tools)
+[![Mac](https://img.shields.io/badge/OS-Mac-blue?logo=apple)](https://github.com/HariSekhon/DevOps-Bash-tools#hari-sekhon---devops-bash-tools)
+
+[![CI Builds Overview](https://img.shields.io/badge/CI%20Builds-Overview%20Page-blue?logo=circleci)](https://harisekhon.github.io/CI-CD/)
+[![Repo on Azure DevOps](https://img.shields.io/badge/repo-Azure%20DevOps-0078D7?logo=azure%20devops)](https://dev.azure.com/HariSekhon/GitHub/_git/Vagrant-templates)
+[![Repo on GitHub](https://img.shields.io/badge/repo-GitHub-2088FF?logo=github)](https://github.com/HariSekhon/Vagrant-templates)
+[![Repo on GitLab](https://img.shields.io/badge/repo-GitLab-FCA121?logo=gitlab)](https://gitlab.com/HariSekhon/Vagrant-templates)
+[![Repo on BitBucket](https://img.shields.io/badge/repo-BitBucket-0052CC?logo=bitbucket)](https://bitbucket.org/HariSekhon/Vagrant-templates)
+
+[![Validation](https://github.com/HariSekhon/Vagrant-templates/actions/workflows/validate.yaml/badge.svg)](https://github.com/HariSekhon/Vagrant-templates/actions/workflows/validate.yaml)
+[![Kics](https://github.com/HariSekhon/Vagrant-templates/actions/workflows/kics.yaml/badge.svg)](https://github.com/HariSekhon/Vagrant-templates/actions/workflows/kics.yaml)
+[![Grype](https://github.com/HariSekhon/Vagrant-templates/actions/workflows/grype.yaml/badge.svg)](https://github.com/HariSekhon/Vagrant-templates/actions/workflows/grype.yaml)
+[![Semgrep](https://github.com/HariSekhon/Vagrant-templates/actions/workflows/semgrep.yaml/badge.svg)](https://github.com/HariSekhon/Vagrant-templates/actions/workflows/semgrep.yaml)
+[![Semgrep Cloud](https://github.com/HariSekhon/Vagrant-templates/actions/workflows/semgrep-cloud.yaml/badge.svg)](https://github.com/HariSekhon/Vagrant-templates/actions/workflows/semgrep-cloud.yaml)
+[![SonarCloud](https://github.com/HariSekhon/Vagrant-templates/actions/workflows/sonarcloud.yaml/badge.svg)](https://github.com/HariSekhon/Vagrant-templates/actions/workflows/sonarcloud.yaml)
+[![Trivy](https://github.com/HariSekhon/Vagrant-templates/actions/workflows/trivy.yaml/badge.svg)](https://github.com/HariSekhon/Vagrant-templates/actions/workflows/trivy.yaml)
+
 
 
 ---
@@ -1620,26 +1674,5 @@ Java Utility library for my other repos
 [![Gradle](https://github.com/HariSekhon/lib-java/workflows/Gradle/badge.svg)](https://github.com/HariSekhon/lib-java/actions?query=workflow%3A%22Gradle%22)
 
 
----
-# Hari Sekhon - Template Repo
 
-Link:  [HariSekhon/Template-Repo](https://github.com/HariSekhon/Template-Repo)
-
-Template repository with basic skeleton of build and CI/CD configs
-
-[![GitHub stars](https://img.shields.io/github/stars/HariSekhon/Template-Repo?logo=github)](https://github.com/HariSekhon/Template-Repo/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/HariSekhon/Template-Repo?logo=github)](https://github.com/HariSekhon/Template-Repo/network)
-[![Lines of Code](https://img.shields.io/badge/lines%20of%20code-1k-lightgrey?logo=codecademy)](https://github.com/HariSekhon/Template-Repo#Hari-Sekhon---Template-Repo)
-[![License](https://img.shields.io/badge/license-MIT-green)](https://github.com/HariSekhon/Template-Repo/blob/master/LICENSE)
-[![GitHub Last Commit](https://img.shields.io/github/last-commit/HariSekhon/Template-Repo?logo=github)](https://github.com/HariSekhon/Template-Repo/commits/master)
-
-[![Codacy](https://app.codacy.com/project/badge/Grade/dffc1bfd13404c95b5a0ab97fd47974e)](https://www.codacy.com/gh/HariSekhon/Template-Repo/dashboard)
-[![CodeFactor](https://www.codefactor.io/repository/github/harisekhon/Template-Repo/badge)](https://www.codefactor.io/repository/github/harisekhon/Template-Repo)
-[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_Template-Repo&metric=alert_status)](https://sonarcloud.io/dashboard?id=HariSekhon_Template-Repo)
-[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_Template-Repo&metric=sqale_rating)](https://sonarcloud.io/dashboard?id=HariSekhon_Template-Repo)
-[![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_Template-Repo&metric=reliability_rating)](https://sonarcloud.io/dashboard?id=HariSekhon_Template-Repo)
-[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_Template-Repo&metric=security_rating)](https://sonarcloud.io/dashboard?id=HariSekhon_Template-Repo)
-
-
-
-26 git repos summarized with 675 CI builds (650 hosted, 25 self-hosted) across 23 different CI/CD systems
+27 git repos summarized with 682 CI builds (657 hosted, 25 self-hosted) across 23 different CI/CD systems
