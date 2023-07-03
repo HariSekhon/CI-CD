@@ -1,8 +1,8 @@
 # CI/CD Status Page
 
 ![Original Repos](https://img.shields.io/badge/Repos-27-blue?logo=github)
-![Stars](https://img.shields.io/badge/Stars-5314-blue?logo=github)
-![Forks](https://img.shields.io/badge/Forks-2130-blue?logo=github)
+![Stars](https://img.shields.io/badge/Stars-5321-blue?logo=github)
+![Forks](https://img.shields.io/badge/Forks-2141-blue?logo=github)
 ![Followers](https://img.shields.io/badge/Followers-1224-blue?logo=github)
 ![Lines of Code](https://img.shields.io/badge/lines%20of%20code-287.3k-lightgrey?logo=codecademy)
 [![GitStar Ranking Profile](https://img.shields.io/badge/GitStar%20Ranking-HariSekhon-blue?logo=github)](https://gitstar-ranking.com/HariSekhon)
@@ -15,14 +15,14 @@
 [![GitHub Pages](https://img.shields.io/badge/GitHub-Pages-2088FF?logo=github)](https://harisekhon.github.io/CI-CD/)
 [![Netlify](https://img.shields.io/badge/Netlify-site-00C7B7?logo=netlify)](https://harisekhon.netlify.app/)
 
-[![CI/CD Builds](https://img.shields.io/badge/CI%2FCD%20Builds-682-blue?logo=circleci)](https://harisekhon.github.io/CI-CD/)
+[![CI/CD Builds](https://img.shields.io/badge/CI%2FCD%20Builds-683-blue?logo=circleci)](https://harisekhon.github.io/CI-CD/)
 [![Generate README](https://github.com/HariSekhon/CI-CD/actions/workflows/readme.yaml/badge.svg)](https://github.com/HariSekhon/CI-CD/actions/workflows/readme.yaml)
 [![pages-build-deployment](https://github.com/HariSekhon/CI-CD/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/HariSekhon/CI-CD/actions/workflows/pages/pages-build-deployment)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/853ef60c-c01b-4b83-99ba-8fda541f850f/deploy-status)](https://app.netlify.com/sites/harisekhon/deploys)
-![Last Generated](https://img.shields.io/badge/Last%20Generated-2023--06--30-yellowgreen?logo=github)
+![Last Generated](https://img.shields.io/badge/Last%20Generated-2023--07--03-yellowgreen?logo=github)
 [![GitHub Last Commit](https://img.shields.io/github/last-commit/HariSekhon/CI-CD?logo=github)](https://github.com/HariSekhon/CI-CD/commits/master)
 
-27 original source git repos with 682 CI builds (657 hosted, 25 self-hosted) across 23 different CI/CD systems:
+27 original source git repos with 683 CI builds (658 hosted, 25 self-hosted) across 23 different CI/CD systems:
 
 ---
 # Hari Sekhon - DevOps Bash Tools
@@ -121,9 +121,9 @@ Link:  [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-
 [![Ubuntu 20.04](https://github.com/HariSekhon/DevOps-Bash-tools/workflows/Ubuntu%2020.04/badge.svg)](https://github.com/HariSekhon/DevOps-Bash-tools/actions?query=workflow%3A%22Ubuntu+20.04%22)
 [![Ubuntu 22.04](https://github.com/HariSekhon/DevOps-Bash-tools/workflows/Ubuntu%2022.04/badge.svg)](https://github.com/HariSekhon/DevOps-Bash-tools/actions?query=workflow%3A%22Ubuntu+22.04%22)
 [![Debian](https://github.com/HariSekhon/DevOps-Bash-tools/workflows/Debian/badge.svg)](https://github.com/HariSekhon/DevOps-Bash-tools/actions?query=workflow%3A%22Debian%22)
-[![Debian 9](https://github.com/HariSekhon/DevOps-Bash-tools/workflows/Debian%209/badge.svg)](https://github.com/HariSekhon/DevOps-Bash-tools/actions?query=workflow%3A%22Debian+9%22)
 [![Debian 10](https://github.com/HariSekhon/DevOps-Bash-tools/workflows/Debian%2010/badge.svg)](https://github.com/HariSekhon/DevOps-Bash-tools/actions?query=workflow%3A%22Debian+10%22)
 [![Debian 11](https://github.com/HariSekhon/DevOps-Bash-tools/workflows/Debian%2011/badge.svg)](https://github.com/HariSekhon/DevOps-Bash-tools/actions?query=workflow%3A%22Debian+11%22)
+[![Debian 12](https://github.com/HariSekhon/DevOps-Bash-tools/workflows/Debian%2012/badge.svg)](https://github.com/HariSekhon/DevOps-Bash-tools/actions?query=workflow%3A%22Debian+12%22)
 [![Fedora](https://github.com/HariSekhon/DevOps-Bash-tools/workflows/Fedora/badge.svg)](https://github.com/HariSekhon/DevOps-Bash-tools/actions?query=workflow%3A%22Fedora%22)
 [![Alpine](https://github.com/HariSekhon/DevOps-Bash-tools/workflows/Alpine/badge.svg)](https://github.com/HariSekhon/DevOps-Bash-tools/actions?query=workflow%3A%22Alpine%22)
 [![Alpine 3](https://github.com/HariSekhon/DevOps-Bash-tools/workflows/Alpine%203/badge.svg)](https://github.com/HariSekhon/DevOps-Bash-tools/actions?query=workflow%3A%22Alpine+3%22)
@@ -223,9 +223,9 @@ Link:  [HariSekhon/Dockerfiles](https://github.com/HariSekhon/Dockerfiles)
 [![Ubuntu 20.04](https://github.com/HariSekhon/Dockerfiles/workflows/Ubuntu%2020.04/badge.svg)](https://github.com/HariSekhon/Dockerfiles/actions?query=workflow%3A%22Ubuntu+20.04%22)
 [![Ubuntu 22.04](https://github.com/HariSekhon/Dockerfiles/workflows/Ubuntu%2022.04/badge.svg)](https://github.com/HariSekhon/Dockerfiles/actions?query=workflow%3A%22Ubuntu+22.04%22)
 [![Debian](https://github.com/HariSekhon/Dockerfiles/workflows/Debian/badge.svg)](https://github.com/HariSekhon/Dockerfiles/actions?query=workflow%3A%22Debian%22)
-[![Debian 9](https://github.com/HariSekhon/Dockerfiles/workflows/Debian%209/badge.svg)](https://github.com/HariSekhon/Dockerfiles/actions?query=workflow%3A%22Debian+9%22)
 [![Debian 10](https://github.com/HariSekhon/Dockerfiles/workflows/Debian%2010/badge.svg)](https://github.com/HariSekhon/Dockerfiles/actions?query=workflow%3A%22Debian+10%22)
 [![Debian 11](https://github.com/HariSekhon/Dockerfiles/workflows/Debian%2011/badge.svg)](https://github.com/HariSekhon/Dockerfiles/actions?query=workflow%3A%22Debian+11%22)
+[![Debian 12](https://github.com/HariSekhon/Dockerfiles/workflows/Debian%2012/badge.svg)](https://github.com/HariSekhon/Dockerfiles/actions?query=workflow%3A%22Debian+12%22)
 [![Fedora](https://github.com/HariSekhon/Dockerfiles/workflows/Fedora/badge.svg)](https://github.com/HariSekhon/Dockerfiles/actions?query=workflow%3A%22Fedora%22)
 [![Alpine](https://github.com/HariSekhon/Dockerfiles/workflows/Alpine/badge.svg)](https://github.com/HariSekhon/Dockerfiles/actions?query=workflow%3A%22Alpine%22)
 [![Alpine 3](https://github.com/HariSekhon/Dockerfiles/workflows/Alpine%203/badge.svg)](https://github.com/HariSekhon/Dockerfiles/actions?query=workflow%3A%22Alpine+3%22)
@@ -318,9 +318,9 @@ Link:  [HariSekhon/Nagios-Plugins](https://github.com/HariSekhon/Nagios-Plugins)
 [![Ubuntu 20.04](https://github.com/HariSekhon/Nagios-Plugins/workflows/Ubuntu%2020.04/badge.svg)](https://github.com/HariSekhon/Nagios-Plugins/actions?query=workflow%3A%22Ubuntu+20.04%22)
 [![Ubuntu 22.04](https://github.com/HariSekhon/Nagios-Plugins/workflows/Ubuntu%2022.04/badge.svg)](https://github.com/HariSekhon/Nagios-Plugins/actions?query=workflow%3A%22Ubuntu+22.04%22)
 [![Debian](https://github.com/HariSekhon/Nagios-Plugins/workflows/Debian/badge.svg)](https://github.com/HariSekhon/Nagios-Plugins/actions?query=workflow%3A%22Debian%22)
-[![Debian 9](https://github.com/HariSekhon/Nagios-Plugins/workflows/Debian%209/badge.svg)](https://github.com/HariSekhon/Nagios-Plugins/actions?query=workflow%3A%22Debian+9%22)
 [![Debian 10](https://github.com/HariSekhon/Nagios-Plugins/workflows/Debian%2010/badge.svg)](https://github.com/HariSekhon/Nagios-Plugins/actions?query=workflow%3A%22Debian+10%22)
 [![Debian 11](https://github.com/HariSekhon/Nagios-Plugins/workflows/Debian%2011/badge.svg)](https://github.com/HariSekhon/Nagios-Plugins/actions?query=workflow%3A%22Debian+11%22)
+[![Debian 12](https://github.com/HariSekhon/Nagios-Plugins/workflows/Debian%2012/badge.svg)](https://github.com/HariSekhon/Nagios-Plugins/actions?query=workflow%3A%22Debian+12%22)
 [![Fedora](https://github.com/HariSekhon/Nagios-Plugins/workflows/Fedora/badge.svg)](https://github.com/HariSekhon/Nagios-Plugins/actions?query=workflow%3A%22Fedora%22)
 [![Alpine](https://github.com/HariSekhon/Nagios-Plugins/workflows/Alpine/badge.svg)](https://github.com/HariSekhon/Nagios-Plugins/actions?query=workflow%3A%22Alpine%22)
 [![Alpine 3](https://github.com/HariSekhon/Nagios-Plugins/workflows/Alpine%203/badge.svg)](https://github.com/HariSekhon/Nagios-Plugins/actions?query=workflow%3A%22Alpine+3%22)
@@ -425,9 +425,9 @@ Link:  [HariSekhon/DevOps-Python-tools](https://github.com/HariSekhon/DevOps-Pyt
 [![Ubuntu 20.04](https://github.com/HariSekhon/DevOps-Python-tools/workflows/Ubuntu%2020.04/badge.svg)](https://github.com/HariSekhon/DevOps-Python-tools/actions?query=workflow%3A%22Ubuntu+20.04%22)
 [![Ubuntu 22.04](https://github.com/HariSekhon/DevOps-Python-tools/workflows/Ubuntu%2022.04/badge.svg)](https://github.com/HariSekhon/DevOps-Python-tools/actions?query=workflow%3A%22Ubuntu+22.04%22)
 [![Debian](https://github.com/HariSekhon/DevOps-Python-tools/workflows/Debian/badge.svg)](https://github.com/HariSekhon/DevOps-Python-tools/actions?query=workflow%3A%22Debian%22)
-[![Debian 9](https://github.com/HariSekhon/DevOps-Python-tools/workflows/Debian%209/badge.svg)](https://github.com/HariSekhon/DevOps-Python-tools/actions?query=workflow%3A%22Debian+9%22)
 [![Debian 10](https://github.com/HariSekhon/DevOps-Python-tools/workflows/Debian%2010/badge.svg)](https://github.com/HariSekhon/DevOps-Python-tools/actions?query=workflow%3A%22Debian+10%22)
 [![Debian 11](https://github.com/HariSekhon/DevOps-Python-tools/workflows/Debian%2011/badge.svg)](https://github.com/HariSekhon/DevOps-Python-tools/actions?query=workflow%3A%22Debian+11%22)
+[![Debian 12](https://github.com/HariSekhon/DevOps-Python-tools/workflows/Debian%2012/badge.svg)](https://github.com/HariSekhon/DevOps-Python-tools/actions?query=workflow%3A%22Debian+12%22)
 [![Fedora](https://github.com/HariSekhon/DevOps-Python-tools/workflows/Fedora/badge.svg)](https://github.com/HariSekhon/DevOps-Python-tools/actions?query=workflow%3A%22Fedora%22)
 [![Alpine](https://github.com/HariSekhon/DevOps-Python-tools/workflows/Alpine/badge.svg)](https://github.com/HariSekhon/DevOps-Python-tools/actions?query=workflow%3A%22Alpine%22)
 [![Alpine 3](https://github.com/HariSekhon/DevOps-Python-tools/workflows/Alpine%203/badge.svg)](https://github.com/HariSekhon/DevOps-Python-tools/actions?query=workflow%3A%22Alpine+3%22)
@@ -552,9 +552,9 @@ Link:  [HariSekhon/HAProxy-configs](https://github.com/HariSekhon/HAProxy-config
 [![Ubuntu 20.04](https://github.com/HariSekhon/HAProxy-configs/workflows/Ubuntu%2020.04/badge.svg)](https://github.com/HariSekhon/HAProxy-configs/actions?query=workflow%3A%22Ubuntu+20.04%22)
 [![Ubuntu 22.04](https://github.com/HariSekhon/HAProxy-configs/workflows/Ubuntu%2022.04/badge.svg)](https://github.com/HariSekhon/HAProxy-configs/actions?query=workflow%3A%22Ubuntu+22.04%22)
 [![Debian](https://github.com/HariSekhon/HAProxy-configs/workflows/Debian/badge.svg)](https://github.com/HariSekhon/HAProxy-configs/actions?query=workflow%3A%22Debian%22)
-[![Debian 9](https://github.com/HariSekhon/HAProxy-configs/workflows/Debian%209/badge.svg)](https://github.com/HariSekhon/HAProxy-configs/actions?query=workflow%3A%22Debian+9%22)
 [![Debian 10](https://github.com/HariSekhon/HAProxy-configs/workflows/Debian%2010/badge.svg)](https://github.com/HariSekhon/HAProxy-configs/actions?query=workflow%3A%22Debian+10%22)
 [![Debian 11](https://github.com/HariSekhon/HAProxy-configs/workflows/Debian%2011/badge.svg)](https://github.com/HariSekhon/HAProxy-configs/actions?query=workflow%3A%22Debian+11%22)
+[![Debian 12](https://github.com/HariSekhon/HAProxy-configs/workflows/Debian%2012/badge.svg)](https://github.com/HariSekhon/HAProxy-configs/actions?query=workflow%3A%22Debian+12%22)
 [![CentOS](https://github.com/HariSekhon/HAProxy-configs/workflows/CentOS/badge.svg)](https://github.com/HariSekhon/HAProxy-configs/actions?query=workflow%3A%22CentOS%22)
 [![CentOS 7](https://github.com/HariSekhon/HAProxy-configs/workflows/CentOS%207/badge.svg)](https://github.com/HariSekhon/HAProxy-configs/actions?query=workflow%3A%22CentOS+7%22)
 [![CentOS 8](https://github.com/HariSekhon/HAProxy-configs/workflows/CentOS%208/badge.svg)](https://github.com/HariSekhon/HAProxy-configs/actions?query=workflow%3A%22CentOS+8%22)
@@ -689,9 +689,9 @@ Link:  [HariSekhon/DevOps-Perl-tools](https://github.com/HariSekhon/DevOps-Perl-
 [![Ubuntu 20.04](https://github.com/HariSekhon/DevOps-Perl-tools/workflows/Ubuntu%2020.04/badge.svg)](https://github.com/HariSekhon/DevOps-Perl-tools/actions?query=workflow%3A%22Ubuntu+20.04%22)
 [![Ubuntu 22.04](https://github.com/HariSekhon/DevOps-Perl-tools/workflows/Ubuntu%2022.04/badge.svg)](https://github.com/HariSekhon/DevOps-Perl-tools/actions?query=workflow%3A%22Ubuntu+22.04%22)
 [![Debian](https://github.com/HariSekhon/DevOps-Perl-tools/workflows/Debian/badge.svg)](https://github.com/HariSekhon/DevOps-Perl-tools/actions?query=workflow%3A%22Debian%22)
-[![Debian 9](https://github.com/HariSekhon/DevOps-Perl-tools/workflows/Debian%209/badge.svg)](https://github.com/HariSekhon/DevOps-Perl-tools/actions?query=workflow%3A%22Debian+9%22)
 [![Debian 10](https://github.com/HariSekhon/DevOps-Perl-tools/workflows/Debian%2010/badge.svg)](https://github.com/HariSekhon/DevOps-Perl-tools/actions?query=workflow%3A%22Debian+10%22)
 [![Debian 11](https://github.com/HariSekhon/DevOps-Perl-tools/workflows/Debian%2011/badge.svg)](https://github.com/HariSekhon/DevOps-Perl-tools/actions?query=workflow%3A%22Debian+11%22)
+[![Debian 12](https://github.com/HariSekhon/DevOps-Perl-tools/workflows/Debian%2012/badge.svg)](https://github.com/HariSekhon/DevOps-Perl-tools/actions?query=workflow%3A%22Debian+12%22)
 [![Fedora](https://github.com/HariSekhon/DevOps-Perl-tools/workflows/Fedora/badge.svg)](https://github.com/HariSekhon/DevOps-Perl-tools/actions?query=workflow%3A%22Fedora%22)
 [![Alpine](https://github.com/HariSekhon/DevOps-Perl-tools/workflows/Alpine/badge.svg)](https://github.com/HariSekhon/DevOps-Perl-tools/actions?query=workflow%3A%22Alpine%22)
 [![Alpine 3](https://github.com/HariSekhon/DevOps-Perl-tools/workflows/Alpine%203/badge.svg)](https://github.com/HariSekhon/DevOps-Perl-tools/actions?query=workflow%3A%22Alpine+3%22)
@@ -938,9 +938,9 @@ DevOps Golang tools
 [![Ubuntu 20.04](https://github.com/HariSekhon/DevOps-Golang-tools/workflows/Ubuntu%2020.04/badge.svg)](https://github.com/HariSekhon/DevOps-Golang-tools/actions?query=workflow%3A%22Ubuntu+20.04%22)
 [![Ubuntu 22.04](https://github.com/HariSekhon/DevOps-Golang-tools/workflows/Ubuntu%2022.04/badge.svg)](https://github.com/HariSekhon/DevOps-Golang-tools/actions?query=workflow%3A%22Ubuntu+22.04%22)
 [![Debian](https://github.com/HariSekhon/DevOps-Golang-tools/workflows/Debian/badge.svg)](https://github.com/HariSekhon/DevOps-Golang-tools/actions?query=workflow%3A%22Debian%22)
-[![Debian 9](https://github.com/HariSekhon/DevOps-Golang-tools/workflows/Debian%209/badge.svg)](https://github.com/HariSekhon/DevOps-Golang-tools/actions?query=workflow%3A%22Debian+9%22)
 [![Debian 10](https://github.com/HariSekhon/DevOps-Golang-tools/workflows/Debian%2010/badge.svg)](https://github.com/HariSekhon/DevOps-Golang-tools/actions?query=workflow%3A%22Debian+10%22)
 [![Debian 11](https://github.com/HariSekhon/DevOps-Golang-tools/workflows/Debian%2011/badge.svg)](https://github.com/HariSekhon/DevOps-Golang-tools/actions?query=workflow%3A%22Debian+11%22)
+[![Debian 12](https://github.com/HariSekhon/DevOps-Golang-tools/workflows/Debian%2012/badge.svg)](https://github.com/HariSekhon/DevOps-Golang-tools/actions?query=workflow%3A%22Debian+12%22)
 [![CentOS](https://github.com/HariSekhon/DevOps-Golang-tools/workflows/CentOS/badge.svg)](https://github.com/HariSekhon/DevOps-Golang-tools/actions?query=workflow%3A%22CentOS%22)
 [![CentOS 7](https://github.com/HariSekhon/DevOps-Golang-tools/workflows/CentOS%207/badge.svg)](https://github.com/HariSekhon/DevOps-Golang-tools/actions?query=workflow%3A%22CentOS+7%22)
 [![CentOS 8](https://github.com/HariSekhon/DevOps-Golang-tools/workflows/CentOS%208/badge.svg)](https://github.com/HariSekhon/DevOps-Golang-tools/actions?query=workflow%3A%22CentOS+8%22)
@@ -1169,9 +1169,9 @@ Perl Utility Library for my other repos
 [![Ubuntu 20.04](https://github.com/HariSekhon/lib/workflows/Ubuntu%2020.04/badge.svg)](https://github.com/HariSekhon/lib/actions?query=workflow%3A%22Ubuntu+20.04%22)
 [![Ubuntu 22.04](https://github.com/HariSekhon/lib/workflows/Ubuntu%2022.04/badge.svg)](https://github.com/HariSekhon/lib/actions?query=workflow%3A%22Ubuntu+22.04%22)
 [![Debian](https://github.com/HariSekhon/lib/workflows/Debian/badge.svg)](https://github.com/HariSekhon/lib/actions?query=workflow%3A%22Debian%22)
-[![Debian 9](https://github.com/HariSekhon/lib/workflows/Debian%209/badge.svg)](https://github.com/HariSekhon/lib/actions?query=workflow%3A%22Debian+9%22)
 [![Debian 10](https://github.com/HariSekhon/lib/workflows/Debian%2010/badge.svg)](https://github.com/HariSekhon/lib/actions?query=workflow%3A%22Debian+10%22)
 [![Debian 11](https://github.com/HariSekhon/lib/workflows/Debian%2011/badge.svg)](https://github.com/HariSekhon/lib/actions?query=workflow%3A%22Debian+11%22)
+[![Debian 12](https://github.com/HariSekhon/lib/workflows/Debian%2012/badge.svg)](https://github.com/HariSekhon/lib/actions?query=workflow%3A%22Debian+12%22)
 [![CentOS](https://github.com/HariSekhon/lib/workflows/CentOS/badge.svg)](https://github.com/HariSekhon/lib/actions?query=workflow%3A%22CentOS%22)
 [![CentOS 7](https://github.com/HariSekhon/lib/workflows/CentOS%207/badge.svg)](https://github.com/HariSekhon/lib/actions?query=workflow%3A%22CentOS+7%22)
 [![CentOS 8](https://github.com/HariSekhon/lib/workflows/CentOS%208/badge.svg)](https://github.com/HariSekhon/lib/actions?query=workflow%3A%22CentOS+8%22)
@@ -1388,9 +1388,9 @@ Python / Jython Utility Library for my other repos
 [![Ubuntu 20.04](https://github.com/HariSekhon/pylib/workflows/Ubuntu%2020.04/badge.svg)](https://github.com/HariSekhon/pylib/actions?query=workflow%3A%22Ubuntu+20.04%22)
 [![Ubuntu 22.04](https://github.com/HariSekhon/pylib/workflows/Ubuntu%2022.04/badge.svg)](https://github.com/HariSekhon/pylib/actions?query=workflow%3A%22Ubuntu+22.04%22)
 [![Debian](https://github.com/HariSekhon/pylib/workflows/Debian/badge.svg)](https://github.com/HariSekhon/pylib/actions?query=workflow%3A%22Debian%22)
-[![Debian 9](https://github.com/HariSekhon/pylib/workflows/Debian%209/badge.svg)](https://github.com/HariSekhon/pylib/actions?query=workflow%3A%22Debian+9%22)
 [![Debian 10](https://github.com/HariSekhon/pylib/workflows/Debian%2010/badge.svg)](https://github.com/HariSekhon/pylib/actions?query=workflow%3A%22Debian+10%22)
 [![Debian 11](https://github.com/HariSekhon/pylib/workflows/Debian%2011/badge.svg)](https://github.com/HariSekhon/pylib/actions?query=workflow%3A%22Debian+11%22)
+[![Debian 12](https://github.com/HariSekhon/pylib/workflows/Debian%2012/badge.svg)](https://github.com/HariSekhon/pylib/actions?query=workflow%3A%22Debian+12%22)
 [![CentOS](https://github.com/HariSekhon/pylib/workflows/CentOS/badge.svg)](https://github.com/HariSekhon/pylib/actions?query=workflow%3A%22CentOS%22)
 [![CentOS 7](https://github.com/HariSekhon/pylib/workflows/CentOS%207/badge.svg)](https://github.com/HariSekhon/pylib/actions?query=workflow%3A%22CentOS+7%22)
 [![CentOS 8](https://github.com/HariSekhon/pylib/workflows/CentOS%208/badge.svg)](https://github.com/HariSekhon/pylib/actions?query=workflow%3A%22CentOS+8%22)
@@ -1508,27 +1508,6 @@ SQL keywords and built-in functions for most major RDBMS, MPP SQL & NoSQL system
 
 
 ---
-# Hari Sekhon - HashiCorp Packer templates
-
-Link:  [HariSekhon/Packer-templates](https://github.com/HariSekhon/Packer-templates)
-
-HashiCorp Packer templates to build portable virtual machines in OVA format for Ubuntu, Debian and Redhat based systems with automated installers Kickstart, Preseed and AutoInstaller / Cloud-Init. Useful for IoT edge sites, Kubernetes base systems and VM appliances to ship to customers
-
-[![GitHub stars](https://img.shields.io/github/stars/HariSekhon/Packer-templates?logo=github)](https://github.com/HariSekhon/Packer-templates/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/HariSekhon/Packer-templates?logo=github)](https://github.com/HariSekhon/Packer-templates/network)
-[![Lines of Code](https://img.shields.io/badge/lines%20of%20code-1k-lightgrey?logo=codecademy)](https://github.com/HariSekhon/Packer-templates#Hari-Sekhon---Packer-templates)
-[![License](https://img.shields.io/badge/license-MIT-green)](https://github.com/HariSekhon/Packer-templates/blob/master/LICENSE)
-[![GitHub Last Commit](https://img.shields.io/github/last-commit/HariSekhon/Packer-templates?logo=github)](https://github.com/HariSekhon/Packer-templates/commits/master)
-
-[![Codacy](https://app.codacy.com/project/badge/Grade/19fb3e1bf45f494fb7332d4829cb3cd6)](https://www.codacy.com/gh/HariSekhon/Packer-templates/dashboard)
-[![CodeFactor](https://www.codefactor.io/repository/github/harisekhon/Packer-templates/badge)](https://www.codefactor.io/repository/github/harisekhon/Packer-templates)
-[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_Packer-templates&metric=alert_status)](https://sonarcloud.io/dashboard?id=HariSekhon_Packer-templates)
-[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_Packer-templates&metric=sqale_rating)](https://sonarcloud.io/dashboard?id=HariSekhon_Packer-templates)
-[![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_Packer-templates&metric=reliability_rating)](https://sonarcloud.io/dashboard?id=HariSekhon_Packer-templates)
-[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_Packer-templates&metric=security_rating)](https://sonarcloud.io/dashboard?id=HariSekhon_Packer-templates)
-
-
----
 # Hari Sekhon - Template Repo
 
 Link:  [HariSekhon/Template-Repo](https://github.com/HariSekhon/Template-Repo)
@@ -1547,6 +1526,27 @@ Template repository with basic skeleton of build and CI/CD configs
 [![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_Template-Repo&metric=sqale_rating)](https://sonarcloud.io/dashboard?id=HariSekhon_Template-Repo)
 [![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_Template-Repo&metric=reliability_rating)](https://sonarcloud.io/dashboard?id=HariSekhon_Template-Repo)
 [![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_Template-Repo&metric=security_rating)](https://sonarcloud.io/dashboard?id=HariSekhon_Template-Repo)
+
+
+---
+# Hari Sekhon - HashiCorp Packer templates
+
+Link:  [HariSekhon/Packer-templates](https://github.com/HariSekhon/Packer-templates)
+
+HashiCorp Packer templates to build portable virtual machines in OVA format for Ubuntu, Debian and Redhat based systems with automated installers Kickstart, Preseed and AutoInstaller / Cloud-Init. Useful for IoT edge sites, Kubernetes base systems and VM appliances to ship to customers
+
+[![GitHub stars](https://img.shields.io/github/stars/HariSekhon/Packer-templates?logo=github)](https://github.com/HariSekhon/Packer-templates/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/HariSekhon/Packer-templates?logo=github)](https://github.com/HariSekhon/Packer-templates/network)
+[![Lines of Code](https://img.shields.io/badge/lines%20of%20code-1k-lightgrey?logo=codecademy)](https://github.com/HariSekhon/Packer-templates#Hari-Sekhon---Packer-templates)
+[![License](https://img.shields.io/badge/license-MIT-green)](https://github.com/HariSekhon/Packer-templates/blob/master/LICENSE)
+[![GitHub Last Commit](https://img.shields.io/github/last-commit/HariSekhon/Packer-templates?logo=github)](https://github.com/HariSekhon/Packer-templates/commits/master)
+
+[![Codacy](https://app.codacy.com/project/badge/Grade/19fb3e1bf45f494fb7332d4829cb3cd6)](https://www.codacy.com/gh/HariSekhon/Packer-templates/dashboard)
+[![CodeFactor](https://www.codefactor.io/repository/github/harisekhon/Packer-templates/badge)](https://www.codefactor.io/repository/github/harisekhon/Packer-templates)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_Packer-templates&metric=alert_status)](https://sonarcloud.io/dashboard?id=HariSekhon_Packer-templates)
+[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_Packer-templates&metric=sqale_rating)](https://sonarcloud.io/dashboard?id=HariSekhon_Packer-templates)
+[![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_Packer-templates&metric=reliability_rating)](https://sonarcloud.io/dashboard?id=HariSekhon_Packer-templates)
+[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_Packer-templates&metric=security_rating)](https://sonarcloud.io/dashboard?id=HariSekhon_Packer-templates)
 
 
 ---
@@ -1666,8 +1666,9 @@ Java Utility library for my other repos
 [![Ubuntu 20.04](https://github.com/HariSekhon/lib-java/workflows/Ubuntu%2020.04/badge.svg)](https://github.com/HariSekhon/lib-java/actions?query=workflow%3A%22Ubuntu+20.04%22)
 [![Ubuntu 22.04](https://github.com/HariSekhon/lib-java/workflows/Ubuntu%2022.04/badge.svg)](https://github.com/HariSekhon/lib-java/actions?query=workflow%3A%22Ubuntu+22.04%22)
 [![Debian](https://github.com/HariSekhon/lib-java/workflows/Debian/badge.svg)](https://github.com/HariSekhon/lib-java/actions?query=workflow%3A%22Debian%22)
-[![Debian 9](https://github.com/HariSekhon/lib-java/workflows/Debian%209/badge.svg)](https://github.com/HariSekhon/lib-java/actions?query=workflow%3A%22Debian+9%22)
 [![Debian 10](https://github.com/HariSekhon/lib-java/workflows/Debian%2010/badge.svg)](https://github.com/HariSekhon/lib-java/actions?query=workflow%3A%22Debian+10%22)
+[![Debian 11](https://github.com/HariSekhon/lib-java/workflows/Debian%2011/badge.svg)](https://github.com/HariSekhon/lib-java/actions?query=workflow%3A%22Debian+11%22)
+[![Debian 12](https://github.com/HariSekhon/lib-java/workflows/Debian%2012/badge.svg)](https://github.com/HariSekhon/lib-java/actions?query=workflow%3A%22Debian+12%22)
 [![CentOS](https://github.com/HariSekhon/lib-java/workflows/CentOS/badge.svg)](https://github.com/HariSekhon/lib-java/actions?query=workflow%3A%22CentOS%22)
 [![CentOS 7](https://github.com/HariSekhon/lib-java/workflows/CentOS%207/badge.svg)](https://github.com/HariSekhon/lib-java/actions?query=workflow%3A%22CentOS+7%22)
 [![CentOS 8](https://github.com/HariSekhon/lib-java/workflows/CentOS%208/badge.svg)](https://github.com/HariSekhon/lib-java/actions?query=workflow%3A%22CentOS+8%22)
@@ -1681,4 +1682,4 @@ Java Utility library for my other repos
 
 
 
-27 git repos summarized with 682 CI builds (657 hosted, 25 self-hosted) across 23 different CI/CD systems
+27 git repos summarized with 683 CI builds (658 hosted, 25 self-hosted) across 23 different CI/CD systems
