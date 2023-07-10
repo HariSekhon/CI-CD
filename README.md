@@ -1,9 +1,9 @@
 # CI/CD Status Page
 
 ![Original Repos](https://img.shields.io/badge/Repos-27-blue?logo=github)
-![Stars](https://img.shields.io/badge/Stars-5334-blue?logo=github)
-![Forks](https://img.shields.io/badge/Forks-2145-blue?logo=github)
-![Followers](https://img.shields.io/badge/Followers-1230-blue?logo=github)
+![Stars](https://img.shields.io/badge/Stars-5339-blue?logo=github)
+![Forks](https://img.shields.io/badge/Forks-2148-blue?logo=github)
+![Followers](https://img.shields.io/badge/Followers-1229-blue?logo=github)
 ![Lines of Code](https://img.shields.io/badge/lines%20of%20code-287.3k-lightgrey?logo=codecademy)
 [![GitStar Ranking Profile](https://img.shields.io/badge/GitStar%20Ranking-HariSekhon-blue?logo=github)](https://gitstar-ranking.com/HariSekhon)
 [![StarCharts](https://img.shields.io/badge/Star-Charts-blue?logo=github)](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/STARCHARTS.md)
@@ -19,7 +19,7 @@
 [![Generate README](https://github.com/HariSekhon/CI-CD/actions/workflows/readme.yaml/badge.svg)](https://github.com/HariSekhon/CI-CD/actions/workflows/readme.yaml)
 [![pages-build-deployment](https://github.com/HariSekhon/CI-CD/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/HariSekhon/CI-CD/actions/workflows/pages/pages-build-deployment)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/853ef60c-c01b-4b83-99ba-8fda541f850f/deploy-status)](https://app.netlify.com/sites/harisekhon/deploys)
-![Last Generated](https://img.shields.io/badge/Last%20Generated-2023--07--07-yellowgreen?logo=github)
+![Last Generated](https://img.shields.io/badge/Last%20Generated-2023--07--10-yellowgreen?logo=github)
 [![GitHub Last Commit](https://img.shields.io/github/last-commit/HariSekhon/CI-CD?logo=github)](https://github.com/HariSekhon/CI-CD/commits/master)
 
 27 original source git repos with 683 CI builds (658 hosted, 25 self-hosted) across 23 different CI/CD systems:
@@ -483,6 +483,48 @@ Link:  [HariSekhon/SQL-scripts](https://github.com/HariSekhon/SQL-scripts)
 
 
 ---
+# Kubernetes configs
+
+Link:  [HariSekhon/Kubernetes-configs](https://github.com/HariSekhon/Kubernetes-configs)
+
+Advanced Kubernetes YAML configs - Best Practices, Tips & Tricks from production environments. AWS, GCP, Azure, ArgoCD, GKE, EKS, AKS, Nginx, Traefik, Kong, Cert Manager, CI/CD, Jenkins, Artifactory, TeamCity, BuildKite, GitHub Actions, Cloud SQL, FluxCD, Spinnaker, Selenium Grid, Moon, Helm + Kustomize
+
+[![GitHub stars](https://img.shields.io/github/stars/HariSekhon/Kubernetes-configs?logo=github)](https://github.com/HariSekhon/Kubernetes-configs//stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/HariSekhon/Kubernetes-configs?logo=github)](https://github.com/HariSekhon/Kubernetes-configs/network)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/0a56edfc0ec9454dafffb02d37890cbc)](https://www.codacy.com/gh/HariSekhon/Kubernetes-configs/dashboard)
+[![Lines of Config](https://img.shields.io/badge/lines%20of%20config-33k-lightgrey?logo=codecademy)](https://github.com/HariSekhon/Kubernetes-configs)
+[![License](https://img.shields.io/github/license/HariSekhon/Kubernetes-configs)](https://github.com/HariSekhon/Kubernetes-configs/blob/master/LICENSE)
+[![GitHub Last Commit](https://img.shields.io/github/last-commit/HariSekhon/Kubernetes-configs?logo=github)](https://github.com/HariSekhon/Kubernetes-configs/commits/master)
+
+[![CI Builds Overview](https://img.shields.io/badge/CI%20Builds-Overview%20Page-blue?logo=circleci)](https://harisekhon.github.io/CI-CD/)
+[![Repo on Azure DevOps](https://img.shields.io/badge/repo-Azure%20DevOps-0078D7?logo=azure%20devops)](https://dev.azure.com/harisekhon/GitHub/_git/Kubernetes-configs)
+[![Repo on GitHub](https://img.shields.io/badge/repo-GitHub-2088FF?logo=github)](https://github.com/HariSekhon/Kubernetes-configs)
+[![Repo on GitLab](https://img.shields.io/badge/repo-GitLab-FCA121?logo=gitlab)](https://gitlab.com/HariSekhon/Kubernetes-configs)
+[![Repo on BitBucket](https://img.shields.io/badge/repo-BitBucket-0052CC?logo=bitbucket)](https://bitbucket.org/HariSekhon/Kubernetes-configs)
+
+[![Kubevious](https://github.com/HariSekhon/Kubernetes-configs/actions/workflows/kubevious.yaml/badge.svg)](https://github.com/HariSekhon/Kubernetes-configs/actions/workflows/kubevious.yaml)
+[![Kustomize Installs](https://github.com/HariSekhon/Kubernetes-configs/actions/workflows/kustomize-install.yaml/badge.svg)](https://github.com/HariSekhon/Kubernetes-configs/actions/workflows/kustomize-install.yaml)
+[![Kustomize Namespace](https://github.com/HariSekhon/Kubernetes-configs/actions/workflows/kustomize-namespace.yaml/badge.svg)](https://github.com/HariSekhon/Kubernetes-configs/actions/workflows/kustomize-namespace.yaml)
+[![Kustomize Objects Namespaced](https://github.com/HariSekhon/Kubernetes-configs/actions/workflows/kustomize-objects-namespaced.yaml/badge.svg)](https://github.com/HariSekhon/Kubernetes-configs/actions/workflows/kustomize-objects-namespaced.yaml)
+[![YAML](https://github.com/HariSekhon/Kubernetes-configs/actions/workflows/yaml.yaml/badge.svg)](https://github.com/HariSekhon/Kubernetes-configs/actions/workflows/yaml.yaml)
+[![JSON](https://github.com/HariSekhon/Kubernetes-configs/actions/workflows/json.yaml/badge.svg)](https://github.com/HariSekhon/Kubernetes-configs/actions/workflows/json.yaml)
+[![Validation](https://github.com/HariSekhon/Kubernetes-configs/actions/workflows/validate.yaml/badge.svg)](https://github.com/HariSekhon/Kubernetes-configs/actions/workflows/validate.yaml)
+
+
+[![Datree Kustomize](https://github.com/HariSekhon/Kubernetes-configs/actions/workflows/datree-kustomize.yaml/badge.svg)](https://github.com/HariSekhon/Kubernetes-configs/actions/workflows/datree-kustomize.yaml)
+[![Pluto](https://github.com/HariSekhon/Kubernetes-configs/actions/workflows/pluto.yaml/badge.svg)](https://github.com/HariSekhon/Kubernetes-configs/actions/workflows/pluto.yaml)
+[![Kustomize Nova](https://github.com/HariSekhon/Kubernetes-configs/actions/workflows/kustomize-nova.yaml/badge.svg)](https://github.com/HariSekhon/Kubernetes-configs/actions/workflows/kustomize-nova.yaml)
+[![Checkov](https://github.com/HariSekhon/Kubernetes-configs/actions/workflows/checkov.yaml/badge.svg)](https://github.com/HariSekhon/Kubernetes-configs/actions/workflows/checkov.yaml)
+[![Grype](https://github.com/HariSekhon/Kubernetes-configs/actions/workflows/grype.yaml/badge.svg)](https://github.com/HariSekhon/Kubernetes-configs/actions/workflows/grype.yaml)
+[![Kics](https://github.com/HariSekhon/Kubernetes-configs/actions/workflows/kics.yaml/badge.svg)](https://github.com/HariSekhon/Kubernetes-configs/actions/workflows/kics.yaml)
+[![Semgrep](https://github.com/HariSekhon/Kubernetes-configs/actions/workflows/semgrep.yaml/badge.svg)](https://github.com/HariSekhon/Kubernetes-configs/actions/workflows/semgrep.yaml)
+[![Semgrep Cloud](https://github.com/HariSekhon/Kubernetes-configs/actions/workflows/semgrep-cloud.yaml/badge.svg)](https://github.com/HariSekhon/Kubernetes-configs/actions/workflows/semgrep-cloud.yaml)
+[![Trivy](https://github.com/HariSekhon/Kubernetes-configs/actions/workflows/trivy.yaml/badge.svg)](https://github.com/HariSekhon/Kubernetes-configs/actions/workflows/trivy.yaml)
+
+[git.io/k8s-configs](https://git.io/k8s-configs)
+
+
+---
 # Advanced HAProxy Configs for Big Data, NoSQL, Web and Infrastructure technologies
 
 Link:  [HariSekhon/HAProxy-configs](https://github.com/HariSekhon/HAProxy-configs)
@@ -563,48 +605,6 @@ Link:  [HariSekhon/HAProxy-configs](https://github.com/HariSekhon/HAProxy-config
 [![Alpine 3](https://github.com/HariSekhon/HAProxy-configs/workflows/Alpine%203/badge.svg)](https://github.com/HariSekhon/HAProxy-configs/actions?query=workflow%3A%22Alpine+3%22)
 
 [git.io/haproxy-configs](https://git.io/haproxy-configs)
-
-
----
-# Kubernetes configs
-
-Link:  [HariSekhon/Kubernetes-configs](https://github.com/HariSekhon/Kubernetes-configs)
-
-Advanced Kubernetes YAML configs - Best Practices, Tips & Tricks from production environments. AWS, GCP, Azure, ArgoCD, GKE, EKS, AKS, Nginx, Traefik, Kong, Cert Manager, CI/CD, Jenkins, Artifactory, TeamCity, BuildKite, GitHub Actions, Cloud SQL, FluxCD, Spinnaker, Selenium Grid, Moon, Helm + Kustomize
-
-[![GitHub stars](https://img.shields.io/github/stars/HariSekhon/Kubernetes-configs?logo=github)](https://github.com/HariSekhon/Kubernetes-configs//stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/HariSekhon/Kubernetes-configs?logo=github)](https://github.com/HariSekhon/Kubernetes-configs/network)
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/0a56edfc0ec9454dafffb02d37890cbc)](https://www.codacy.com/gh/HariSekhon/Kubernetes-configs/dashboard)
-[![Lines of Config](https://img.shields.io/badge/lines%20of%20config-33k-lightgrey?logo=codecademy)](https://github.com/HariSekhon/Kubernetes-configs)
-[![License](https://img.shields.io/github/license/HariSekhon/Kubernetes-configs)](https://github.com/HariSekhon/Kubernetes-configs/blob/master/LICENSE)
-[![GitHub Last Commit](https://img.shields.io/github/last-commit/HariSekhon/Kubernetes-configs?logo=github)](https://github.com/HariSekhon/Kubernetes-configs/commits/master)
-
-[![CI Builds Overview](https://img.shields.io/badge/CI%20Builds-Overview%20Page-blue?logo=circleci)](https://harisekhon.github.io/CI-CD/)
-[![Repo on Azure DevOps](https://img.shields.io/badge/repo-Azure%20DevOps-0078D7?logo=azure%20devops)](https://dev.azure.com/harisekhon/GitHub/_git/Kubernetes-configs)
-[![Repo on GitHub](https://img.shields.io/badge/repo-GitHub-2088FF?logo=github)](https://github.com/HariSekhon/Kubernetes-configs)
-[![Repo on GitLab](https://img.shields.io/badge/repo-GitLab-FCA121?logo=gitlab)](https://gitlab.com/HariSekhon/Kubernetes-configs)
-[![Repo on BitBucket](https://img.shields.io/badge/repo-BitBucket-0052CC?logo=bitbucket)](https://bitbucket.org/HariSekhon/Kubernetes-configs)
-
-[![Kubevious](https://github.com/HariSekhon/Kubernetes-configs/actions/workflows/kubevious.yaml/badge.svg)](https://github.com/HariSekhon/Kubernetes-configs/actions/workflows/kubevious.yaml)
-[![Kustomize Installs](https://github.com/HariSekhon/Kubernetes-configs/actions/workflows/kustomize-install.yaml/badge.svg)](https://github.com/HariSekhon/Kubernetes-configs/actions/workflows/kustomize-install.yaml)
-[![Kustomize Namespace](https://github.com/HariSekhon/Kubernetes-configs/actions/workflows/kustomize-namespace.yaml/badge.svg)](https://github.com/HariSekhon/Kubernetes-configs/actions/workflows/kustomize-namespace.yaml)
-[![Kustomize Objects Namespaced](https://github.com/HariSekhon/Kubernetes-configs/actions/workflows/kustomize-objects-namespaced.yaml/badge.svg)](https://github.com/HariSekhon/Kubernetes-configs/actions/workflows/kustomize-objects-namespaced.yaml)
-[![YAML](https://github.com/HariSekhon/Kubernetes-configs/actions/workflows/yaml.yaml/badge.svg)](https://github.com/HariSekhon/Kubernetes-configs/actions/workflows/yaml.yaml)
-[![JSON](https://github.com/HariSekhon/Kubernetes-configs/actions/workflows/json.yaml/badge.svg)](https://github.com/HariSekhon/Kubernetes-configs/actions/workflows/json.yaml)
-[![Validation](https://github.com/HariSekhon/Kubernetes-configs/actions/workflows/validate.yaml/badge.svg)](https://github.com/HariSekhon/Kubernetes-configs/actions/workflows/validate.yaml)
-
-
-[![Datree Kustomize](https://github.com/HariSekhon/Kubernetes-configs/actions/workflows/datree-kustomize.yaml/badge.svg)](https://github.com/HariSekhon/Kubernetes-configs/actions/workflows/datree-kustomize.yaml)
-[![Pluto](https://github.com/HariSekhon/Kubernetes-configs/actions/workflows/pluto.yaml/badge.svg)](https://github.com/HariSekhon/Kubernetes-configs/actions/workflows/pluto.yaml)
-[![Kustomize Nova](https://github.com/HariSekhon/Kubernetes-configs/actions/workflows/kustomize-nova.yaml/badge.svg)](https://github.com/HariSekhon/Kubernetes-configs/actions/workflows/kustomize-nova.yaml)
-[![Checkov](https://github.com/HariSekhon/Kubernetes-configs/actions/workflows/checkov.yaml/badge.svg)](https://github.com/HariSekhon/Kubernetes-configs/actions/workflows/checkov.yaml)
-[![Grype](https://github.com/HariSekhon/Kubernetes-configs/actions/workflows/grype.yaml/badge.svg)](https://github.com/HariSekhon/Kubernetes-configs/actions/workflows/grype.yaml)
-[![Kics](https://github.com/HariSekhon/Kubernetes-configs/actions/workflows/kics.yaml/badge.svg)](https://github.com/HariSekhon/Kubernetes-configs/actions/workflows/kics.yaml)
-[![Semgrep](https://github.com/HariSekhon/Kubernetes-configs/actions/workflows/semgrep.yaml/badge.svg)](https://github.com/HariSekhon/Kubernetes-configs/actions/workflows/semgrep.yaml)
-[![Semgrep Cloud](https://github.com/HariSekhon/Kubernetes-configs/actions/workflows/semgrep-cloud.yaml/badge.svg)](https://github.com/HariSekhon/Kubernetes-configs/actions/workflows/semgrep-cloud.yaml)
-[![Trivy](https://github.com/HariSekhon/Kubernetes-configs/actions/workflows/trivy.yaml/badge.svg)](https://github.com/HariSekhon/Kubernetes-configs/actions/workflows/trivy.yaml)
-
-[git.io/k8s-configs](https://git.io/k8s-configs)
 
 
 ---
@@ -1445,14 +1445,6 @@ TeamCity CI configs - plus links to one-touch Jenkins, GoCD, Concourse, TeamCity
 
 
 ---
-# CI/CD Status Page
-
-Link:  [HariSekhon/CI-CD](https://github.com/HariSekhon/CI-CD)
-
-CI/CD Status page for Hari Sekhon's GitHub repos
-
-
----
 # GitHub Actions Contexts
 
 Link:  [HariSekhon/GitHub-Actions-Contexts](https://github.com/HariSekhon/GitHub-Actions-Contexts)
@@ -1465,6 +1457,14 @@ Dumps GitHub Actions Contexts from different triggers. Useful for seeing undocum
 [![GitHub Last Commit](https://img.shields.io/github/last-commit/HariSekhon/GitHub-Actions-Contexts?logo=github)](https://github.com/HariSekhon/GitHub-Actions-Contexts/commits/master)
 
 [![Dump Contexts](https://github.com/HariSekhon/GitHub-Actions-Contexts/actions/workflows/dump_contexts.yaml/badge.svg)](https://github.com/HariSekhon/GitHub-Actions-Contexts/actions/workflows/dump_contexts.yaml)
+
+
+---
+# CI/CD Status Page
+
+Link:  [HariSekhon/CI-CD](https://github.com/HariSekhon/CI-CD)
+
+CI/CD Status page for Hari Sekhon's GitHub repos
 
 
 ---
