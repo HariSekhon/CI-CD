@@ -1,8 +1,8 @@
 # CI/CD Status Page
 
 ![Original Repos](https://img.shields.io/badge/Repos-27-blue?logo=github)
-![Stars](https://img.shields.io/badge/Stars-5339-blue?logo=github)
-![Forks](https://img.shields.io/badge/Forks-2148-blue?logo=github)
+![Stars](https://img.shields.io/badge/Stars-5343-blue?logo=github)
+![Forks](https://img.shields.io/badge/Forks-2150-blue?logo=github)
 ![Followers](https://img.shields.io/badge/Followers-1229-blue?logo=github)
 ![Lines of Code](https://img.shields.io/badge/lines%20of%20code-287.3k-lightgrey?logo=codecademy)
 [![GitStar Ranking Profile](https://img.shields.io/badge/GitStar%20Ranking-HariSekhon-blue?logo=github)](https://gitstar-ranking.com/HariSekhon)
@@ -15,14 +15,14 @@
 [![GitHub Pages](https://img.shields.io/badge/GitHub-Pages-2088FF?logo=github)](https://harisekhon.github.io/CI-CD/)
 [![Netlify](https://img.shields.io/badge/Netlify-site-00C7B7?logo=netlify)](https://harisekhon.netlify.app/)
 
-[![CI/CD Builds](https://img.shields.io/badge/CI%2FCD%20Builds-683-blue?logo=circleci)](https://harisekhon.github.io/CI-CD/)
+[![CI/CD Builds](https://img.shields.io/badge/CI%2FCD%20Builds-684-blue?logo=circleci)](https://harisekhon.github.io/CI-CD/)
 [![Generate README](https://github.com/HariSekhon/CI-CD/actions/workflows/readme.yaml/badge.svg)](https://github.com/HariSekhon/CI-CD/actions/workflows/readme.yaml)
 [![pages-build-deployment](https://github.com/HariSekhon/CI-CD/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/HariSekhon/CI-CD/actions/workflows/pages/pages-build-deployment)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/853ef60c-c01b-4b83-99ba-8fda541f850f/deploy-status)](https://app.netlify.com/sites/harisekhon/deploys)
-![Last Generated](https://img.shields.io/badge/Last%20Generated-2023--07--10-yellowgreen?logo=github)
+![Last Generated](https://img.shields.io/badge/Last%20Generated-2023--07--11-yellowgreen?logo=github)
 [![GitHub Last Commit](https://img.shields.io/github/last-commit/HariSekhon/CI-CD?logo=github)](https://github.com/HariSekhon/CI-CD/commits/master)
 
-27 original source git repos with 683 CI builds (658 hosted, 25 self-hosted) across 23 different CI/CD systems:
+27 original source git repos with 684 CI builds (659 hosted, 25 self-hosted) across 23 different CI/CD systems:
 
 ---
 # Hari Sekhon - DevOps Bash Tools
@@ -810,9 +810,9 @@ Spotify Tools - Playlists Backups, Spotify CLI, URI translator, duplication dete
 [![Ubuntu 20.04](https://github.com/HariSekhon/Spotify-tools/workflows/Ubuntu%2020.04/badge.svg)](https://github.com/HariSekhon/Spotify-tools/actions?query=workflow%3A%22Ubuntu+20.04%22)
 [![Ubuntu 22.04](https://github.com/HariSekhon/Spotify-tools/workflows/Ubuntu%2022.04/badge.svg)](https://github.com/HariSekhon/Spotify-tools/actions?query=workflow%3A%22Ubuntu+22.04%22)
 [![Debian](https://github.com/HariSekhon/Spotify-tools/workflows/Debian/badge.svg)](https://github.com/HariSekhon/Spotify-tools/actions?query=workflow%3A%22Debian%22)
-[![Debian 8](https://github.com/HariSekhon/Spotify-tools/workflows/Debian%208/badge.svg)](https://github.com/HariSekhon/Spotify-tools/actions?query=workflow%3A%22Debian+8%22)
-[![Debian 9](https://github.com/HariSekhon/Spotify-tools/workflows/Debian%209/badge.svg)](https://github.com/HariSekhon/Spotify-tools/actions?query=workflow%3A%22Debian+9%22)
 [![Debian 10](https://github.com/HariSekhon/Spotify-tools/workflows/Debian%2010/badge.svg)](https://github.com/HariSekhon/Spotify-tools/actions?query=workflow%3A%22Debian+10%22)
+[![Debian 11](https://github.com/HariSekhon/Spotify-tools/workflows/Debian%2011/badge.svg)](https://github.com/HariSekhon/Spotify-tools/actions?query=workflow%3A%22Debian+11%22)
+[![Debian 12](https://github.com/HariSekhon/Spotify-tools/workflows/Debian%2012/badge.svg)](https://github.com/HariSekhon/Spotify-tools/actions?query=workflow%3A%22Debian+12%22)
 [![CentOS](https://github.com/HariSekhon/Spotify-tools/workflows/CentOS/badge.svg)](https://github.com/HariSekhon/Spotify-tools/actions?query=workflow%3A%22CentOS%22)
 [![CentOS 7](https://github.com/HariSekhon/Spotify-tools/workflows/CentOS%207/badge.svg)](https://github.com/HariSekhon/Spotify-tools/actions?query=workflow%3A%22CentOS+7%22)
 [![CentOS 8](https://github.com/HariSekhon/Spotify-tools/workflows/CentOS%208/badge.svg)](https://github.com/HariSekhon/Spotify-tools/actions?query=workflow%3A%22CentOS+8%22)
@@ -1295,8 +1295,9 @@ Kafka Scala API CLI / Advanced Nagios Plugin, with Kerberos support (uses Kafka 
 [![Ubuntu 20.04](https://github.com/HariSekhon/Nagios-Plugin-Kafka/workflows/Ubuntu%2020.04/badge.svg)](https://github.com/HariSekhon/Nagios-Plugin-Kafka/actions?query=workflow%3A%22Ubuntu+20.04%22)
 [![Ubuntu 22.04](https://github.com/HariSekhon/Nagios-Plugin-Kafka/workflows/Ubuntu%2022.04/badge.svg)](https://github.com/HariSekhon/Nagios-Plugin-Kafka/actions?query=workflow%3A%22Ubuntu+22.04%22)
 [![Debian](https://github.com/HariSekhon/Nagios-Plugin-Kafka/workflows/Debian/badge.svg)](https://github.com/HariSekhon/Nagios-Plugin-Kafka/actions?query=workflow%3A%22Debian%22)
-[![Debian 9](https://github.com/HariSekhon/Nagios-Plugin-Kafka/workflows/Debian%209/badge.svg)](https://github.com/HariSekhon/Nagios-Plugin-Kafka/actions?query=workflow%3A%22Debian+9%22)
 [![Debian 10](https://github.com/HariSekhon/Nagios-Plugin-Kafka/workflows/Debian%2010/badge.svg)](https://github.com/HariSekhon/Nagios-Plugin-Kafka/actions?query=workflow%3A%22Debian+10%22)
+[![Debian 11](https://github.com/HariSekhon/Nagios-Plugin-Kafka/workflows/Debian%2011/badge.svg)](https://github.com/HariSekhon/Nagios-Plugin-Kafka/actions?query=workflow%3A%22Debian+11%22)
+[![Debian 12](https://github.com/HariSekhon/Nagios-Plugin-Kafka/workflows/Debian%2012/badge.svg)](https://github.com/HariSekhon/Nagios-Plugin-Kafka/actions?query=workflow%3A%22Debian+12%22)
 [![Fedora](https://github.com/HariSekhon/Nagios-Plugin-Kafka/workflows/Fedora/badge.svg)](https://github.com/HariSekhon/Nagios-Plugin-Kafka/actions?query=workflow%3A%22Fedora%22)
 [![Alpine](https://github.com/HariSekhon/Nagios-Plugin-Kafka/workflows/Alpine/badge.svg)](https://github.com/HariSekhon/Nagios-Plugin-Kafka/actions?query=workflow%3A%22Alpine%22)
 [![Alpine 3](https://github.com/HariSekhon/Nagios-Plugin-Kafka/workflows/Alpine%203/badge.svg)](https://github.com/HariSekhon/Nagios-Plugin-Kafka/actions?query=workflow%3A%22Alpine+3%22)
@@ -1682,4 +1683,4 @@ Java Utility library for my other repos
 
 
 
-27 git repos summarized with 683 CI builds (658 hosted, 25 self-hosted) across 23 different CI/CD systems
+27 git repos summarized with 684 CI builds (659 hosted, 25 self-hosted) across 23 different CI/CD systems
