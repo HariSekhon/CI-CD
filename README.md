@@ -1,9 +1,9 @@
 # CI/CD Status Page
 
 ![Original Repos](https://img.shields.io/badge/Repos-27-blue?logo=github)
-![Stars](https://img.shields.io/badge/Stars-5760-blue?logo=github)
-![Forks](https://img.shields.io/badge/Forks-2194-blue?logo=github)
-![Followers](https://img.shields.io/badge/Followers-1251-blue?logo=github)
+![Stars](https://img.shields.io/badge/Stars-5798-blue?logo=github)
+![Forks](https://img.shields.io/badge/Forks-2195-blue?logo=github)
+![Followers](https://img.shields.io/badge/Followers-1252-blue?logo=github)
 ![Lines of Code](https://img.shields.io/badge/lines%20of%20code-287.3k-lightgrey?logo=codecademy)
 [![GitStar Ranking Profile](https://img.shields.io/badge/GitStar%20Ranking-HariSekhon-blue?logo=github)](https://gitstar-ranking.com/HariSekhon)
 [![StarCharts](https://img.shields.io/badge/Star-Charts-blue?logo=github)](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/STARCHARTS.md)
@@ -19,7 +19,7 @@
 [![Generate README](https://github.com/HariSekhon/CI-CD/actions/workflows/readme.yaml/badge.svg)](https://github.com/HariSekhon/CI-CD/actions/workflows/readme.yaml)
 [![pages-build-deployment](https://github.com/HariSekhon/CI-CD/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/HariSekhon/CI-CD/actions/workflows/pages/pages-build-deployment)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/853ef60c-c01b-4b83-99ba-8fda541f850f/deploy-status)](https://app.netlify.com/sites/harisekhon/deploys)
-![Last Generated](https://img.shields.io/badge/Last%20Generated-2023--07--31-yellowgreen?logo=github)
+![Last Generated](https://img.shields.io/badge/Last%20Generated-2023--08--01-yellowgreen?logo=github)
 [![GitHub Last Commit](https://img.shields.io/github/last-commit/HariSekhon/CI-CD?logo=github)](https://github.com/HariSekhon/CI-CD/commits/master)
 
 27 original source git repos with 684 CI builds (659 hosted, 25 self-hosted) across 23 different CI/CD systems:
@@ -870,6 +870,72 @@ Jenkins - Advanced Jenkinsfile & Groovy Shared Library of reusable functions and
 
 
 ---
+# Hari Sekhon - Diagrams-as-Code
+
+Link:  [HariSekhon/Diagrams-as-Code](https://github.com/HariSekhon/Diagrams-as-Code)
+
+Cloud & DevOps Architecture Diagrams-as-Code in Python and D2 languages
+
+[![GitHub stars](https://img.shields.io/github/stars/HariSekhon/Diagrams-as-Code?logo=github)](https://github.com/HariSekhon/Diagrams-as-Code/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/HariSekhon/Diagrams-as-Code?logo=github)](https://github.com/HariSekhon/Diagrams-as-Code/network)
+[![Lines of Code](https://img.shields.io/badge/lines%20of%20code-5k-lightgrey?logo=codecademy)](https://github.com/HariSekhon/Diagrams-as-Code#Hari-Sekhon---Diagrams-as-Code)
+[![License](https://img.shields.io/badge/license-MIT-green)](https://github.com/HariSekhon/Diagrams-as-Code/blob/master/LICENSE)
+[![My LinkedIn](https://img.shields.io/badge/LinkedIn%20Profile-HariSekhon-blue?logo=linkedin)](https://www.linkedin.com/in/HariSekhon/)
+[![GitHub Last Commit](https://img.shields.io/github/last-commit/HariSekhon/Diagrams-as-Code?logo=github)](https://github.com/HariSekhon/Diagrams-as-Code/commits/master)
+
+[![Codacy](https://app.codacy.com/project/badge/Grade/dffc1bfd13404c95b5a0ab97fd47974e)](https://www.codacy.com/gh/HariSekhon/Diagrams-as-Code/dashboard)
+[![CodeFactor](https://www.codefactor.io/repository/github/harisekhon/Diagrams-as-Code/badge)](https://www.codefactor.io/repository/github/harisekhon/Diagrams-as-Code)
+[![SonarCloud](https://github.com/HariSekhon/Diagrams-as-Code/actions/workflows/sonarcloud.yaml/badge.svg)](https://github.com/HariSekhon/Diagrams-as-Code/actions/workflows/sonarcloud.yaml)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_Diagrams-as-Code&metric=alert_status)](https://sonarcloud.io/dashboard?id=HariSekhon_Diagrams-as-Code)
+[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_Diagrams-as-Code&metric=sqale_rating)](https://sonarcloud.io/dashboard?id=HariSekhon_Diagrams-as-Code)
+[![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_Diagrams-as-Code&metric=reliability_rating)](https://sonarcloud.io/dashboard?id=HariSekhon_Diagrams-as-Code)
+[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_Diagrams-as-Code&metric=security_rating)](https://sonarcloud.io/dashboard?id=HariSekhon_Diagrams-as-Code)
+[![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_Diagrams-as-Code&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=HariSekhon_Diagrams-as-Code)
+
+[![CI Builds Overview](https://img.shields.io/badge/CI%20Builds-Overview%20Page-blue?logo=circleci)](https://harisekhon.github.io/CI-CD/)
+[![Azure DevOps Pipeline](https://dev.azure.com/harisekhon/GitHub/_apis/build/status%2FDiagrams-as-Code?branchName=master)](https://dev.azure.com/harisekhon/GitHub/_build/latest?definitionId=14&branchName=master)
+[![GitLab Pipeline](https://img.shields.io/badge/GitLab%20CI-legacy-lightgrey?logo=gitlab)](https://gitlab.com/HariSekhon/Diagrams-as-Code/pipelines)
+[![BitBucket Pipeline](https://img.shields.io/badge/Bitbucket%20CI-legacy-lightgrey?logo=bitbucket)](https://bitbucket.org/HariSekhon/Diagrams-as-Code/addon/pipelines/home#!/)
+
+[![Repo on Azure DevOps](https://img.shields.io/badge/repo-Azure%20DevOps-0078D7?logo=azure%20devops)](https://dev.azure.com/HariSekhon/GitHub/_git/Diagrams-as-Code)
+[![Repo on GitHub](https://img.shields.io/badge/repo-GitHub-2088FF?logo=github)](https://github.com/HariSekhon/Diagrams-as-Code)
+[![Repo on GitLab](https://img.shields.io/badge/repo-GitLab-FCA121?logo=gitlab)](https://gitlab.com/HariSekhon/Diagrams-as-Code)
+[![Repo on BitBucket](https://img.shields.io/badge/repo-BitBucket-0052CC?logo=bitbucket)](https://bitbucket.org/HariSekhon/Diagrams-as-Code)
+[![Mac](https://img.shields.io/badge/OS-Mac-blue?logo=apple)](https://github.com/HariSekhon/DevOps-Bash-tools#hari-sekhon---devops-bash-tools)
+[![Linux](https://img.shields.io/badge/OS-Linux-blue?logo=linux)](https://github.com/HariSekhon/DevOps-Bash-tools#hari-sekhon---devops-bash-tools)
+
+[![Generate D2 Images](https://github.com/HariSekhon/Diagrams-as-Code/actions/workflows/generate-d2-images.yaml/badge.svg)](https://github.com/HariSekhon/Diagrams-as-Code/actions/workflows/generate-d2-images.yaml)
+[![Generate Python Images](https://github.com/HariSekhon/Diagrams-as-Code/actions/workflows/generate-python-images.yaml/badge.svg)](https://github.com/HariSekhon/Diagrams-as-Code/actions/workflows/generate-python-images.yaml)
+[![D2 fmt](https://github.com/HariSekhon/Diagrams-as-Code/actions/workflows/d2-fmt.yaml/badge.svg)](https://github.com/HariSekhon/Diagrams-as-Code/actions/workflows/d2-fmt.yaml)
+[![Validation](https://github.com/HariSekhon/Diagrams-as-Code/actions/workflows/validate.yaml/badge.svg)](https://github.com/HariSekhon/Diagrams-as-Code/actions/workflows/validate.yaml)
+[![Kics](https://github.com/HariSekhon/Diagrams-as-Code/actions/workflows/kics.yaml/badge.svg)](https://github.com/HariSekhon/Diagrams-as-Code/actions/workflows/kics.yaml)
+[![Grype](https://github.com/HariSekhon/Diagrams-as-Code/actions/workflows/grype.yaml/badge.svg)](https://github.com/HariSekhon/Diagrams-as-Code/actions/workflows/grype.yaml)
+[![Semgrep](https://github.com/HariSekhon/Diagrams-as-Code/actions/workflows/semgrep.yaml/badge.svg)](https://github.com/HariSekhon/Diagrams-as-Code/actions/workflows/semgrep.yaml)
+[![Semgrep Cloud](https://github.com/HariSekhon/Diagrams-as-Code/actions/workflows/semgrep-cloud.yaml/badge.svg)](https://github.com/HariSekhon/Diagrams-as-Code/actions/workflows/semgrep-cloud.yaml)
+[![SonarCloud](https://github.com/HariSekhon/Diagrams-as-Code/actions/workflows/sonarcloud.yaml/badge.svg)](https://github.com/HariSekhon/Diagrams-as-Code/actions/workflows/sonarcloud.yaml)
+[![Trivy](https://github.com/HariSekhon/Diagrams-as-Code/actions/workflows/trivy.yaml/badge.svg)](https://github.com/HariSekhon/Diagrams-as-Code/actions/workflows/trivy.yaml)
+
+[![Draw.io](https://img.shields.io/badge/draw.io-All%20icons%20editor-3776AB?logo=diagrams.net&color=F08705&logoColor=white)](https://app.diagrams.net/?splash=0&ui=dark&libs=aws3;aws3d;aws4;azure;gcp2;network;webicons)
+[![Draw.io](https://img.shields.io/badge/draw.io-AWS%20icons%20editor-FF9900?logo=diagrams.net&color=FF9900&logoColor=white)](https://app.diagrams.net/?splash=0&ui=dark&libs=aws3;aws3d;aws4)
+[![Draw.io](https://img.shields.io/badge/draw.io-Azure%20icons%20editor-007fff?logo=diagrams.net&color=007fff&logoColor=white)](https://app.diagrams.net/?splash=0&ui=dark&libs=azure)
+[![Draw.io](https://img.shields.io/badge/draw.io-GCP%20icons%20editor-4285F4?logo=diagrams.net&color=4285F4&logoColor=white)](https://app.diagrams.net/?splash=0&ui=dark&libs=gcp2)
+[![LucidChart](https://img.shields.io/badge/LucidChart-editor-orange.svg?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAAAllBMVEX////5axP5ZAD//Pr8tZb8vqf5bhX8uZb5ZwD5aQ35aAj5YgD/+/j+7+f92cf+5NT5XAD+9/H6kVj6hkj+7eT+9O38xan91cH8tpH7mmf5eSn8v6L90Lf7lmP7n2z5cB/8rX76cAv8r4n6gDv6i1T7pXX5hj39zbX6hET8xqf94M37kVL6pnL+6d35gjf6ejH7pn76mVvxCTe5AAADaklEQVR4nO3dfVOiUBTHcS8UXC6CISD4SKJm4dra+39zm7vtrsmjM5n3nPl9/z/FZ1CIJk+9HkIIIYQQQgghhBBCCCGEEEI0i4NbH8F1M/3x6NbHcNUGd5OH+1sfxBULpqHhuHyF5myeKSH4CqNFphzBWPgo5dHHVRjMlq74iKMw8OeGIxgL/XxiCMFXGNmrkxPIT2i+rC0lBF9hMc6kEHyF3sZSzjmQkTC2l0bZx0cYF09ulY+L0PQ3svQG5CQcpCtZfQJ5CPt2qFSdj4Nwti7fITgJo7lV/wJlIIxz2eKjLfS2z24Lj7Qw8IduwwWGvrD4/IzEThjZz61vQNLC8jMSL2Gxq3qG4CMMfjx0fYGSFMZ21u0CQ1Y4rXlGYiM07y48gxBqF4QQ6h+EEOofhBDqH4QQ6h+EEOofhBDqH4QQ6h+EEOofhBDqH4QQ6h+EEOofhBDqH4QQ6h+EEOofhBDqH4QQ6h+EEOofhBDqH4RfJDS//sg7f+vvEJqJfzvidwj3+eSOs9BMQ+VyFiZDoYTBV7ify+Onb9kKo3z556szFXrb17+f3mQp7Cdj+e/j4QyFpp//PFmQwk8YpKtPH39nJ7TDs/0FzIT78oYiVkJvY5Q3FDESRqNV1YYbNsIg2RmVC0S4CP2DVbNCi4dw37DjjYOwPw2t+gUbDIRJKJo2+FAXmvHbQ/OGIuLCKF027uijLvS26/YNRZSFs0XrCSQtHBy67XijKgzSrjveiApnz413COpCc/AmO++wIyg0443b4QJDVxiPXjtsASUrlNlh0bRmmLrQMYZJftkJpCU0JiOvd89XKN2F9z7DVqjkcPB7hqlQOeHLxwxLoSNXafx3hqPQmByK/zP8hFLOZ/2TGW5Cxwi33qcZZkIpc+9shpPQUe5uX5phJFRiN6uYYSN0RGhX/kNOLkJjkg6qZ3gIpdwkdTMchMc7RFw7w0BoZNPzO8Rp5IXKHZfvEKcRFyrx1OwjLlTW2u63zRAWvj8jlX5Eq4iuUGaHovUE9ugKHeMtqb9DnEZT6LjH36J1i6LQkcvHqPMMQaG0hjU/glZ2ufDGf8munHXVM1J999K6MHlToRvmXS6gJxWpfWGpf52j75I5PVzyAiWYGVU+5CKEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgjx7RfeAUw4ubZ1NgAAAABJRU5ErkJggg==)](https://lucid.app/)
+[![CloudCraft](https://img.shields.io/badge/CloudCraft-editor-blue?logo=pending&logoColor=white)](https://app.cloudcraft.co/)
+[![Creately](https://img.shields.io/badge/Creately-editor-blue?logo=pending&logoColor=white)](https://app.creately.com/d/start/dashboard)
+[![VisualParadigm](https://img.shields.io/badge/Visual%20Paradigm-editor-blue?logo=pending&logoColor=white)](https://online.visual-paradigm.com/drive/#diagramlist:proj=0&dashboard)
+
+[![D2](https://img.shields.io/badge/D2-Declarative%20Diagramming-3776AB?logo=pending&logoColor=white)](https://d2lang.com/)
+[![MermaidJS](https://img.shields.io/badge/Mermaid-JS-FF3399.svg?logo=data:image/svg%2bxml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+CjwhRE9DVFlQRSBzdmcgUFVCTElDICItLy9XM0MvL0RURCBTVkcgMS4xLy9FTiIgImh0dHA6Ly93d3cudzMub3JnL0dyYXBoaWNzL1NWRy8xLjEvRFREL3N2ZzExLmR0ZCI+Cjxzdmcgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgdmlld0JveD0iMCAwIDQ5MSA0OTEiIHZlcnNpb249IjEuMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSIgeG1sbnM6c2VyaWY9Imh0dHA6Ly93d3cuc2VyaWYuY29tLyIgc3R5bGU9ImZpbGwtcnVsZTpldmVub2RkO2NsaXAtcnVsZTpldmVub2RkO3N0cm9rZS1saW5lam9pbjpyb3VuZDtzdHJva2UtbWl0ZXJsaW1pdDoyOyI+CiAgICA8cGF0aCBkPSJNNDkwLjE2LDg0LjYxQzQ5MC4xNiwzNy45MTIgNDUyLjI0OCwwIDQwNS41NSwwTDg0LjYxLDBDMzcuOTEyLDAgMCwzNy45MTIgMCw4NC42MUwwLDQwNS41NUMwLDQ1Mi4yNDggMzcuOTEyLDQ5MC4xNiA4NC42MSw0OTAuMTZMNDA1LjU1LDQ5MC4xNkM0NTIuMjQ4LDQ5MC4xNiA0OTAuMTYsNDUyLjI0OCA0OTAuMTYsNDA1LjU1TDQ5MC4xNiw4NC42MVoiIHN0eWxlPSJmaWxsOnJnYigyNTUsNTQsMTEyKTsiLz4KICAgIDxwYXRoIGQ9Ik00MDcuNDgsMTExLjE4QzMzNS41ODcsMTA4LjEwMyAyNjkuNTczLDE1Mi4zMzggMjQ1LjA4LDIyMEMyMjAuNTg3LDE1Mi4zMzggMTU0LjU3MywxMDguMTAzIDgyLjY4LDExMS4xOEM4MC4yODUsMTY4LjIyOSAxMDcuNTc3LDIyMi42MzIgMTU0Ljc0LDI1NC44MkMxNzguOTA4LDI3MS40MTkgMTkzLjM1LDI5OC45NTEgMTkzLjI3LDMyOC4yN0wxOTMuMjcsMzc5LjEzTDI5Ni45LDM3OS4xM0wyOTYuOSwzMjguMjdDMjk2LjgxNiwyOTguOTUzIDMxMS4yNTUsMjcxLjQyIDMzNS40MiwyNTQuODJDMzgyLjU5NiwyMjIuNjQ0IDQwOS44OTIsMTY4LjIzMyA0MDcuNDgsMTExLjE4WiIgc3R5bGU9ImZpbGw6d2hpdGU7ZmlsbC1ydWxlOm5vbnplcm87Ii8+Cjwvc3ZnPgo=)](https://mermaid.js.org/)
+[![Python](https://img.shields.io/badge/Python-3-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+[![Python Diagrams](https://img.shields.io/badge/Python-diagrams-3776AB?logo=python&logoColor=white)](https://diagrams.mingrammer.com/)
+[![Graphviz](https://img.shields.io/badge/Graphviz-dot-2871A7?logo=&logoColor=white)](https://graphviz.org/)
+
+[![D2](https://img.shields.io/badge/D2-playground-3776AB?logo=pending&logoColor=white)](https://play.d2lang.com/)
+[![MermaidJS](https://img.shields.io/badge/MermaidJS-Live%20Editor-FF3399.svg?logo=data:image/svg%2bxml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+CjwhRE9DVFlQRSBzdmcgUFVCTElDICItLy9XM0MvL0RURCBTVkcgMS4xLy9FTiIgImh0dHA6Ly93d3cudzMub3JnL0dyYXBoaWNzL1NWRy8xLjEvRFREL3N2ZzExLmR0ZCI+Cjxzdmcgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgdmlld0JveD0iMCAwIDQ5MSA0OTEiIHZlcnNpb249IjEuMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSIgeG1sbnM6c2VyaWY9Imh0dHA6Ly93d3cuc2VyaWYuY29tLyIgc3R5bGU9ImZpbGwtcnVsZTpldmVub2RkO2NsaXAtcnVsZTpldmVub2RkO3N0cm9rZS1saW5lam9pbjpyb3VuZDtzdHJva2UtbWl0ZXJsaW1pdDoyOyI+CiAgICA8cGF0aCBkPSJNNDkwLjE2LDg0LjYxQzQ5MC4xNiwzNy45MTIgNDUyLjI0OCwwIDQwNS41NSwwTDg0LjYxLDBDMzcuOTEyLDAgMCwzNy45MTIgMCw4NC42MUwwLDQwNS41NUMwLDQ1Mi4yNDggMzcuOTEyLDQ5MC4xNiA4NC42MSw0OTAuMTZMNDA1LjU1LDQ5MC4xNkM0NTIuMjQ4LDQ5MC4xNiA0OTAuMTYsNDUyLjI0OCA0OTAuMTYsNDA1LjU1TDQ5MC4xNiw4NC42MVoiIHN0eWxlPSJmaWxsOnJnYigyNTUsNTQsMTEyKTsiLz4KICAgIDxwYXRoIGQ9Ik00MDcuNDgsMTExLjE4QzMzNS41ODcsMTA4LjEwMyAyNjkuNTczLDE1Mi4zMzggMjQ1LjA4LDIyMEMyMjAuNTg3LDE1Mi4zMzggMTU0LjU3MywxMDguMTAzIDgyLjY4LDExMS4xOEM4MC4yODUsMTY4LjIyOSAxMDcuNTc3LDIyMi42MzIgMTU0Ljc0LDI1NC44MkMxNzguOTA4LDI3MS40MTkgMTkzLjM1LDI5OC45NTEgMTkzLjI3LDMyOC4yN0wxOTMuMjcsMzc5LjEzTDI5Ni45LDM3OS4xM0wyOTYuOSwzMjguMjdDMjk2LjgxNiwyOTguOTUzIDMxMS4yNTUsMjcxLjQyIDMzNS40MiwyNTQuODJDMzgyLjU5NiwyMjIuNjQ0IDQwOS44OTIsMTY4LjIzMyA0MDcuNDgsMTExLjE4WiIgc3R5bGU9ImZpbGw6d2hpdGU7ZmlsbC1ydWxlOm5vbnplcm87Ii8+Cjwvc3ZnPgo=)](https://mermaid.live/edit)
+[![CloudGram](https://img.shields.io/badge/CloudGram-editor-blue?logo=pending&logoColor=white)](https://cloudgram.dedalusone.com/index.html)
+
+
+---
 # Hari Sekhon - DevOps Golang Tools
 
 Link:  [HariSekhon/DevOps-Golang-tools](https://github.com/HariSekhon/DevOps-Golang-tools)
@@ -972,72 +1038,6 @@ DevOps Golang tools
 [![Golang 1.18](https://github.com/HariSekhon/DevOps-Golang-tools/workflows/Golang%201.18/badge.svg)](https://github.com/HariSekhon/DevOps-Golang-tools/actions?query=workflow%3A%22Golang+1.18%22)
 
 [git.io/go-tools](https://git.io/go-tools)
-
-
----
-# Hari Sekhon - Diagrams-as-Code
-
-Link:  [HariSekhon/Diagrams-as-Code](https://github.com/HariSekhon/Diagrams-as-Code)
-
-Cloud & DevOps Architecture Diagrams-as-Code in Python and D2 languages
-
-[![GitHub stars](https://img.shields.io/github/stars/HariSekhon/Diagrams-as-Code?logo=github)](https://github.com/HariSekhon/Diagrams-as-Code/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/HariSekhon/Diagrams-as-Code?logo=github)](https://github.com/HariSekhon/Diagrams-as-Code/network)
-[![Lines of Code](https://img.shields.io/badge/lines%20of%20code-5k-lightgrey?logo=codecademy)](https://github.com/HariSekhon/Diagrams-as-Code#Hari-Sekhon---Diagrams-as-Code)
-[![License](https://img.shields.io/badge/license-MIT-green)](https://github.com/HariSekhon/Diagrams-as-Code/blob/master/LICENSE)
-[![My LinkedIn](https://img.shields.io/badge/LinkedIn%20Profile-HariSekhon-blue?logo=linkedin)](https://www.linkedin.com/in/HariSekhon/)
-[![GitHub Last Commit](https://img.shields.io/github/last-commit/HariSekhon/Diagrams-as-Code?logo=github)](https://github.com/HariSekhon/Diagrams-as-Code/commits/master)
-
-[![Codacy](https://app.codacy.com/project/badge/Grade/dffc1bfd13404c95b5a0ab97fd47974e)](https://www.codacy.com/gh/HariSekhon/Diagrams-as-Code/dashboard)
-[![CodeFactor](https://www.codefactor.io/repository/github/harisekhon/Diagrams-as-Code/badge)](https://www.codefactor.io/repository/github/harisekhon/Diagrams-as-Code)
-[![SonarCloud](https://github.com/HariSekhon/Diagrams-as-Code/actions/workflows/sonarcloud.yaml/badge.svg)](https://github.com/HariSekhon/Diagrams-as-Code/actions/workflows/sonarcloud.yaml)
-[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_Diagrams-as-Code&metric=alert_status)](https://sonarcloud.io/dashboard?id=HariSekhon_Diagrams-as-Code)
-[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_Diagrams-as-Code&metric=sqale_rating)](https://sonarcloud.io/dashboard?id=HariSekhon_Diagrams-as-Code)
-[![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_Diagrams-as-Code&metric=reliability_rating)](https://sonarcloud.io/dashboard?id=HariSekhon_Diagrams-as-Code)
-[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_Diagrams-as-Code&metric=security_rating)](https://sonarcloud.io/dashboard?id=HariSekhon_Diagrams-as-Code)
-[![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_Diagrams-as-Code&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=HariSekhon_Diagrams-as-Code)
-
-[![CI Builds Overview](https://img.shields.io/badge/CI%20Builds-Overview%20Page-blue?logo=circleci)](https://harisekhon.github.io/CI-CD/)
-[![Azure DevOps Pipeline](https://dev.azure.com/harisekhon/GitHub/_apis/build/status%2FDiagrams-as-Code?branchName=master)](https://dev.azure.com/harisekhon/GitHub/_build/latest?definitionId=14&branchName=master)
-[![GitLab Pipeline](https://img.shields.io/badge/GitLab%20CI-legacy-lightgrey?logo=gitlab)](https://gitlab.com/HariSekhon/Diagrams-as-Code/pipelines)
-[![BitBucket Pipeline](https://img.shields.io/badge/Bitbucket%20CI-legacy-lightgrey?logo=bitbucket)](https://bitbucket.org/HariSekhon/Diagrams-as-Code/addon/pipelines/home#!/)
-
-[![Repo on Azure DevOps](https://img.shields.io/badge/repo-Azure%20DevOps-0078D7?logo=azure%20devops)](https://dev.azure.com/HariSekhon/GitHub/_git/Diagrams-as-Code)
-[![Repo on GitHub](https://img.shields.io/badge/repo-GitHub-2088FF?logo=github)](https://github.com/HariSekhon/Diagrams-as-Code)
-[![Repo on GitLab](https://img.shields.io/badge/repo-GitLab-FCA121?logo=gitlab)](https://gitlab.com/HariSekhon/Diagrams-as-Code)
-[![Repo on BitBucket](https://img.shields.io/badge/repo-BitBucket-0052CC?logo=bitbucket)](https://bitbucket.org/HariSekhon/Diagrams-as-Code)
-[![Mac](https://img.shields.io/badge/OS-Mac-blue?logo=apple)](https://github.com/HariSekhon/DevOps-Bash-tools#hari-sekhon---devops-bash-tools)
-[![Linux](https://img.shields.io/badge/OS-Linux-blue?logo=linux)](https://github.com/HariSekhon/DevOps-Bash-tools#hari-sekhon---devops-bash-tools)
-
-[![Generate D2 Images](https://github.com/HariSekhon/Diagrams-as-Code/actions/workflows/generate-d2-images.yaml/badge.svg)](https://github.com/HariSekhon/Diagrams-as-Code/actions/workflows/generate-d2-images.yaml)
-[![Generate Python Images](https://github.com/HariSekhon/Diagrams-as-Code/actions/workflows/generate-python-images.yaml/badge.svg)](https://github.com/HariSekhon/Diagrams-as-Code/actions/workflows/generate-python-images.yaml)
-[![D2 fmt](https://github.com/HariSekhon/Diagrams-as-Code/actions/workflows/d2-fmt.yaml/badge.svg)](https://github.com/HariSekhon/Diagrams-as-Code/actions/workflows/d2-fmt.yaml)
-[![Validation](https://github.com/HariSekhon/Diagrams-as-Code/actions/workflows/validate.yaml/badge.svg)](https://github.com/HariSekhon/Diagrams-as-Code/actions/workflows/validate.yaml)
-[![Kics](https://github.com/HariSekhon/Diagrams-as-Code/actions/workflows/kics.yaml/badge.svg)](https://github.com/HariSekhon/Diagrams-as-Code/actions/workflows/kics.yaml)
-[![Grype](https://github.com/HariSekhon/Diagrams-as-Code/actions/workflows/grype.yaml/badge.svg)](https://github.com/HariSekhon/Diagrams-as-Code/actions/workflows/grype.yaml)
-[![Semgrep](https://github.com/HariSekhon/Diagrams-as-Code/actions/workflows/semgrep.yaml/badge.svg)](https://github.com/HariSekhon/Diagrams-as-Code/actions/workflows/semgrep.yaml)
-[![Semgrep Cloud](https://github.com/HariSekhon/Diagrams-as-Code/actions/workflows/semgrep-cloud.yaml/badge.svg)](https://github.com/HariSekhon/Diagrams-as-Code/actions/workflows/semgrep-cloud.yaml)
-[![SonarCloud](https://github.com/HariSekhon/Diagrams-as-Code/actions/workflows/sonarcloud.yaml/badge.svg)](https://github.com/HariSekhon/Diagrams-as-Code/actions/workflows/sonarcloud.yaml)
-[![Trivy](https://github.com/HariSekhon/Diagrams-as-Code/actions/workflows/trivy.yaml/badge.svg)](https://github.com/HariSekhon/Diagrams-as-Code/actions/workflows/trivy.yaml)
-
-[![Draw.io](https://img.shields.io/badge/draw.io-All%20icons%20editor-3776AB?logo=diagrams.net&color=F08705&logoColor=white)](https://app.diagrams.net/?splash=0&ui=dark&libs=aws3;aws3d;aws4;azure;gcp2;network;webicons)
-[![Draw.io](https://img.shields.io/badge/draw.io-AWS%20icons%20editor-FF9900?logo=diagrams.net&color=FF9900&logoColor=white)](https://app.diagrams.net/?splash=0&ui=dark&libs=aws3;aws3d;aws4)
-[![Draw.io](https://img.shields.io/badge/draw.io-Azure%20icons%20editor-007fff?logo=diagrams.net&color=007fff&logoColor=white)](https://app.diagrams.net/?splash=0&ui=dark&libs=azure)
-[![Draw.io](https://img.shields.io/badge/draw.io-GCP%20icons%20editor-4285F4?logo=diagrams.net&color=4285F4&logoColor=white)](https://app.diagrams.net/?splash=0&ui=dark&libs=gcp2)
-[![LucidChart](https://img.shields.io/badge/LucidChart-editor-orange.svg?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAAAllBMVEX////5axP5ZAD//Pr8tZb8vqf5bhX8uZb5ZwD5aQ35aAj5YgD/+/j+7+f92cf+5NT5XAD+9/H6kVj6hkj+7eT+9O38xan91cH8tpH7mmf5eSn8v6L90Lf7lmP7n2z5cB/8rX76cAv8r4n6gDv6i1T7pXX5hj39zbX6hET8xqf94M37kVL6pnL+6d35gjf6ejH7pn76mVvxCTe5AAADaklEQVR4nO3dfVOiUBTHcS8UXC6CISD4SKJm4dra+39zm7vtrsmjM5n3nPl9/z/FZ1CIJk+9HkIIIYQQQgghhBBCCCGEEEI0i4NbH8F1M/3x6NbHcNUGd5OH+1sfxBULpqHhuHyF5myeKSH4CqNFphzBWPgo5dHHVRjMlq74iKMw8OeGIxgL/XxiCMFXGNmrkxPIT2i+rC0lBF9hMc6kEHyF3sZSzjmQkTC2l0bZx0cYF09ulY+L0PQ3svQG5CQcpCtZfQJ5CPt2qFSdj4Nwti7fITgJo7lV/wJlIIxz2eKjLfS2z24Lj7Qw8IduwwWGvrD4/IzEThjZz61vQNLC8jMSL2Gxq3qG4CMMfjx0fYGSFMZ21u0CQ1Y4rXlGYiM07y48gxBqF4QQ6h+EEOofhBDqH4QQ6h+EEOofhBDqH4QQ6h+EEOofhBDqH4QQ6h+EEOofhBDqH4QQ6h+EEOofhBDqH4QQ6h+EEOofhBDqH4RfJDS//sg7f+vvEJqJfzvidwj3+eSOs9BMQ+VyFiZDoYTBV7ify+Onb9kKo3z556szFXrb17+f3mQp7Cdj+e/j4QyFpp//PFmQwk8YpKtPH39nJ7TDs/0FzIT78oYiVkJvY5Q3FDESRqNV1YYbNsIg2RmVC0S4CP2DVbNCi4dw37DjjYOwPw2t+gUbDIRJKJo2+FAXmvHbQ/OGIuLCKF027uijLvS26/YNRZSFs0XrCSQtHBy67XijKgzSrjveiApnz413COpCc/AmO++wIyg0443b4QJDVxiPXjtsASUrlNlh0bRmmLrQMYZJftkJpCU0JiOvd89XKN2F9z7DVqjkcPB7hqlQOeHLxwxLoSNXafx3hqPQmByK/zP8hFLOZ/2TGW5Cxwi33qcZZkIpc+9shpPQUe5uX5phJFRiN6uYYSN0RGhX/kNOLkJjkg6qZ3gIpdwkdTMchMc7RFw7w0BoZNPzO8Rp5IXKHZfvEKcRFyrx1OwjLlTW2u63zRAWvj8jlX5Eq4iuUGaHovUE9ugKHeMtqb9DnEZT6LjH36J1i6LQkcvHqPMMQaG0hjU/glZ2ufDGf8munHXVM1J999K6MHlToRvmXS6gJxWpfWGpf52j75I5PVzyAiWYGVU+5CKEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgjx7RfeAUw4ubZ1NgAAAABJRU5ErkJggg==)](https://lucid.app/)
-[![CloudCraft](https://img.shields.io/badge/CloudCraft-editor-blue?logo=pending&logoColor=white)](https://app.cloudcraft.co/)
-[![Creately](https://img.shields.io/badge/Creately-editor-blue?logo=pending&logoColor=white)](https://app.creately.com/d/start/dashboard)
-[![VisualParadigm](https://img.shields.io/badge/Visual%20Paradigm-editor-blue?logo=pending&logoColor=white)](https://online.visual-paradigm.com/drive/#diagramlist:proj=0&dashboard)
-
-[![D2](https://img.shields.io/badge/D2-Declarative%20Diagramming-3776AB?logo=pending&logoColor=white)](https://d2lang.com/)
-[![MermaidJS](https://img.shields.io/badge/Mermaid-JS-FF3399.svg?logo=data:image/svg%2bxml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+CjwhRE9DVFlQRSBzdmcgUFVCTElDICItLy9XM0MvL0RURCBTVkcgMS4xLy9FTiIgImh0dHA6Ly93d3cudzMub3JnL0dyYXBoaWNzL1NWRy8xLjEvRFREL3N2ZzExLmR0ZCI+Cjxzdmcgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgdmlld0JveD0iMCAwIDQ5MSA0OTEiIHZlcnNpb249IjEuMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSIgeG1sbnM6c2VyaWY9Imh0dHA6Ly93d3cuc2VyaWYuY29tLyIgc3R5bGU9ImZpbGwtcnVsZTpldmVub2RkO2NsaXAtcnVsZTpldmVub2RkO3N0cm9rZS1saW5lam9pbjpyb3VuZDtzdHJva2UtbWl0ZXJsaW1pdDoyOyI+CiAgICA8cGF0aCBkPSJNNDkwLjE2LDg0LjYxQzQ5MC4xNiwzNy45MTIgNDUyLjI0OCwwIDQwNS41NSwwTDg0LjYxLDBDMzcuOTEyLDAgMCwzNy45MTIgMCw4NC42MUwwLDQwNS41NUMwLDQ1Mi4yNDggMzcuOTEyLDQ5MC4xNiA4NC42MSw0OTAuMTZMNDA1LjU1LDQ5MC4xNkM0NTIuMjQ4LDQ5MC4xNiA0OTAuMTYsNDUyLjI0OCA0OTAuMTYsNDA1LjU1TDQ5MC4xNiw4NC42MVoiIHN0eWxlPSJmaWxsOnJnYigyNTUsNTQsMTEyKTsiLz4KICAgIDxwYXRoIGQ9Ik00MDcuNDgsMTExLjE4QzMzNS41ODcsMTA4LjEwMyAyNjkuNTczLDE1Mi4zMzggMjQ1LjA4LDIyMEMyMjAuNTg3LDE1Mi4zMzggMTU0LjU3MywxMDguMTAzIDgyLjY4LDExMS4xOEM4MC4yODUsMTY4LjIyOSAxMDcuNTc3LDIyMi42MzIgMTU0Ljc0LDI1NC44MkMxNzguOTA4LDI3MS40MTkgMTkzLjM1LDI5OC45NTEgMTkzLjI3LDMyOC4yN0wxOTMuMjcsMzc5LjEzTDI5Ni45LDM3OS4xM0wyOTYuOSwzMjguMjdDMjk2LjgxNiwyOTguOTUzIDMxMS4yNTUsMjcxLjQyIDMzNS40MiwyNTQuODJDMzgyLjU5NiwyMjIuNjQ0IDQwOS44OTIsMTY4LjIzMyA0MDcuNDgsMTExLjE4WiIgc3R5bGU9ImZpbGw6d2hpdGU7ZmlsbC1ydWxlOm5vbnplcm87Ii8+Cjwvc3ZnPgo=)](https://mermaid.js.org/)
-[![Python](https://img.shields.io/badge/Python-3-3776AB?logo=python&logoColor=white)](https://www.python.org/)
-[![Python Diagrams](https://img.shields.io/badge/Python-diagrams-3776AB?logo=python&logoColor=white)](https://diagrams.mingrammer.com/)
-[![Graphviz](https://img.shields.io/badge/Graphviz-dot-2871A7?logo=&logoColor=white)](https://graphviz.org/)
-
-[![D2](https://img.shields.io/badge/D2-playground-3776AB?logo=pending&logoColor=white)](https://play.d2lang.com/)
-[![MermaidJS](https://img.shields.io/badge/MermaidJS-Live%20Editor-FF3399.svg?logo=data:image/svg%2bxml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+CjwhRE9DVFlQRSBzdmcgUFVCTElDICItLy9XM0MvL0RURCBTVkcgMS4xLy9FTiIgImh0dHA6Ly93d3cudzMub3JnL0dyYXBoaWNzL1NWRy8xLjEvRFREL3N2ZzExLmR0ZCI+Cjxzdmcgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgdmlld0JveD0iMCAwIDQ5MSA0OTEiIHZlcnNpb249IjEuMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSIgeG1sbnM6c2VyaWY9Imh0dHA6Ly93d3cuc2VyaWYuY29tLyIgc3R5bGU9ImZpbGwtcnVsZTpldmVub2RkO2NsaXAtcnVsZTpldmVub2RkO3N0cm9rZS1saW5lam9pbjpyb3VuZDtzdHJva2UtbWl0ZXJsaW1pdDoyOyI+CiAgICA8cGF0aCBkPSJNNDkwLjE2LDg0LjYxQzQ5MC4xNiwzNy45MTIgNDUyLjI0OCwwIDQwNS41NSwwTDg0LjYxLDBDMzcuOTEyLDAgMCwzNy45MTIgMCw4NC42MUwwLDQwNS41NUMwLDQ1Mi4yNDggMzcuOTEyLDQ5MC4xNiA4NC42MSw0OTAuMTZMNDA1LjU1LDQ5MC4xNkM0NTIuMjQ4LDQ5MC4xNiA0OTAuMTYsNDUyLjI0OCA0OTAuMTYsNDA1LjU1TDQ5MC4xNiw4NC42MVoiIHN0eWxlPSJmaWxsOnJnYigyNTUsNTQsMTEyKTsiLz4KICAgIDxwYXRoIGQ9Ik00MDcuNDgsMTExLjE4QzMzNS41ODcsMTA4LjEwMyAyNjkuNTczLDE1Mi4zMzggMjQ1LjA4LDIyMEMyMjAuNTg3LDE1Mi4zMzggMTU0LjU3MywxMDguMTAzIDgyLjY4LDExMS4xOEM4MC4yODUsMTY4LjIyOSAxMDcuNTc3LDIyMi42MzIgMTU0Ljc0LDI1NC44MkMxNzguOTA4LDI3MS40MTkgMTkzLjM1LDI5OC45NTEgMTkzLjI3LDMyOC4yN0wxOTMuMjcsMzc5LjEzTDI5Ni45LDM3OS4xM0wyOTYuOSwzMjguMjdDMjk2LjgxNiwyOTguOTUzIDMxMS4yNTUsMjcxLjQyIDMzNS40MiwyNTQuODJDMzgyLjU5NiwyMjIuNjQ0IDQwOS44OTIsMTY4LjIzMyA0MDcuNDgsMTExLjE4WiIgc3R5bGU9ImZpbGw6d2hpdGU7ZmlsbC1ydWxlOm5vbnplcm87Ii8+Cjwvc3ZnPgo=)](https://mermaid.live/edit)
-[![CloudGram](https://img.shields.io/badge/CloudGram-editor-blue?logo=pending&logoColor=white)](https://cloudgram.dedalusone.com/index.html)
 
 
 ---
