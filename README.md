@@ -1,9 +1,9 @@
 # CI/CD Status Page
 
 ![Original Repos](https://img.shields.io/badge/Repos-27-blue?logo=github)
-![Stars](https://img.shields.io/badge/Stars-5863-blue?logo=github)
-![Forks](https://img.shields.io/badge/Forks-2215-blue?logo=github)
-![Followers](https://img.shields.io/badge/Followers-1260-blue?logo=github)
+![Stars](https://img.shields.io/badge/Stars-5885-blue?logo=github)
+![Forks](https://img.shields.io/badge/Forks-2222-blue?logo=github)
+![Followers](https://img.shields.io/badge/Followers-1266-blue?logo=github)
 ![Lines of Code](https://img.shields.io/badge/lines%20of%20code-287.3k-lightgrey?logo=codecademy)
 [![GitStar Ranking Profile](https://img.shields.io/badge/GitStar%20Ranking-HariSekhon-blue?logo=github)](https://gitstar-ranking.com/HariSekhon)
 [![StarCharts](https://img.shields.io/badge/Star-Charts-blue?logo=github)](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/STARCHARTS.md)
@@ -19,7 +19,7 @@
 [![Generate README](https://github.com/HariSekhon/CI-CD/actions/workflows/readme.yaml/badge.svg)](https://github.com/HariSekhon/CI-CD/actions/workflows/readme.yaml)
 [![pages-build-deployment](https://github.com/HariSekhon/CI-CD/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/HariSekhon/CI-CD/actions/workflows/pages/pages-build-deployment)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/853ef60c-c01b-4b83-99ba-8fda541f850f/deploy-status)](https://app.netlify.com/sites/harisekhon/deploys)
-![Last Generated](https://img.shields.io/badge/Last%20Generated-2023--08--11-yellowgreen?logo=github)
+![Last Generated](https://img.shields.io/badge/Last%20Generated-2023--08--14-yellowgreen?logo=github)
 [![GitHub Last Commit](https://img.shields.io/github/last-commit/HariSekhon/CI-CD?logo=github)](https://github.com/HariSekhon/CI-CD/commits/master)
 
 27 original source git repos with 684 CI builds (659 hosted, 25 self-hosted) across 23 different CI/CD systems:
@@ -832,44 +832,6 @@ Spotify Tools - Playlists Backups, Spotify CLI, URI translator, duplication dete
 
 
 ---
-# Jenkins - Advanced Jenkinsfile & Groovy Shared Library
-
-Link:  [HariSekhon/Jenkins](https://github.com/HariSekhon/Jenkins)
-
-Jenkins - Advanced Jenkinsfile & Groovy Shared Library of reusable functions and pipelines - including for AWS, GCP, Docker, Kubernetes, ArgoCD, Slack notifications, Git Merge, Terraform, Cloudflare, Jenkins Job Backups, most major Docker registries, DockerHub, GHCR, ECR, GCR, GAR, ACR, GitLab, Quay
-
-[![GitHub stars](https://img.shields.io/github/stars/HariSekhon/Jenkins?logo=github)](https://github.com/HariSekhon/Jenkins/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/HariSekhon/Jenkins?logo=github)](https://github.com/HariSekhon/Jenkins/network)
-[![Lines of Code](https://img.shields.io/badge/lines%20of%20code-10k-lightgrey?logo=codecademy)](https://github.com/HariSekhon/Jenkins)
-[![License](https://img.shields.io/github/license/HariSekhon/Jenkins)](https://github.com/HariSekhon/Jenkins/blob/master/LICENSE)
-[![My LinkedIn](https://img.shields.io/badge/LinkedIn%20Profile-HariSekhon-blue?logo=linkedin)](https://www.linkedin.com/in/HariSekhon/)
-[![GitHub Last Commit](https://img.shields.io/github/last-commit/HariSekhon/Jenkins?logo=github)](https://github.com/HariSekhon/Jenkins/commits/master)
-
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/48126b1db0ed4471a9888012b1ccab73)](https://app.codacy.com/gh/HariSekhon/Jenkins/dashboard)
-[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_Jenkins&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=HariSekhon_Jenkins)
-[![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_Jenkins&metric=reliability_rating)](https://sonarcloud.io/summary/new_code?id=HariSekhon_Jenkins)
-[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_Jenkins&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=HariSekhon_Jenkins)
-[![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_Jenkins&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=HariSekhon_Jenkins)
-
-[![CI Builds Overview](https://img.shields.io/badge/CI%20Builds-Overview%20Page-blue?logo=circleci)](https://harisekhon.github.io/CI-CD/)
-[![Repo on Azure DevOps](https://img.shields.io/badge/repo-Azure%20DevOps-0078D7?logo=azure%20devops)](https://dev.azure.com/harisekhon/GitHub/_git/Jenkins)
-[![Repo on GitHub](https://img.shields.io/badge/repo-GitHub-2088FF?logo=github)](https://github.com/HariSekhon/Jenkins)
-[![Repo on GitLab](https://img.shields.io/badge/repo-GitLab-FCA121?logo=gitlab)](https://gitlab.com/HariSekhon/Jenkins)
-[![Repo on BitBucket](https://img.shields.io/badge/repo-BitBucket-0052CC?logo=bitbucket)](https://bitbucket.org/HariSekhon/Jenkins)
-
-[![Jenkinsfile](https://github.com/HariSekhon/Jenkins/actions/workflows/jenkinsfile.yaml/badge.svg)](https://github.com/HariSekhon/Jenkins/actions/workflows/jenkinsfile.yaml)
-[![Groovy](https://github.com/HariSekhon/Jenkins/actions/workflows/groovyc.yaml/badge.svg)](https://github.com/HariSekhon/Jenkins/actions/workflows/groovyc.yaml)
-[![YAML](https://github.com/HariSekhon/Jenkins/actions/workflows/yaml.yaml/badge.svg)](https://github.com/HariSekhon/Jenkins/actions/workflows/yaml.yaml)
-[![Validation](https://github.com/HariSekhon/Jenkins/actions/workflows/validate.yaml/badge.svg)](https://github.com/HariSekhon/Jenkins/actions/workflows/validate.yaml)
-[![Grype](https://github.com/HariSekhon/Jenkins/actions/workflows/grype.yaml/badge.svg)](https://github.com/HariSekhon/Jenkins/actions/workflows/grype.yaml)
-[![Kics](https://github.com/HariSekhon/Jenkins/actions/workflows/kics.yaml/badge.svg)](https://github.com/HariSekhon/Jenkins/actions/workflows/kics.yaml)
-[![Semgrep](https://github.com/HariSekhon/Jenkins/actions/workflows/semgrep.yaml/badge.svg)](https://github.com/HariSekhon/Jenkins/actions/workflows/semgrep.yaml)
-[![Semgrep Cloud](https://github.com/HariSekhon/Jenkins/actions/workflows/semgrep-cloud.yaml/badge.svg)](https://github.com/HariSekhon/Jenkins/actions/workflows/semgrep-cloud.yaml)
-[![SonarCloud](https://github.com/HariSekhon/Jenkins/actions/workflows/sonarcloud.yaml/badge.svg)](https://github.com/HariSekhon/Jenkins/actions/workflows/sonarcloud.yaml)
-[![Trivy](https://github.com/HariSekhon/Jenkins/actions/workflows/trivy.yaml/badge.svg)](https://github.com/HariSekhon/Jenkins/actions/workflows/trivy.yaml)
-
-
----
 # Hari Sekhon - Diagrams-as-Code
 
 Link:  [HariSekhon/Diagrams-as-Code](https://github.com/HariSekhon/Diagrams-as-Code)
@@ -933,6 +895,44 @@ Cloud & DevOps Architecture Diagrams-as-Code in Python and D2 languages
 [![D2](https://img.shields.io/badge/D2-playground-3776AB?logo=pending&logoColor=white)](https://play.d2lang.com/)
 [![MermaidJS](https://img.shields.io/badge/MermaidJS-Live%20Editor-FF3399.svg?logo=data:image/svg%2bxml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+CjwhRE9DVFlQRSBzdmcgUFVCTElDICItLy9XM0MvL0RURCBTVkcgMS4xLy9FTiIgImh0dHA6Ly93d3cudzMub3JnL0dyYXBoaWNzL1NWRy8xLjEvRFREL3N2ZzExLmR0ZCI+Cjxzdmcgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgdmlld0JveD0iMCAwIDQ5MSA0OTEiIHZlcnNpb249IjEuMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSIgeG1sbnM6c2VyaWY9Imh0dHA6Ly93d3cuc2VyaWYuY29tLyIgc3R5bGU9ImZpbGwtcnVsZTpldmVub2RkO2NsaXAtcnVsZTpldmVub2RkO3N0cm9rZS1saW5lam9pbjpyb3VuZDtzdHJva2UtbWl0ZXJsaW1pdDoyOyI+CiAgICA8cGF0aCBkPSJNNDkwLjE2LDg0LjYxQzQ5MC4xNiwzNy45MTIgNDUyLjI0OCwwIDQwNS41NSwwTDg0LjYxLDBDMzcuOTEyLDAgMCwzNy45MTIgMCw4NC42MUwwLDQwNS41NUMwLDQ1Mi4yNDggMzcuOTEyLDQ5MC4xNiA4NC42MSw0OTAuMTZMNDA1LjU1LDQ5MC4xNkM0NTIuMjQ4LDQ5MC4xNiA0OTAuMTYsNDUyLjI0OCA0OTAuMTYsNDA1LjU1TDQ5MC4xNiw4NC42MVoiIHN0eWxlPSJmaWxsOnJnYigyNTUsNTQsMTEyKTsiLz4KICAgIDxwYXRoIGQ9Ik00MDcuNDgsMTExLjE4QzMzNS41ODcsMTA4LjEwMyAyNjkuNTczLDE1Mi4zMzggMjQ1LjA4LDIyMEMyMjAuNTg3LDE1Mi4zMzggMTU0LjU3MywxMDguMTAzIDgyLjY4LDExMS4xOEM4MC4yODUsMTY4LjIyOSAxMDcuNTc3LDIyMi42MzIgMTU0Ljc0LDI1NC44MkMxNzguOTA4LDI3MS40MTkgMTkzLjM1LDI5OC45NTEgMTkzLjI3LDMyOC4yN0wxOTMuMjcsMzc5LjEzTDI5Ni45LDM3OS4xM0wyOTYuOSwzMjguMjdDMjk2LjgxNiwyOTguOTUzIDMxMS4yNTUsMjcxLjQyIDMzNS40MiwyNTQuODJDMzgyLjU5NiwyMjIuNjQ0IDQwOS44OTIsMTY4LjIzMyA0MDcuNDgsMTExLjE4WiIgc3R5bGU9ImZpbGw6d2hpdGU7ZmlsbC1ydWxlOm5vbnplcm87Ii8+Cjwvc3ZnPgo=)](https://mermaid.live/edit)
 [![CloudGram](https://img.shields.io/badge/CloudGram-editor-blue?logo=pending&logoColor=white)](https://cloudgram.dedalusone.com/index.html)
+
+
+---
+# Jenkins - Advanced Jenkinsfile & Groovy Shared Library
+
+Link:  [HariSekhon/Jenkins](https://github.com/HariSekhon/Jenkins)
+
+Jenkins - Advanced Jenkinsfile & Groovy Shared Library of reusable functions and pipelines - including for AWS, GCP, Docker, Kubernetes, ArgoCD, Slack notifications, Git Merge, Terraform, Cloudflare, Jenkins Job Backups, most major Docker registries, DockerHub, GHCR, ECR, GCR, GAR, ACR, GitLab, Quay
+
+[![GitHub stars](https://img.shields.io/github/stars/HariSekhon/Jenkins?logo=github)](https://github.com/HariSekhon/Jenkins/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/HariSekhon/Jenkins?logo=github)](https://github.com/HariSekhon/Jenkins/network)
+[![Lines of Code](https://img.shields.io/badge/lines%20of%20code-10k-lightgrey?logo=codecademy)](https://github.com/HariSekhon/Jenkins)
+[![License](https://img.shields.io/github/license/HariSekhon/Jenkins)](https://github.com/HariSekhon/Jenkins/blob/master/LICENSE)
+[![My LinkedIn](https://img.shields.io/badge/LinkedIn%20Profile-HariSekhon-blue?logo=linkedin)](https://www.linkedin.com/in/HariSekhon/)
+[![GitHub Last Commit](https://img.shields.io/github/last-commit/HariSekhon/Jenkins?logo=github)](https://github.com/HariSekhon/Jenkins/commits/master)
+
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/48126b1db0ed4471a9888012b1ccab73)](https://app.codacy.com/gh/HariSekhon/Jenkins/dashboard)
+[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_Jenkins&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=HariSekhon_Jenkins)
+[![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_Jenkins&metric=reliability_rating)](https://sonarcloud.io/summary/new_code?id=HariSekhon_Jenkins)
+[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_Jenkins&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=HariSekhon_Jenkins)
+[![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_Jenkins&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=HariSekhon_Jenkins)
+
+[![CI Builds Overview](https://img.shields.io/badge/CI%20Builds-Overview%20Page-blue?logo=circleci)](https://harisekhon.github.io/CI-CD/)
+[![Repo on Azure DevOps](https://img.shields.io/badge/repo-Azure%20DevOps-0078D7?logo=azure%20devops)](https://dev.azure.com/harisekhon/GitHub/_git/Jenkins)
+[![Repo on GitHub](https://img.shields.io/badge/repo-GitHub-2088FF?logo=github)](https://github.com/HariSekhon/Jenkins)
+[![Repo on GitLab](https://img.shields.io/badge/repo-GitLab-FCA121?logo=gitlab)](https://gitlab.com/HariSekhon/Jenkins)
+[![Repo on BitBucket](https://img.shields.io/badge/repo-BitBucket-0052CC?logo=bitbucket)](https://bitbucket.org/HariSekhon/Jenkins)
+
+[![Jenkinsfile](https://github.com/HariSekhon/Jenkins/actions/workflows/jenkinsfile.yaml/badge.svg)](https://github.com/HariSekhon/Jenkins/actions/workflows/jenkinsfile.yaml)
+[![Groovy](https://github.com/HariSekhon/Jenkins/actions/workflows/groovyc.yaml/badge.svg)](https://github.com/HariSekhon/Jenkins/actions/workflows/groovyc.yaml)
+[![YAML](https://github.com/HariSekhon/Jenkins/actions/workflows/yaml.yaml/badge.svg)](https://github.com/HariSekhon/Jenkins/actions/workflows/yaml.yaml)
+[![Validation](https://github.com/HariSekhon/Jenkins/actions/workflows/validate.yaml/badge.svg)](https://github.com/HariSekhon/Jenkins/actions/workflows/validate.yaml)
+[![Grype](https://github.com/HariSekhon/Jenkins/actions/workflows/grype.yaml/badge.svg)](https://github.com/HariSekhon/Jenkins/actions/workflows/grype.yaml)
+[![Kics](https://github.com/HariSekhon/Jenkins/actions/workflows/kics.yaml/badge.svg)](https://github.com/HariSekhon/Jenkins/actions/workflows/kics.yaml)
+[![Semgrep](https://github.com/HariSekhon/Jenkins/actions/workflows/semgrep.yaml/badge.svg)](https://github.com/HariSekhon/Jenkins/actions/workflows/semgrep.yaml)
+[![Semgrep Cloud](https://github.com/HariSekhon/Jenkins/actions/workflows/semgrep-cloud.yaml/badge.svg)](https://github.com/HariSekhon/Jenkins/actions/workflows/semgrep-cloud.yaml)
+[![SonarCloud](https://github.com/HariSekhon/Jenkins/actions/workflows/sonarcloud.yaml/badge.svg)](https://github.com/HariSekhon/Jenkins/actions/workflows/sonarcloud.yaml)
+[![Trivy](https://github.com/HariSekhon/Jenkins/actions/workflows/trivy.yaml/badge.svg)](https://github.com/HariSekhon/Jenkins/actions/workflows/trivy.yaml)
 
 
 ---
@@ -1462,6 +1462,28 @@ TeamCity CI configs - plus links to one-touch Jenkins, GoCD, Concourse, TeamCity
 
 
 ---
+# Hari Sekhon - HashiCorp Packer templates
+
+Link:  [HariSekhon/Packer-templates](https://github.com/HariSekhon/Packer-templates)
+
+HashiCorp Packer templates to build portable virtual machines in OVA format for Ubuntu, Debian and Redhat based systems with automated installers Kickstart, Preseed and AutoInstaller / Cloud-Init. Useful for IoT edge sites, Kubernetes base systems and VM appliances to ship to customers
+
+[![GitHub stars](https://img.shields.io/github/stars/HariSekhon/Packer-templates?logo=github)](https://github.com/HariSekhon/Packer-templates/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/HariSekhon/Packer-templates?logo=github)](https://github.com/HariSekhon/Packer-templates/network)
+[![Lines of Code](https://img.shields.io/badge/lines%20of%20code-1k-lightgrey?logo=codecademy)](https://github.com/HariSekhon/Packer-templates#Hari-Sekhon---Packer-templates)
+[![License](https://img.shields.io/badge/license-MIT-green)](https://github.com/HariSekhon/Packer-templates/blob/master/LICENSE)
+[![My LinkedIn](https://img.shields.io/badge/LinkedIn%20Profile-HariSekhon-blue?logo=linkedin)](https://www.linkedin.com/in/HariSekhon/)
+[![GitHub Last Commit](https://img.shields.io/github/last-commit/HariSekhon/Packer-templates?logo=github)](https://github.com/HariSekhon/Packer-templates/commits/master)
+
+[![Codacy](https://app.codacy.com/project/badge/Grade/19fb3e1bf45f494fb7332d4829cb3cd6)](https://www.codacy.com/gh/HariSekhon/Packer-templates/dashboard)
+[![CodeFactor](https://www.codefactor.io/repository/github/harisekhon/Packer-templates/badge)](https://www.codefactor.io/repository/github/harisekhon/Packer-templates)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_Packer-templates&metric=alert_status)](https://sonarcloud.io/dashboard?id=HariSekhon_Packer-templates)
+[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_Packer-templates&metric=sqale_rating)](https://sonarcloud.io/dashboard?id=HariSekhon_Packer-templates)
+[![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_Packer-templates&metric=reliability_rating)](https://sonarcloud.io/dashboard?id=HariSekhon_Packer-templates)
+[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_Packer-templates&metric=security_rating)](https://sonarcloud.io/dashboard?id=HariSekhon_Packer-templates)
+
+
+---
 # GitHub Actions Contexts
 
 Link:  [HariSekhon/GitHub-Actions-Contexts](https://github.com/HariSekhon/GitHub-Actions-Contexts)
@@ -1497,28 +1519,6 @@ Template repository with basic skeleton of build and CI/CD configs
 [![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_Template-Repo&metric=sqale_rating)](https://sonarcloud.io/dashboard?id=HariSekhon_Template-Repo)
 [![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_Template-Repo&metric=reliability_rating)](https://sonarcloud.io/dashboard?id=HariSekhon_Template-Repo)
 [![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_Template-Repo&metric=security_rating)](https://sonarcloud.io/dashboard?id=HariSekhon_Template-Repo)
-
-
----
-# Hari Sekhon - HashiCorp Packer templates
-
-Link:  [HariSekhon/Packer-templates](https://github.com/HariSekhon/Packer-templates)
-
-HashiCorp Packer templates to build portable virtual machines in OVA format for Ubuntu, Debian and Redhat based systems with automated installers Kickstart, Preseed and AutoInstaller / Cloud-Init. Useful for IoT edge sites, Kubernetes base systems and VM appliances to ship to customers
-
-[![GitHub stars](https://img.shields.io/github/stars/HariSekhon/Packer-templates?logo=github)](https://github.com/HariSekhon/Packer-templates/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/HariSekhon/Packer-templates?logo=github)](https://github.com/HariSekhon/Packer-templates/network)
-[![Lines of Code](https://img.shields.io/badge/lines%20of%20code-1k-lightgrey?logo=codecademy)](https://github.com/HariSekhon/Packer-templates#Hari-Sekhon---Packer-templates)
-[![License](https://img.shields.io/badge/license-MIT-green)](https://github.com/HariSekhon/Packer-templates/blob/master/LICENSE)
-[![My LinkedIn](https://img.shields.io/badge/LinkedIn%20Profile-HariSekhon-blue?logo=linkedin)](https://www.linkedin.com/in/HariSekhon/)
-[![GitHub Last Commit](https://img.shields.io/github/last-commit/HariSekhon/Packer-templates?logo=github)](https://github.com/HariSekhon/Packer-templates/commits/master)
-
-[![Codacy](https://app.codacy.com/project/badge/Grade/19fb3e1bf45f494fb7332d4829cb3cd6)](https://www.codacy.com/gh/HariSekhon/Packer-templates/dashboard)
-[![CodeFactor](https://www.codefactor.io/repository/github/harisekhon/Packer-templates/badge)](https://www.codefactor.io/repository/github/harisekhon/Packer-templates)
-[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_Packer-templates&metric=alert_status)](https://sonarcloud.io/dashboard?id=HariSekhon_Packer-templates)
-[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_Packer-templates&metric=sqale_rating)](https://sonarcloud.io/dashboard?id=HariSekhon_Packer-templates)
-[![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_Packer-templates&metric=reliability_rating)](https://sonarcloud.io/dashboard?id=HariSekhon_Packer-templates)
-[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_Packer-templates&metric=security_rating)](https://sonarcloud.io/dashboard?id=HariSekhon_Packer-templates)
 
 
 ---
