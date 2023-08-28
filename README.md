@@ -1,9 +1,9 @@
 # CI/CD Status Page
 
 ![Original Repos](https://img.shields.io/badge/Repos-27-blue?logo=github)
-![Stars](https://img.shields.io/badge/Stars-5916-blue?logo=github)
-![Forks](https://img.shields.io/badge/Forks-2234-blue?logo=github)
-![Followers](https://img.shields.io/badge/Followers-1273-blue?logo=github)
+![Stars](https://img.shields.io/badge/Stars-5925-blue?logo=github)
+![Forks](https://img.shields.io/badge/Forks-2239-blue?logo=github)
+![Followers](https://img.shields.io/badge/Followers-1274-blue?logo=github)
 ![Lines of Code](https://img.shields.io/badge/lines%20of%20code-287.3k-lightgrey?logo=codecademy)
 [![GitStar Ranking Profile](https://img.shields.io/badge/GitStar%20Ranking-HariSekhon-blue?logo=github)](https://gitstar-ranking.com/HariSekhon)
 [![StarCharts](https://img.shields.io/badge/Star-Charts-blue?logo=github)](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/STARCHARTS.md)
@@ -19,7 +19,7 @@
 [![Generate README](https://github.com/HariSekhon/CI-CD/actions/workflows/readme.yaml/badge.svg)](https://github.com/HariSekhon/CI-CD/actions/workflows/readme.yaml)
 [![pages-build-deployment](https://github.com/HariSekhon/CI-CD/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/HariSekhon/CI-CD/actions/workflows/pages/pages-build-deployment)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/853ef60c-c01b-4b83-99ba-8fda541f850f/deploy-status)](https://app.netlify.com/sites/harisekhon/deploys)
-![Last Generated](https://img.shields.io/badge/Last%20Generated-2023--08--25-yellowgreen?logo=github)
+![Last Generated](https://img.shields.io/badge/Last%20Generated-2023--08--28-yellowgreen?logo=github)
 [![GitHub Last Commit](https://img.shields.io/github/last-commit/HariSekhon/CI-CD?logo=github)](https://github.com/HariSekhon/CI-CD/commits/master)
 
 27 original source git repos with 684 CI builds (659 hosted, 25 self-hosted) across 23 different CI/CD systems:
@@ -1426,6 +1426,28 @@ Python / Jython Utility Library for my other repos
 
 
 ---
+# Hari Sekhon - HashiCorp Packer templates
+
+Link:  [HariSekhon/Packer-templates](https://github.com/HariSekhon/Packer-templates)
+
+HashiCorp Packer templates to build portable virtual machines in OVA format for Ubuntu, Debian and Redhat based systems with automated installers Kickstart, Preseed and AutoInstaller / Cloud-Init. Useful for IoT edge sites, Kubernetes base systems and VM appliances to ship to customers
+
+[![GitHub stars](https://img.shields.io/github/stars/HariSekhon/Packer-templates?logo=github)](https://github.com/HariSekhon/Packer-templates/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/HariSekhon/Packer-templates?logo=github)](https://github.com/HariSekhon/Packer-templates/network)
+[![Lines of Code](https://img.shields.io/badge/lines%20of%20code-1k-lightgrey?logo=codecademy)](https://github.com/HariSekhon/Packer-templates#Hari-Sekhon---Packer-templates)
+[![License](https://img.shields.io/badge/license-MIT-green)](https://github.com/HariSekhon/Packer-templates/blob/master/LICENSE)
+[![My LinkedIn](https://img.shields.io/badge/LinkedIn%20Profile-HariSekhon-blue?logo=linkedin)](https://www.linkedin.com/in/HariSekhon/)
+[![GitHub Last Commit](https://img.shields.io/github/last-commit/HariSekhon/Packer-templates?logo=github)](https://github.com/HariSekhon/Packer-templates/commits/master)
+
+[![Codacy](https://app.codacy.com/project/badge/Grade/19fb3e1bf45f494fb7332d4829cb3cd6)](https://www.codacy.com/gh/HariSekhon/Packer-templates/dashboard)
+[![CodeFactor](https://www.codefactor.io/repository/github/harisekhon/Packer-templates/badge)](https://www.codefactor.io/repository/github/harisekhon/Packer-templates)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_Packer-templates&metric=alert_status)](https://sonarcloud.io/dashboard?id=HariSekhon_Packer-templates)
+[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_Packer-templates&metric=sqale_rating)](https://sonarcloud.io/dashboard?id=HariSekhon_Packer-templates)
+[![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_Packer-templates&metric=reliability_rating)](https://sonarcloud.io/dashboard?id=HariSekhon_Packer-templates)
+[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_Packer-templates&metric=security_rating)](https://sonarcloud.io/dashboard?id=HariSekhon_Packer-templates)
+
+
+---
 # TeamCity CI Config
 
 Link:  [HariSekhon/TeamCity-CI](https://github.com/HariSekhon/TeamCity-CI)
@@ -1475,28 +1497,6 @@ Dumps GitHub Actions Contexts from different triggers. Useful for seeing undocum
 [![GitHub Last Commit](https://img.shields.io/github/last-commit/HariSekhon/GitHub-Actions-Contexts?logo=github)](https://github.com/HariSekhon/GitHub-Actions-Contexts/commits/master)
 
 [![Dump Contexts](https://github.com/HariSekhon/GitHub-Actions-Contexts/actions/workflows/dump_contexts.yaml/badge.svg)](https://github.com/HariSekhon/GitHub-Actions-Contexts/actions/workflows/dump_contexts.yaml)
-
-
----
-# Hari Sekhon - HashiCorp Packer templates
-
-Link:  [HariSekhon/Packer-templates](https://github.com/HariSekhon/Packer-templates)
-
-HashiCorp Packer templates to build portable virtual machines in OVA format for Ubuntu, Debian and Redhat based systems with automated installers Kickstart, Preseed and AutoInstaller / Cloud-Init. Useful for IoT edge sites, Kubernetes base systems and VM appliances to ship to customers
-
-[![GitHub stars](https://img.shields.io/github/stars/HariSekhon/Packer-templates?logo=github)](https://github.com/HariSekhon/Packer-templates/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/HariSekhon/Packer-templates?logo=github)](https://github.com/HariSekhon/Packer-templates/network)
-[![Lines of Code](https://img.shields.io/badge/lines%20of%20code-1k-lightgrey?logo=codecademy)](https://github.com/HariSekhon/Packer-templates#Hari-Sekhon---Packer-templates)
-[![License](https://img.shields.io/badge/license-MIT-green)](https://github.com/HariSekhon/Packer-templates/blob/master/LICENSE)
-[![My LinkedIn](https://img.shields.io/badge/LinkedIn%20Profile-HariSekhon-blue?logo=linkedin)](https://www.linkedin.com/in/HariSekhon/)
-[![GitHub Last Commit](https://img.shields.io/github/last-commit/HariSekhon/Packer-templates?logo=github)](https://github.com/HariSekhon/Packer-templates/commits/master)
-
-[![Codacy](https://app.codacy.com/project/badge/Grade/19fb3e1bf45f494fb7332d4829cb3cd6)](https://www.codacy.com/gh/HariSekhon/Packer-templates/dashboard)
-[![CodeFactor](https://www.codefactor.io/repository/github/harisekhon/Packer-templates/badge)](https://www.codefactor.io/repository/github/harisekhon/Packer-templates)
-[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_Packer-templates&metric=alert_status)](https://sonarcloud.io/dashboard?id=HariSekhon_Packer-templates)
-[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_Packer-templates&metric=sqale_rating)](https://sonarcloud.io/dashboard?id=HariSekhon_Packer-templates)
-[![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_Packer-templates&metric=reliability_rating)](https://sonarcloud.io/dashboard?id=HariSekhon_Packer-templates)
-[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_Packer-templates&metric=security_rating)](https://sonarcloud.io/dashboard?id=HariSekhon_Packer-templates)
 
 
 ---
