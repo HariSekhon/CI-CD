@@ -1,9 +1,9 @@
 # CI/CD Status Page
 
 ![Original Repos](https://img.shields.io/badge/Repos-27-blue?logo=github)
-![Stars](https://img.shields.io/badge/Stars-6088-blue?logo=github)
-![Forks](https://img.shields.io/badge/Forks-2316-blue?logo=github)
-![Followers](https://img.shields.io/badge/Followers-1299-blue?logo=github)
+![Stars](https://img.shields.io/badge/Stars-6091-blue?logo=github)
+![Forks](https://img.shields.io/badge/Forks-2321-blue?logo=github)
+![Followers](https://img.shields.io/badge/Followers-1302-blue?logo=github)
 ![Lines of Code](https://img.shields.io/badge/lines%20of%20code-288.3k-lightgrey?logo=codecademy)
 [![GitStar Ranking Profile](https://img.shields.io/badge/GitStar%20Ranking-HariSekhon-blue?logo=github)](https://gitstar-ranking.com/HariSekhon)
 [![StarCharts](https://img.shields.io/badge/Star-Charts-blue?logo=github)](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/STARCHARTS.md)
@@ -19,7 +19,7 @@
 [![Generate README](https://github.com/HariSekhon/CI-CD/actions/workflows/readme.yaml/badge.svg)](https://github.com/HariSekhon/CI-CD/actions/workflows/readme.yaml)
 [![pages-build-deployment](https://github.com/HariSekhon/CI-CD/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/HariSekhon/CI-CD/actions/workflows/pages/pages-build-deployment)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/853ef60c-c01b-4b83-99ba-8fda541f850f/deploy-status)](https://app.netlify.com/sites/harisekhon/deploys)
-![Last Generated](https://img.shields.io/badge/Last%20Generated-2023--10--13-yellowgreen?logo=github)
+![Last Generated](https://img.shields.io/badge/Last%20Generated-2023--10--16-yellowgreen?logo=github)
 [![GitHub Last Commit](https://img.shields.io/github/last-commit/HariSekhon/CI-CD?logo=github)](https://github.com/HariSekhon/CI-CD/commits/master)
 
 27 original source git repos with 684 CI builds (659 hosted, 25 self-hosted) across 23 different CI/CD systems:
@@ -1530,46 +1530,6 @@ Template repository with basic skeleton of build and CI/CD configs
 
 
 ---
-# SQL Keywords
-
-Link:  [HariSekhon/SQL-keywords](https://github.com/HariSekhon/SQL-keywords)
-
-SQL keywords and built-in functions for most major RDBMS, MPP SQL & NoSQL systems - MySQL, PostgreSQL, Oracle, SQL Server, Presto / AWS Athena, Redshift, Snowflake, Apache Drill, Hive, Impala, Cassandra, Couchbase N1QL, Pig Latin, Neo4j Cypher, Dockerfiles - Used by sqlcase.pl to auto-recase SQL scripts, Dockerfiles etc.
-
-[![GitHub stars](https://img.shields.io/github/stars/HariSekhon/SQL-keywords?logo=github)](https://github.com/HariSekhon/SQL-keywords/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/HariSekhon/SQL-keywords?logo=github)](https://github.com/HariSekhon/SQL-keywords/network)
-[![License](https://img.shields.io/github/license/HariSekhon/SQL-keywords)](https://github.com/HariSekhon/SQL-keywords/blob/master/LICENSE)
-[![GitHub Last Commit](https://img.shields.io/github/last-commit/HariSekhon/SQL-keywords?logo=github)](https://github.com/HariSekhon/SQL-keywords/commits/master)
-
-[![PostgreSQL](https://img.shields.io/badge/SQL-PostreSQL-336791?logo=postgresql)](https://www.postgresql.org/)
-[![MySQL](https://img.shields.io/badge/SQL-MySQL-4479A1?logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![MariaDB](https://img.shields.io/badge/SQL-MariaDB-003545?logo=mariadb)](https://mariadb.org/)
-[![AWS Athena](https://img.shields.io/badge/SQL-AWS%20Athena-232F3E?logo=amazon%20aws)](https://aws.amazon.com/athena/)
-[![AWS Redshift](https://img.shields.io/badge/SQL-AWS%20Redshift-232F3E?logo=amazon%20aws)](https://aws.amazon.com/redshift/)
-[![Oracle](https://img.shields.io/badge/SQL-Oracle-F80000?logo=oracle)](http://oracle.com/)
-[![SQL Server](https://img.shields.io/badge/SQL-SQL%20Server-CC2927?logo=microsoft%20sql%20server)](https://www.microsoft.com/en-gb/sql-server)
-[![Cassandra](https://img.shields.io/badge/CQL-Cassandra-1287B1?logo=apache%20cassandra&logoColor=white)](https://cassandra.apache.org/)
-[![Docker](https://img.shields.io/badge/Dockerfile-Docker-2496ED?logo=docker&logoColor=white)](https://www.docker.com/)
-[![Neo4j](https://img.shields.io/badge/Cypher-Neo4j-008CC1?logo=neo4j&logoColor=white)](https://neo4j.com/)
-
-[![CI Builds Overview](https://img.shields.io/badge/CI%20Builds-Overview%20Page-blue?logo=circleci)](https://harisekhon.github.io/CI-CD/)
-[![YAML](https://github.com/HariSekhon/SQL-keywords/actions/workflows/yaml.yaml/badge.svg)](https://github.com/HariSekhon/SQL-keywords/actions/workflows/yaml.yaml)
-[![Validation](https://github.com/HariSekhon/SQL-keywords/actions/workflows/validate.yaml/badge.svg)](https://github.com/HariSekhon/SQL-keywords/actions/workflows/validate.yaml)
-[![Grype](https://github.com/HariSekhon/SQL-keywords/actions/workflows/grype.yaml/badge.svg)](https://github.com/HariSekhon/SQL-keywords/actions/workflows/grype.yaml)
-[![Kics](https://github.com/HariSekhon/SQL-keywords/actions/workflows/kics.yaml/badge.svg)](https://github.com/HariSekhon/SQL-keywords/actions/workflows/kics.yaml)
-[![Semgrep](https://github.com/HariSekhon/SQL-keywords/actions/workflows/semgrep.yaml/badge.svg)](https://github.com/HariSekhon/SQL-keywords/actions/workflows/semgrep.yaml)
-[![Semgrep Cloud](https://github.com/HariSekhon/SQL-keywords/actions/workflows/semgrep-cloud.yaml/badge.svg)](https://github.com/HariSekhon/SQL-keywords/actions/workflows/semgrep-cloud.yaml)
-[![Trivy](https://github.com/HariSekhon/SQL-keywords/actions/workflows/trivy.yaml/badge.svg)](https://github.com/HariSekhon/SQL-keywords/actions/workflows/trivy.yaml)
-
-[![Repo on Azure DevOps](https://img.shields.io/badge/repo-Azure%20DevOps-0078D7?logo=azure%20devops)](https://dev.azure.com/harisekhon/GitHub/_git/SQL-keywords)
-[![Repo on GitHub](https://img.shields.io/badge/repo-GitHub-2088FF?logo=github)](https://github.com/HariSekhon/SQL-keywords)
-[![Repo on GitLab](https://img.shields.io/badge/repo-GitLab-FCA121?logo=gitlab)](https://gitlab.com/HariSekhon/SQL-keywords)
-[![Repo on BitBucket](https://img.shields.io/badge/repo-BitBucket-0052CC?logo=bitbucket)](https://bitbucket.org/HariSekhon/SQL-keywords)
-
-[git.io/sql-keywords](https://git.io/sql-keywords)
-
-
----
 # Hari Sekhon - Vagrant templates
 
 Link:  [HariSekhon/Vagrant-templates](https://github.com/HariSekhon/Vagrant-templates)
@@ -1607,6 +1567,46 @@ Vagrant templates to boot quick labs, including Ubuntu, Debian, Kubernetes, Ranc
 [![SonarCloud](https://github.com/HariSekhon/Vagrant-templates/actions/workflows/sonarcloud.yaml/badge.svg)](https://github.com/HariSekhon/Vagrant-templates/actions/workflows/sonarcloud.yaml)
 [![Trivy](https://github.com/HariSekhon/Vagrant-templates/actions/workflows/trivy.yaml/badge.svg)](https://github.com/HariSekhon/Vagrant-templates/actions/workflows/trivy.yaml)
 
+
+
+---
+# SQL Keywords
+
+Link:  [HariSekhon/SQL-keywords](https://github.com/HariSekhon/SQL-keywords)
+
+SQL keywords and built-in functions for most major RDBMS, MPP SQL & NoSQL systems - MySQL, PostgreSQL, Oracle, SQL Server, Presto / AWS Athena, Redshift, Snowflake, Apache Drill, Hive, Impala, Cassandra, Couchbase N1QL, Pig Latin, Neo4j Cypher, Dockerfiles - Used by sqlcase.pl to auto-recase SQL scripts, Dockerfiles etc.
+
+[![GitHub stars](https://img.shields.io/github/stars/HariSekhon/SQL-keywords?logo=github)](https://github.com/HariSekhon/SQL-keywords/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/HariSekhon/SQL-keywords?logo=github)](https://github.com/HariSekhon/SQL-keywords/network)
+[![License](https://img.shields.io/github/license/HariSekhon/SQL-keywords)](https://github.com/HariSekhon/SQL-keywords/blob/master/LICENSE)
+[![GitHub Last Commit](https://img.shields.io/github/last-commit/HariSekhon/SQL-keywords?logo=github)](https://github.com/HariSekhon/SQL-keywords/commits/master)
+
+[![PostgreSQL](https://img.shields.io/badge/SQL-PostreSQL-336791?logo=postgresql)](https://www.postgresql.org/)
+[![MySQL](https://img.shields.io/badge/SQL-MySQL-4479A1?logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![MariaDB](https://img.shields.io/badge/SQL-MariaDB-003545?logo=mariadb)](https://mariadb.org/)
+[![AWS Athena](https://img.shields.io/badge/SQL-AWS%20Athena-232F3E?logo=amazon%20aws)](https://aws.amazon.com/athena/)
+[![AWS Redshift](https://img.shields.io/badge/SQL-AWS%20Redshift-232F3E?logo=amazon%20aws)](https://aws.amazon.com/redshift/)
+[![Oracle](https://img.shields.io/badge/SQL-Oracle-F80000?logo=oracle)](http://oracle.com/)
+[![SQL Server](https://img.shields.io/badge/SQL-SQL%20Server-CC2927?logo=microsoft%20sql%20server)](https://www.microsoft.com/en-gb/sql-server)
+[![Cassandra](https://img.shields.io/badge/CQL-Cassandra-1287B1?logo=apache%20cassandra&logoColor=white)](https://cassandra.apache.org/)
+[![Docker](https://img.shields.io/badge/Dockerfile-Docker-2496ED?logo=docker&logoColor=white)](https://www.docker.com/)
+[![Neo4j](https://img.shields.io/badge/Cypher-Neo4j-008CC1?logo=neo4j&logoColor=white)](https://neo4j.com/)
+
+[![CI Builds Overview](https://img.shields.io/badge/CI%20Builds-Overview%20Page-blue?logo=circleci)](https://harisekhon.github.io/CI-CD/)
+[![YAML](https://github.com/HariSekhon/SQL-keywords/actions/workflows/yaml.yaml/badge.svg)](https://github.com/HariSekhon/SQL-keywords/actions/workflows/yaml.yaml)
+[![Validation](https://github.com/HariSekhon/SQL-keywords/actions/workflows/validate.yaml/badge.svg)](https://github.com/HariSekhon/SQL-keywords/actions/workflows/validate.yaml)
+[![Grype](https://github.com/HariSekhon/SQL-keywords/actions/workflows/grype.yaml/badge.svg)](https://github.com/HariSekhon/SQL-keywords/actions/workflows/grype.yaml)
+[![Kics](https://github.com/HariSekhon/SQL-keywords/actions/workflows/kics.yaml/badge.svg)](https://github.com/HariSekhon/SQL-keywords/actions/workflows/kics.yaml)
+[![Semgrep](https://github.com/HariSekhon/SQL-keywords/actions/workflows/semgrep.yaml/badge.svg)](https://github.com/HariSekhon/SQL-keywords/actions/workflows/semgrep.yaml)
+[![Semgrep Cloud](https://github.com/HariSekhon/SQL-keywords/actions/workflows/semgrep-cloud.yaml/badge.svg)](https://github.com/HariSekhon/SQL-keywords/actions/workflows/semgrep-cloud.yaml)
+[![Trivy](https://github.com/HariSekhon/SQL-keywords/actions/workflows/trivy.yaml/badge.svg)](https://github.com/HariSekhon/SQL-keywords/actions/workflows/trivy.yaml)
+
+[![Repo on Azure DevOps](https://img.shields.io/badge/repo-Azure%20DevOps-0078D7?logo=azure%20devops)](https://dev.azure.com/harisekhon/GitHub/_git/SQL-keywords)
+[![Repo on GitHub](https://img.shields.io/badge/repo-GitHub-2088FF?logo=github)](https://github.com/HariSekhon/SQL-keywords)
+[![Repo on GitLab](https://img.shields.io/badge/repo-GitLab-FCA121?logo=gitlab)](https://gitlab.com/HariSekhon/SQL-keywords)
+[![Repo on BitBucket](https://img.shields.io/badge/repo-BitBucket-0052CC?logo=bitbucket)](https://bitbucket.org/HariSekhon/SQL-keywords)
+
+[git.io/sql-keywords](https://git.io/sql-keywords)
 
 
 ---
