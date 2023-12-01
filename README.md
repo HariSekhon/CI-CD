@@ -1,9 +1,9 @@
 # CI/CD Status Page
 
 ![Original Repos](https://img.shields.io/badge/Repos-28-blue?logo=github)
-![Stars](https://img.shields.io/badge/Stars-6322-blue?logo=github)
-![Forks](https://img.shields.io/badge/Forks-2381-blue?logo=github)
-![Followers](https://img.shields.io/badge/Followers-1327-blue?logo=github)
+![Stars](https://img.shields.io/badge/Stars-6334-blue?logo=github)
+![Forks](https://img.shields.io/badge/Forks-2384-blue?logo=github)
+![Followers](https://img.shields.io/badge/Followers-1328-blue?logo=github)
 ![Lines of Code](https://img.shields.io/badge/lines%20of%20code-288.3k-lightgrey?logo=codecademy)
 [![GitStar Ranking Profile](https://img.shields.io/badge/GitStar%20Ranking-HariSekhon-blue?logo=github)](https://gitstar-ranking.com/HariSekhon)
 [![StarCharts](https://img.shields.io/badge/Star-Charts-blue?logo=github)](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/STARCHARTS.md)
@@ -19,7 +19,7 @@
 [![Generate README](https://github.com/HariSekhon/CI-CD/actions/workflows/readme.yaml/badge.svg)](https://github.com/HariSekhon/CI-CD/actions/workflows/readme.yaml)
 [![pages-build-deployment](https://github.com/HariSekhon/CI-CD/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/HariSekhon/CI-CD/actions/workflows/pages/pages-build-deployment)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/853ef60c-c01b-4b83-99ba-8fda541f850f/deploy-status)](https://app.netlify.com/sites/harisekhon/deploys)
-![Last Generated](https://img.shields.io/badge/Last%20Generated-2023--11--30-yellowgreen?logo=github)
+![Last Generated](https://img.shields.io/badge/Last%20Generated-2023--12--01-yellowgreen?logo=github)
 [![GitHub Last Commit](https://img.shields.io/github/last-commit/HariSekhon/CI-CD?logo=github)](https://github.com/HariSekhon/CI-CD/commits/master)
 
 28 original source git repos with 690 CI builds (665 hosted, 25 self-hosted) across 23 different CI/CD systems:
@@ -1484,6 +1484,14 @@ TeamCity CI configs - plus links to one-touch Jenkins, GoCD, Concourse, TeamCity
 
 
 ---
+# CI/CD Status Page
+
+Link:  [HariSekhon/CI-CD](https://github.com/HariSekhon/CI-CD)
+
+CI/CD Status page for Hari Sekhon's GitHub repos
+
+
+---
 # GitHub Actions Contexts
 
 Link:  [HariSekhon/GitHub-Actions-Contexts](https://github.com/HariSekhon/GitHub-Actions-Contexts)
@@ -1497,14 +1505,6 @@ Dumps GitHub Actions Contexts from different triggers. Useful for seeing undocum
 [![GitHub Last Commit](https://img.shields.io/github/last-commit/HariSekhon/GitHub-Actions-Contexts?logo=github)](https://github.com/HariSekhon/GitHub-Actions-Contexts/commits/master)
 
 [![Dump Contexts](https://github.com/HariSekhon/GitHub-Actions-Contexts/actions/workflows/dump_contexts.yaml/badge.svg)](https://github.com/HariSekhon/GitHub-Actions-Contexts/actions/workflows/dump_contexts.yaml)
-
-
----
-# CI/CD Status Page
-
-Link:  [HariSekhon/CI-CD](https://github.com/HariSekhon/CI-CD)
-
-CI/CD Status page for Hari Sekhon's GitHub repos
 
 
 ---
