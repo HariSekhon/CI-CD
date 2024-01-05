@@ -1,9 +1,9 @@
 # CI/CD Status Page
 
 ![Original Repos](https://img.shields.io/badge/Repos-28-blue?logo=github)
-![Stars](https://img.shields.io/badge/Stars-6494-blue?logo=github)
-![Forks](https://img.shields.io/badge/Forks-2449-blue?logo=github)
-![Followers](https://img.shields.io/badge/Followers-1353-blue?logo=github)
+![Stars](https://img.shields.io/badge/Stars-6505-blue?logo=github)
+![Forks](https://img.shields.io/badge/Forks-2454-blue?logo=github)
+![Followers](https://img.shields.io/badge/Followers-1357-blue?logo=github)
 ![Lines of Code](https://img.shields.io/badge/lines%20of%20code-288.3k-lightgrey?logo=codecademy)
 [![GitStar Ranking Profile](https://img.shields.io/badge/GitStar%20Ranking-HariSekhon-blue?logo=github)](https://gitstar-ranking.com/HariSekhon)
 [![StarCharts](https://img.shields.io/badge/Star-Charts-blue?logo=github)](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/STARCHARTS.md)
@@ -19,7 +19,7 @@
 [![Generate README](https://github.com/HariSekhon/CI-CD/actions/workflows/readme.yaml/badge.svg)](https://github.com/HariSekhon/CI-CD/actions/workflows/readme.yaml)
 [![pages-build-deployment](https://github.com/HariSekhon/CI-CD/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/HariSekhon/CI-CD/actions/workflows/pages/pages-build-deployment)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/853ef60c-c01b-4b83-99ba-8fda541f850f/deploy-status)](https://app.netlify.com/sites/harisekhon/deploys)
-![Last Generated](https://img.shields.io/badge/Last%20Generated-2024--01--04-yellowgreen?logo=github)
+![Last Generated](https://img.shields.io/badge/Last%20Generated-2024--01--05-yellowgreen?logo=github)
 [![GitHub Last Commit](https://img.shields.io/github/last-commit/HariSekhon/CI-CD?logo=github)](https://github.com/HariSekhon/CI-CD/commits/master)
 
 28 original source git repos with 690 CI builds (665 hosted, 25 self-hosted) across 23 different CI/CD systems:
@@ -1508,28 +1508,6 @@ Dumps GitHub Actions Contexts from different triggers. Useful for seeing undocum
 
 
 ---
-# Hari Sekhon - Template Repo
-
-Link:  [HariSekhon/Template-Repo](https://github.com/HariSekhon/Template-Repo)
-
-Template repository with basic skeleton of build and CI/CD configs
-
-[![GitHub stars](https://img.shields.io/github/stars/HariSekhon/Template-Repo?logo=github)](https://github.com/HariSekhon/Template-Repo/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/HariSekhon/Template-Repo?logo=github)](https://github.com/HariSekhon/Template-Repo/network)
-[![Lines of Code](https://img.shields.io/badge/lines%20of%20code-1k-lightgrey?logo=codecademy)](https://github.com/HariSekhon/Template-Repo#Hari-Sekhon---Template-Repo)
-[![License](https://img.shields.io/badge/license-MIT-green)](https://github.com/HariSekhon/Template-Repo/blob/master/LICENSE)
-[![My LinkedIn](https://img.shields.io/badge/LinkedIn%20Profile-HariSekhon-blue?logo=linkedin)](https://www.linkedin.com/in/HariSekhon/)
-[![GitHub Last Commit](https://img.shields.io/github/last-commit/HariSekhon/Template-Repo?logo=github)](https://github.com/HariSekhon/Template-Repo/commits/master)
-
-[![Codacy](https://app.codacy.com/project/badge/Grade/dffc1bfd13404c95b5a0ab97fd47974e)](https://www.codacy.com/gh/HariSekhon/Template-Repo/dashboard)
-[![CodeFactor](https://www.codefactor.io/repository/github/harisekhon/Template-Repo/badge)](https://www.codefactor.io/repository/github/harisekhon/Template-Repo)
-[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_Template-Repo&metric=alert_status)](https://sonarcloud.io/dashboard?id=HariSekhon_Template-Repo)
-[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_Template-Repo&metric=sqale_rating)](https://sonarcloud.io/dashboard?id=HariSekhon_Template-Repo)
-[![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_Template-Repo&metric=reliability_rating)](https://sonarcloud.io/dashboard?id=HariSekhon_Template-Repo)
-[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_Template-Repo&metric=security_rating)](https://sonarcloud.io/dashboard?id=HariSekhon_Template-Repo)
-
-
----
 # Hari Sekhon - Docs - IT Knowledge from 20 years in DevOps, Linux, Cloud, Big Data, Security, AWS, GCP etc.
 
 Link:  [HariSekhon/Docs](https://github.com/HariSekhon/Docs)
@@ -1554,6 +1532,28 @@ IT Knowledge from 20 years in DevOps, Linux, Cloud, Big Data, AWS, GCP etc - rel
 [![Semgrep](https://github.com/HariSekhon/Docs/actions/workflows/semgrep.yaml/badge.svg)](https://github.com/HariSekhon/Docs/actions/workflows/semgrep.yaml)
 [![Semgrep Cloud](https://github.com/HariSekhon/Docs/actions/workflows/semgrep-cloud.yaml/badge.svg)](https://github.com/HariSekhon/Docs/actions/workflows/semgrep-cloud.yaml)
 [![Trivy](https://github.com/HariSekhon/Docs/actions/workflows/trivy.yaml/badge.svg)](https://github.com/HariSekhon/Docs/actions/workflows/trivy.yaml)
+
+
+---
+# Hari Sekhon - Template Repo
+
+Link:  [HariSekhon/Template-Repo](https://github.com/HariSekhon/Template-Repo)
+
+Template repository with basic skeleton of build and CI/CD configs
+
+[![GitHub stars](https://img.shields.io/github/stars/HariSekhon/Template-Repo?logo=github)](https://github.com/HariSekhon/Template-Repo/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/HariSekhon/Template-Repo?logo=github)](https://github.com/HariSekhon/Template-Repo/network)
+[![Lines of Code](https://img.shields.io/badge/lines%20of%20code-1k-lightgrey?logo=codecademy)](https://github.com/HariSekhon/Template-Repo#Hari-Sekhon---Template-Repo)
+[![License](https://img.shields.io/badge/license-MIT-green)](https://github.com/HariSekhon/Template-Repo/blob/master/LICENSE)
+[![My LinkedIn](https://img.shields.io/badge/LinkedIn%20Profile-HariSekhon-blue?logo=linkedin)](https://www.linkedin.com/in/HariSekhon/)
+[![GitHub Last Commit](https://img.shields.io/github/last-commit/HariSekhon/Template-Repo?logo=github)](https://github.com/HariSekhon/Template-Repo/commits/master)
+
+[![Codacy](https://app.codacy.com/project/badge/Grade/dffc1bfd13404c95b5a0ab97fd47974e)](https://www.codacy.com/gh/HariSekhon/Template-Repo/dashboard)
+[![CodeFactor](https://www.codefactor.io/repository/github/harisekhon/Template-Repo/badge)](https://www.codefactor.io/repository/github/harisekhon/Template-Repo)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_Template-Repo&metric=alert_status)](https://sonarcloud.io/dashboard?id=HariSekhon_Template-Repo)
+[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_Template-Repo&metric=sqale_rating)](https://sonarcloud.io/dashboard?id=HariSekhon_Template-Repo)
+[![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_Template-Repo&metric=reliability_rating)](https://sonarcloud.io/dashboard?id=HariSekhon_Template-Repo)
+[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_Template-Repo&metric=security_rating)](https://sonarcloud.io/dashboard?id=HariSekhon_Template-Repo)
 
 
 ---
