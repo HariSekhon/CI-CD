@@ -1,9 +1,9 @@
 # CI/CD Status Page
 
 ![Original Repos](https://img.shields.io/badge/Repos-28-blue?logo=github)
-![Stars](https://img.shields.io/badge/Stars-6767-blue?logo=github)
-![Forks](https://img.shields.io/badge/Forks-2497-blue?logo=github)
-![Followers](https://img.shields.io/badge/Followers-1404-blue?logo=github)
+![Stars](https://img.shields.io/badge/Stars-6779-blue?logo=github)
+![Forks](https://img.shields.io/badge/Forks-2502-blue?logo=github)
+![Followers](https://img.shields.io/badge/Followers-1410-blue?logo=github)
 ![Lines of Code](https://img.shields.io/badge/lines%20of%20code-292.3k-lightgrey?logo=codecademy)
 [![GitStar Ranking Profile](https://img.shields.io/badge/GitStar%20Ranking-HariSekhon-blue?logo=github)](https://gitstar-ranking.com/HariSekhon)
 [![StarCharts](https://img.shields.io/badge/Star-Charts-blue?logo=github)](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/STARCHARTS.md)
@@ -19,7 +19,7 @@
 [![Generate README](https://github.com/HariSekhon/CI-CD/actions/workflows/readme.yaml/badge.svg)](https://github.com/HariSekhon/CI-CD/actions/workflows/readme.yaml)
 [![pages-build-deployment](https://github.com/HariSekhon/CI-CD/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/HariSekhon/CI-CD/actions/workflows/pages/pages-build-deployment)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/853ef60c-c01b-4b83-99ba-8fda541f850f/deploy-status)](https://app.netlify.com/sites/harisekhon/deploys)
-![Last Generated](https://img.shields.io/badge/Last%20Generated-2024--02--23-yellowgreen?logo=github)
+![Last Generated](https://img.shields.io/badge/Last%20Generated-2024--02--26-yellowgreen?logo=github)
 [![GitHub Last Commit](https://img.shields.io/github/last-commit/HariSekhon/CI-CD?logo=github)](https://github.com/HariSekhon/CI-CD/commits/master)
 
 28 original source git repos with 690 CI builds (665 hosted, 25 self-hosted) across 23 different CI/CD systems:
@@ -1448,6 +1448,33 @@ Python / Jython Utility Library for my other repos
 
 
 ---
+# Hari Sekhon - Docs - IT Knowledge from 20 years in DevOps, Linux, Cloud, Big Data, Security, AWS, GCP etc.
+
+Link:  [HariSekhon/Docs](https://github.com/HariSekhon/Docs)
+
+IT Knowledge Base from 20 years in DevOps, Linux, Cloud, Big Data, AWS, GCP etc - gradually porting my large private knowledge base to public
+
+[![GitHub stars](https://img.shields.io/github/stars/HariSekhon/Docs?logo=github)](https://github.com/HariSekhon/Docs/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/HariSekhon/Docs?logo=github)](https://github.com/HariSekhon/Docs/network)
+[![License](https://img.shields.io/badge/license-MIT-green)](https://github.com/HariSekhon/Docs/blob/master/LICENSE)
+[![My LinkedIn](https://img.shields.io/badge/LinkedIn%20Profile-HariSekhon-blue?logo=linkedin)](https://www.linkedin.com/in/HariSekhon/)
+[![GitHub Last Commit](https://img.shields.io/github/last-commit/HariSekhon/Docs?logo=github)](https://github.com/HariSekhon/Docs/commits/master)
+
+[![CI Builds Overview](https://img.shields.io/badge/CI%20Builds-Overview%20Page-blue?logo=circleci)](https://harisekhon.github.io/CI-CD/)
+[![Repo on Azure DevOps](https://img.shields.io/badge/repo-Azure%20DevOps-0078D7?logo=azure%20devops)](https://dev.azure.com/HariSekhon/GitHub/_git/Docs)
+[![Repo on GitHub](https://img.shields.io/badge/repo-GitHub-2088FF?logo=github)](https://github.com/HariSekhon/Docs)
+[![Repo on GitLab](https://img.shields.io/badge/repo-GitLab-FCA121?logo=gitlab)](https://gitlab.com/HariSekhon/Docs)
+[![Repo on BitBucket](https://img.shields.io/badge/repo-BitBucket-0052CC?logo=bitbucket)](https://bitbucket.org/HariSekhon/Docs)
+
+[![Validation](https://github.com/HariSekhon/Docs/actions/workflows/validate.yaml/badge.svg)](https://github.com/HariSekhon/Docs/actions/workflows/validate.yaml)
+[![Kics](https://github.com/HariSekhon/Docs/actions/workflows/kics.yaml/badge.svg)](https://github.com/HariSekhon/Docs/actions/workflows/kics.yaml)
+[![Grype](https://github.com/HariSekhon/Docs/actions/workflows/grype.yaml/badge.svg)](https://github.com/HariSekhon/Docs/actions/workflows/grype.yaml)
+[![Semgrep](https://github.com/HariSekhon/Docs/actions/workflows/semgrep.yaml/badge.svg)](https://github.com/HariSekhon/Docs/actions/workflows/semgrep.yaml)
+[![Semgrep Cloud](https://github.com/HariSekhon/Docs/actions/workflows/semgrep-cloud.yaml/badge.svg)](https://github.com/HariSekhon/Docs/actions/workflows/semgrep-cloud.yaml)
+[![Trivy](https://github.com/HariSekhon/Docs/actions/workflows/trivy.yaml/badge.svg)](https://github.com/HariSekhon/Docs/actions/workflows/trivy.yaml)
+
+
+---
 # TeamCity CI Config
 
 Link:  [HariSekhon/TeamCity-CI](https://github.com/HariSekhon/TeamCity-CI)
@@ -1505,33 +1532,6 @@ Dumps GitHub Actions Contexts from different triggers. Useful for seeing undocum
 [![GitHub Last Commit](https://img.shields.io/github/last-commit/HariSekhon/GitHub-Actions-Contexts?logo=github)](https://github.com/HariSekhon/GitHub-Actions-Contexts/commits/master)
 
 [![Dump Contexts](https://github.com/HariSekhon/GitHub-Actions-Contexts/actions/workflows/dump_contexts.yaml/badge.svg)](https://github.com/HariSekhon/GitHub-Actions-Contexts/actions/workflows/dump_contexts.yaml)
-
-
----
-# Hari Sekhon - Docs - IT Knowledge from 20 years in DevOps, Linux, Cloud, Big Data, Security, AWS, GCP etc.
-
-Link:  [HariSekhon/Docs](https://github.com/HariSekhon/Docs)
-
-IT Knowledge from 20 years in DevOps, Linux, Cloud, Big Data, AWS, GCP etc - releases from my large private 20 years knowledge base
-
-[![GitHub stars](https://img.shields.io/github/stars/HariSekhon/Docs?logo=github)](https://github.com/HariSekhon/Docs/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/HariSekhon/Docs?logo=github)](https://github.com/HariSekhon/Docs/network)
-[![License](https://img.shields.io/badge/license-MIT-green)](https://github.com/HariSekhon/Docs/blob/master/LICENSE)
-[![My LinkedIn](https://img.shields.io/badge/LinkedIn%20Profile-HariSekhon-blue?logo=linkedin)](https://www.linkedin.com/in/HariSekhon/)
-[![GitHub Last Commit](https://img.shields.io/github/last-commit/HariSekhon/Docs?logo=github)](https://github.com/HariSekhon/Docs/commits/master)
-
-[![CI Builds Overview](https://img.shields.io/badge/CI%20Builds-Overview%20Page-blue?logo=circleci)](https://harisekhon.github.io/CI-CD/)
-[![Repo on Azure DevOps](https://img.shields.io/badge/repo-Azure%20DevOps-0078D7?logo=azure%20devops)](https://dev.azure.com/HariSekhon/GitHub/_git/Docs)
-[![Repo on GitHub](https://img.shields.io/badge/repo-GitHub-2088FF?logo=github)](https://github.com/HariSekhon/Docs)
-[![Repo on GitLab](https://img.shields.io/badge/repo-GitLab-FCA121?logo=gitlab)](https://gitlab.com/HariSekhon/Docs)
-[![Repo on BitBucket](https://img.shields.io/badge/repo-BitBucket-0052CC?logo=bitbucket)](https://bitbucket.org/HariSekhon/Docs)
-
-[![Validation](https://github.com/HariSekhon/Docs/actions/workflows/validate.yaml/badge.svg)](https://github.com/HariSekhon/Docs/actions/workflows/validate.yaml)
-[![Kics](https://github.com/HariSekhon/Docs/actions/workflows/kics.yaml/badge.svg)](https://github.com/HariSekhon/Docs/actions/workflows/kics.yaml)
-[![Grype](https://github.com/HariSekhon/Docs/actions/workflows/grype.yaml/badge.svg)](https://github.com/HariSekhon/Docs/actions/workflows/grype.yaml)
-[![Semgrep](https://github.com/HariSekhon/Docs/actions/workflows/semgrep.yaml/badge.svg)](https://github.com/HariSekhon/Docs/actions/workflows/semgrep.yaml)
-[![Semgrep Cloud](https://github.com/HariSekhon/Docs/actions/workflows/semgrep-cloud.yaml/badge.svg)](https://github.com/HariSekhon/Docs/actions/workflows/semgrep-cloud.yaml)
-[![Trivy](https://github.com/HariSekhon/Docs/actions/workflows/trivy.yaml/badge.svg)](https://github.com/HariSekhon/Docs/actions/workflows/trivy.yaml)
 
 
 ---
