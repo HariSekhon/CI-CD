@@ -1,9 +1,9 @@
 # CI/CD Status Page
 
 ![Original Repos](https://img.shields.io/badge/Repos-28-blue?logo=github)
-![Stars](https://img.shields.io/badge/Stars-6837-blue?logo=github)
+![Stars](https://img.shields.io/badge/Stars-6844-blue?logo=github)
 ![Forks](https://img.shields.io/badge/Forks-2503-blue?logo=github)
-![Followers](https://img.shields.io/badge/Followers-1429-blue?logo=github)
+![Followers](https://img.shields.io/badge/Followers-1433-blue?logo=github)
 ![Lines of Code](https://img.shields.io/badge/lines%20of%20code-292.3k-lightgrey?logo=codecademy)
 [![GitStar Ranking Profile](https://img.shields.io/badge/GitStar%20Ranking-HariSekhon-blue?logo=github)](https://gitstar-ranking.com/HariSekhon)
 [![StarCharts](https://img.shields.io/badge/Star-Charts-blue?logo=github)](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/STARCHARTS.md)
@@ -15,14 +15,14 @@
 [![GitHub Pages](https://img.shields.io/badge/GitHub-Pages-2088FF?logo=github)](https://harisekhon.github.io/CI-CD/)
 [![Netlify](https://img.shields.io/badge/Netlify-site-00C7B7?logo=netlify)](https://harisekhon.netlify.app/)
 
-[![CI/CD Builds](https://img.shields.io/badge/CI%2FCD%20Builds-693-blue?logo=circleci)](https://harisekhon.github.io/CI-CD/)
+[![CI/CD Builds](https://img.shields.io/badge/CI%2FCD%20Builds-692-blue?logo=circleci)](https://harisekhon.github.io/CI-CD/)
 [![Generate README](https://github.com/HariSekhon/CI-CD/actions/workflows/readme.yaml/badge.svg)](https://github.com/HariSekhon/CI-CD/actions/workflows/readme.yaml)
 [![pages-build-deployment](https://github.com/HariSekhon/CI-CD/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/HariSekhon/CI-CD/actions/workflows/pages/pages-build-deployment)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/853ef60c-c01b-4b83-99ba-8fda541f850f/deploy-status)](https://app.netlify.com/sites/harisekhon/deploys)
-![Last Generated](https://img.shields.io/badge/Last%20Generated-2024--03--07-yellowgreen?logo=github)
+![Last Generated](https://img.shields.io/badge/Last%20Generated-2024--03--08-yellowgreen?logo=github)
 [![GitHub Last Commit](https://img.shields.io/github/last-commit/HariSekhon/CI-CD?logo=github)](https://github.com/HariSekhon/CI-CD/commits/master)
 
-28 original source git repos with 693 CI builds (668 hosted, 25 self-hosted) across 23 different CI/CD systems:
+28 original source git repos with 692 CI builds (667 hosted, 25 self-hosted) across 23 different CI/CD systems:
 
 ---
 # Hari Sekhon - DevOps Bash Tools
@@ -517,7 +517,6 @@ Advanced Kubernetes YAML configs - Best Practices, Tips & Tricks from production
 [![Validation](https://github.com/HariSekhon/Kubernetes-configs/actions/workflows/validate.yaml/badge.svg)](https://github.com/HariSekhon/Kubernetes-configs/actions/workflows/validate.yaml)
 
 
-[![Datree Kustomize](https://github.com/HariSekhon/Kubernetes-configs/actions/workflows/datree-kustomize.yaml/badge.svg)](https://github.com/HariSekhon/Kubernetes-configs/actions/workflows/datree-kustomize.yaml)
 [![Pluto](https://github.com/HariSekhon/Kubernetes-configs/actions/workflows/pluto.yaml/badge.svg)](https://github.com/HariSekhon/Kubernetes-configs/actions/workflows/pluto.yaml)
 [![Kustomize Nova](https://github.com/HariSekhon/Kubernetes-configs/actions/workflows/kustomize-nova.yaml/badge.svg)](https://github.com/HariSekhon/Kubernetes-configs/actions/workflows/kustomize-nova.yaml)
 [![Checkov](https://github.com/HariSekhon/Kubernetes-configs/actions/workflows/checkov.yaml/badge.svg)](https://github.com/HariSekhon/Kubernetes-configs/actions/workflows/checkov.yaml)
@@ -1734,4 +1733,4 @@ Java Utility library for my other repos
 
 
 
-28 git repos summarized with 693 CI builds (668 hosted, 25 self-hosted) across 23 different CI/CD systems
+28 git repos summarized with 692 CI builds (667 hosted, 25 self-hosted) across 23 different CI/CD systems
