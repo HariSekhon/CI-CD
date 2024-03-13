@@ -1,9 +1,9 @@
 # CI/CD Status Page
 
 ![Original Repos](https://img.shields.io/badge/Repos-28-blue?logo=github)
-![Stars](https://img.shields.io/badge/Stars-6855-blue?logo=github)
-![Forks](https://img.shields.io/badge/Forks-2478-blue?logo=github)
-![Followers](https://img.shields.io/badge/Followers-1441-blue?logo=github)
+![Stars](https://img.shields.io/badge/Stars-6866-blue?logo=github)
+![Forks](https://img.shields.io/badge/Forks-2479-blue?logo=github)
+![Followers](https://img.shields.io/badge/Followers-1444-blue?logo=github)
 ![Lines of Code](https://img.shields.io/badge/lines%20of%20code-292.3k-lightgrey?logo=codecademy)
 [![GitStar Ranking Profile](https://img.shields.io/badge/GitStar%20Ranking-HariSekhon-blue?logo=github)](https://gitstar-ranking.com/HariSekhon)
 [![StarCharts](https://img.shields.io/badge/Star-Charts-blue?logo=github)](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/STARCHARTS.md)
@@ -19,7 +19,7 @@
 [![Generate README](https://github.com/HariSekhon/CI-CD/actions/workflows/readme.yaml/badge.svg)](https://github.com/HariSekhon/CI-CD/actions/workflows/readme.yaml)
 [![pages-build-deployment](https://github.com/HariSekhon/CI-CD/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/HariSekhon/CI-CD/actions/workflows/pages/pages-build-deployment)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/853ef60c-c01b-4b83-99ba-8fda541f850f/deploy-status)](https://app.netlify.com/sites/harisekhon/deploys)
-![Last Generated](https://img.shields.io/badge/Last%20Generated-2024--03--12-yellowgreen?logo=github)
+![Last Generated](https://img.shields.io/badge/Last%20Generated-2024--03--13-yellowgreen?logo=github)
 [![GitHub Last Commit](https://img.shields.io/github/last-commit/HariSekhon/CI-CD?logo=github)](https://github.com/HariSekhon/CI-CD/commits/master)
 
 28 original source git repos with 692 CI builds (667 hosted, 25 self-hosted) across 23 different CI/CD systems:
@@ -1477,6 +1477,14 @@ Python / Jython Utility Library for my other repos
 
 
 ---
+# CI/CD Status Page
+
+Link:  [HariSekhon/CI-CD](https://github.com/HariSekhon/CI-CD)
+
+CI/CD Status page for Hari Sekhon's GitHub repos
+
+
+---
 # TeamCity CI Config
 
 Link:  [HariSekhon/TeamCity-CI](https://github.com/HariSekhon/TeamCity-CI)
@@ -1510,14 +1518,6 @@ TeamCity CI configs - plus links to one-touch Jenkins, GoCD, Concourse, TeamCity
 
 [TeamCity](https://www.jetbrains.com/teamcity/) CI configurations, synchronized from my automated TeamCity cluster.
 
-
-
----
-# CI/CD Status Page
-
-Link:  [HariSekhon/CI-CD](https://github.com/HariSekhon/CI-CD)
-
-CI/CD Status page for Hari Sekhon's GitHub repos
 
 
 ---
