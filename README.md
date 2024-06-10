@@ -1,7 +1,7 @@
 # CI/CD Status Page
 
 ![Original Repos](https://img.shields.io/badge/Repos-28-blue?logo=github)
-![Stars](https://img.shields.io/badge/Stars-7179-blue?logo=github)
+![Stars](https://img.shields.io/badge/Stars-7188-blue?logo=github)
 ![Forks](https://img.shields.io/badge/Forks-2555-blue?logo=github)
 ![Followers](https://img.shields.io/badge/Followers-1495-blue?logo=github)
 ![Lines of Code](https://img.shields.io/badge/lines%20of%20code-292.3k-lightgrey?logo=codecademy)
@@ -19,7 +19,7 @@
 [![Generate README](https://github.com/HariSekhon/CI-CD/actions/workflows/readme.yaml/badge.svg)](https://github.com/HariSekhon/CI-CD/actions/workflows/readme.yaml)
 [![pages-build-deployment](https://github.com/HariSekhon/CI-CD/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/HariSekhon/CI-CD/actions/workflows/pages/pages-build-deployment)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/853ef60c-c01b-4b83-99ba-8fda541f850f/deploy-status)](https://app.netlify.com/sites/harisekhon/deploys)
-![Last Generated](https://img.shields.io/badge/Last%20Generated-2024--06--07-yellowgreen?logo=github)
+![Last Generated](https://img.shields.io/badge/Last%20Generated-2024--06--10-yellowgreen?logo=github)
 [![GitHub Last Commit](https://img.shields.io/github/last-commit/HariSekhon/CI-CD?logo=github)](https://github.com/HariSekhon/CI-CD/commits/master)
 
 28 original source git repos with 693 CI builds (668 hosted, 25 self-hosted) across 23 different CI/CD systems:
@@ -613,45 +613,6 @@ Link:  [HariSekhon/HAProxy-configs](https://github.com/HariSekhon/HAProxy-config
 
 
 ---
-# Code & Config Templates
-
-Link:  [HariSekhon/Templates](https://github.com/HariSekhon/Templates)
-
-DevOps Templates for Kubernetes, AWS, GCP, Terraform, Docker, Packer, Jenkins, CircleCI, GitHub Actions, Lambda, AWS CodeBuild, GCP Cloud Build, Vagrant, Puppet, Python, Bash, Go, Perl, Java, Scala, Groovy, Maven, SBT, Gradle, Make, Jenkinsfile, Makefile, Dockerfile, docker-compose.yml, Vagrantfile, M4 etc...
-
-[![GitHub stars](https://img.shields.io/github/stars/HariSekhon/Templates?logo=github)](https://github.com/HariSekhon/Templates//stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/HariSekhon/Templates?logo=github)](https://github.com/HariSekhon/Templates/network)
-[![Lines of Code](https://img.shields.io/badge/lines%20of%20code-10k-lightgrey?logo=codecademy)](https://github.com/HariSekhon/Templates)
-[![License](https://img.shields.io/github/license/HariSekhon/Templates)](https://github.com/HariSekhon/Templates/blob/master/LICENSE)
-[![My LinkedIn](https://img.shields.io/badge/LinkedIn%20Profile-HariSekhon-blue?logo=linkedin)](https://www.linkedin.com/in/HariSekhon/)
-[![GitHub Last Commit](https://img.shields.io/github/last-commit/HariSekhon/Templates?logo=github)](https://github.com/HariSekhon/Templates/commits/master)
-
-[![CI Builds Overview](https://img.shields.io/badge/CI%20Builds-Overview%20Page-blue?logo=circleci)](https://harisekhon.github.io/CI-CD/)
-[![ShellCheck](https://github.com/HariSekhon/Templates/actions/workflows/shellcheck.yaml/badge.svg)](https://github.com/HariSekhon/Templates/actions/workflows/shellcheck.yaml)
-[![JSON](https://github.com/HariSekhon/Templates/actions/workflows/json.yaml/badge.svg)](https://github.com/HariSekhon/Templates/actions/workflows/json.yaml)
-[![YAML](https://github.com/HariSekhon/Templates/actions/workflows/yaml.yaml/badge.svg)](https://github.com/HariSekhon/Templates/actions/workflows/yaml.yaml)
-[![XML](https://github.com/HariSekhon/Templates/actions/workflows/xml.yaml/badge.svg)](https://github.com/HariSekhon/Templates/actions/workflows/xml.yaml)
-[![Validation](https://github.com/HariSekhon/Templates/actions/workflows/validate.yaml/badge.svg)](https://github.com/HariSekhon/Templates/actions/workflows/validate.yaml)
-[![Checkov](https://github.com/HariSekhon/Templates/actions/workflows/checkov.yaml/badge.svg)](https://github.com/HariSekhon/Templates/actions/workflows/checkov.yaml)
-[![Kics](https://github.com/HariSekhon/Templates/actions/workflows/kics.yaml/badge.svg)](https://github.com/HariSekhon/Templates/actions/workflows/kics.yaml)
-[![Grype](https://github.com/HariSekhon/Templates/actions/workflows/grype.yaml/badge.svg)](https://github.com/HariSekhon/Templates/actions/workflows/grype.yaml)
-[![Semgrep](https://github.com/HariSekhon/Templates/actions/workflows/semgrep.yaml/badge.svg)](https://github.com/HariSekhon/Templates/actions/workflows/semgrep.yaml)
-[![Semgrep Cloud](https://github.com/HariSekhon/Templates/actions/workflows/semgrep-cloud.yaml/badge.svg)](https://github.com/HariSekhon/Templates/actions/workflows/semgrep-cloud.yaml)
-[![Trivy](https://github.com/HariSekhon/Templates/actions/workflows/trivy.yaml/badge.svg)](https://github.com/HariSekhon/Templates/actions/workflows/trivy.yaml)
-[![Redhat Kickstart](https://github.com/HariSekhon/Templates/actions/workflows/kickstart.yaml/badge.svg)](https://github.com/HariSekhon/Templates/actions/workflows/kickstart.yaml)
-[![Debian Preseed](https://github.com/HariSekhon/Templates/actions/workflows/preseed.yaml/badge.svg)](https://github.com/HariSekhon/Templates/actions/workflows/preseed.yaml)
-[![Ubuntu AutoInstall Cloud-Init](https://github.com/HariSekhon/Templates/actions/workflows/autoinstall-user-data.yaml/badge.svg)](https://github.com/HariSekhon/Templates/actions/workflows/autoinstall-user-data.yaml)
-[![HashiCorp Packer](https://github.com/HariSekhon/Templates/actions/workflows/packer.yaml/badge.svg)](https://github.com/HariSekhon/Templates/actions/workflows/packer.yaml)
-
-[![Repo on Azure DevOps](https://img.shields.io/badge/repo-Azure%20DevOps-0078D7?logo=azure%20devops)](https://dev.azure.com/harisekhon/GitHub/_git/Templates)
-[![Repo on GitHub](https://img.shields.io/badge/repo-GitHub-2088FF?logo=github)](https://github.com/HariSekhon/Templates)
-[![Repo on GitLab](https://img.shields.io/badge/repo-GitLab-FCA121?logo=gitlab)](https://gitlab.com/HariSekhon/Templates)
-[![Repo on BitBucket](https://img.shields.io/badge/repo-BitBucket-0052CC?logo=bitbucket)](https://bitbucket.org/HariSekhon/Templates)
-
-[git.io/code-templates](https://git.io/code-templates)
-
-
----
 # Hari Sekhon - Diagrams-as-Code
 
 Link:  [HariSekhon/Diagrams-as-Code](https://github.com/HariSekhon/Diagrams-as-Code)
@@ -710,11 +671,52 @@ Cloud & DevOps Architecture Diagrams-as-Code in Python and D2 languages
 [![MermaidJS](https://img.shields.io/badge/Mermaid-JS-FF3399.svg?logo=data:image/svg%2bxml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+CjwhRE9DVFlQRSBzdmcgUFVCTElDICItLy9XM0MvL0RURCBTVkcgMS4xLy9FTiIgImh0dHA6Ly93d3cudzMub3JnL0dyYXBoaWNzL1NWRy8xLjEvRFREL3N2ZzExLmR0ZCI+Cjxzdmcgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgdmlld0JveD0iMCAwIDQ5MSA0OTEiIHZlcnNpb249IjEuMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSIgeG1sbnM6c2VyaWY9Imh0dHA6Ly93d3cuc2VyaWYuY29tLyIgc3R5bGU9ImZpbGwtcnVsZTpldmVub2RkO2NsaXAtcnVsZTpldmVub2RkO3N0cm9rZS1saW5lam9pbjpyb3VuZDtzdHJva2UtbWl0ZXJsaW1pdDoyOyI+CiAgICA8cGF0aCBkPSJNNDkwLjE2LDg0LjYxQzQ5MC4xNiwzNy45MTIgNDUyLjI0OCwwIDQwNS41NSwwTDg0LjYxLDBDMzcuOTEyLDAgMCwzNy45MTIgMCw4NC42MUwwLDQwNS41NUMwLDQ1Mi4yNDggMzcuOTEyLDQ5MC4xNiA4NC42MSw0OTAuMTZMNDA1LjU1LDQ5MC4xNkM0NTIuMjQ4LDQ5MC4xNiA0OTAuMTYsNDUyLjI0OCA0OTAuMTYsNDA1LjU1TDQ5MC4xNiw4NC42MVoiIHN0eWxlPSJmaWxsOnJnYigyNTUsNTQsMTEyKTsiLz4KICAgIDxwYXRoIGQ9Ik00MDcuNDgsMTExLjE4QzMzNS41ODcsMTA4LjEwMyAyNjkuNTczLDE1Mi4zMzggMjQ1LjA4LDIyMEMyMjAuNTg3LDE1Mi4zMzggMTU0LjU3MywxMDguMTAzIDgyLjY4LDExMS4xOEM4MC4yODUsMTY4LjIyOSAxMDcuNTc3LDIyMi42MzIgMTU0Ljc0LDI1NC44MkMxNzguOTA4LDI3MS40MTkgMTkzLjM1LDI5OC45NTEgMTkzLjI3LDMyOC4yN0wxOTMuMjcsMzc5LjEzTDI5Ni45LDM3OS4xM0wyOTYuOSwzMjguMjdDMjk2LjgxNiwyOTguOTUzIDMxMS4yNTUsMjcxLjQyIDMzNS40MiwyNTQuODJDMzgyLjU5NiwyMjIuNjQ0IDQwOS44OTIsMTY4LjIzMyA0MDcuNDgsMTExLjE4WiIgc3R5bGU9ImZpbGw6d2hpdGU7ZmlsbC1ydWxlOm5vbnplcm87Ii8+Cjwvc3ZnPgo=)](https://mermaid.js.org/)
 [![Python](https://img.shields.io/badge/Python-3-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![Python Diagrams](https://img.shields.io/badge/Python-diagrams-3776AB?logo=python&logoColor=white)](https://diagrams.mingrammer.com/)
+[![PlantUML](https://img.shields.io/badge/Plant-UML-blue?logo=pending&logoColor=white)](https://plantuml.com/)
 [![Graphviz](https://img.shields.io/badge/Graphviz-dot-2871A7?logo=&logoColor=white)](https://graphviz.org/)
 
 [![D2](https://img.shields.io/badge/D2-playground-3776AB?logo=pending&logoColor=white)](https://play.d2lang.com/)
 [![MermaidJS](https://img.shields.io/badge/MermaidJS-Live%20Editor-FF3399.svg?logo=data:image/svg%2bxml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+CjwhRE9DVFlQRSBzdmcgUFVCTElDICItLy9XM0MvL0RURCBTVkcgMS4xLy9FTiIgImh0dHA6Ly93d3cudzMub3JnL0dyYXBoaWNzL1NWRy8xLjEvRFREL3N2ZzExLmR0ZCI+Cjxzdmcgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgdmlld0JveD0iMCAwIDQ5MSA0OTEiIHZlcnNpb249IjEuMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSIgeG1sbnM6c2VyaWY9Imh0dHA6Ly93d3cuc2VyaWYuY29tLyIgc3R5bGU9ImZpbGwtcnVsZTpldmVub2RkO2NsaXAtcnVsZTpldmVub2RkO3N0cm9rZS1saW5lam9pbjpyb3VuZDtzdHJva2UtbWl0ZXJsaW1pdDoyOyI+CiAgICA8cGF0aCBkPSJNNDkwLjE2LDg0LjYxQzQ5MC4xNiwzNy45MTIgNDUyLjI0OCwwIDQwNS41NSwwTDg0LjYxLDBDMzcuOTEyLDAgMCwzNy45MTIgMCw4NC42MUwwLDQwNS41NUMwLDQ1Mi4yNDggMzcuOTEyLDQ5MC4xNiA4NC42MSw0OTAuMTZMNDA1LjU1LDQ5MC4xNkM0NTIuMjQ4LDQ5MC4xNiA0OTAuMTYsNDUyLjI0OCA0OTAuMTYsNDA1LjU1TDQ5MC4xNiw4NC42MVoiIHN0eWxlPSJmaWxsOnJnYigyNTUsNTQsMTEyKTsiLz4KICAgIDxwYXRoIGQ9Ik00MDcuNDgsMTExLjE4QzMzNS41ODcsMTA4LjEwMyAyNjkuNTczLDE1Mi4zMzggMjQ1LjA4LDIyMEMyMjAuNTg3LDE1Mi4zMzggMTU0LjU3MywxMDguMTAzIDgyLjY4LDExMS4xOEM4MC4yODUsMTY4LjIyOSAxMDcuNTc3LDIyMi42MzIgMTU0Ljc0LDI1NC44MkMxNzguOTA4LDI3MS40MTkgMTkzLjM1LDI5OC45NTEgMTkzLjI3LDMyOC4yN0wxOTMuMjcsMzc5LjEzTDI5Ni45LDM3OS4xM0wyOTYuOSwzMjguMjdDMjk2LjgxNiwyOTguOTUzIDMxMS4yNTUsMjcxLjQyIDMzNS40MiwyNTQuODJDMzgyLjU5NiwyMjIuNjQ0IDQwOS44OTIsMTY4LjIzMyA0MDcuNDgsMTExLjE4WiIgc3R5bGU9ImZpbGw6d2hpdGU7ZmlsbC1ydWxlOm5vbnplcm87Ii8+Cjwvc3ZnPgo=)](https://mermaid.live/edit)
 [![CloudGram](https://img.shields.io/badge/CloudGram-editor-blue?logo=pending&logoColor=white)](https://cloudgram.dedalusone.com/index.html)
+[![PlantUML](https://img.shields.io/badge/PlantUML-editor-blue?logo=pending&logoColor=white)](https://www.planttext.com/)
+
+
+---
+# Code & Config Templates
+
+Link:  [HariSekhon/Templates](https://github.com/HariSekhon/Templates)
+
+DevOps Templates for Kubernetes, AWS, GCP, Terraform, Docker, Packer, Jenkins, CircleCI, GitHub Actions, Lambda, AWS CodeBuild, GCP Cloud Build, Vagrant, Puppet, Python, Bash, Go, Perl, Java, Scala, Groovy, Maven, SBT, Gradle, Make, Jenkinsfile, Makefile, Dockerfile, docker-compose.yml, Vagrantfile, M4 etc...
+
+[![GitHub stars](https://img.shields.io/github/stars/HariSekhon/Templates?logo=github)](https://github.com/HariSekhon/Templates//stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/HariSekhon/Templates?logo=github)](https://github.com/HariSekhon/Templates/network)
+[![Lines of Code](https://img.shields.io/badge/lines%20of%20code-10k-lightgrey?logo=codecademy)](https://github.com/HariSekhon/Templates)
+[![License](https://img.shields.io/github/license/HariSekhon/Templates)](https://github.com/HariSekhon/Templates/blob/master/LICENSE)
+[![My LinkedIn](https://img.shields.io/badge/LinkedIn%20Profile-HariSekhon-blue?logo=linkedin)](https://www.linkedin.com/in/HariSekhon/)
+[![GitHub Last Commit](https://img.shields.io/github/last-commit/HariSekhon/Templates?logo=github)](https://github.com/HariSekhon/Templates/commits/master)
+
+[![CI Builds Overview](https://img.shields.io/badge/CI%20Builds-Overview%20Page-blue?logo=circleci)](https://harisekhon.github.io/CI-CD/)
+[![ShellCheck](https://github.com/HariSekhon/Templates/actions/workflows/shellcheck.yaml/badge.svg)](https://github.com/HariSekhon/Templates/actions/workflows/shellcheck.yaml)
+[![JSON](https://github.com/HariSekhon/Templates/actions/workflows/json.yaml/badge.svg)](https://github.com/HariSekhon/Templates/actions/workflows/json.yaml)
+[![YAML](https://github.com/HariSekhon/Templates/actions/workflows/yaml.yaml/badge.svg)](https://github.com/HariSekhon/Templates/actions/workflows/yaml.yaml)
+[![XML](https://github.com/HariSekhon/Templates/actions/workflows/xml.yaml/badge.svg)](https://github.com/HariSekhon/Templates/actions/workflows/xml.yaml)
+[![Validation](https://github.com/HariSekhon/Templates/actions/workflows/validate.yaml/badge.svg)](https://github.com/HariSekhon/Templates/actions/workflows/validate.yaml)
+[![Checkov](https://github.com/HariSekhon/Templates/actions/workflows/checkov.yaml/badge.svg)](https://github.com/HariSekhon/Templates/actions/workflows/checkov.yaml)
+[![Kics](https://github.com/HariSekhon/Templates/actions/workflows/kics.yaml/badge.svg)](https://github.com/HariSekhon/Templates/actions/workflows/kics.yaml)
+[![Grype](https://github.com/HariSekhon/Templates/actions/workflows/grype.yaml/badge.svg)](https://github.com/HariSekhon/Templates/actions/workflows/grype.yaml)
+[![Semgrep](https://github.com/HariSekhon/Templates/actions/workflows/semgrep.yaml/badge.svg)](https://github.com/HariSekhon/Templates/actions/workflows/semgrep.yaml)
+[![Semgrep Cloud](https://github.com/HariSekhon/Templates/actions/workflows/semgrep-cloud.yaml/badge.svg)](https://github.com/HariSekhon/Templates/actions/workflows/semgrep-cloud.yaml)
+[![Trivy](https://github.com/HariSekhon/Templates/actions/workflows/trivy.yaml/badge.svg)](https://github.com/HariSekhon/Templates/actions/workflows/trivy.yaml)
+[![Redhat Kickstart](https://github.com/HariSekhon/Templates/actions/workflows/kickstart.yaml/badge.svg)](https://github.com/HariSekhon/Templates/actions/workflows/kickstart.yaml)
+[![Debian Preseed](https://github.com/HariSekhon/Templates/actions/workflows/preseed.yaml/badge.svg)](https://github.com/HariSekhon/Templates/actions/workflows/preseed.yaml)
+[![Ubuntu AutoInstall Cloud-Init](https://github.com/HariSekhon/Templates/actions/workflows/autoinstall-user-data.yaml/badge.svg)](https://github.com/HariSekhon/Templates/actions/workflows/autoinstall-user-data.yaml)
+[![HashiCorp Packer](https://github.com/HariSekhon/Templates/actions/workflows/packer.yaml/badge.svg)](https://github.com/HariSekhon/Templates/actions/workflows/packer.yaml)
+
+[![Repo on Azure DevOps](https://img.shields.io/badge/repo-Azure%20DevOps-0078D7?logo=azure%20devops)](https://dev.azure.com/harisekhon/GitHub/_git/Templates)
+[![Repo on GitHub](https://img.shields.io/badge/repo-GitHub-2088FF?logo=github)](https://github.com/HariSekhon/Templates)
+[![Repo on GitLab](https://img.shields.io/badge/repo-GitLab-FCA121?logo=gitlab)](https://gitlab.com/HariSekhon/Templates)
+[![Repo on BitBucket](https://img.shields.io/badge/repo-BitBucket-0052CC?logo=bitbucket)](https://bitbucket.org/HariSekhon/Templates)
+
+[git.io/code-templates](https://git.io/code-templates)
 
 
 ---
@@ -1105,7 +1107,7 @@ GitHub Actions master template and GitHub Actions Reusable Workflows
 
 
 ---
-# Hari Sekhon - Knowledge Base from 20 years in DevOps, Linux, Cloud, Big Data, Security, AWS, GCP etc
+# Hari Sekhon - Knowledge Base from 20 years in DevOps, Linux, Cloud, Big Data, Security, AWS, GCP etc.
 
 Link:  [HariSekhon/Knowledge-Base](https://github.com/HariSekhon/Knowledge-Base)
 
