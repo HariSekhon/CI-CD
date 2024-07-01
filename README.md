@@ -1,9 +1,9 @@
 # CI/CD Status Page
 
 ![Original Repos](https://img.shields.io/badge/Repos-28-blue?logo=github)
-![Stars](https://img.shields.io/badge/Stars-7311-blue?logo=github)
+![Stars](https://img.shields.io/badge/Stars-7327-blue?logo=github)
 ![Forks](https://img.shields.io/badge/Forks-2581-blue?logo=github)
-![Followers](https://img.shields.io/badge/Followers-1515-blue?logo=github)
+![Followers](https://img.shields.io/badge/Followers-1519-blue?logo=github)
 ![Lines of Code](https://img.shields.io/badge/lines%20of%20code-292.3k-lightgrey?logo=codecademy)
 [![GitStar Ranking Profile](https://img.shields.io/badge/GitStar%20Ranking-HariSekhon-blue?logo=github)](https://gitstar-ranking.com/HariSekhon)
 [![StarCharts](https://img.shields.io/badge/Star-Charts-blue?logo=github)](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/STARCHARTS.md)
@@ -19,7 +19,7 @@
 [![Generate README](https://github.com/HariSekhon/CI-CD/actions/workflows/readme.yaml/badge.svg)](https://github.com/HariSekhon/CI-CD/actions/workflows/readme.yaml)
 [![pages-build-deployment](https://github.com/HariSekhon/CI-CD/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/HariSekhon/CI-CD/actions/workflows/pages/pages-build-deployment)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/853ef60c-c01b-4b83-99ba-8fda541f850f/deploy-status)](https://app.netlify.com/sites/harisekhon/deploys)
-![Last Generated](https://img.shields.io/badge/Last%20Generated-2024--06--28-yellowgreen?logo=github)
+![Last Generated](https://img.shields.io/badge/Last%20Generated-2024--07--01-yellowgreen?logo=github)
 [![GitHub Last Commit](https://img.shields.io/github/last-commit/HariSekhon/CI-CD?logo=github)](https://github.com/HariSekhon/CI-CD/commits/master)
 
 28 original source git repos with 693 CI builds (668 hosted, 25 self-hosted) across 23 different CI/CD systems:
@@ -1489,6 +1489,21 @@ Python / Jython Utility Library for my other repos
 
 
 ---
+# Hari Sekhon - Template Repo
+
+Link:  [HariSekhon/Template-Repo](https://github.com/HariSekhon/Template-Repo)
+
+Template repository with basic skeleton of build and CI/CD configs
+
+[![GitHub stars](https://img.shields.io/github/stars/HariSekhon/Template-Repo?logo=github)](https://github.com/HariSekhon/Template-Repo/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/HariSekhon/Template-Repo?logo=github)](https://github.com/HariSekhon/Template-Repo/network)
+[![Lines of Code](https://img.shields.io/badge/lines%20of%20code-1k-lightgrey?logo=codecademy)](https://github.com/HariSekhon/Template-Repo#Hari-Sekhon---Template-Repo)
+[![License](https://img.shields.io/badge/license-MIT-green)](https://github.com/HariSekhon/Template-Repo/blob/master/LICENSE)
+[![My LinkedIn](https://img.shields.io/badge/LinkedIn%20Profile-HariSekhon-blue?logo=linkedin)](https://www.linkedin.com/in/HariSekhon/)
+[![GitHub Last Commit](https://img.shields.io/github/last-commit/HariSekhon/Template-Repo?logo=github)](https://github.com/HariSekhon/Template-Repo/commits/master)
+
+
+---
 # TeamCity CI Config
 
 Link:  [HariSekhon/TeamCity-CI](https://github.com/HariSekhon/TeamCity-CI)
@@ -1522,21 +1537,6 @@ TeamCity CI configs - plus links to one-touch Jenkins, GoCD, Concourse, TeamCity
 
 [TeamCity](https://www.jetbrains.com/teamcity/) CI configurations, synchronized from my automated TeamCity cluster.
 
-
-
----
-# Hari Sekhon - Template Repo
-
-Link:  [HariSekhon/Template-Repo](https://github.com/HariSekhon/Template-Repo)
-
-Template repository with basic skeleton of build and CI/CD configs
-
-[![GitHub stars](https://img.shields.io/github/stars/HariSekhon/Template-Repo?logo=github)](https://github.com/HariSekhon/Template-Repo/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/HariSekhon/Template-Repo?logo=github)](https://github.com/HariSekhon/Template-Repo/network)
-[![Lines of Code](https://img.shields.io/badge/lines%20of%20code-1k-lightgrey?logo=codecademy)](https://github.com/HariSekhon/Template-Repo#Hari-Sekhon---Template-Repo)
-[![License](https://img.shields.io/badge/license-MIT-green)](https://github.com/HariSekhon/Template-Repo/blob/master/LICENSE)
-[![My LinkedIn](https://img.shields.io/badge/LinkedIn%20Profile-HariSekhon-blue?logo=linkedin)](https://www.linkedin.com/in/HariSekhon/)
-[![GitHub Last Commit](https://img.shields.io/github/last-commit/HariSekhon/Template-Repo?logo=github)](https://github.com/HariSekhon/Template-Repo/commits/master)
 
 
 ---
