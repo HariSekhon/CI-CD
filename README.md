@@ -1,8 +1,8 @@
 # CI/CD Status Page
 
 ![Original Repos](https://img.shields.io/badge/Repos-28-blue?logo=github)
-![Stars](https://img.shields.io/badge/Stars-7507-blue?logo=github)
-![Forks](https://img.shields.io/badge/Forks-2622-blue?logo=github)
+![Stars](https://img.shields.io/badge/Stars-7514-blue?logo=github)
+![Forks](https://img.shields.io/badge/Forks-2624-blue?logo=github)
 ![Followers](https://img.shields.io/badge/Followers-1547-blue?logo=github)
 ![Lines of Code](https://img.shields.io/badge/lines%20of%20code-292.3k-lightgrey?logo=codecademy)
 [![GitStar Ranking Profile](https://img.shields.io/badge/GitStar%20Ranking-HariSekhon-blue?logo=github)](https://gitstar-ranking.com/HariSekhon)
@@ -19,7 +19,7 @@
 [![Generate README](https://github.com/HariSekhon/CI-CD/actions/workflows/readme.yaml/badge.svg)](https://github.com/HariSekhon/CI-CD/actions/workflows/readme.yaml)
 [![pages-build-deployment](https://github.com/HariSekhon/CI-CD/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/HariSekhon/CI-CD/actions/workflows/pages/pages-build-deployment)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/853ef60c-c01b-4b83-99ba-8fda541f850f/deploy-status)](https://app.netlify.com/sites/harisekhon/deploys)
-![Last Generated](https://img.shields.io/badge/Last%20Generated-2024--07--29-yellowgreen?logo=github)
+![Last Generated](https://img.shields.io/badge/Last%20Generated-2024--07--30-yellowgreen?logo=github)
 [![GitHub Last Commit](https://img.shields.io/github/last-commit/HariSekhon/CI-CD?logo=github)](https://github.com/HariSekhon/CI-CD/commits/master)
 
 28 original source git repos with 693 CI builds (668 hosted, 25 self-hosted) across 23 different CI/CD systems:
@@ -1161,6 +1161,43 @@ HashiCorp Packer templates to build portable virtual machines in OVA format for 
 
 
 ---
+# Hari Sekhon - Spotify Playlists
+
+Link:  [HariSekhon/Spotify-Playlists](https://github.com/HariSekhon/Spotify-Playlists)
+
+240+ playlists, 36,000+ tracks - in both Spotify URI and human-readable formats. Spotify Profile: https://open.spotify.com/user/harisekhon. Spotify API tools are submodules of this repo.
+
+[![Spotify Profile](https://img.shields.io/badge/Spotify%20Profile-HariSekhon-brightgreen?logo=spotify&style=social)](https://open.spotify.com/user/harisekhon)
+[![Playlists](https://img.shields.io/badge/Playlists-240+-blue?logo=spotify)](https://open.spotify.com/user/harisekhon)
+[![Tracks](https://img.shields.io/badge/Tracks-36,600+-blue?logo=spotify)](https://open.spotify.com/user/harisekhon)
+[![Unique Tracks](https://img.shields.io/badge/Unique%20Tracks-17,500+-blue?logo=spotify)](https://open.spotify.com/user/harisekhon)
+
+[![GitHub stars](https://img.shields.io/github/stars/HariSekhon/Spotify-Playlists?logo=github)](https://github.com/HariSekhon/Spotify-Playlists/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/HariSekhon/Spotify-Playlists?logo=github)](https://github.com/HariSekhon/Spotify-Playlists/network)
+[![License](https://img.shields.io/github/license/HariSekhon/Spotify-Playlists)](https://github.com/HariSekhon/Spotify-Playlists/blob/master/LICENSE)
+[![GitHub Last Commit](https://img.shields.io/github/last-commit/HariSekhon/Spotify-Playlists?logo=github)](https://github.com/HariSekhon/Spotify-Playlists/commits/master)
+
+[![CI Builds Overview](https://img.shields.io/badge/CI%20Builds-Overview%20Page-blue?logo=circleci)](https://harisekhon.github.io/CI-CD/)
+[![ShellCheck](https://github.com/HariSekhon/Spotify-Playlists/actions/workflows/shellcheck.yaml/badge.svg)](https://github.com/HariSekhon/Spotify-Playlists/actions/workflows/shellcheck.yaml)
+[![JSON](https://github.com/HariSekhon/Spotify-Playlists/actions/workflows/json.yaml/badge.svg)](https://github.com/HariSekhon/Spotify-Playlists/actions/workflows/json.yaml)
+[![YAML](https://github.com/HariSekhon/Spotify-Playlists/actions/workflows/yaml.yaml/badge.svg)](https://github.com/HariSekhon/Spotify-Playlists/actions/workflows/yaml.yaml)
+[![XML](https://github.com/HariSekhon/Spotify-Playlists/actions/workflows/xml.yaml/badge.svg)](https://github.com/HariSekhon/Spotify-Playlists/actions/workflows/xml.yaml)
+[![Validation](https://github.com/HariSekhon/Spotify-Playlists/actions/workflows/validate.yaml/badge.svg)](https://github.com/HariSekhon/Spotify-Playlists/actions/workflows/validate.yaml)
+[![Kics](https://github.com/HariSekhon/Spotify-Playlists/actions/workflows/kics.yaml/badge.svg)](https://github.com/HariSekhon/Spotify-Playlists/actions/workflows/kics.yaml)
+[![Grype](https://github.com/HariSekhon/Spotify-Playlists/actions/workflows/grype.yaml/badge.svg)](https://github.com/HariSekhon/Spotify-Playlists/actions/workflows/grype.yaml)
+[![Semgrep](https://github.com/HariSekhon/Spotify-Playlists/actions/workflows/semgrep.yaml/badge.svg)](https://github.com/HariSekhon/Spotify-Playlists/actions/workflows/semgrep.yaml)
+[![Semgrep Cloud](https://github.com/HariSekhon/Spotify-Playlists/actions/workflows/semgrep-cloud.yaml/badge.svg)](https://github.com/HariSekhon/Spotify-Playlists/actions/workflows/semgrep-cloud.yaml)
+[![Trivy](https://github.com/HariSekhon/Spotify-Playlists/actions/workflows/trivy.yaml/badge.svg)](https://github.com/HariSekhon/Spotify-Playlists/actions/workflows/trivy.yaml)
+
+[![Repo on Azure DevOps](https://img.shields.io/badge/repo-Azure%20DevOps-0078D7?logo=azure%20devops)](https://dev.azure.com/harisekhon/GitHub/_git/Spotify-Playlists)
+[![Repo on GitHub](https://img.shields.io/badge/repo-GitHub-2088FF?logo=github)](https://github.com/HariSekhon/Spotify-Playlists)
+[![Repo on GitLab](https://img.shields.io/badge/repo-GitLab-FCA121?logo=gitlab)](https://gitlab.com/HariSekhon/Spotify-Playlists)
+[![Repo on BitBucket](https://img.shields.io/badge/repo-BitBucket-0052CC?logo=bitbucket)](https://bitbucket.org/HariSekhon/Spotify-Playlists)
+
+[git.io/spotify-playlists](https://git.io/spotify-playlists)
+
+
+---
 # Hari Sekhon - Perl Library
 
 Link:  [HariSekhon/lib](https://github.com/HariSekhon/lib)
@@ -1250,43 +1287,6 @@ Perl Utility Library for my other repos
 
 [![Perl versions](https://img.shields.io/badge/Perl-5.10+-39457E?logo=perl)](https://github.com/HariSekhon/lib)
 [![Perl](https://github.com/HariSekhon/lib/workflows/Perl/badge.svg)](https://github.com/HariSekhon/lib/actions?query=workflow%3A%22Perl%22)
-
-
----
-# Hari Sekhon - Spotify Playlists
-
-Link:  [HariSekhon/Spotify-Playlists](https://github.com/HariSekhon/Spotify-Playlists)
-
-240+ playlists, 36,000+ tracks - in both Spotify URI and human-readable formats. Spotify Profile: https://open.spotify.com/user/harisekhon. Spotify API tools are submodules of this repo.
-
-[![Spotify Profile](https://img.shields.io/badge/Spotify%20Profile-HariSekhon-brightgreen?logo=spotify&style=social)](https://open.spotify.com/user/harisekhon)
-[![Playlists](https://img.shields.io/badge/Playlists-240+-blue?logo=spotify)](https://open.spotify.com/user/harisekhon)
-[![Tracks](https://img.shields.io/badge/Tracks-36,600+-blue?logo=spotify)](https://open.spotify.com/user/harisekhon)
-[![Unique Tracks](https://img.shields.io/badge/Unique%20Tracks-17,500+-blue?logo=spotify)](https://open.spotify.com/user/harisekhon)
-
-[![GitHub stars](https://img.shields.io/github/stars/HariSekhon/Spotify-Playlists?logo=github)](https://github.com/HariSekhon/Spotify-Playlists/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/HariSekhon/Spotify-Playlists?logo=github)](https://github.com/HariSekhon/Spotify-Playlists/network)
-[![License](https://img.shields.io/github/license/HariSekhon/Spotify-Playlists)](https://github.com/HariSekhon/Spotify-Playlists/blob/master/LICENSE)
-[![GitHub Last Commit](https://img.shields.io/github/last-commit/HariSekhon/Spotify-Playlists?logo=github)](https://github.com/HariSekhon/Spotify-Playlists/commits/master)
-
-[![CI Builds Overview](https://img.shields.io/badge/CI%20Builds-Overview%20Page-blue?logo=circleci)](https://harisekhon.github.io/CI-CD/)
-[![ShellCheck](https://github.com/HariSekhon/Spotify-Playlists/actions/workflows/shellcheck.yaml/badge.svg)](https://github.com/HariSekhon/Spotify-Playlists/actions/workflows/shellcheck.yaml)
-[![JSON](https://github.com/HariSekhon/Spotify-Playlists/actions/workflows/json.yaml/badge.svg)](https://github.com/HariSekhon/Spotify-Playlists/actions/workflows/json.yaml)
-[![YAML](https://github.com/HariSekhon/Spotify-Playlists/actions/workflows/yaml.yaml/badge.svg)](https://github.com/HariSekhon/Spotify-Playlists/actions/workflows/yaml.yaml)
-[![XML](https://github.com/HariSekhon/Spotify-Playlists/actions/workflows/xml.yaml/badge.svg)](https://github.com/HariSekhon/Spotify-Playlists/actions/workflows/xml.yaml)
-[![Validation](https://github.com/HariSekhon/Spotify-Playlists/actions/workflows/validate.yaml/badge.svg)](https://github.com/HariSekhon/Spotify-Playlists/actions/workflows/validate.yaml)
-[![Kics](https://github.com/HariSekhon/Spotify-Playlists/actions/workflows/kics.yaml/badge.svg)](https://github.com/HariSekhon/Spotify-Playlists/actions/workflows/kics.yaml)
-[![Grype](https://github.com/HariSekhon/Spotify-Playlists/actions/workflows/grype.yaml/badge.svg)](https://github.com/HariSekhon/Spotify-Playlists/actions/workflows/grype.yaml)
-[![Semgrep](https://github.com/HariSekhon/Spotify-Playlists/actions/workflows/semgrep.yaml/badge.svg)](https://github.com/HariSekhon/Spotify-Playlists/actions/workflows/semgrep.yaml)
-[![Semgrep Cloud](https://github.com/HariSekhon/Spotify-Playlists/actions/workflows/semgrep-cloud.yaml/badge.svg)](https://github.com/HariSekhon/Spotify-Playlists/actions/workflows/semgrep-cloud.yaml)
-[![Trivy](https://github.com/HariSekhon/Spotify-Playlists/actions/workflows/trivy.yaml/badge.svg)](https://github.com/HariSekhon/Spotify-Playlists/actions/workflows/trivy.yaml)
-
-[![Repo on Azure DevOps](https://img.shields.io/badge/repo-Azure%20DevOps-0078D7?logo=azure%20devops)](https://dev.azure.com/harisekhon/GitHub/_git/Spotify-Playlists)
-[![Repo on GitHub](https://img.shields.io/badge/repo-GitHub-2088FF?logo=github)](https://github.com/HariSekhon/Spotify-Playlists)
-[![Repo on GitLab](https://img.shields.io/badge/repo-GitLab-FCA121?logo=gitlab)](https://gitlab.com/HariSekhon/Spotify-Playlists)
-[![Repo on BitBucket](https://img.shields.io/badge/repo-BitBucket-0052CC?logo=bitbucket)](https://bitbucket.org/HariSekhon/Spotify-Playlists)
-
-[git.io/spotify-playlists](https://git.io/spotify-playlists)
 
 
 ---
