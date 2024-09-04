@@ -1,10 +1,10 @@
 # CI/CD Status Page
 
-![Original Repos](https://img.shields.io/badge/Repos-29-blue?logo=github)
-![Stars](https://img.shields.io/badge/Stars-7678-blue?logo=github)
-![Forks](https://img.shields.io/badge/Forks-2653-blue?logo=github)
-![Followers](https://img.shields.io/badge/Followers-1579-blue?logo=github)
-![Lines of Code](https://img.shields.io/badge/lines%20of%20code-292.3k-lightgrey?logo=codecademy)
+![Original Repos](https://img.shields.io/badge/Repos-30-blue?logo=github)
+![Stars](https://img.shields.io/badge/Stars-7689-blue?logo=github)
+![Forks](https://img.shields.io/badge/Forks-2656-blue?logo=github)
+![Followers](https://img.shields.io/badge/Followers-1580-blue?logo=github)
+![Lines of Code](https://img.shields.io/badge/lines%20of%20code-293.3k-lightgrey?logo=codecademy)
 [![GitStar Ranking Profile](https://img.shields.io/badge/GitStar%20Ranking-HariSekhon-blue?logo=github)](https://gitstar-ranking.com/HariSekhon)
 [![StarCharts](https://img.shields.io/badge/Star-Charts-blue?logo=github)](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/STARCHARTS.md)
 
@@ -19,10 +19,10 @@
 [![Generate README](https://github.com/HariSekhon/CI-CD/actions/workflows/readme.yaml/badge.svg)](https://github.com/HariSekhon/CI-CD/actions/workflows/readme.yaml)
 [![pages-build-deployment](https://github.com/HariSekhon/CI-CD/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/HariSekhon/CI-CD/actions/workflows/pages/pages-build-deployment)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/853ef60c-c01b-4b83-99ba-8fda541f850f/deploy-status)](https://app.netlify.com/sites/harisekhon/deploys)
-![Last Generated](https://img.shields.io/badge/Last%20Generated-2024--09--03-yellowgreen?logo=github)
+![Last Generated](https://img.shields.io/badge/Last%20Generated-2024--09--04-yellowgreen?logo=github)
 [![GitHub Last Commit](https://img.shields.io/github/last-commit/HariSekhon/CI-CD?logo=github)](https://github.com/HariSekhon/CI-CD/commits/master)
 
-29 original source git repos with 690 CI builds (665 hosted, 25 self-hosted) across 23 different CI/CD systems:
+30 original source git repos with 690 CI builds (665 hosted, 25 self-hosted) across 23 different CI/CD systems:
 
 ---
 # Hari Sekhon - DevOps Bash Tools
@@ -696,7 +696,7 @@ Link:  [HariSekhon/Templates](https://github.com/HariSekhon/Templates)
 [![GitHub forks](https://img.shields.io/github/forks/HariSekhon/Templates?logo=github)](https://github.com/HariSekhon/Templates/network)
 [![Lines of Code](https://img.shields.io/badge/lines%20of%20code-10k-lightgrey?logo=codecademy)](https://github.com/HariSekhon/Templates)
 [![License](https://img.shields.io/github/license/HariSekhon/Templates)](https://github.com/HariSekhon/Templates/blob/master/LICENSE)
-[![My LinkedIn](https://img.shields.io/badge/LinkedIn%20Profile-HariSekhon-blue?logo=linkedin)](https://www.linkedin.com/in/HariSekhon/)
+[![My LinkedIn](https://img.shields.io/badge/LinkedIn%20Profile-HariSekhon-blue?logo=data:image/svg%2bxml;base64,PHN2ZyByb2xlPSJpbWciIGZpbGw9IiNmZmZmZmYiIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+TGlua2VkSW48L3RpdGxlPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPgo=)](https://www.linkedin.com/in/HariSekhon/)
 [![GitHub Last Commit](https://img.shields.io/github/last-commit/HariSekhon/Templates?logo=github)](https://github.com/HariSekhon/Templates/commits/master)
 
 [![CI Builds Overview](https://img.shields.io/badge/CI%20Builds-Overview%20Page-blue?logo=circleci)](https://harisekhon.github.io/CI-CD/)
@@ -1507,7 +1507,7 @@ Template repo to quickly create new Github repos containing Build and CI/CD conf
 [![GitHub forks](https://img.shields.io/github/forks/HariSekhon/Template-Repo?logo=github)](https://github.com/HariSekhon/Template-Repo/network)
 [![Lines of Code](https://img.shields.io/badge/lines%20of%20code-1k-lightgrey?logo=codecademy)](https://github.com/HariSekhon/Template-Repo#Hari-Sekhon---Template-Repo)
 [![License](https://img.shields.io/badge/license-MIT-green)](https://github.com/HariSekhon/Template-Repo/blob/master/LICENSE)
-[![My LinkedIn](https://img.shields.io/badge/LinkedIn%20Profile-HariSekhon-blue?logo=linkedin)](https://www.linkedin.com/in/HariSekhon/)
+[![My LinkedIn](https://img.shields.io/badge/LinkedIn%20Profile-HariSekhon-blue?logo=data:image/svg%2bxml;base64,PHN2ZyByb2xlPSJpbWciIGZpbGw9IiNmZmZmZmYiIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+TGlua2VkSW48L3RpdGxlPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPgo=)](https://www.linkedin.com/in/HariSekhon/)
 [![GitHub Last Commit](https://img.shields.io/github/last-commit/HariSekhon/Template-Repo?logo=github)](https://github.com/HariSekhon/Template-Repo/commits/master)
 
 
@@ -1739,6 +1739,28 @@ Java Utility library for my other repos
 
 
 ---
+# Hari Sekhon - GitHub-ICE-Graffiti
+
+Link:  [HariSekhon/GitHub-ICE-Graffiti](https://github.com/HariSekhon/GitHub-ICE-Graffiti)
+
+NOT READY YET
+
+[![GitHub stars](https://img.shields.io/github/stars/HariSekhon/GitHub-ICE-Graffiti?logo=github)](https://github.com/HariSekhon/GitHub-ICE-Graffiti/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/HariSekhon/GitHub-ICE-Graffiti?logo=github)](https://github.com/HariSekhon/GitHub-ICE-Graffiti/network)
+[![Lines of Code](https://img.shields.io/badge/lines%20of%20code-1k-lightgrey?logo=codecademy)](https://github.com/HariSekhon/GitHub-ICE-Graffiti#Hari-Sekhon---GitHub-ICE-Graffiti)
+[![License](https://img.shields.io/badge/license-MIT-green)](https://github.com/HariSekhon/GitHub-ICE-Graffiti/blob/master/LICENSE)
+[![My LinkedIn](https://img.shields.io/badge/LinkedIn%20Profile-HariSekhon-blue?logo=linkedin)](https://www.linkedin.com/in/HariSekhon/)
+[![GitHub Last Commit](https://img.shields.io/github/last-commit/HariSekhon/GitHub-ICE-Graffiti?logo=github)](https://github.com/HariSekhon/GitHub-ICE-Graffiti/commits/master)
+
+[![Codacy](https://app.codacy.com/project/badge/Grade/13faa1b5190d453abd33d5994600e090)](https://app.codacy.com/gh/HariSekhon/GitHub-ICE-Graffiti/dashboard)
+[![CodeFactor](https://www.codefactor.io/repository/github/harisekhon/GitHub-ICE-Graffiti/badge)](https://www.codefactor.io/repository/github/harisekhon/GitHub-ICE-Graffiti)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_GitHub-ICE-Graffiti&metric=alert_status)](https://sonarcloud.io/dashboard?id=HariSekhon_GitHub-ICE-Graffiti)
+[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_GitHub-ICE-Graffiti&metric=sqale_rating)](https://sonarcloud.io/dashboard?id=HariSekhon_GitHub-ICE-Graffiti)
+[![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_GitHub-ICE-Graffiti&metric=reliability_rating)](https://sonarcloud.io/dashboard?id=HariSekhon_GitHub-ICE-Graffiti)
+[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_GitHub-ICE-Graffiti&metric=security_rating)](https://sonarcloud.io/dashboard?id=HariSekhon_GitHub-ICE-Graffiti)
+
+
+---
 # Hari Sekhon's GitHub
 
 Link:  [HariSekhon/HariSekhon](https://github.com/HariSekhon/HariSekhon)
@@ -1750,4 +1772,4 @@ GitHub Home Page
 
 
 
-29 git repos summarized with 690 CI builds (665 hosted, 25 self-hosted) across 23 different CI/CD systems
+30 git repos summarized with 690 CI builds (665 hosted, 25 self-hosted) across 23 different CI/CD systems
