@@ -1,9 +1,9 @@
 # CI/CD Status Page
 
 ![Original Repos](https://img.shields.io/badge/Repos-30-blue?logo=github)
-![Stars](https://img.shields.io/badge/Stars-8205-blue?logo=github)
-![Forks](https://img.shields.io/badge/Forks-2700-blue?logo=github)
-![Followers](https://img.shields.io/badge/Followers-1604-blue?logo=github)
+![Stars](https://img.shields.io/badge/Stars-8639-blue?logo=github)
+![Forks](https://img.shields.io/badge/Forks-2732-blue?logo=github)
+![Followers](https://img.shields.io/badge/Followers-1614-blue?logo=github)
 ![Lines of Code](https://img.shields.io/badge/lines%20of%20code-293.3k-lightgrey?logo=codecademy)
 [![GitStar Ranking Profile](https://img.shields.io/badge/GitStar%20Ranking-HariSekhon-blue?logo=github)](https://gitstar-ranking.com/HariSekhon)
 [![StarCharts](https://img.shields.io/badge/Star-Charts-blue?logo=github)](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/STARCHARTS.md)
@@ -19,7 +19,7 @@
 [![Generate README](https://github.com/HariSekhon/CI-CD/actions/workflows/readme.yaml/badge.svg)](https://github.com/HariSekhon/CI-CD/actions/workflows/readme.yaml)
 [![pages-build-deployment](https://github.com/HariSekhon/CI-CD/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/HariSekhon/CI-CD/actions/workflows/pages/pages-build-deployment)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/853ef60c-c01b-4b83-99ba-8fda541f850f/deploy-status)](https://app.netlify.com/sites/harisekhon/deploys)
-![Last Generated](https://img.shields.io/badge/Last%20Generated-2024--09--18-yellowgreen?logo=github)
+![Last Generated](https://img.shields.io/badge/Last%20Generated-2024--09--19-yellowgreen?logo=github)
 [![GitHub Last Commit](https://img.shields.io/github/last-commit/HariSekhon/CI-CD?logo=github)](https://github.com/HariSekhon/CI-CD/commits/master)
 
 30 original source git repos with 690 CI builds (665 hosted, 25 self-hosted) across 23 different CI/CD systems:
@@ -71,8 +71,8 @@ Link:  [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-
 
 [![CI Builds Overview](https://img.shields.io/badge/CI%20Builds-Overview%20Page-blue?logo=circleci)](https://harisekhon.github.io/CI-CD/)
 [![Jenkins](https://img.shields.io/badge/Jenkins-ready-blue?logo=jenkins&logoColor=white)](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/Jenkinsfile)
-[![Concourse](https://img.shields.io/badge/Concourse-ready-blue?logo=concourse)](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/cicd/.concourse.yml)
-[![GoCD](https://img.shields.io/badge/GoCD-ready-blue?logo=go)](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/cicd/.gocd.yml)
+[![Concourse](https://img.shields.io/badge/Concourse-ready-blue?logo=concourse&logoColor=white)](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/cicd/.concourse.yml)
+[![GoCD](https://img.shields.io/badge/GoCD-ready-blue?logo=go&logoColor=white)](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/cicd/.gocd.yml)
 [![TeamCity](https://img.shields.io/badge/TeamCity-ready-blue?logo=teamcity)](https://github.com/HariSekhon/TeamCity-CI)
 
 [![CircleCI](https://circleci.com/gh/HariSekhon/DevOps-Bash-tools.svg?style=svg)](https://circleci.com/gh/HariSekhon/DevOps-Bash-tools)
@@ -905,11 +905,42 @@ Spotify Tools - Playlists Backups, Spotify CLI, URI translator, duplication dete
 
 
 ---
+# Hari Sekhon - Knowledge Base from 20 years in DevOps, Linux, Cloud, Big Data, Security, AWS, GCP etc
+
+Link:  [HariSekhon/Knowledge-Base](https://github.com/HariSekhon/Knowledge-Base)
+
+IT Knowledge Base from 20 years in DevOps, Linux, Cloud, Big Data, AWS, GCP etc - gradually porting my large private knowledge base to public
+
+[![GitHub stars](https://img.shields.io/github/stars/HariSekhon/Knowledge-Base?logo=github)](https://github.com/HariSekhon/Knowledge-Base/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/HariSekhon/Knowledge-Base?logo=github)](https://github.com/HariSekhon/Knowledge-Base/network)
+[![License](https://img.shields.io/badge/license-MIT-green)](https://github.com/HariSekhon/Knowledge-Base/blob/master/LICENSE)
+[![My LinkedIn](https://img.shields.io/badge/LinkedIn%20Profile-HariSekhon-blue?logo=data:image/svg%2bxml;base64,PHN2ZyByb2xlPSJpbWciIGZpbGw9IiNmZmZmZmYiIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+TGlua2VkSW48L3RpdGxlPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPgo=)](https://www.linkedin.com/in/HariSekhon/)
+[![GitHub Last Commit](https://img.shields.io/github/last-commit/HariSekhon/Knowledge-Base?logo=github)](https://github.com/HariSekhon/Knowledge-Base/commits/master)
+
+[![CI Builds Overview](https://img.shields.io/badge/CI%20Builds-Overview%20Page-blue?logo=circleci)](https://harisekhon.github.io/CI-CD/)
+[![Repo on GitHub](https://img.shields.io/badge/repo-GitHub-2088FF?logo=github)](https://github.com/HariSekhon/Knowledge-Base)
+[![Repo on GitLab](https://img.shields.io/badge/repo-GitLab-FCA121?logo=gitlab)](https://gitlab.com/HariSekhon/Knowledge-Base)
+[![Repo on Azure DevOps](https://img.shields.io/badge/repo-Azure%20DevOps-0078D7?logo=azure%20devops)](https://dev.azure.com/HariSekhon/GitHub/_git/Knowledge-Base)
+[![Repo on BitBucket](https://img.shields.io/badge/repo-BitBucket-0052CC?logo=bitbucket)](https://bitbucket.org/HariSekhon/Knowledge-Base)
+
+[![Index](https://github.com/HariSekhon/Knowledge-Base/actions/workflows/index.yaml/badge.svg)](https://github.com/HariSekhon/Knowledge-Base/actions/workflows/index.yaml)
+[![Markdown](https://github.com/HariSekhon/Knowledge-Base/actions/workflows/markdown.yaml/badge.svg)](https://github.com/HariSekhon/Knowledge-Base/actions/workflows/markdown.yaml)
+[![Markdown References](https://github.com/HariSekhon/Knowledge-Base/actions/workflows/markdown_references.yaml/badge.svg)](https://github.com/HariSekhon/Knowledge-Base/actions/workflows/markdown_references.yaml)
+[![Gist Sync](https://github.com/HariSekhon/Knowledge-Base/actions/workflows/gist-sync.yaml/badge.svg)](https://github.com/HariSekhon/Knowledge-Base/actions/workflows/gist-sync.yaml)
+[![Validation](https://github.com/HariSekhon/Knowledge-Base/actions/workflows/validate.yaml/badge.svg)](https://github.com/HariSekhon/Knowledge-Base/actions/workflows/validate.yaml)
+[![Kics](https://github.com/HariSekhon/Knowledge-Base/actions/workflows/kics.yaml/badge.svg)](https://github.com/HariSekhon/Knowledge-Base/actions/workflows/kics.yaml)
+[![Grype](https://github.com/HariSekhon/Knowledge-Base/actions/workflows/grype.yaml/badge.svg)](https://github.com/HariSekhon/Knowledge-Base/actions/workflows/grype.yaml)
+[![Semgrep](https://github.com/HariSekhon/Knowledge-Base/actions/workflows/semgrep.yaml/badge.svg)](https://github.com/HariSekhon/Knowledge-Base/actions/workflows/semgrep.yaml)
+[![Semgrep Cloud](https://github.com/HariSekhon/Knowledge-Base/actions/workflows/semgrep-cloud.yaml/badge.svg)](https://github.com/HariSekhon/Knowledge-Base/actions/workflows/semgrep-cloud.yaml)
+[![Trivy](https://github.com/HariSekhon/Knowledge-Base/actions/workflows/trivy.yaml/badge.svg)](https://github.com/HariSekhon/Knowledge-Base/actions/workflows/trivy.yaml)
+
+
+---
 # Jenkins - Advanced Jenkinsfile & Groovy Shared Library
 
 Link:  [HariSekhon/Jenkins](https://github.com/HariSekhon/Jenkins)
 
-Jenkins - Advanced Jenkinsfile & Groovy Shared Library of reusable functions and pipelines - including for AWS, GCP, Docker, Kubernetes, ArgoCD, Slack notifications, Git Merge, Terraform, Cloudflare, Jenkins Job Backups, most major Docker registries, DockerHub, GHCR, ECR, GCR, GAR, ACR, GitLab, Quay
+Jenkins CI/CD - Advanced Jenkinsfile & Groovy Shared Library of reusable functions and pipelines - AWS, GCP, Docker, Kubernetes, ArgoCD, Slack notifications, Git Merge, Terraform, Cloudflare, Jenkins Job Backups, most major Docker registries, DockerHub, GHCR, ECR, GCR, GAR, ACR, GitLab, Quay
 
 [![GitHub stars](https://img.shields.io/github/stars/HariSekhon/Jenkins?logo=github)](https://github.com/HariSekhon/Jenkins/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/HariSekhon/Jenkins?logo=github)](https://github.com/HariSekhon/Jenkins/network)
@@ -940,37 +971,6 @@ Jenkins - Advanced Jenkinsfile & Groovy Shared Library of reusable functions and
 [![Semgrep Cloud](https://github.com/HariSekhon/Jenkins/actions/workflows/semgrep-cloud.yaml/badge.svg)](https://github.com/HariSekhon/Jenkins/actions/workflows/semgrep-cloud.yaml)
 [![SonarCloud](https://github.com/HariSekhon/Jenkins/actions/workflows/sonarcloud.yaml/badge.svg)](https://github.com/HariSekhon/Jenkins/actions/workflows/sonarcloud.yaml)
 [![Trivy](https://github.com/HariSekhon/Jenkins/actions/workflows/trivy.yaml/badge.svg)](https://github.com/HariSekhon/Jenkins/actions/workflows/trivy.yaml)
-
-
----
-# Hari Sekhon - Knowledge Base from 20 years in DevOps, Linux, Cloud, Big Data, Security, AWS, GCP etc
-
-Link:  [HariSekhon/Knowledge-Base](https://github.com/HariSekhon/Knowledge-Base)
-
-IT Knowledge Base from 20 years in DevOps, Linux, Cloud, Big Data, AWS, GCP etc - gradually porting my large private knowledge base to public
-
-[![GitHub stars](https://img.shields.io/github/stars/HariSekhon/Knowledge-Base?logo=github)](https://github.com/HariSekhon/Knowledge-Base/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/HariSekhon/Knowledge-Base?logo=github)](https://github.com/HariSekhon/Knowledge-Base/network)
-[![License](https://img.shields.io/badge/license-MIT-green)](https://github.com/HariSekhon/Knowledge-Base/blob/master/LICENSE)
-[![My LinkedIn](https://img.shields.io/badge/LinkedIn%20Profile-HariSekhon-blue?logo=data:image/svg%2bxml;base64,PHN2ZyByb2xlPSJpbWciIGZpbGw9IiNmZmZmZmYiIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+TGlua2VkSW48L3RpdGxlPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPgo=)](https://www.linkedin.com/in/HariSekhon/)
-[![GitHub Last Commit](https://img.shields.io/github/last-commit/HariSekhon/Knowledge-Base?logo=github)](https://github.com/HariSekhon/Knowledge-Base/commits/master)
-
-[![CI Builds Overview](https://img.shields.io/badge/CI%20Builds-Overview%20Page-blue?logo=circleci)](https://harisekhon.github.io/CI-CD/)
-[![Repo on GitHub](https://img.shields.io/badge/repo-GitHub-2088FF?logo=github)](https://github.com/HariSekhon/Knowledge-Base)
-[![Repo on GitLab](https://img.shields.io/badge/repo-GitLab-FCA121?logo=gitlab)](https://gitlab.com/HariSekhon/Knowledge-Base)
-[![Repo on Azure DevOps](https://img.shields.io/badge/repo-Azure%20DevOps-0078D7?logo=azure%20devops)](https://dev.azure.com/HariSekhon/GitHub/_git/Knowledge-Base)
-[![Repo on BitBucket](https://img.shields.io/badge/repo-BitBucket-0052CC?logo=bitbucket)](https://bitbucket.org/HariSekhon/Knowledge-Base)
-
-[![Index](https://github.com/HariSekhon/Knowledge-Base/actions/workflows/index.yaml/badge.svg)](https://github.com/HariSekhon/Knowledge-Base/actions/workflows/index.yaml)
-[![Markdown](https://github.com/HariSekhon/Knowledge-Base/actions/workflows/markdown.yaml/badge.svg)](https://github.com/HariSekhon/Knowledge-Base/actions/workflows/markdown.yaml)
-[![Markdown References](https://github.com/HariSekhon/Knowledge-Base/actions/workflows/markdown_references.yaml/badge.svg)](https://github.com/HariSekhon/Knowledge-Base/actions/workflows/markdown_references.yaml)
-[![Gist Sync](https://github.com/HariSekhon/Knowledge-Base/actions/workflows/gist-sync.yaml/badge.svg)](https://github.com/HariSekhon/Knowledge-Base/actions/workflows/gist-sync.yaml)
-[![Validation](https://github.com/HariSekhon/Knowledge-Base/actions/workflows/validate.yaml/badge.svg)](https://github.com/HariSekhon/Knowledge-Base/actions/workflows/validate.yaml)
-[![Kics](https://github.com/HariSekhon/Knowledge-Base/actions/workflows/kics.yaml/badge.svg)](https://github.com/HariSekhon/Knowledge-Base/actions/workflows/kics.yaml)
-[![Grype](https://github.com/HariSekhon/Knowledge-Base/actions/workflows/grype.yaml/badge.svg)](https://github.com/HariSekhon/Knowledge-Base/actions/workflows/grype.yaml)
-[![Semgrep](https://github.com/HariSekhon/Knowledge-Base/actions/workflows/semgrep.yaml/badge.svg)](https://github.com/HariSekhon/Knowledge-Base/actions/workflows/semgrep.yaml)
-[![Semgrep Cloud](https://github.com/HariSekhon/Knowledge-Base/actions/workflows/semgrep-cloud.yaml/badge.svg)](https://github.com/HariSekhon/Knowledge-Base/actions/workflows/semgrep-cloud.yaml)
-[![Trivy](https://github.com/HariSekhon/Knowledge-Base/actions/workflows/trivy.yaml/badge.svg)](https://github.com/HariSekhon/Knowledge-Base/actions/workflows/trivy.yaml)
 
 
 ---
@@ -1118,7 +1118,7 @@ DevOps Golang tools
 
 Link:  [HariSekhon/GitHub-Actions](https://github.com/HariSekhon/GitHub-Actions)
 
-GitHub Actions Reusable Workflows and Master Template
+GitHub Actions CI/CD - Master Template & Reusable Workflows Library - Docker Builds, AWS, Python, Terraform, Jenkins, Linting, Security Scanning, Make Builds etc.
 
 [![GitHub stars](https://img.shields.io/github/stars/HariSekhon/GitHub-Actions?logo=github)](https://github.com/HariSekhon/GitHub-Actions/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/HariSekhon/GitHub-Actions?logo=github)](https://github.com/HariSekhon/GitHub-Actions/network)
@@ -1305,97 +1305,6 @@ CI/CD Status page for Hari Sekhon's GitHub repos
 
 
 ---
-# Kafka Scala API - Advanced Nagios Plugin / CLI Tool with Kerberos support
-
-Link:  [HariSekhon/Nagios-Plugin-Kafka](https://github.com/HariSekhon/Nagios-Plugin-Kafka)
-
-Kafka Scala API CLI / Advanced Nagios Plugin, with Kerberos support (uses Kafka 0.9+ native Java API)
-
-[![GitHub stars](https://img.shields.io/github/stars/harisekhon/Nagios-Plugin-Kafka?logo=github)](https://github.com/HariSekhon/Nagios-Plugin-Kafka/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/harisekhon/Nagios-Plugin-Kafka?logo=github)](https://github.com/HariSekhon/Nagios-Plugin-Kafka/network)
-[![License](https://img.shields.io/github/license/HariSekhon/Nagios-Plugin-Kafka)](https://github.com/HariSekhon/Nagios-Plugin-Kafka/blob/master/LICENSE)
-[![My LinkedIn](https://img.shields.io/badge/LinkedIn%20Profile-HariSekhon-blue?logo=data:image/svg%2bxml;base64,PHN2ZyByb2xlPSJpbWciIGZpbGw9IiNmZmZmZmYiIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+TGlua2VkSW48L3RpdGxlPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPgo=)](https://www.linkedin.com/in/HariSekhon/)
-[![GitHub Last Commit](https://img.shields.io/github/last-commit/HariSekhon/Nagios-Plugin-Kafka?logo=github)](https://github.com/HariSekhon/Nagios-Plugin-Kafka/commits/master)
-
-
-[![Codacy](https://app.codacy.com/project/badge/Grade/2f6cc8cba0ef4007a3f736bf45ae60f8)](https://www.codacy.com/gh/HariSekhon/Nagios-Plugin-Kafka/dashboard)
-[![CodeFactor](https://www.codefactor.io/repository/github/harisekhon/Nagios-Plugin-Kafka/badge)](https://www.codefactor.io/repository/github/harisekhon/Nagios-Plugin-Kafka)
-[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_Nagios-Plugin-Kafka&metric=alert_status)](https://sonarcloud.io/dashboard?id=HariSekhon_Nagios-Plugin-Kafka)
-[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_Nagios-Plugin-Kafka&metric=sqale_rating)](https://sonarcloud.io/dashboard?id=HariSekhon_Nagios-Plugin-Kafka)
-[![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_Nagios-Plugin-Kafka&metric=reliability_rating)](https://sonarcloud.io/dashboard?id=HariSekhon_Nagios-Plugin-Kafka)
-[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_Nagios-Plugin-Kafka&metric=security_rating)](https://sonarcloud.io/dashboard?id=HariSekhon_Nagios-Plugin-Kafka)
-[![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_Nagios-Plugin-Kafka&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=HariSekhon_Nagios-Plugin-Kafka)
-
-[![Linux](https://img.shields.io/badge/OS-Linux-blue?logo=linux)](https://github.com/HariSekhon/Nagios-Plugin-Kafka)
-[![Mac](https://img.shields.io/badge/OS-Mac-blue?logo=apple)](https://github.com/HariSekhon/Nagios-Plugin-Kafka)
-[![Docker](https://img.shields.io/badge/container-Docker-blue?logo=docker&logoColor=white)](https://hub.docker.com/r/harisekhon/nagios-plugin-kafka)
-[![Dockerfile](https://img.shields.io/badge/repo-Dockerfiles-blue?logo=docker&logoColor=white)](https://github.com/HariSekhon/Dockerfiles)
-[![DockerHub Pulls](https://img.shields.io/docker/pulls/harisekhon/nagios-plugin-kafka?label=DockerHub%20pulls&logo=docker&logoColor=white)](https://hub.docker.com/r/harisekhon/nagios-plugin-kafka)
-[![DockerHub Build Automated](https://img.shields.io/docker/automated/harisekhon/nagios-plugin-kafka?logo=docker&logoColor=white)](https://hub.docker.com/r/harisekhon/nagios-plugin-kafka)
-
-
-[![CI Builds Overview](https://img.shields.io/badge/CI%20Builds-Overview%20Page-blue?logo=circleci)](https://harisekhon.github.io/CI-CD/)
-[![Jenkins](https://img.shields.io/badge/Jenkins-ready-blue?logo=jenkins&logoColor=white)](https://github.com/HariSekhon/Nagios-Plugin-Kafka/blob/master/Jenkinsfile)
-[![Concourse](https://img.shields.io/badge/Concourse-ready-blue?logo=concourse)](https://github.com/HariSekhon/Nagios-Plugin-Kafka/blob/master/cicd/.concourse.yml)
-[![GoCD](https://img.shields.io/badge/GoCD-ready-blue?logo=go)](https://github.com/HariSekhon/Nagios-Plugin-Kafka/blob/master/cicd/.gocd.yml)
-[![TeamCity](https://img.shields.io/badge/TeamCity-ready-blue?logo=teamcity)](https://github.com/HariSekhon/TeamCity-CI)
-
-[![CircleCI](https://circleci.com/gh/HariSekhon/Nagios-Plugin-Kafka.svg?style=svg)](https://circleci.com/gh/HariSekhon/Nagios-Plugin-Kafka)
-[![BuildKite](https://img.shields.io/buildkite/835ba032422b5aa6c1df641e6a7989ac93bb8a34fcca735243/master?label=BuildKite&logo=buildkite)](https://buildkite.com/hari-sekhon/nagios-plugin-kafka)
-[![AppVeyor](https://img.shields.io/appveyor/build/harisekhon/Nagios-Plugin-Kafka/master?logo=appveyor&label=AppVeyor)](https://ci.appveyor.com/project/HariSekhon/Nagios-Plugin-Kafka/branch/master)
-[![Drone](https://img.shields.io/drone/build/HariSekhon/Nagios-Plugin-Kafka/master?logo=drone&label=Drone)](https://cloud.drone.io/HariSekhon/Nagios-Plugin-Kafka)
-[![Codefresh](https://g.codefresh.io/api/badges/pipeline/harisekhon/GitHub%2FNagios%20Plugin%20Kafka?branch=master&key=eyJhbGciOiJIUzI1NiJ9.NWU1MmM5OGNiM2FiOWUzM2Y3ZDZmYjM3.O69674cW7vYom3v5JOGKXDbYgCVIJU9EWhXUMHl3zwA&type=cf-1)](https://g.codefresh.io/pipelines/edit/new/builds?id=5e58e3573953b779e04b7907&pipeline=Nagios%20Plugin%20Kafka&projects=GitHub&projectId=5e52ca8ea284e00f882ea992&context=github&filter=page:1;pageSize:10;timeFrameStart:week)
-[![Cirrus CI](https://img.shields.io/cirrus/github/HariSekhon/Nagios-Plugin-Kafka/master?logo=Cirrus%20CI&label=Cirrus%20CI)](https://cirrus-ci.com/github/HariSekhon/Nagios-Plugin-Kafka)
-[![Semaphore](https://harisekhon.semaphoreci.com/badges/Nagios-Plugin-Kafka.svg)](https://harisekhon.semaphoreci.com/projects/Nagios-Plugin-Kafka)
-[![Buddy](https://img.shields.io/badge/Buddy-ready-1A86FD?logo=buddy)](https://github.com/HariSekhon/Nagios-Plugin-Kafka/blob/master/buddy.yml)
-[![Shippable](https://img.shields.io/badge/Shippable-legacy-lightgrey?logo=jfrog&label=Shippable)](https://github.com/HariSekhon/Nagios-Plugin-Kafka/blob/master/shippable.yml)
-[![Travis CI](https://img.shields.io/badge/TravisCI-ready-blue?logo=travis&label=Travis%20CI)](https://github.com/HariSekhon/Nagios-Plugin-Kafka/blob/master/.travis.yml)
-
-[![Azure DevOps Pipeline](https://dev.azure.com/harisekhon/GitHub/_apis/build/status/HariSekhon.Nagios-Plugin-Kafka?branchName=master)](https://dev.azure.com/harisekhon/GitHub/_build/latest?definitionId=11&branchName=master)
-[![GitLab Pipeline](https://img.shields.io/badge/GitLab%20CI-legacy-lightgrey?logo=gitlab)](https://gitlab.com/HariSekhon/Nagios-Plugin-Kafka/pipelines)
-[![BitBucket Pipeline](https://img.shields.io/badge/Bitbucket%20CI-legacy-lightgrey?logo=bitbucket)](https://bitbucket.org/harisekhon/nagios-plugin-kafka/addon/pipelines/home#!/)
-[![AWS CodeBuild](https://img.shields.io/badge/AWS%20CodeBuild-ready-blue?logo=amazon%20aws)](https://github.com/HariSekhon/Nagios-Plugin-Kafka/blob/master/cicd/buildspec.yml)
-[![GCP Cloud Build](https://img.shields.io/badge/GCP%20Cloud%20Build-ready-blue?logo=google%20cloud&logoColor=white)](https://github.com/HariSekhon/Nagios-Plugin-Kafka/blob/master/cicd/cloudbuild.yaml)
-
-[![Repo on GitHub](https://img.shields.io/badge/repo-GitHub-2088FF?logo=github)](https://github.com/HariSekhon/Nagios-Plugin-Kafka)
-[![Repo on GitLab](https://img.shields.io/badge/repo-GitLab-FCA121?logo=gitlab)](https://gitlab.com/HariSekhon/Nagios-Plugin-Kafka)
-[![Repo on Azure DevOps](https://img.shields.io/badge/repo-Azure%20DevOps-0078D7?logo=azure%20devops)](https://dev.azure.com/harisekhon/GitHub/_git/Nagios-Plugin-Kafka)
-[![Repo on BitBucket](https://img.shields.io/badge/repo-BitBucket-0052CC?logo=bitbucket)](https://bitbucket.org/HariSekhon/Nagios-Plugin-Kafka)
-
-[![ShellCheck](https://github.com/HariSekhon/lib-java/actions/workflows/shellcheck.yaml/badge.svg)](https://github.com/HariSekhon/lib-java/actions/workflows/shellcheck.yaml)
-[![JSON](https://github.com/HariSekhon/Nagios-Plugin-Kafka/actions/workflows/json.yaml/badge.svg)](https://github.com/HariSekhon/Nagios-Plugin-Kafka/actions/workflows/json.yaml)
-[![YAML](https://github.com/HariSekhon/Nagios-Plugin-Kafka/actions/workflows/yaml.yaml/badge.svg)](https://github.com/HariSekhon/Nagios-Plugin-Kafka/actions/workflows/yaml.yaml)
-[![XML](https://github.com/HariSekhon/Nagios-Plugin-Kafka/actions/workflows/xml.yaml/badge.svg)](https://github.com/HariSekhon/Nagios-Plugin-Kafka/actions/workflows/xml.yaml)
-[![Validation](https://github.com/HariSekhon/Nagios-Plugin-Kafka/actions/workflows/validate.yaml/badge.svg)](https://github.com/HariSekhon/Nagios-Plugin-Kafka/actions/workflows/validate.yaml)
-[![Kics](https://github.com/HariSekhon/Nagios-Plugin-Kafka/actions/workflows/kics.yaml/badge.svg)](https://github.com/HariSekhon/Nagios-Plugin-Kafka/actions/workflows/kics.yaml)
-[![Grype](https://github.com/HariSekhon/Nagios-Plugin-Kafka/actions/workflows/grype.yaml/badge.svg)](https://github.com/HariSekhon/Nagios-Plugin-Kafka/actions/workflows/grype.yaml)
-[![Semgrep](https://github.com/HariSekhon/Nagios-Plugin-Kafka/actions/workflows/semgrep.yaml/badge.svg)](https://github.com/HariSekhon/Nagios-Plugin-Kafka/actions/workflows/semgrep.yaml)
-[![Semgrep Cloud](https://github.com/HariSekhon/Nagios-Plugin-Kafka/actions/workflows/semgrep-cloud.yaml/badge.svg)](https://github.com/HariSekhon/Nagios-Plugin-Kafka/actions/workflows/semgrep-cloud.yaml)
-[![Trivy](https://github.com/HariSekhon/Nagios-Plugin-Kafka/actions/workflows/trivy.yaml/badge.svg)](https://github.com/HariSekhon/Nagios-Plugin-Kafka/actions/workflows/trivy.yaml)
-
-[![GitHub Actions Ubuntu](https://github.com/HariSekhon/Nagios-Plugin-Kafka/workflows/GitHub%20Actions%20Ubuntu/badge.svg)](https://github.com/HariSekhon/Nagios-Plugin-Kafka/actions?query=workflow%3A%22GitHub+Actions+Ubuntu%22)
-[![Mac](https://github.com/HariSekhon/Nagios-Plugin-Kafka/actions/workflows/mac.yaml/badge.svg)](https://github.com/HariSekhon/Nagios-Plugin-Kafka/actions/workflows/mac.yaml)
-[![Mac 11](https://github.com/HariSekhon/Nagios-Plugin-Kafka/actions/workflows/mac_11.yaml/badge.svg)](https://github.com/HariSekhon/Nagios-Plugin-Kafka/actions/workflows/mac_11.yaml)
-[![Mac 12](https://github.com/HariSekhon/Nagios-Plugin-Kafka/actions/workflows/mac_12.yaml/badge.svg)](https://github.com/HariSekhon/Nagios-Plugin-Kafka/actions/workflows/mac_12.yaml)
-[![Ubuntu](https://github.com/HariSekhon/Nagios-Plugin-Kafka/workflows/Ubuntu/badge.svg)](https://github.com/HariSekhon/Nagios-Plugin-Kafka/actions?query=workflow%3A%22Ubuntu%22)
-[![Ubuntu 20.04](https://github.com/HariSekhon/Nagios-Plugin-Kafka/workflows/Ubuntu%2020.04/badge.svg)](https://github.com/HariSekhon/Nagios-Plugin-Kafka/actions?query=workflow%3A%22Ubuntu+20.04%22)
-[![Ubuntu 22.04](https://github.com/HariSekhon/Nagios-Plugin-Kafka/workflows/Ubuntu%2022.04/badge.svg)](https://github.com/HariSekhon/Nagios-Plugin-Kafka/actions?query=workflow%3A%22Ubuntu+22.04%22)
-[![Debian](https://github.com/HariSekhon/Nagios-Plugin-Kafka/workflows/Debian/badge.svg)](https://github.com/HariSekhon/Nagios-Plugin-Kafka/actions?query=workflow%3A%22Debian%22)
-[![Debian 10](https://github.com/HariSekhon/Nagios-Plugin-Kafka/workflows/Debian%2010/badge.svg)](https://github.com/HariSekhon/Nagios-Plugin-Kafka/actions?query=workflow%3A%22Debian+10%22)
-[![Debian 11](https://github.com/HariSekhon/Nagios-Plugin-Kafka/workflows/Debian%2011/badge.svg)](https://github.com/HariSekhon/Nagios-Plugin-Kafka/actions?query=workflow%3A%22Debian+11%22)
-[![Debian 12](https://github.com/HariSekhon/Nagios-Plugin-Kafka/workflows/Debian%2012/badge.svg)](https://github.com/HariSekhon/Nagios-Plugin-Kafka/actions?query=workflow%3A%22Debian+12%22)
-[![Fedora](https://github.com/HariSekhon/Nagios-Plugin-Kafka/workflows/Fedora/badge.svg)](https://github.com/HariSekhon/Nagios-Plugin-Kafka/actions?query=workflow%3A%22Fedora%22)
-[![Alpine](https://github.com/HariSekhon/Nagios-Plugin-Kafka/workflows/Alpine/badge.svg)](https://github.com/HariSekhon/Nagios-Plugin-Kafka/actions?query=workflow%3A%22Alpine%22)
-[![Alpine 3](https://github.com/HariSekhon/Nagios-Plugin-Kafka/workflows/Alpine%203/badge.svg)](https://github.com/HariSekhon/Nagios-Plugin-Kafka/actions?query=workflow%3A%22Alpine+3%22)
-
-[![Maven](https://github.com/HariSekhon/Nagios-Plugin-Kafka/workflows/Maven/badge.svg)](https://github.com/HariSekhon/Nagios-Plugin-Kafka/actions?query=workflow%3A%22Maven%22)
-[![SBT](https://github.com/HariSekhon/Nagios-Plugin-Kafka/workflows/SBT/badge.svg)](https://github.com/HariSekhon/Nagios-Plugin-Kafka/actions?query=workflow%3A%22SBT%22)
-[![Gradle](https://github.com/HariSekhon/Nagios-Plugin-Kafka/workflows/Gradle/badge.svg)](https://github.com/HariSekhon/Nagios-Plugin-Kafka/actions?query=workflow%3A%22Gradle%22)
-
-[git.io/nagios-plugin-kafka](https://git.io/nagios-plugin-kafka)
-
-
----
 # Hari Sekhon - Python / Jython Library
 
 Link:  [HariSekhon/pylib](https://github.com/HariSekhon/pylib)
@@ -1495,6 +1404,97 @@ Python / Jython Utility Library for my other repos
 [![Python 3.11](https://github.com/HariSekhon/pylib/workflows/Python%203.11/badge.svg)](https://github.com/HariSekhon/pylib/actions?query=workflow%3A%22Python+3.11%22)
 
 [git.io/python-lib](https://git.io/pylib)
+
+
+---
+# Kafka Scala API - Advanced Nagios Plugin / CLI Tool with Kerberos support
+
+Link:  [HariSekhon/Nagios-Plugin-Kafka](https://github.com/HariSekhon/Nagios-Plugin-Kafka)
+
+Kafka Scala API CLI / Advanced Nagios Plugin, with Kerberos support (uses Kafka 0.9+ native Java API)
+
+[![GitHub stars](https://img.shields.io/github/stars/harisekhon/Nagios-Plugin-Kafka?logo=github)](https://github.com/HariSekhon/Nagios-Plugin-Kafka/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/harisekhon/Nagios-Plugin-Kafka?logo=github)](https://github.com/HariSekhon/Nagios-Plugin-Kafka/network)
+[![License](https://img.shields.io/github/license/HariSekhon/Nagios-Plugin-Kafka)](https://github.com/HariSekhon/Nagios-Plugin-Kafka/blob/master/LICENSE)
+[![My LinkedIn](https://img.shields.io/badge/LinkedIn%20Profile-HariSekhon-blue?logo=data:image/svg%2bxml;base64,PHN2ZyByb2xlPSJpbWciIGZpbGw9IiNmZmZmZmYiIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+TGlua2VkSW48L3RpdGxlPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPgo=)](https://www.linkedin.com/in/HariSekhon/)
+[![GitHub Last Commit](https://img.shields.io/github/last-commit/HariSekhon/Nagios-Plugin-Kafka?logo=github)](https://github.com/HariSekhon/Nagios-Plugin-Kafka/commits/master)
+
+
+[![Codacy](https://app.codacy.com/project/badge/Grade/2f6cc8cba0ef4007a3f736bf45ae60f8)](https://www.codacy.com/gh/HariSekhon/Nagios-Plugin-Kafka/dashboard)
+[![CodeFactor](https://www.codefactor.io/repository/github/harisekhon/Nagios-Plugin-Kafka/badge)](https://www.codefactor.io/repository/github/harisekhon/Nagios-Plugin-Kafka)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_Nagios-Plugin-Kafka&metric=alert_status)](https://sonarcloud.io/dashboard?id=HariSekhon_Nagios-Plugin-Kafka)
+[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_Nagios-Plugin-Kafka&metric=sqale_rating)](https://sonarcloud.io/dashboard?id=HariSekhon_Nagios-Plugin-Kafka)
+[![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_Nagios-Plugin-Kafka&metric=reliability_rating)](https://sonarcloud.io/dashboard?id=HariSekhon_Nagios-Plugin-Kafka)
+[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_Nagios-Plugin-Kafka&metric=security_rating)](https://sonarcloud.io/dashboard?id=HariSekhon_Nagios-Plugin-Kafka)
+[![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_Nagios-Plugin-Kafka&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=HariSekhon_Nagios-Plugin-Kafka)
+
+[![Linux](https://img.shields.io/badge/OS-Linux-blue?logo=linux)](https://github.com/HariSekhon/Nagios-Plugin-Kafka)
+[![Mac](https://img.shields.io/badge/OS-Mac-blue?logo=apple)](https://github.com/HariSekhon/Nagios-Plugin-Kafka)
+[![Docker](https://img.shields.io/badge/container-Docker-blue?logo=docker&logoColor=white)](https://hub.docker.com/r/harisekhon/nagios-plugin-kafka)
+[![Dockerfile](https://img.shields.io/badge/repo-Dockerfiles-blue?logo=docker&logoColor=white)](https://github.com/HariSekhon/Dockerfiles)
+[![DockerHub Pulls](https://img.shields.io/docker/pulls/harisekhon/nagios-plugin-kafka?label=DockerHub%20pulls&logo=docker&logoColor=white)](https://hub.docker.com/r/harisekhon/nagios-plugin-kafka)
+[![DockerHub Build Automated](https://img.shields.io/docker/automated/harisekhon/nagios-plugin-kafka?logo=docker&logoColor=white)](https://hub.docker.com/r/harisekhon/nagios-plugin-kafka)
+
+
+[![CI Builds Overview](https://img.shields.io/badge/CI%20Builds-Overview%20Page-blue?logo=circleci)](https://harisekhon.github.io/CI-CD/)
+[![Jenkins](https://img.shields.io/badge/Jenkins-ready-blue?logo=jenkins&logoColor=white)](https://github.com/HariSekhon/Nagios-Plugin-Kafka/blob/master/Jenkinsfile)
+[![Concourse](https://img.shields.io/badge/Concourse-ready-blue?logo=concourse)](https://github.com/HariSekhon/Nagios-Plugin-Kafka/blob/master/cicd/.concourse.yml)
+[![GoCD](https://img.shields.io/badge/GoCD-ready-blue?logo=go)](https://github.com/HariSekhon/Nagios-Plugin-Kafka/blob/master/cicd/.gocd.yml)
+[![TeamCity](https://img.shields.io/badge/TeamCity-ready-blue?logo=teamcity)](https://github.com/HariSekhon/TeamCity-CI)
+
+[![CircleCI](https://circleci.com/gh/HariSekhon/Nagios-Plugin-Kafka.svg?style=svg)](https://circleci.com/gh/HariSekhon/Nagios-Plugin-Kafka)
+[![BuildKite](https://img.shields.io/buildkite/835ba032422b5aa6c1df641e6a7989ac93bb8a34fcca735243/master?label=BuildKite&logo=buildkite)](https://buildkite.com/hari-sekhon/nagios-plugin-kafka)
+[![AppVeyor](https://img.shields.io/appveyor/build/harisekhon/Nagios-Plugin-Kafka/master?logo=appveyor&label=AppVeyor)](https://ci.appveyor.com/project/HariSekhon/Nagios-Plugin-Kafka/branch/master)
+[![Drone](https://img.shields.io/drone/build/HariSekhon/Nagios-Plugin-Kafka/master?logo=drone&label=Drone)](https://cloud.drone.io/HariSekhon/Nagios-Plugin-Kafka)
+[![Codefresh](https://g.codefresh.io/api/badges/pipeline/harisekhon/GitHub%2FNagios%20Plugin%20Kafka?branch=master&key=eyJhbGciOiJIUzI1NiJ9.NWU1MmM5OGNiM2FiOWUzM2Y3ZDZmYjM3.O69674cW7vYom3v5JOGKXDbYgCVIJU9EWhXUMHl3zwA&type=cf-1)](https://g.codefresh.io/pipelines/edit/new/builds?id=5e58e3573953b779e04b7907&pipeline=Nagios%20Plugin%20Kafka&projects=GitHub&projectId=5e52ca8ea284e00f882ea992&context=github&filter=page:1;pageSize:10;timeFrameStart:week)
+[![Cirrus CI](https://img.shields.io/cirrus/github/HariSekhon/Nagios-Plugin-Kafka/master?logo=Cirrus%20CI&label=Cirrus%20CI)](https://cirrus-ci.com/github/HariSekhon/Nagios-Plugin-Kafka)
+[![Semaphore](https://harisekhon.semaphoreci.com/badges/Nagios-Plugin-Kafka.svg)](https://harisekhon.semaphoreci.com/projects/Nagios-Plugin-Kafka)
+[![Buddy](https://img.shields.io/badge/Buddy-ready-1A86FD?logo=buddy)](https://github.com/HariSekhon/Nagios-Plugin-Kafka/blob/master/buddy.yml)
+[![Shippable](https://img.shields.io/badge/Shippable-legacy-lightgrey?logo=jfrog&label=Shippable)](https://github.com/HariSekhon/Nagios-Plugin-Kafka/blob/master/shippable.yml)
+[![Travis CI](https://img.shields.io/badge/TravisCI-ready-blue?logo=travis&label=Travis%20CI)](https://github.com/HariSekhon/Nagios-Plugin-Kafka/blob/master/.travis.yml)
+
+[![Azure DevOps Pipeline](https://dev.azure.com/harisekhon/GitHub/_apis/build/status/HariSekhon.Nagios-Plugin-Kafka?branchName=master)](https://dev.azure.com/harisekhon/GitHub/_build/latest?definitionId=11&branchName=master)
+[![GitLab Pipeline](https://img.shields.io/badge/GitLab%20CI-legacy-lightgrey?logo=gitlab)](https://gitlab.com/HariSekhon/Nagios-Plugin-Kafka/pipelines)
+[![BitBucket Pipeline](https://img.shields.io/badge/Bitbucket%20CI-legacy-lightgrey?logo=bitbucket)](https://bitbucket.org/harisekhon/nagios-plugin-kafka/addon/pipelines/home#!/)
+[![AWS CodeBuild](https://img.shields.io/badge/AWS%20CodeBuild-ready-blue?logo=amazon%20aws)](https://github.com/HariSekhon/Nagios-Plugin-Kafka/blob/master/cicd/buildspec.yml)
+[![GCP Cloud Build](https://img.shields.io/badge/GCP%20Cloud%20Build-ready-blue?logo=google%20cloud&logoColor=white)](https://github.com/HariSekhon/Nagios-Plugin-Kafka/blob/master/cicd/cloudbuild.yaml)
+
+[![Repo on GitHub](https://img.shields.io/badge/repo-GitHub-2088FF?logo=github)](https://github.com/HariSekhon/Nagios-Plugin-Kafka)
+[![Repo on GitLab](https://img.shields.io/badge/repo-GitLab-FCA121?logo=gitlab)](https://gitlab.com/HariSekhon/Nagios-Plugin-Kafka)
+[![Repo on Azure DevOps](https://img.shields.io/badge/repo-Azure%20DevOps-0078D7?logo=azure%20devops)](https://dev.azure.com/harisekhon/GitHub/_git/Nagios-Plugin-Kafka)
+[![Repo on BitBucket](https://img.shields.io/badge/repo-BitBucket-0052CC?logo=bitbucket)](https://bitbucket.org/HariSekhon/Nagios-Plugin-Kafka)
+
+[![ShellCheck](https://github.com/HariSekhon/lib-java/actions/workflows/shellcheck.yaml/badge.svg)](https://github.com/HariSekhon/lib-java/actions/workflows/shellcheck.yaml)
+[![JSON](https://github.com/HariSekhon/Nagios-Plugin-Kafka/actions/workflows/json.yaml/badge.svg)](https://github.com/HariSekhon/Nagios-Plugin-Kafka/actions/workflows/json.yaml)
+[![YAML](https://github.com/HariSekhon/Nagios-Plugin-Kafka/actions/workflows/yaml.yaml/badge.svg)](https://github.com/HariSekhon/Nagios-Plugin-Kafka/actions/workflows/yaml.yaml)
+[![XML](https://github.com/HariSekhon/Nagios-Plugin-Kafka/actions/workflows/xml.yaml/badge.svg)](https://github.com/HariSekhon/Nagios-Plugin-Kafka/actions/workflows/xml.yaml)
+[![Validation](https://github.com/HariSekhon/Nagios-Plugin-Kafka/actions/workflows/validate.yaml/badge.svg)](https://github.com/HariSekhon/Nagios-Plugin-Kafka/actions/workflows/validate.yaml)
+[![Kics](https://github.com/HariSekhon/Nagios-Plugin-Kafka/actions/workflows/kics.yaml/badge.svg)](https://github.com/HariSekhon/Nagios-Plugin-Kafka/actions/workflows/kics.yaml)
+[![Grype](https://github.com/HariSekhon/Nagios-Plugin-Kafka/actions/workflows/grype.yaml/badge.svg)](https://github.com/HariSekhon/Nagios-Plugin-Kafka/actions/workflows/grype.yaml)
+[![Semgrep](https://github.com/HariSekhon/Nagios-Plugin-Kafka/actions/workflows/semgrep.yaml/badge.svg)](https://github.com/HariSekhon/Nagios-Plugin-Kafka/actions/workflows/semgrep.yaml)
+[![Semgrep Cloud](https://github.com/HariSekhon/Nagios-Plugin-Kafka/actions/workflows/semgrep-cloud.yaml/badge.svg)](https://github.com/HariSekhon/Nagios-Plugin-Kafka/actions/workflows/semgrep-cloud.yaml)
+[![Trivy](https://github.com/HariSekhon/Nagios-Plugin-Kafka/actions/workflows/trivy.yaml/badge.svg)](https://github.com/HariSekhon/Nagios-Plugin-Kafka/actions/workflows/trivy.yaml)
+
+[![GitHub Actions Ubuntu](https://github.com/HariSekhon/Nagios-Plugin-Kafka/workflows/GitHub%20Actions%20Ubuntu/badge.svg)](https://github.com/HariSekhon/Nagios-Plugin-Kafka/actions?query=workflow%3A%22GitHub+Actions+Ubuntu%22)
+[![Mac](https://github.com/HariSekhon/Nagios-Plugin-Kafka/actions/workflows/mac.yaml/badge.svg)](https://github.com/HariSekhon/Nagios-Plugin-Kafka/actions/workflows/mac.yaml)
+[![Mac 11](https://github.com/HariSekhon/Nagios-Plugin-Kafka/actions/workflows/mac_11.yaml/badge.svg)](https://github.com/HariSekhon/Nagios-Plugin-Kafka/actions/workflows/mac_11.yaml)
+[![Mac 12](https://github.com/HariSekhon/Nagios-Plugin-Kafka/actions/workflows/mac_12.yaml/badge.svg)](https://github.com/HariSekhon/Nagios-Plugin-Kafka/actions/workflows/mac_12.yaml)
+[![Ubuntu](https://github.com/HariSekhon/Nagios-Plugin-Kafka/workflows/Ubuntu/badge.svg)](https://github.com/HariSekhon/Nagios-Plugin-Kafka/actions?query=workflow%3A%22Ubuntu%22)
+[![Ubuntu 20.04](https://github.com/HariSekhon/Nagios-Plugin-Kafka/workflows/Ubuntu%2020.04/badge.svg)](https://github.com/HariSekhon/Nagios-Plugin-Kafka/actions?query=workflow%3A%22Ubuntu+20.04%22)
+[![Ubuntu 22.04](https://github.com/HariSekhon/Nagios-Plugin-Kafka/workflows/Ubuntu%2022.04/badge.svg)](https://github.com/HariSekhon/Nagios-Plugin-Kafka/actions?query=workflow%3A%22Ubuntu+22.04%22)
+[![Debian](https://github.com/HariSekhon/Nagios-Plugin-Kafka/workflows/Debian/badge.svg)](https://github.com/HariSekhon/Nagios-Plugin-Kafka/actions?query=workflow%3A%22Debian%22)
+[![Debian 10](https://github.com/HariSekhon/Nagios-Plugin-Kafka/workflows/Debian%2010/badge.svg)](https://github.com/HariSekhon/Nagios-Plugin-Kafka/actions?query=workflow%3A%22Debian+10%22)
+[![Debian 11](https://github.com/HariSekhon/Nagios-Plugin-Kafka/workflows/Debian%2011/badge.svg)](https://github.com/HariSekhon/Nagios-Plugin-Kafka/actions?query=workflow%3A%22Debian+11%22)
+[![Debian 12](https://github.com/HariSekhon/Nagios-Plugin-Kafka/workflows/Debian%2012/badge.svg)](https://github.com/HariSekhon/Nagios-Plugin-Kafka/actions?query=workflow%3A%22Debian+12%22)
+[![Fedora](https://github.com/HariSekhon/Nagios-Plugin-Kafka/workflows/Fedora/badge.svg)](https://github.com/HariSekhon/Nagios-Plugin-Kafka/actions?query=workflow%3A%22Fedora%22)
+[![Alpine](https://github.com/HariSekhon/Nagios-Plugin-Kafka/workflows/Alpine/badge.svg)](https://github.com/HariSekhon/Nagios-Plugin-Kafka/actions?query=workflow%3A%22Alpine%22)
+[![Alpine 3](https://github.com/HariSekhon/Nagios-Plugin-Kafka/workflows/Alpine%203/badge.svg)](https://github.com/HariSekhon/Nagios-Plugin-Kafka/actions?query=workflow%3A%22Alpine+3%22)
+
+[![Maven](https://github.com/HariSekhon/Nagios-Plugin-Kafka/workflows/Maven/badge.svg)](https://github.com/HariSekhon/Nagios-Plugin-Kafka/actions?query=workflow%3A%22Maven%22)
+[![SBT](https://github.com/HariSekhon/Nagios-Plugin-Kafka/workflows/SBT/badge.svg)](https://github.com/HariSekhon/Nagios-Plugin-Kafka/actions?query=workflow%3A%22SBT%22)
+[![Gradle](https://github.com/HariSekhon/Nagios-Plugin-Kafka/workflows/Gradle/badge.svg)](https://github.com/HariSekhon/Nagios-Plugin-Kafka/actions?query=workflow%3A%22Gradle%22)
+
+[git.io/nagios-plugin-kafka](https://git.io/nagios-plugin-kafka)
 
 
 ---
