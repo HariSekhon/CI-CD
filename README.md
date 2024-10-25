@@ -1,9 +1,9 @@
 # CI/CD Status Page
 
 ![Original Repos](https://img.shields.io/badge/Repos-33-blue?logo=github)
-![Stars](https://img.shields.io/badge/Stars-10473-blue?logo=github)
-![Forks](https://img.shields.io/badge/Forks-2934-blue?logo=github)
-![Followers](https://img.shields.io/badge/Followers-1713-blue?logo=github)
+![Stars](https://img.shields.io/badge/Stars-10481-blue?logo=github)
+![Forks](https://img.shields.io/badge/Forks-2935-blue?logo=github)
+![Followers](https://img.shields.io/badge/Followers-1714-blue?logo=github)
 ![Lines of Code](https://img.shields.io/badge/lines%20of%20code-296.3k-lightgrey?logo=codecademy)
 [![GitStar Ranking Profile](https://img.shields.io/badge/GitStar%20Ranking-HariSekhon-blue?logo=github)](https://gitstar-ranking.com/HariSekhon)
 [![StarCharts](https://img.shields.io/badge/Star-Charts-blue?logo=github)](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/STARCHARTS.md)
@@ -19,7 +19,7 @@
 [![Generate README](https://github.com/HariSekhon/CI-CD/actions/workflows/readme.yaml/badge.svg)](https://github.com/HariSekhon/CI-CD/actions/workflows/readme.yaml)
 [![pages-build-deployment](https://github.com/HariSekhon/CI-CD/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/HariSekhon/CI-CD/actions/workflows/pages/pages-build-deployment)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/853ef60c-c01b-4b83-99ba-8fda541f850f/deploy-status)](https://app.netlify.com/sites/harisekhon/deploys)
-![Last Generated](https://img.shields.io/badge/Last%20Generated-2024--10--24-yellowgreen?logo=github)
+![Last Generated](https://img.shields.io/badge/Last%20Generated-2024--10--25-yellowgreen?logo=github)
 [![GitHub Last Commit](https://img.shields.io/github/last-commit/HariSekhon/CI-CD?logo=github)](https://github.com/HariSekhon/CI-CD/commits/master)
 
 33 original source git repos with 705 CI builds (680 hosted, 25 self-hosted) across 23 different CI/CD systems:
@@ -982,37 +982,6 @@ Jenkins CI/CD - Advanced Jenkinsfile & Groovy Shared Library of reusable functio
 
 
 ---
-# GitHub Actions
-
-Link:  [HariSekhon/GitHub-Actions](https://github.com/HariSekhon/GitHub-Actions)
-
-GitHub Actions CI/CD - Master Template & Reusable Workflows Library - Docker Builds, AWS, Python, Terraform, Jenkins, Linting, Security Scanning, Make Builds etc.
-
-[![GitHub stars](https://img.shields.io/github/stars/HariSekhon/GitHub-Actions?logo=github)](https://github.com/HariSekhon/GitHub-Actions/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/HariSekhon/GitHub-Actions?logo=github)](https://github.com/HariSekhon/GitHub-Actions/network)
-[![Lines of Code](https://img.shields.io/badge/lines%20of%20code-6.5k-lightgrey?logo=codecademy)](https://github.com/HariSekhon/GitHub-Actions)
-[![License](https://img.shields.io/github/license/HariSekhon/GitHub-Actions)](https://github.com/HariSekhon/GitHub-Actions/blob/master/LICENSE)
-[![My LinkedIn](https://img.shields.io/badge/LinkedIn%20Profile-HariSekhon-blue?logo=data:image/svg%2bxml;base64,PHN2ZyByb2xlPSJpbWciIGZpbGw9IiNmZmZmZmYiIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+TGlua2VkSW48L3RpdGxlPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPgo=)](https://www.linkedin.com/in/HariSekhon/)
-[![GitHub Last Commit](https://img.shields.io/github/last-commit/HariSekhon/GitHub-Actions?logo=github)](https://github.com/HariSekhon/GitHub-Actions/commits/master)
-
-[![CI Builds Overview](https://img.shields.io/badge/CI%20Builds-Overview%20Page-blue?logo=circleci)](https://harisekhon.github.io/CI-CD/)
-[![YAML](https://github.com/HariSekhon/GitHub-Actions/actions/workflows/yaml.yaml/badge.svg)](https://github.com/HariSekhon/GitHub-Actions/actions/workflows/yaml.yaml)
-[![Markdown Lint](https://github.com/HariSekhon/GitHub-Actions/actions/workflows/markdown.yaml/badge.svg)](https://github.com/HariSekhon/GitHub-Actions/actions/workflows/markdown.yaml)
-[![Validation](https://github.com/HariSekhon/GitHub-Actions/actions/workflows/validate.yaml/badge.svg)](https://github.com/HariSekhon/GitHub-Actions/actions/workflows/validate.yaml)
-[![Grype](https://github.com/HariSekhon/GitHub-Actions/actions/workflows/grype.yaml/badge.svg)](https://github.com/HariSekhon/GitHub-Actions/actions/workflows/grype.yaml)
-[![Kics](https://github.com/HariSekhon/GitHub-Actions/actions/workflows/kics.yaml/badge.svg)](https://github.com/HariSekhon/GitHub-Actions/actions/workflows/kics.yaml)
-[![Semgrep](https://github.com/HariSekhon/GitHub-Actions/actions/workflows/semgrep.yaml/badge.svg)](https://github.com/HariSekhon/GitHub-Actions/actions/workflows/semgrep.yaml)
-[![Semgrep Cloud](https://github.com/HariSekhon/GitHub-Actions/actions/workflows/semgrep-cloud.yaml/badge.svg)](https://github.com/HariSekhon/GitHub-Actions/actions/workflows/semgrep-cloud.yaml)
-[![URL Links](https://github.com/HariSekhon/GitHub-Actions/actions/workflows/url_links.yaml/badge.svg)](https://github.com/HariSekhon/GitHub-Actions/actions/workflows/url_links.yaml)
-[![Trivy](https://github.com/HariSekhon/GitHub-Actions/actions/workflows/trivy.yaml/badge.svg)](https://github.com/HariSekhon/GitHub-Actions/actions/workflows/trivy.yaml)
-
-[![Repo on GitHub](https://img.shields.io/badge/repo-GitHub-2088FF?logo=github)](https://github.com/HariSekhon/GitHub-Actions)
-[![Repo on GitLab](https://img.shields.io/badge/repo-GitLab-FCA121?logo=gitlab)](https://gitlab.com/HariSekhon/GitHub-Actions)
-[![Repo on Azure DevOps](https://img.shields.io/badge/repo-Azure%20DevOps-0078D7?logo=azure%20devops)](https://dev.azure.com/harisekhon/GitHub/_git/GitHub-Actions)
-[![Repo on BitBucket](https://img.shields.io/badge/repo-BitBucket-0052CC?logo=bitbucket)](https://bitbucket.org/HariSekhon/GitHub-Actions)
-
-
----
 # Hari Sekhon - DevOps Golang Tools
 
 Link:  [HariSekhon/DevOps-Golang-tools](https://github.com/HariSekhon/DevOps-Golang-tools)
@@ -1115,6 +1084,37 @@ DevOps Golang tools
 [![Golang 1.18](https://github.com/HariSekhon/DevOps-Golang-tools/workflows/Golang%201.18/badge.svg)](https://github.com/HariSekhon/DevOps-Golang-tools/actions?query=workflow%3A%22Golang+1.18%22)
 
 [git.io/go-tools](https://git.io/go-tools)
+
+
+---
+# GitHub Actions
+
+Link:  [HariSekhon/GitHub-Actions](https://github.com/HariSekhon/GitHub-Actions)
+
+GitHub Actions CI/CD - Master Template & Reusable Workflows Library - Docker Builds, AWS, Python, Terraform, Jenkins, Linting, Security Scanning, Make Builds etc.
+
+[![GitHub stars](https://img.shields.io/github/stars/HariSekhon/GitHub-Actions?logo=github)](https://github.com/HariSekhon/GitHub-Actions/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/HariSekhon/GitHub-Actions?logo=github)](https://github.com/HariSekhon/GitHub-Actions/network)
+[![Lines of Code](https://img.shields.io/badge/lines%20of%20code-6.5k-lightgrey?logo=codecademy)](https://github.com/HariSekhon/GitHub-Actions)
+[![License](https://img.shields.io/github/license/HariSekhon/GitHub-Actions)](https://github.com/HariSekhon/GitHub-Actions/blob/master/LICENSE)
+[![My LinkedIn](https://img.shields.io/badge/LinkedIn%20Profile-HariSekhon-blue?logo=data:image/svg%2bxml;base64,PHN2ZyByb2xlPSJpbWciIGZpbGw9IiNmZmZmZmYiIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+TGlua2VkSW48L3RpdGxlPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPgo=)](https://www.linkedin.com/in/HariSekhon/)
+[![GitHub Last Commit](https://img.shields.io/github/last-commit/HariSekhon/GitHub-Actions?logo=github)](https://github.com/HariSekhon/GitHub-Actions/commits/master)
+
+[![CI Builds Overview](https://img.shields.io/badge/CI%20Builds-Overview%20Page-blue?logo=circleci)](https://harisekhon.github.io/CI-CD/)
+[![YAML](https://github.com/HariSekhon/GitHub-Actions/actions/workflows/yaml.yaml/badge.svg)](https://github.com/HariSekhon/GitHub-Actions/actions/workflows/yaml.yaml)
+[![Markdown Lint](https://github.com/HariSekhon/GitHub-Actions/actions/workflows/markdown.yaml/badge.svg)](https://github.com/HariSekhon/GitHub-Actions/actions/workflows/markdown.yaml)
+[![Validation](https://github.com/HariSekhon/GitHub-Actions/actions/workflows/validate.yaml/badge.svg)](https://github.com/HariSekhon/GitHub-Actions/actions/workflows/validate.yaml)
+[![Grype](https://github.com/HariSekhon/GitHub-Actions/actions/workflows/grype.yaml/badge.svg)](https://github.com/HariSekhon/GitHub-Actions/actions/workflows/grype.yaml)
+[![Kics](https://github.com/HariSekhon/GitHub-Actions/actions/workflows/kics.yaml/badge.svg)](https://github.com/HariSekhon/GitHub-Actions/actions/workflows/kics.yaml)
+[![Semgrep](https://github.com/HariSekhon/GitHub-Actions/actions/workflows/semgrep.yaml/badge.svg)](https://github.com/HariSekhon/GitHub-Actions/actions/workflows/semgrep.yaml)
+[![Semgrep Cloud](https://github.com/HariSekhon/GitHub-Actions/actions/workflows/semgrep-cloud.yaml/badge.svg)](https://github.com/HariSekhon/GitHub-Actions/actions/workflows/semgrep-cloud.yaml)
+[![URL Links](https://github.com/HariSekhon/GitHub-Actions/actions/workflows/url_links.yaml/badge.svg)](https://github.com/HariSekhon/GitHub-Actions/actions/workflows/url_links.yaml)
+[![Trivy](https://github.com/HariSekhon/GitHub-Actions/actions/workflows/trivy.yaml/badge.svg)](https://github.com/HariSekhon/GitHub-Actions/actions/workflows/trivy.yaml)
+
+[![Repo on GitHub](https://img.shields.io/badge/repo-GitHub-2088FF?logo=github)](https://github.com/HariSekhon/GitHub-Actions)
+[![Repo on GitLab](https://img.shields.io/badge/repo-GitLab-FCA121?logo=gitlab)](https://gitlab.com/HariSekhon/GitHub-Actions)
+[![Repo on Azure DevOps](https://img.shields.io/badge/repo-Azure%20DevOps-0078D7?logo=azure%20devops)](https://dev.azure.com/harisekhon/GitHub/_git/GitHub-Actions)
+[![Repo on BitBucket](https://img.shields.io/badge/repo-BitBucket-0052CC?logo=bitbucket)](https://bitbucket.org/HariSekhon/GitHub-Actions)
 
 
 ---
@@ -1683,6 +1683,22 @@ Ansible playbooks
 
 
 ---
+# Hari Sekhon's GitHub
+
+Link:  [HariSekhon/HariSekhon](https://github.com/HariSekhon/HariSekhon)
+
+GitHub Home Page
+
+
+
+
+[![GitHub Profile Views](https://komarev.com/ghpvc/?username=your-github-username&color=blue&label=GitHub+Profile+Views)](https://github.com/HariSekhon)
+[![GitStar Ranking Profile](https://img.shields.io/badge/GitStar%20Ranking%20By%20Repo%20Stars-Top_0.01%25-blue?logo=github)](https://gitstar-ranking.com/HariSekhon)
+[![StarCharts](https://img.shields.io/badge/Star-Charts-blue?logo=github)](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/STARCHARTS.md)
+[![DockerHub](https://img.shields.io/badge/DockerHub-harisekhon-blue?logo=docker&logoColor=white)](https://hub.docker.com/u/harisekhon/)
+
+
+---
 # Hari Sekhon - Prometheus
 
 Link:  [HariSekhon/Prometheus](https://github.com/HariSekhon/Prometheus)
@@ -1842,22 +1858,6 @@ Generates a MermaidJS Gantt Chart of a GitHub user's public repos activity dates
 [![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_GitHub-Repos-MermaidJS-Gantt-Chart&metric=sqale_rating)](https://sonarcloud.io/dashboard?id=HariSekhon_GitHub-Repos-MermaidJS-Gantt-Chart)
 [![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_GitHub-Repos-MermaidJS-Gantt-Chart&metric=reliability_rating)](https://sonarcloud.io/dashboard?id=HariSekhon_GitHub-Repos-MermaidJS-Gantt-Chart)
 [![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_GitHub-Repos-MermaidJS-Gantt-Chart&metric=security_rating)](https://sonarcloud.io/dashboard?id=HariSekhon_GitHub-Repos-MermaidJS-Gantt-Chart)
-
-
----
-# Hari Sekhon's GitHub
-
-Link:  [HariSekhon/HariSekhon](https://github.com/HariSekhon/HariSekhon)
-
-GitHub Home Page
-
-
-
-
-[![GitHub Profile Views](https://komarev.com/ghpvc/?username=your-github-username&color=blue&label=GitHub+Profile+Views)](https://github.com/HariSekhon)
-[![GitStar Ranking Profile](https://img.shields.io/badge/GitStar%20Ranking%20By%20Repo%20Stars-Top_0.01%25-blue?logo=github)](https://gitstar-ranking.com/HariSekhon)
-[![StarCharts](https://img.shields.io/badge/Star-Charts-blue?logo=github)](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/STARCHARTS.md)
-[![DockerHub](https://img.shields.io/badge/DockerHub-harisekhon-blue?logo=docker&logoColor=white)](https://hub.docker.com/u/harisekhon/)
 
 
 
