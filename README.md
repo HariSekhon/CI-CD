@@ -1,9 +1,9 @@
 # CI/CD Status Page
 
 ![Original Repos](https://img.shields.io/badge/Repos-35-blue?logo=github)
-![Stars](https://img.shields.io/badge/Stars-10773-blue?logo=github)
-![Forks](https://img.shields.io/badge/Forks-2990-blue?logo=github)
-![Followers](https://img.shields.io/badge/Followers-1746-blue?logo=github)
+![Stars](https://img.shields.io/badge/Stars-10916-blue?logo=github)
+![Forks](https://img.shields.io/badge/Forks-3015-blue?logo=github)
+![Followers](https://img.shields.io/badge/Followers-1763-blue?logo=github)
 ![Lines of Code](https://img.shields.io/badge/lines%20of%20code-298.3k-lightgrey?logo=codecademy)
 [![GitStar Ranking Profile](https://img.shields.io/badge/GitStar%20Ranking-HariSekhon-blue?logo=github)](https://gitstar-ranking.com/HariSekhon)
 [![StarCharts](https://img.shields.io/badge/Star-Charts-blue?logo=github)](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/STARCHARTS.md)
@@ -15,14 +15,14 @@
 [![GitHub Pages](https://img.shields.io/badge/GitHub-Pages-2088FF?logo=github)](https://harisekhon.github.io/CI-CD/)
 [![Netlify](https://img.shields.io/badge/Netlify-site-00C7B7?logo=netlify)](https://harisekhon.netlify.app/)
 
-[![CI/CD Builds](https://img.shields.io/badge/CI%2FCD%20Builds-715-blue?logo=circleci)](https://harisekhon.github.io/CI-CD/)
+[![CI/CD Builds](https://img.shields.io/badge/CI%2FCD%20Builds-726-blue?logo=circleci)](https://harisekhon.github.io/CI-CD/)
 [![Generate README](https://github.com/HariSekhon/CI-CD/actions/workflows/readme.yaml/badge.svg)](https://github.com/HariSekhon/CI-CD/actions/workflows/readme.yaml)
 [![pages-build-deployment](https://github.com/HariSekhon/CI-CD/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/HariSekhon/CI-CD/actions/workflows/pages/pages-build-deployment)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/853ef60c-c01b-4b83-99ba-8fda541f850f/deploy-status)](https://app.netlify.com/sites/harisekhon/deploys)
-![Last Generated](https://img.shields.io/badge/Last%20Generated-2024--11--25-yellowgreen?logo=github)
+![Last Generated](https://img.shields.io/badge/Last%20Generated-2024--12--02-yellowgreen?logo=github)
 [![GitHub Last Commit](https://img.shields.io/github/last-commit/HariSekhon/CI-CD?logo=github)](https://github.com/HariSekhon/CI-CD/commits/master)
 
-35 original source git repos with 715 CI builds (690 hosted, 25 self-hosted) across 23 different CI/CD systems:
+35 original source git repos with 726 CI builds (701 hosted, 25 self-hosted) across 23 different CI/CD systems:
 
 ---
 # Hari Sekhon - DevOps Bash Tools
@@ -1910,19 +1910,59 @@ Generates an SVG graph of GitHub commit activity by hour for given repos or all 
 
 
 ---
-# Hari Sekhon - Template Repo
+# Hari Sekhon - Environments
 
 Link:  [HariSekhon/Environments](https://github.com/HariSekhon/Environments)
 
 Production .envrc files for AWS & GCP with auto-login, auto EKS / GKE context and namespace switching etc.
 
-[![GitHub stars](https://img.shields.io/github/stars/HariSekhon/Template-Repo?logo=github)](https://github.com/HariSekhon/Template-Repo/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/HariSekhon/Template-Repo?logo=github)](https://github.com/HariSekhon/Template-Repo/network)
-[![Lines of Code](https://img.shields.io/badge/lines%20of%20code-1k-lightgrey?logo=codecademy)](https://github.com/HariSekhon/Template-Repo#Hari-Sekhon---Template-Repo)
-[![License](https://img.shields.io/badge/license-MIT-green)](https://github.com/HariSekhon/Template-Repo/blob/master/LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/HariSekhon/Environments?logo=github)](https://github.com/HariSekhon/Environments/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/HariSekhon/Environments?logo=github)](https://github.com/HariSekhon/Environments/network)
+[![Lines of Code](https://img.shields.io/badge/lines%20of%20code-1k-lightgrey?logo=codecademy)](https://github.com/HariSekhon/Environments#Hari-Sekhon---Environments)
+[![License](https://img.shields.io/badge/license-MIT-green)](https://github.com/HariSekhon/Environments/blob/master/LICENSE)
 [![My LinkedIn](https://img.shields.io/badge/LinkedIn%20Profile-HariSekhon-blue?logo=data:image/svg%2bxml;base64,PHN2ZyByb2xlPSJpbWciIGZpbGw9IiNmZmZmZmYiIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+TGlua2VkSW48L3RpdGxlPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPgo=)](https://www.linkedin.com/in/HariSekhon/)
-[![GitHub Last Commit](https://img.shields.io/github/last-commit/HariSekhon/Template-Repo?logo=github)](https://github.com/HariSekhon/Template-Repo/commits/master)
+[![GitHub Last Commit](https://img.shields.io/github/last-commit/HariSekhon/Environments?logo=github)](https://github.com/HariSekhon/Environments/commits/master)
+
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/e0f42ee3818d4a1f875f5a274e7b0cf3)](https://app.codacy.com/gh/HariSekhon/Environments/dashboard)
+[![CodeFactor](https://www.codefactor.io/repository/github/harisekhon/Environments/badge)](https://www.codefactor.io/repository/github/harisekhon/Environments)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_Environments&metric=alert_status)](https://sonarcloud.io/dashboard?id=HariSekhon_Environments)
+[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_Environments&metric=sqale_rating)](https://sonarcloud.io/dashboard?id=HariSekhon_Environments)
+[![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_Environments&metric=reliability_rating)](https://sonarcloud.io/dashboard?id=HariSekhon_Environments)
+[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_Environments&metric=security_rating)](https://sonarcloud.io/dashboard?id=HariSekhon_Environments)
+
+[![Python](https://img.shields.io/badge/Python-3-blue?logo=python&logoColor=white)](#readme)
+[![Linux](https://img.shields.io/badge/OS-Linux-blue?logo=linux)](https://github.com/HariSekhon/DevOps-Bash-tools#hari-sekhon---devops-bash-tools)
+[![Mac](https://img.shields.io/badge/OS-Mac-blue?logo=apple)](https://github.com/HariSekhon/DevOps-Bash-tools#hari-sekhon---devops-bash-tools)
+
+[![Mac Homebrew](https://img.shields.io/badge/Mac-Homebrew-999999?logo=apple&logoColor=white)](https://brew.sh/)
+[![Alpine](https://img.shields.io/badge/Linux-Alpine-0D597F?logo=alpine%20linux)](https://alpinelinux.org/)
+[![CentOS](https://img.shields.io/badge/Linux-CentOS-262577?logo=centos&logoColor=white)](https://www.centos.org/)
+[![Debian](https://img.shields.io/badge/Linux-Debian-A81D33?logo=debian)](https://www.debian.org/)
+[![Fedora](https://img.shields.io/badge/Linux-Fedora-294172?logo=fedora&logoColor=white)](https://getfedora.org/)
+[![Redhat](https://img.shields.io/badge/Linux-Redhat-EE0000?logo=red%20hat)](https://www.redhat.com/en)
+[![Rocky](https://img.shields.io/badge/Linux-Rocky-10B981?logo=rockylinux&logoColor=white)](https://rockylinux.org/)
+[![Ubuntu](https://img.shields.io/badge/Linux-Ubuntu-E95420?logo=ubuntu&logoColor=white)](https://ubuntu.com/)
+
+
+[![CI Builds Overview](https://img.shields.io/badge/CI%20Builds-Overview%20Page-blue?logo=circleci)](https://harisekhon.github.io/CI-CD/)
+[![Azure DevOps Pipeline](https://dev.azure.com/harisekhon/GitHub/_apis/build/status%2FEnvironments?branchName=master)](https://dev.azure.com/harisekhon/GitHub/_build/latest?definitionId=15&branchName=master)
+[![GitLab Pipeline](https://img.shields.io/badge/GitLab%20CI-legacy-lightgrey?logo=gitlab)](https://gitlab.com/HariSekhon/Environments/pipelines)
+[![BitBucket Pipeline](https://img.shields.io/badge/Bitbucket%20CI-legacy-lightgrey?logo=bitbucket)](https://bitbucket.org/HariSekhon/Environments/addon/pipelines/home#!/)
+
+[![Repo on GitHub](https://img.shields.io/badge/repo-GitHub-2088FF?logo=github)](https://github.com/HariSekhon/Environments)
+[![Repo on GitLab](https://img.shields.io/badge/repo-GitLab-FCA121?logo=gitlab)](https://gitlab.com/HariSekhon/Environments)
+[![Repo on Azure DevOps](https://img.shields.io/badge/repo-Azure%20DevOps-0078D7?logo=azure%20devops)](https://dev.azure.com/HariSekhon/GitHub/_git/Environments)
+[![Repo on BitBucket](https://img.shields.io/badge/repo-BitBucket-0052CC?logo=bitbucket)](https://bitbucket.org/HariSekhon/Environments)
+
+[![Markdown](https://github.com/HariSekhon/Environments/actions/workflows/markdown.yaml/badge.svg)](https://github.com/HariSekhon/Environments/actions/workflows/markdown.yaml)
+[![Validation](https://github.com/HariSekhon/Environments/actions/workflows/validate.yaml/badge.svg)](https://github.com/HariSekhon/Environments/actions/workflows/validate.yaml)
+[![Kics](https://github.com/HariSekhon/Environments/actions/workflows/kics.yaml/badge.svg)](https://github.com/HariSekhon/Environments/actions/workflows/kics.yaml)
+[![Grype](https://github.com/HariSekhon/Environments/actions/workflows/grype.yaml/badge.svg)](https://github.com/HariSekhon/Environments/actions/workflows/grype.yaml)
+[![Semgrep](https://github.com/HariSekhon/Environments/actions/workflows/semgrep.yaml/badge.svg)](https://github.com/HariSekhon/Environments/actions/workflows/semgrep.yaml)
+[![Semgrep Cloud](https://github.com/HariSekhon/Environments/actions/workflows/semgrep-cloud.yaml/badge.svg)](https://github.com/HariSekhon/Environments/actions/workflows/semgrep-cloud.yaml)
+[![SonarCloud](https://github.com/HariSekhon/Environments/actions/workflows/sonarcloud.yaml/badge.svg)](https://github.com/HariSekhon/Environments/actions/workflows/sonarcloud.yaml)
+[![Trivy](https://github.com/HariSekhon/Environments/actions/workflows/trivy.yaml/badge.svg)](https://github.com/HariSekhon/Environments/actions/workflows/trivy.yaml)
 
 
 
-35 git repos summarized with 715 CI builds (690 hosted, 25 self-hosted) across 23 different CI/CD systems
+35 git repos summarized with 726 CI builds (701 hosted, 25 self-hosted) across 23 different CI/CD systems
