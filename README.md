@@ -1,9 +1,9 @@
 # CI/CD Status Page
 
 ![Original Repos](https://img.shields.io/badge/Repos-35-blue?logo=github)
-![Stars](https://img.shields.io/badge/Stars-11320-blue?logo=github)
-![Forks](https://img.shields.io/badge/Forks-3104-blue?logo=github)
-![Followers](https://img.shields.io/badge/Followers-1794-blue?logo=github)
+![Stars](https://img.shields.io/badge/Stars-11378-blue?logo=github)
+![Forks](https://img.shields.io/badge/Forks-3114-blue?logo=github)
+![Followers](https://img.shields.io/badge/Followers-1800-blue?logo=github)
 ![Lines of Code](https://img.shields.io/badge/lines%20of%20code-298.3k-lightgrey?logo=codecademy)
 [![GitStar Ranking Profile](https://img.shields.io/badge/GitStar%20Ranking-HariSekhon-blue?logo=github)](https://gitstar-ranking.com/HariSekhon)
 [![StarCharts](https://img.shields.io/badge/Star-Charts-blue?logo=github)](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/STARCHARTS.md)
@@ -19,7 +19,7 @@
 [![Generate README](https://github.com/HariSekhon/CI-CD/actions/workflows/readme.yaml/badge.svg)](https://github.com/HariSekhon/CI-CD/actions/workflows/readme.yaml)
 [![pages-build-deployment](https://github.com/HariSekhon/CI-CD/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/HariSekhon/CI-CD/actions/workflows/pages/pages-build-deployment)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/853ef60c-c01b-4b83-99ba-8fda541f850f/deploy-status)](https://app.netlify.com/sites/harisekhon/deploys)
-![Last Generated](https://img.shields.io/badge/Last%20Generated-2024--12--30-yellowgreen?logo=github)
+![Last Generated](https://img.shields.io/badge/Last%20Generated-2025--01--06-yellowgreen?logo=github)
 [![GitHub Last Commit](https://img.shields.io/github/last-commit/HariSekhon/CI-CD?logo=github)](https://github.com/HariSekhon/CI-CD/commits/master)
 
 35 original source git repos with 726 CI builds (701 hosted, 25 self-hosted) across 23 different CI/CD systems:
@@ -1325,6 +1325,14 @@ Template repo to quickly create new Github repos with Builds, CI/CD, Linting, Se
 
 
 ---
+# CI/CD Status Page
+
+Link:  [HariSekhon/CI-CD](https://github.com/HariSekhon/CI-CD)
+
+CI/CD Status page for Hari Sekhon's GitHub repos
+
+
+---
 # Hari Sekhon - Python / Jython Library
 
 Link:  [HariSekhon/pylib](https://github.com/HariSekhon/pylib)
@@ -1425,14 +1433,6 @@ Python / Jython Utility Library for my other repos
 [![Python 3.11](https://github.com/HariSekhon/pylib/workflows/Python%203.11/badge.svg)](https://github.com/HariSekhon/pylib/actions?query=workflow%3A%22Python+3.11%22)
 
 [git.io/python-lib](https://git.io/pylib)
-
-
----
-# CI/CD Status Page
-
-Link:  [HariSekhon/CI-CD](https://github.com/HariSekhon/CI-CD)
-
-CI/CD Status page for Hari Sekhon's GitHub repos
 
 
 ---
@@ -1685,47 +1685,6 @@ Ansible playbooks
 
 
 ---
-# Hari Sekhon's GitHub
-
-Link:  [HariSekhon/HariSekhon](https://github.com/HariSekhon/HariSekhon)
-
-GitHub Home Page
-
-
-
-
-[![GitHub Profile Views](https://komarev.com/ghpvc/?username=your-github-username&color=blue&label=GitHub+Profile+Views)](https://github.com/HariSekhon)
-[![GitStar Rank](https://img.shields.io/badge/GitStar%20Rank%20by%20Repo%20Stars-Top_0.01%25-blue?logo=github)](https://gitstar-ranking.com/HariSekhon)
-[![GitRoll Rank Globally](https://img.shields.io/badge/GitRoll%20Rank%20Globally-Top_2%25-blue?logo=github)](https://gitroll.io/profile/u5eNfjd3L4KXzBVekMrxkLvCEmYt2)
-[![GitRoll Rank UK](https://img.shields.io/badge/GitRoll%20Rank%20UK-Top_5%25-blue?logo=github)](https://gitroll.io/profile/u5eNfjd3L4KXzBVekMrxkLvCEmYt2)
-[![GitRoll Language Breakdown](https://img.shields.io/badge/GitRoll-Language%20Breakdown-blue?logo=github)](https://gitroll.io/profile/u5eNfjd3L4KXzBVekMrxkLvCEmYt2/languages)
-[![GitRoll TechStacks Breakdown](https://img.shields.io/badge/GitRoll-Tech%20Stack%20Breakdown-blue?logo=github)](https://gitroll.io/profile/u5eNfjd3L4KXzBVekMrxkLvCEmYt2/stacks)
-[![StarCharts](https://img.shields.io/badge/Star-Charts-blue?logo=github)](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/STARCHARTS.md)
-
-
----
-# Hari Sekhon - Prometheus
-
-Link:  [HariSekhon/Prometheus](https://github.com/HariSekhon/Prometheus)
-
-Prometheus deployment / management code
-
-[![GitHub stars](https://img.shields.io/github/stars/HariSekhon/Prometheus?logo=github)](https://github.com/HariSekhon/Prometheus/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/HariSekhon/Prometheus?logo=github)](https://github.com/HariSekhon/Prometheus/network)
-[![Lines of Code](https://img.shields.io/badge/lines%20of%20code-1k-lightgrey?logo=codecademy)](https://github.com/HariSekhon/Prometheus#Hari-Sekhon---Prometheus)
-[![License](https://img.shields.io/badge/license-MIT-green)](https://github.com/HariSekhon/Prometheus/blob/master/LICENSE)
-[![My LinkedIn](https://img.shields.io/badge/LinkedIn%20Profile-HariSekhon-blue?logo=data:image/svg%2bxml;base64,PHN2ZyByb2xlPSJpbWciIGZpbGw9IiNmZmZmZmYiIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+TGlua2VkSW48L3RpdGxlPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPgo=)](https://www.linkedin.com/in/HariSekhon/)
-[![GitHub Last Commit](https://img.shields.io/github/last-commit/HariSekhon/Prometheus?logo=github)](https://github.com/HariSekhon/Prometheus/commits/master)
-
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/94c789d1498c48f9b3f8da83e306dbdd)](https://app.codacy.com/gh/HariSekhon/Prometheus/dashboard)
-[![CodeFactor](https://www.codefactor.io/repository/github/harisekhon/Prometheus/badge)](https://www.codefactor.io/repository/github/harisekhon/Prometheus)
-[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_Prometheus&metric=alert_status)](https://sonarcloud.io/dashboard?id=HariSekhon_Prometheus)
-[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_Prometheus&metric=sqale_rating)](https://sonarcloud.io/dashboard?id=HariSekhon_Prometheus)
-[![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_Prometheus&metric=reliability_rating)](https://sonarcloud.io/dashboard?id=HariSekhon_Prometheus)
-[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_Prometheus&metric=security_rating)](https://sonarcloud.io/dashboard?id=HariSekhon_Prometheus)
-
-
----
 # Hari Sekhon - TamperMonkey Scripts
 
 Link:  [HariSekhon/TamperMonkey](https://github.com/HariSekhon/TamperMonkey)
@@ -1770,6 +1729,47 @@ TamperMonkey Scripts - eg. auto-fill Jira ticket description field to meet Agile
 [![Semgrep Cloud](https://github.com/HariSekhon/TamperMonkey/actions/workflows/semgrep-cloud.yaml/badge.svg)](https://github.com/HariSekhon/TamperMonkey/actions/workflows/semgrep-cloud.yaml)
 [![SonarCloud](https://github.com/HariSekhon/TamperMonkey/actions/workflows/sonarcloud.yaml/badge.svg)](https://github.com/HariSekhon/TamperMonkey/actions/workflows/sonarcloud.yaml)
 [![Trivy](https://github.com/HariSekhon/TamperMonkey/actions/workflows/trivy.yaml/badge.svg)](https://github.com/HariSekhon/TamperMonkey/actions/workflows/trivy.yaml)
+
+
+---
+# Hari Sekhon's GitHub
+
+Link:  [HariSekhon/HariSekhon](https://github.com/HariSekhon/HariSekhon)
+
+GitHub Home Page
+
+
+
+
+[![GitHub Profile Views](https://komarev.com/ghpvc/?username=your-github-username&color=blue&label=GitHub+Profile+Views)](https://github.com/HariSekhon)
+[![GitStar Rank](https://img.shields.io/badge/GitStar%20Rank%20by%20Repo%20Stars-Top_0.01%25-blue?logo=github)](https://gitstar-ranking.com/HariSekhon)
+[![GitRoll Rank Globally](https://img.shields.io/badge/GitRoll%20Rank%20Globally-Top_2%25-blue?logo=github)](https://gitroll.io/profile/u5eNfjd3L4KXzBVekMrxkLvCEmYt2)
+[![GitRoll Rank UK](https://img.shields.io/badge/GitRoll%20Rank%20UK-Top_5%25-blue?logo=github)](https://gitroll.io/profile/u5eNfjd3L4KXzBVekMrxkLvCEmYt2)
+[![GitRoll Language Breakdown](https://img.shields.io/badge/GitRoll-Language%20Breakdown-blue?logo=github)](https://gitroll.io/profile/u5eNfjd3L4KXzBVekMrxkLvCEmYt2/languages)
+[![GitRoll TechStacks Breakdown](https://img.shields.io/badge/GitRoll-Tech%20Stack%20Breakdown-blue?logo=github)](https://gitroll.io/profile/u5eNfjd3L4KXzBVekMrxkLvCEmYt2/stacks)
+[![StarCharts](https://img.shields.io/badge/Star-Charts-blue?logo=github)](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/STARCHARTS.md)
+
+
+---
+# Hari Sekhon - Prometheus
+
+Link:  [HariSekhon/Prometheus](https://github.com/HariSekhon/Prometheus)
+
+Prometheus deployment / management code
+
+[![GitHub stars](https://img.shields.io/github/stars/HariSekhon/Prometheus?logo=github)](https://github.com/HariSekhon/Prometheus/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/HariSekhon/Prometheus?logo=github)](https://github.com/HariSekhon/Prometheus/network)
+[![Lines of Code](https://img.shields.io/badge/lines%20of%20code-1k-lightgrey?logo=codecademy)](https://github.com/HariSekhon/Prometheus#Hari-Sekhon---Prometheus)
+[![License](https://img.shields.io/badge/license-MIT-green)](https://github.com/HariSekhon/Prometheus/blob/master/LICENSE)
+[![My LinkedIn](https://img.shields.io/badge/LinkedIn%20Profile-HariSekhon-blue?logo=data:image/svg%2bxml;base64,PHN2ZyByb2xlPSJpbWciIGZpbGw9IiNmZmZmZmYiIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+TGlua2VkSW48L3RpdGxlPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPgo=)](https://www.linkedin.com/in/HariSekhon/)
+[![GitHub Last Commit](https://img.shields.io/github/last-commit/HariSekhon/Prometheus?logo=github)](https://github.com/HariSekhon/Prometheus/commits/master)
+
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/94c789d1498c48f9b3f8da83e306dbdd)](https://app.codacy.com/gh/HariSekhon/Prometheus/dashboard)
+[![CodeFactor](https://www.codefactor.io/repository/github/harisekhon/Prometheus/badge)](https://www.codefactor.io/repository/github/harisekhon/Prometheus)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_Prometheus&metric=alert_status)](https://sonarcloud.io/dashboard?id=HariSekhon_Prometheus)
+[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_Prometheus&metric=sqale_rating)](https://sonarcloud.io/dashboard?id=HariSekhon_Prometheus)
+[![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_Prometheus&metric=reliability_rating)](https://sonarcloud.io/dashboard?id=HariSekhon_Prometheus)
+[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_Prometheus&metric=security_rating)](https://sonarcloud.io/dashboard?id=HariSekhon_Prometheus)
 
 
 ---
