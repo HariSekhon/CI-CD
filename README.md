@@ -1,9 +1,9 @@
 # CI/CD Status Page
 
 ![Original Repos](https://img.shields.io/badge/Repos-35-blue?logo=github)
-![Stars](https://img.shields.io/badge/Stars-11560-blue?logo=github)
-![Forks](https://img.shields.io/badge/Forks-3159-blue?logo=github)
-![Followers](https://img.shields.io/badge/Followers-1821-blue?logo=github)
+![Stars](https://img.shields.io/badge/Stars-11581-blue?logo=github)
+![Forks](https://img.shields.io/badge/Forks-3166-blue?logo=github)
+![Followers](https://img.shields.io/badge/Followers-1828-blue?logo=github)
 ![Lines of Code](https://img.shields.io/badge/lines%20of%20code-298.3k-lightgrey?logo=codecademy)
 [![GitStar Ranking Profile](https://img.shields.io/badge/GitStar%20Ranking-HariSekhon-blue?logo=github)](https://gitstar-ranking.com/HariSekhon)
 [![StarCharts](https://img.shields.io/badge/Star-Charts-blue?logo=github)](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/STARCHARTS.md)
@@ -15,14 +15,14 @@
 [![GitHub Pages](https://img.shields.io/badge/GitHub-Pages-2088FF?logo=github)](https://harisekhon.github.io/CI-CD/)
 [![Netlify](https://img.shields.io/badge/Netlify-site-00C7B7?logo=netlify)](https://harisekhon.netlify.app/)
 
-[![CI/CD Builds](https://img.shields.io/badge/CI%2FCD%20Builds-726-blue?logo=circleci)](https://harisekhon.github.io/CI-CD/)
+[![CI/CD Builds](https://img.shields.io/badge/CI%2FCD%20Builds-731-blue?logo=circleci)](https://harisekhon.github.io/CI-CD/)
 [![Generate README](https://github.com/HariSekhon/CI-CD/actions/workflows/readme.yaml/badge.svg)](https://github.com/HariSekhon/CI-CD/actions/workflows/readme.yaml)
 [![pages-build-deployment](https://github.com/HariSekhon/CI-CD/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/HariSekhon/CI-CD/actions/workflows/pages/pages-build-deployment)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/853ef60c-c01b-4b83-99ba-8fda541f850f/deploy-status)](https://app.netlify.com/sites/harisekhon/deploys)
-![Last Generated](https://img.shields.io/badge/Last%20Generated-2025--01--27-yellowgreen?logo=github)
+![Last Generated](https://img.shields.io/badge/Last%20Generated-2025--02--03-yellowgreen?logo=github)
 [![GitHub Last Commit](https://img.shields.io/github/last-commit/HariSekhon/CI-CD?logo=github)](https://github.com/HariSekhon/CI-CD/commits/master)
 
-35 original source git repos with 726 CI builds (701 hosted, 25 self-hosted) across 23 different CI/CD systems:
+35 original source git repos with 731 CI builds (706 hosted, 25 self-hosted) across 23 different CI/CD systems:
 
 ---
 # Hari Sekhon - DevOps Bash Tools
@@ -212,6 +212,7 @@ Link:  [HariSekhon/Dockerfiles](https://github.com/HariSekhon/Dockerfiles)
 [![JSON](https://github.com/HariSekhon/Dockerfiles/actions/workflows/json.yaml/badge.svg)](https://github.com/HariSekhon/Dockerfiles/actions/workflows/json.yaml)
 [![YAML](https://github.com/HariSekhon/Dockerfiles/actions/workflows/yaml.yaml/badge.svg)](https://github.com/HariSekhon/Dockerfiles/actions/workflows/yaml.yaml)
 [![XML](https://github.com/HariSekhon/Dockerfiles/actions/workflows/xml.yaml/badge.svg)](https://github.com/HariSekhon/Dockerfiles/actions/workflows/xml.yaml)
+[![Markdown](https://github.com/HariSekhon/Dockerfiles/actions/workflows/markdown.yaml/badge.svg)](https://github.com/HariSekhon/Dockerfiles/actions/workflows/markdown.yaml)
 [![Validation](https://github.com/HariSekhon/Dockerfiles/actions/workflows/validate.yaml/badge.svg)](https://github.com/HariSekhon/Dockerfiles/actions/workflows/validate.yaml)
 [![Kics](https://github.com/HariSekhon/Dockerfiles/actions/workflows/kics.yaml/badge.svg)](https://github.com/HariSekhon/Dockerfiles/actions/workflows/kics.yaml)
 [![Grype](https://github.com/HariSekhon/Dockerfiles/actions/workflows/grype.yaml/badge.svg)](https://github.com/HariSekhon/Dockerfiles/actions/workflows/grype.yaml)
@@ -304,6 +305,7 @@ Link:  [HariSekhon/Nagios-Plugins](https://github.com/HariSekhon/Nagios-Plugins)
 [![JSON](https://github.com/HariSekhon/Nagios-Plugins/actions/workflows/json.yaml/badge.svg)](https://github.com/HariSekhon/Nagios-Plugins/actions/workflows/json.yaml)
 [![YAML](https://github.com/HariSekhon/Nagios-Plugins/actions/workflows/yaml.yaml/badge.svg)](https://github.com/HariSekhon/Nagios-Plugins/actions/workflows/yaml.yaml)
 [![XML](https://github.com/HariSekhon/Nagios-Plugins/actions/workflows/xml.yaml/badge.svg)](https://github.com/HariSekhon/Nagios-Plugins/actions/workflows/xml.yaml)
+[![Markdown](https://github.com/HariSekhon/Nagios-Plugins/actions/workflows/markdown.yaml/badge.svg)](https://github.com/HariSekhon/Nagios-Plugins/actions/workflows/markdown.yaml)
 [![Validation](https://github.com/HariSekhon/Nagios-Plugins/actions/workflows/validate.yaml/badge.svg)](https://github.com/HariSekhon/Nagios-Plugins/actions/workflows/validate.yaml)
 [![Kics](https://github.com/HariSekhon/Nagios-Plugins/actions/workflows/kics.yaml/badge.svg)](https://github.com/HariSekhon/Nagios-Plugins/actions/workflows/kics.yaml)
 [![Grype](https://github.com/HariSekhon/Nagios-Plugins/actions/workflows/grype.yaml/badge.svg)](https://github.com/HariSekhon/Nagios-Plugins/actions/workflows/grype.yaml)
@@ -593,6 +595,7 @@ Link:  [HariSekhon/HAProxy-configs](https://github.com/HariSekhon/HAProxy-config
 [![Repo on Azure DevOps](https://img.shields.io/badge/repo-Azure%20DevOps-0078D7?logo=azure%20devops)](https://dev.azure.com/harisekhon/GitHub/_git/HAProxy-configs)
 
 [![ShellCheck](https://github.com/HariSekhon/HAProxy-configs/actions/workflows/shellcheck.yaml/badge.svg)](https://github.com/HariSekhon/HAProxy-configs/actions/workflows/shellcheck.yaml)
+[![Markdown](https://github.com/HariSekhon/HAProxy-configs/actions/workflows/markdown.yaml/badge.svg)](https://github.com/HariSekhon/HAProxy-configs/actions/workflows/markdown.yaml)
 [![Validation](https://github.com/HariSekhon/HAProxy-configs/actions/workflows/validate.yaml/badge.svg)](https://github.com/HariSekhon/HAProxy-configs/actions/workflows/validate.yaml)
 [![Kics](https://github.com/HariSekhon/HAProxy-configs/actions/workflows/kics.yaml/badge.svg)](https://github.com/HariSekhon/HAProxy-configs/actions/workflows/kics.yaml)
 [![Grype](https://github.com/HariSekhon/HAProxy-configs/actions/workflows/grype.yaml/badge.svg)](https://github.com/HariSekhon/HAProxy-configs/actions/workflows/grype.yaml)
@@ -828,6 +831,7 @@ Link:  [HariSekhon/DevOps-Perl-tools](https://github.com/HariSekhon/DevOps-Perl-
 [![JSON](https://github.com/HariSekhon/DevOps-Perl-tools/actions/workflows/json.yaml/badge.svg)](https://github.com/HariSekhon/DevOps-Perl-tools/actions/workflows/json.yaml)
 [![YAML](https://github.com/HariSekhon/DevOps-Perl-tools/actions/workflows/yaml.yaml/badge.svg)](https://github.com/HariSekhon/DevOps-Perl-tools/actions/workflows/yaml.yaml)
 [![XML](https://github.com/HariSekhon/DevOps-Perl-tools/actions/workflows/xml.yaml/badge.svg)](https://github.com/HariSekhon/DevOps-Perl-tools/actions/workflows/xml.yaml)
+[![Markdown](https://github.com/HariSekhon/DevOps-Perl-tools/actions/workflows/markdown.yaml/badge.svg)](https://github.com/HariSekhon/DevOps-Perl-tools/actions/workflows/markdown.yaml)
 [![Validation](https://github.com/HariSekhon/DevOps-Perl-tools/actions/workflows/validate.yaml/badge.svg)](https://github.com/HariSekhon/DevOps-Perl-tools/actions/workflows/validate.yaml)
 [![Kics](https://github.com/HariSekhon/DevOps-Perl-tools/actions/workflows/kics.yaml/badge.svg)](https://github.com/HariSekhon/DevOps-Perl-tools/actions/workflows/kics.yaml)
 [![Grype](https://github.com/HariSekhon/DevOps-Perl-tools/actions/workflows/grype.yaml/badge.svg)](https://github.com/HariSekhon/DevOps-Perl-tools/actions/workflows/grype.yaml)
@@ -1108,6 +1112,7 @@ GitHub Actions CI/CD - Master Template & Reusable Workflows Library - Docker Bui
 [![Validation](https://github.com/HariSekhon/GitHub-Actions/actions/workflows/validate.yaml/badge.svg)](https://github.com/HariSekhon/GitHub-Actions/actions/workflows/validate.yaml)
 [![Grype](https://github.com/HariSekhon/GitHub-Actions/actions/workflows/grype.yaml/badge.svg)](https://github.com/HariSekhon/GitHub-Actions/actions/workflows/grype.yaml)
 [![Kics](https://github.com/HariSekhon/GitHub-Actions/actions/workflows/kics.yaml/badge.svg)](https://github.com/HariSekhon/GitHub-Actions/actions/workflows/kics.yaml)
+[![SonarCloud](https://github.com/HariSekhon/GitHub-Actions/actions/workflows/sonarcloud.yaml/badge.svg)](https://github.com/HariSekhon/GitHub-Actions/actions/workflows/sonarcloud.yaml)
 [![Semgrep](https://github.com/HariSekhon/GitHub-Actions/actions/workflows/semgrep.yaml/badge.svg)](https://github.com/HariSekhon/GitHub-Actions/actions/workflows/semgrep.yaml)
 [![Semgrep Cloud](https://github.com/HariSekhon/GitHub-Actions/actions/workflows/semgrep-cloud.yaml/badge.svg)](https://github.com/HariSekhon/GitHub-Actions/actions/workflows/semgrep-cloud.yaml)
 [![URL Links](https://github.com/HariSekhon/GitHub-Actions/actions/workflows/url_links.yaml/badge.svg)](https://github.com/HariSekhon/GitHub-Actions/actions/workflows/url_links.yaml)
@@ -1969,4 +1974,4 @@ Generates an SVG graph of GitHub commit activity by hour for given repos or all 
 
 
 
-35 git repos summarized with 726 CI builds (701 hosted, 25 self-hosted) across 23 different CI/CD systems
+35 git repos summarized with 731 CI builds (706 hosted, 25 self-hosted) across 23 different CI/CD systems
