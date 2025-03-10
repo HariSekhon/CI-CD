@@ -1,9 +1,9 @@
 # CI/CD Status Page
 
-![Original Repos](https://img.shields.io/badge/Repos-35-blue?logo=github)
-![Stars](https://img.shields.io/badge/Stars-12043-blue?logo=github)
-![Forks](https://img.shields.io/badge/Forks-3224-blue?logo=github)
-![Followers](https://img.shields.io/badge/Followers-1870-blue?logo=github)
+![Original Repos](https://img.shields.io/badge/Repos-36-blue?logo=github)
+![Stars](https://img.shields.io/badge/Stars-12090-blue?logo=github)
+![Forks](https://img.shields.io/badge/Forks-3234-blue?logo=github)
+![Followers](https://img.shields.io/badge/Followers-1878-blue?logo=github)
 ![Lines of Code](https://img.shields.io/badge/lines%20of%20code-153.8k-lightgrey?logo=codecademy)
 [![GitStar Ranking Profile](https://img.shields.io/badge/GitStar%20Ranking-HariSekhon-blue?logo=github)](https://gitstar-ranking.com/HariSekhon)
 [![StarCharts](https://img.shields.io/badge/Star-Charts-blue?logo=github)](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/STARCHARTS.md)
@@ -19,10 +19,10 @@
 [![Generate README](https://github.com/HariSekhon/CI-CD/actions/workflows/readme.yaml/badge.svg)](https://github.com/HariSekhon/CI-CD/actions/workflows/readme.yaml)
 [![pages-build-deployment](https://github.com/HariSekhon/CI-CD/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/HariSekhon/CI-CD/actions/workflows/pages/pages-build-deployment)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/853ef60c-c01b-4b83-99ba-8fda541f850f/deploy-status)](https://app.netlify.com/sites/harisekhon/deploys)
-![Last Generated](https://img.shields.io/badge/Last%20Generated-2025--03--03-yellowgreen?logo=github)
+![Last Generated](https://img.shields.io/badge/Last%20Generated-2025--03--10-yellowgreen?logo=github)
 [![GitHub Last Commit](https://img.shields.io/github/last-commit/HariSekhon/CI-CD?logo=github)](https://github.com/HariSekhon/CI-CD/commits/master)
 
-35 original source git repos with 728 CI builds (703 hosted, 25 self-hosted) across 23 different CI/CD systems:
+36 original source git repos with 728 CI builds (703 hosted, 25 self-hosted) across 23 different CI/CD systems:
 
 ---
 # Hari Sekhon - DevOps Bash Tools
@@ -1998,5 +1998,21 @@ Java Utility library for my other repos
 [![Gradle](https://github.com/HariSekhon/lib-java/workflows/Gradle/badge.svg)](https://github.com/HariSekhon/lib-java/actions?query=workflow%3A%22Gradle%22)
 
 
+---
+# Hari Sekhon - Template Repo
 
-35 git repos summarized with 728 CI builds (703 hosted, 25 self-hosted) across 23 different CI/CD systems
+Link:  [HariSekhon/Google-Maps-Restaurants](https://github.com/HariSekhon/Google-Maps-Restaurants)
+
+Find and open Google Maps Restaurants within X miles with Y rating, limit to Top N
+
+[![GitHub stars](https://img.shields.io/github/stars/HariSekhon/Template-Repo?logo=github)](https://github.com/HariSekhon/Template-Repo/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/HariSekhon/Template-Repo?logo=github)](https://github.com/HariSekhon/Template-Repo/network)
+[![LineCount](https://sloc.xyz/github/HariSekhon/Template-repo/?badge-bg-color=2081C2)](https://github.com/boyter/scc/)
+[![Cocomo](https://sloc.xyz/github/HariSekhon/Template-repo/?badge-bg-color=2081C2&category=cocomo)](https://github.com/boyter/scc/)
+[![License](https://img.shields.io/badge/license-MIT-green)](https://github.com/HariSekhon/Template-Repo/blob/master/LICENSE)
+[![My LinkedIn](https://img.shields.io/badge/LinkedIn%20Profile-HariSekhon-blue?logo=data:image/svg%2bxml;base64,PHN2ZyByb2xlPSJpbWciIGZpbGw9IiNmZmZmZmYiIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+TGlua2VkSW48L3RpdGxlPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPgo=)](https://www.linkedin.com/in/HariSekhon/)
+[![GitHub Last Commit](https://img.shields.io/github/last-commit/HariSekhon/Template-Repo?logo=github)](https://github.com/HariSekhon/Template-Repo/commits/master)
+
+
+
+36 git repos summarized with 728 CI builds (703 hosted, 25 self-hosted) across 23 different CI/CD systems
