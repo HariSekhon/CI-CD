@@ -1,10 +1,10 @@
 # CI/CD Status Page
 
 ![Original Repos](https://img.shields.io/badge/Repos-36-blue?logo=github)
-![Stars](https://img.shields.io/badge/Stars-12090-blue?logo=github)
-![Forks](https://img.shields.io/badge/Forks-3234-blue?logo=github)
-![Followers](https://img.shields.io/badge/Followers-1878-blue?logo=github)
-![Lines of Code](https://img.shields.io/badge/lines%20of%20code-153.8k-lightgrey?logo=codecademy)
+![Stars](https://img.shields.io/badge/Stars-12111-blue?logo=github)
+![Forks](https://img.shields.io/badge/Forks-3243-blue?logo=github)
+![Followers](https://img.shields.io/badge/Followers-1885-blue?logo=github)
+![Lines of Code](https://img.shields.io/badge/lines%20of%20code-5k-lightgrey?logo=codecademy)
 [![GitStar Ranking Profile](https://img.shields.io/badge/GitStar%20Ranking-HariSekhon-blue?logo=github)](https://gitstar-ranking.com/HariSekhon)
 [![StarCharts](https://img.shields.io/badge/Star-Charts-blue?logo=github)](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/STARCHARTS.md)
 
@@ -15,14 +15,14 @@
 [![GitHub Pages](https://img.shields.io/badge/GitHub-Pages-2088FF?logo=github)](https://harisekhon.github.io/CI-CD/)
 [![Netlify](https://img.shields.io/badge/Netlify-site-00C7B7?logo=netlify)](https://harisekhon.netlify.app/)
 
-[![CI/CD Builds](https://img.shields.io/badge/CI%2FCD%20Builds-728-blue?logo=circleci)](https://harisekhon.github.io/CI-CD/)
+[![CI/CD Builds](https://img.shields.io/badge/CI%2FCD%20Builds-730-blue?logo=circleci)](https://harisekhon.github.io/CI-CD/)
 [![Generate README](https://github.com/HariSekhon/CI-CD/actions/workflows/readme.yaml/badge.svg)](https://github.com/HariSekhon/CI-CD/actions/workflows/readme.yaml)
 [![pages-build-deployment](https://github.com/HariSekhon/CI-CD/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/HariSekhon/CI-CD/actions/workflows/pages/pages-build-deployment)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/853ef60c-c01b-4b83-99ba-8fda541f850f/deploy-status)](https://app.netlify.com/sites/harisekhon/deploys)
-![Last Generated](https://img.shields.io/badge/Last%20Generated-2025--03--10-yellowgreen?logo=github)
+![Last Generated](https://img.shields.io/badge/Last%20Generated-2025--03--17-yellowgreen?logo=github)
 [![GitHub Last Commit](https://img.shields.io/github/last-commit/HariSekhon/CI-CD?logo=github)](https://github.com/HariSekhon/CI-CD/commits/master)
 
-36 original source git repos with 728 CI builds (703 hosted, 25 self-hosted) across 23 different CI/CD systems:
+36 original source git repos with 730 CI builds (705 hosted, 25 self-hosted) across 23 different CI/CD systems:
 
 ---
 # Hari Sekhon - DevOps Bash Tools
@@ -153,7 +153,8 @@ Link:  [HariSekhon/Dockerfiles](https://github.com/HariSekhon/Dockerfiles)
 [![GitHub stars](https://img.shields.io/github/stars/harisekhon/Dockerfiles?logo=github)](https://github.com/HariSekhon/Dockerfiles/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/harisekhon/Dockerfiles?logo=github)](https://github.com/HariSekhon/Dockerfiles/network)
 [![Contributors](https://img.shields.io/github/contributors/HariSekhon/Dockerfiles?logo=github)](https://github.com/HariSekhon/Dockerfiles/graphs/contributors)
-[![Lines of Code](https://img.shields.io/badge/lines%20of%20code-8k-lightgrey?logo=codecademy)](https://github.com/HariSekhon/Dockerfiles)
+[![LineCount](https://sloc.xyz/github/HariSekhon/Dockerfiles/?badge-bg-color=2081C2)](https://github.com/boyter/scc/)
+[![Cocomo](https://sloc.xyz/github/HariSekhon/Dockerfiles/?badge-bg-color=2081C2&category=cocomo)](https://github.com/boyter/scc/)
 [![License](https://img.shields.io/github/license/HariSekhon/Dockerfiles)](https://github.com/HariSekhon/Dockerfiles/blob/master/LICENSE)
 [![My LinkedIn](https://img.shields.io/badge/LinkedIn%20Profile-HariSekhon-blue?logo=data:image/svg%2bxml;base64,PHN2ZyByb2xlPSJpbWciIGZpbGw9IiNmZmZmZmYiIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+TGlua2VkSW48L3RpdGxlPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPgo=)](https://www.linkedin.com/in/HariSekhon/)
 [![GitHub Last Commit](https://img.shields.io/github/last-commit/HariSekhon/Dockerfiles?logo=github)](https://github.com/HariSekhon/Dockerfiles/commits/master)
@@ -249,7 +250,8 @@ Link:  [HariSekhon/Nagios-Plugins](https://github.com/HariSekhon/Nagios-Plugins)
 [![GitHub stars](https://img.shields.io/github/stars/harisekhon/nagios-plugins?logo=github)](https://github.com/HariSekhon/Nagios-Plugins/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/harisekhon/nagios-plugins?logo=github)](https://github.com/HariSekhon/Nagios-Plugins/network)
 [![Contributors](https://img.shields.io/github/contributors/HariSekhon/Nagios-Plugins?logo=github)](https://github.com/HariSekhon/Nagios-Plugins/graphs/contributors)
-[![Lines of Code](https://img.shields.io/badge/lines%20of%20code-80k-lightgrey?logo=codecademy)](https://github.com/HariSekhon/Nagios-Plugins)
+[![LineCount](https://sloc.xyz/github/HariSekhon/Nagios-Plugins/?badge-bg-color=2081C2)](https://github.com/boyter/scc/)
+[![Cocomo](https://sloc.xyz/github/HariSekhon/Nagios-Plugins/?badge-bg-color=2081C2&category=cocomo)](https://github.com/boyter/scc/)
 [![My LinkedIn](https://img.shields.io/badge/LinkedIn%20Profile-HariSekhon-blue?logo=data:image/svg%2bxml;base64,PHN2ZyByb2xlPSJpbWciIGZpbGw9IiNmZmZmZmYiIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+TGlua2VkSW48L3RpdGxlPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPgo=)](https://www.linkedin.com/in/HariSekhon/)
 [![GitHub Last Commit](https://img.shields.io/github/last-commit/HariSekhon/Nagios-Plugins?logo=github)](https://github.com/HariSekhon/Nagios-Plugins/commits/master)
 
@@ -358,7 +360,8 @@ Link:  [HariSekhon/DevOps-Python-tools](https://github.com/HariSekhon/DevOps-Pyt
 
 [![GitHub stars](https://img.shields.io/github/stars/harisekhon/devops-python-tools?logo=github)](https://github.com/HariSekhon/DevOps-Python-tools/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/harisekhon/devops-python-tools?logo=github)](https://github.com/HariSekhon/DevOps-Python-tools/network)
-[![Lines of Code](https://img.shields.io/badge/lines%20of%20code-26k-lightgrey?logo=codecademy)](https://github.com/HariSekhon/DevOps-Python-tools)
+[![LineCount](https://sloc.xyz/github/HariSekhon/DevOps-Python-tools/?badge-bg-color=2081C2)](https://github.com/boyter/scc/)
+[![Cocomo](https://sloc.xyz/github/HariSekhon/DevOps-Python-tools/?badge-bg-color=2081C2&category=cocomo)](https://github.com/boyter/scc/)
 [![License](https://img.shields.io/github/license/HariSekhon/DevOps-Python-tools)](https://github.com/HariSekhon/DevOps-Python-tools/blob/master/LICENSE)
 [![My LinkedIn](https://img.shields.io/badge/LinkedIn%20Profile-HariSekhon-blue?logo=data:image/svg%2bxml;base64,PHN2ZyByb2xlPSJpbWciIGZpbGw9IiNmZmZmZmYiIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+TGlua2VkSW48L3RpdGxlPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPgo=)](https://www.linkedin.com/in/HariSekhon/)
 [![GitHub Last Commit](https://img.shields.io/github/last-commit/HariSekhon/DevOps-Python-tools?logo=github)](https://github.com/HariSekhon/DevOps-Python-tools/commits/master)
@@ -790,7 +793,8 @@ Link:  [HariSekhon/DevOps-Perl-tools](https://github.com/HariSekhon/DevOps-Perl-
 
 [![GitHub stars](https://img.shields.io/github/stars/harisekhon/devops-perl-tools?logo=github)](https://github.com/HariSekhon/DevOps-Perl-tools/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/harisekhon/devops-perl-tools?logo=github)](https://github.com/HariSekhon/DevOps-Perl-tools/network)
-[![Lines of Code](https://img.shields.io/badge/lines%20of%20code-9.1k-lightgrey?logo=codecademy)](https://github.com/HariSekhon/DevOps-Perl-tools)
+[![LineCount](https://sloc.xyz/github/HariSekhon/DevOps-Perl-tools/?badge-bg-color=2081C2)](https://github.com/boyter/scc/)
+[![Cocomo](https://sloc.xyz/github/HariSekhon/DevOps-Perl-tools/?badge-bg-color=2081C2&category=cocomo)](https://github.com/boyter/scc/)
 [![License](https://img.shields.io/github/license/HariSekhon/DevOps-Perl-tools)](https://github.com/HariSekhon/DevOps-Perl-tools/blob/master/LICENSE)
 [![My LinkedIn](https://img.shields.io/badge/LinkedIn%20Profile-HariSekhon-blue?logo=data:image/svg%2bxml;base64,PHN2ZyByb2xlPSJpbWciIGZpbGw9IiNmZmZmZmYiIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+TGlua2VkSW48L3RpdGxlPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPgo=)](https://www.linkedin.com/in/HariSekhon/)
 [![GitHub Last Commit](https://img.shields.io/github/last-commit/HariSekhon/DevOps-Perl-tools?logo=github)](https://github.com/HariSekhon/DevOps-Perl-tools/commits/master)
@@ -929,6 +933,8 @@ Spotify Tools - Playlists Backups, Spotify CLI, URI translator, duplication dete
 [![Spotify Profile](https://img.shields.io/badge/Spotify%20Profile-HariSekhon-brightgreen?logo=spotify&style=social)](https://open.spotify.com/user/harisekhon)
 [![GitHub stars](https://img.shields.io/github/stars/harisekhon/spotify-tools?logo=github)](https://github.com/HariSekhon/Spotify-tools/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/harisekhon/spotify-tools?logo=github)](https://github.com/HariSekhon/Spotify-tools/network)
+[![LineCount](https://sloc.xyz/github/HariSekhon/Spotify-tools/?badge-bg-color=2081C2)](https://github.com/boyter/scc/)
+[![Cocomo](https://sloc.xyz/github/HariSekhon/Spotify-tools/?badge-bg-color=2081C2&category=cocomo)](https://github.com/boyter/scc/)
 [![My LinkedIn](https://img.shields.io/badge/LinkedIn%20Profile-HariSekhon-blue?logo=data:image/svg%2bxml;base64,PHN2ZyByb2xlPSJpbWciIGZpbGw9IiNmZmZmZmYiIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+TGlua2VkSW48L3RpdGxlPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPgo=)](https://www.linkedin.com/in/HariSekhon/)
 [![GitHub Last Commit](https://img.shields.io/github/last-commit/HariSekhon/Spotify-Tools?logo=github)](https://github.com/HariSekhon/Spotify-tools/commits/master)
 
@@ -976,6 +982,7 @@ Spotify Tools - Playlists Backups, Spotify CLI, URI translator, duplication dete
 [![JSON](https://github.com/HariSekhon/Spotify-tools/actions/workflows/json.yaml/badge.svg)](https://github.com/HariSekhon/Spotify-tools/actions/workflows/json.yaml)
 [![YAML](https://github.com/HariSekhon/Spotify-tools/actions/workflows/yaml.yaml/badge.svg)](https://github.com/HariSekhon/Spotify-tools/actions/workflows/yaml.yaml)
 [![XML](https://github.com/HariSekhon/Spotify-tools/actions/workflows/xml.yaml/badge.svg)](https://github.com/HariSekhon/Spotify-tools/actions/workflows/xml.yaml)
+[![Markdown](https://github.com/HariSekhon/Spotify-tools/actions/workflows/markdown.yaml/badge.svg)](https://github.com/HariSekhon/Spotify-tools/actions/workflows/markdown.yaml)
 [![Validation](https://github.com/HariSekhon/Spotify-tools/actions/workflows/validate.yaml/badge.svg)](https://github.com/HariSekhon/Spotify-tools/actions/workflows/validate.yaml)
 [![Kics](https://github.com/HariSekhon/Spotify-tools/actions/workflows/kics.yaml/badge.svg)](https://github.com/HariSekhon/Spotify-tools/actions/workflows/kics.yaml)
 [![Grype](https://github.com/HariSekhon/Spotify-tools/actions/workflows/grype.yaml/badge.svg)](https://github.com/HariSekhon/Spotify-tools/actions/workflows/grype.yaml)
@@ -1080,6 +1087,8 @@ DevOps Golang tools
 
 [![GitHub stars](https://img.shields.io/github/stars/harisekhon/devops-golang-tools?logo=github)](https://github.com/HariSekhon/DevOps-Golang-tools/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/harisekhon/devops-golang-tools?logo=github)](https://github.com/HariSekhon/DevOps-Golang-tools/network)
+[![LineCount](https://sloc.xyz/github/HariSekhon/DevOps-Golang-tools/?badge-bg-color=2081C2)](https://github.com/boyter/scc/)
+[![Cocomo](https://sloc.xyz/github/HariSekhon/DevOps-Golang-tools/?badge-bg-color=2081C2&category=cocomo)](https://github.com/boyter/scc/)
 [![License](https://img.shields.io/github/license/HariSekhon/DevOps-Golang-tools)](https://github.com/HariSekhon/DevOps-Golang-tools/blob/master/LICENSE)
 [![My LinkedIn](https://img.shields.io/badge/LinkedIn%20Profile-HariSekhon-blue?logo=data:image/svg%2bxml;base64,PHN2ZyByb2xlPSJpbWciIGZpbGw9IiNmZmZmZmYiIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+TGlua2VkSW48L3RpdGxlPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPgo=)](https://www.linkedin.com/in/HariSekhon/)
 [![GitHub Last Commit](https://img.shields.io/github/last-commit/HariSekhon/DevOps-Golang-tools?logo=github)](https://github.com/HariSekhon/DevOps-Golang-tools/commits/master)
@@ -1247,7 +1256,8 @@ Perl Utility Library for my other repos
 
 [![GitHub stars](https://img.shields.io/github/stars/harisekhon/lib?logo=github)](https://github.com/HariSekhon/lib/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/harisekhon/lib?logo=github)](https://github.com/HariSekhon/lib/network)
-[![Lines of Code](https://img.shields.io/badge/lines%20of%20code-10k-lightgrey?logo=codecademy)](https://github.com/HariSekhon/lib)
+[![LineCount](https://sloc.xyz/github/HariSekhon/lib/?badge-bg-color=2081C2)](https://github.com/boyter/scc/)
+[![Cocomo](https://sloc.xyz/github/HariSekhon/lib/?badge-bg-color=2081C2&category=cocomo)](https://github.com/boyter/scc/)
 [![License](https://img.shields.io/github/license/HariSekhon/lib)](https://github.com/HariSekhon/lib/blob/master/LICENSE)
 [![My LinkedIn](https://img.shields.io/badge/LinkedIn%20Profile-HariSekhon-blue?logo=data:image/svg%2bxml;base64,PHN2ZyByb2xlPSJpbWciIGZpbGw9IiNmZmZmZmYiIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+TGlua2VkSW48L3RpdGxlPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPgo=)](https://www.linkedin.com/in/HariSekhon/)
 [![GitHub Last Commit](https://img.shields.io/github/last-commit/HariSekhon/lib?logo=github)](https://github.com/HariSekhon/lib/commits/master)
@@ -1365,7 +1375,8 @@ Python / Jython Utility Library for my other repos
 
 [![GitHub stars](https://img.shields.io/github/stars/harisekhon/pylib?logo=github)](https://github.com/HariSekhon/pylib/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/harisekhon/pylib?logo=github)](https://github.com/HariSekhon/pylib/network)
-[![Lines of Code](https://img.shields.io/badge/lines%20of%20code-10k-lightgrey?logo=codecademy)](https://github.com/HariSekhon/pylib)
+[![LineCount](https://sloc.xyz/github/HariSekhon/pylib/?badge-bg-color=2081C2)](https://github.com/boyter/scc/)
+[![Cocomo](https://sloc.xyz/github/HariSekhon/pylib/?badge-bg-color=2081C2&category=cocomo)](https://github.com/boyter/scc/)
 [![License](https://img.shields.io/github/license/HariSekhon/pylib)](https://github.com/HariSekhon/pylib/blob/master/LICENSE)
 [![My LinkedIn](https://img.shields.io/badge/LinkedIn%20Profile-HariSekhon-blue?logo=data:image/svg%2bxml;base64,PHN2ZyByb2xlPSJpbWciIGZpbGw9IiNmZmZmZmYiIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+TGlua2VkSW48L3RpdGxlPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPgo=)](https://www.linkedin.com/in/HariSekhon/)
 [![GitHub Last Commit](https://img.shields.io/github/last-commit/HariSekhon/pylib?logo=github)](https://github.com/HariSekhon/pylib/commits/master)
@@ -1468,6 +1479,8 @@ Kafka Scala API CLI / Advanced Nagios Plugin, with Kerberos support (uses Kafka 
 
 [![GitHub stars](https://img.shields.io/github/stars/harisekhon/Nagios-Plugin-Kafka?logo=github)](https://github.com/HariSekhon/Nagios-Plugin-Kafka/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/harisekhon/Nagios-Plugin-Kafka?logo=github)](https://github.com/HariSekhon/Nagios-Plugin-Kafka/network)
+[![LineCount](https://sloc.xyz/github/HariSekhon/Nagios-Plugin-Kafka/?badge-bg-color=2081C2)](https://github.com/boyter/scc/)
+[![Cocomo](https://sloc.xyz/github/HariSekhon/Nagios-Plugin-Kafka/?badge-bg-color=2081C2&category=cocomo)](https://github.com/boyter/scc/)
 [![License](https://img.shields.io/github/license/HariSekhon/Nagios-Plugin-Kafka)](https://github.com/HariSekhon/Nagios-Plugin-Kafka/blob/master/LICENSE)
 [![My LinkedIn](https://img.shields.io/badge/LinkedIn%20Profile-HariSekhon-blue?logo=data:image/svg%2bxml;base64,PHN2ZyByb2xlPSJpbWciIGZpbGw9IiNmZmZmZmYiIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+TGlua2VkSW48L3RpdGxlPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPgo=)](https://www.linkedin.com/in/HariSekhon/)
 [![GitHub Last Commit](https://img.shields.io/github/last-commit/HariSekhon/Nagios-Plugin-Kafka?logo=github)](https://github.com/HariSekhon/Nagios-Plugin-Kafka/commits/master)
@@ -1517,10 +1530,11 @@ Kafka Scala API CLI / Advanced Nagios Plugin, with Kerberos support (uses Kafka 
 [![Repo on Azure DevOps](https://img.shields.io/badge/repo-Azure%20DevOps-0078D7?logo=azure%20devops)](https://dev.azure.com/harisekhon/GitHub/_git/Nagios-Plugin-Kafka)
 [![Repo on BitBucket](https://img.shields.io/badge/repo-BitBucket-0052CC?logo=bitbucket)](https://bitbucket.org/HariSekhon/Nagios-Plugin-Kafka)
 
-[![ShellCheck](https://github.com/HariSekhon/lib-java/actions/workflows/shellcheck.yaml/badge.svg)](https://github.com/HariSekhon/lib-java/actions/workflows/shellcheck.yaml)
+[![ShellCheck](https://github.com/HariSekhon/Nagios-Plugin-Kafka/actions/workflows/shellcheck.yaml/badge.svg)](https://github.com/HariSekhon/Nagios-Plugin-Kafka/actions/workflows/shellcheck.yaml)
 [![JSON](https://github.com/HariSekhon/Nagios-Plugin-Kafka/actions/workflows/json.yaml/badge.svg)](https://github.com/HariSekhon/Nagios-Plugin-Kafka/actions/workflows/json.yaml)
 [![YAML](https://github.com/HariSekhon/Nagios-Plugin-Kafka/actions/workflows/yaml.yaml/badge.svg)](https://github.com/HariSekhon/Nagios-Plugin-Kafka/actions/workflows/yaml.yaml)
 [![XML](https://github.com/HariSekhon/Nagios-Plugin-Kafka/actions/workflows/xml.yaml/badge.svg)](https://github.com/HariSekhon/Nagios-Plugin-Kafka/actions/workflows/xml.yaml)
+[![Markdown](https://github.com/HariSekhon/Nagios-Plugin-Kafka/actions/workflows/markdown.yaml/badge.svg)](https://github.com/HariSekhon/Nagios-Plugin-Kafka/actions/workflows/markdown.yaml)
 [![Validation](https://github.com/HariSekhon/Nagios-Plugin-Kafka/actions/workflows/validate.yaml/badge.svg)](https://github.com/HariSekhon/Nagios-Plugin-Kafka/actions/workflows/validate.yaml)
 [![Kics](https://github.com/HariSekhon/Nagios-Plugin-Kafka/actions/workflows/kics.yaml/badge.svg)](https://github.com/HariSekhon/Nagios-Plugin-Kafka/actions/workflows/kics.yaml)
 [![Grype](https://github.com/HariSekhon/Nagios-Plugin-Kafka/actions/workflows/grype.yaml/badge.svg)](https://github.com/HariSekhon/Nagios-Plugin-Kafka/actions/workflows/grype.yaml)
@@ -1911,7 +1925,8 @@ Java Utility library for my other repos
 
 [![GitHub stars](https://img.shields.io/github/stars/harisekhon/lib-java?logo=github)](https://github.com/HariSekhon/lib-java/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/harisekhon/lib-java?logo=github)](https://github.com/HariSekhon/lib-java/network)
-[![Lines of Code](https://img.shields.io/badge/lines%20of%20code-5.7k-lightgrey?logo=codecademy)](https://github.com/HariSekhon/lib-java)
+[![LineCount](https://sloc.xyz/github/HariSekhon/lib-java/?badge-bg-color=2081C2)](https://github.com/boyter/scc/)
+[![Cocomo](https://sloc.xyz/github/HariSekhon/lib-java/?badge-bg-color=2081C2&category=cocomo)](https://github.com/boyter/scc/)
 [![License](https://img.shields.io/github/license/HariSekhon/lib-java)](https://github.com/HariSekhon/lib-java/blob/master/LICENSE)
 [![My LinkedIn](https://img.shields.io/badge/LinkedIn%20Profile-HariSekhon-blue?logo=data:image/svg%2bxml;base64,PHN2ZyByb2xlPSJpbWciIGZpbGw9IiNmZmZmZmYiIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+TGlua2VkSW48L3RpdGxlPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPgo=)](https://www.linkedin.com/in/HariSekhon/)
 [![GitHub Last Commit](https://img.shields.io/github/last-commit/HariSekhon/lib-java?logo=github)](https://github.com/HariSekhon/lib-java/commits/master)
@@ -2015,4 +2030,4 @@ Find and open Google Maps Restaurants within X miles with Y rating, limit to Top
 
 
 
-36 git repos summarized with 728 CI builds (703 hosted, 25 self-hosted) across 23 different CI/CD systems
+36 git repos summarized with 730 CI builds (705 hosted, 25 self-hosted) across 23 different CI/CD systems
