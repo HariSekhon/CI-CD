@@ -1,9 +1,9 @@
 # CI/CD Status Page
 
 ![Original Repos](https://img.shields.io/badge/Repos-36-blue?logo=github)
-![Stars](https://img.shields.io/badge/Stars-12378-blue?logo=github)
-![Forks](https://img.shields.io/badge/Forks-3315-blue?logo=github)
-![Followers](https://img.shields.io/badge/Followers-1935-blue?logo=github)
+![Stars](https://img.shields.io/badge/Stars-12404-blue?logo=github)
+![Forks](https://img.shields.io/badge/Forks-3324-blue?logo=github)
+![Followers](https://img.shields.io/badge/Followers-1943-blue?logo=github)
 ![Lines of Code](https://img.shields.io/badge/lines%20of%20code-5k-lightgrey?logo=codecademy)
 [![GitStar Ranking Profile](https://img.shields.io/badge/GitStar%20Ranking-HariSekhon-blue?logo=github)](https://gitstar-ranking.com/HariSekhon)
 [![StarCharts](https://img.shields.io/badge/Star-Charts-blue?logo=github)](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/STARCHARTS.md)
@@ -19,7 +19,7 @@
 [![Generate README](https://github.com/HariSekhon/CI-CD/actions/workflows/readme.yaml/badge.svg)](https://github.com/HariSekhon/CI-CD/actions/workflows/readme.yaml)
 [![pages-build-deployment](https://github.com/HariSekhon/CI-CD/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/HariSekhon/CI-CD/actions/workflows/pages/pages-build-deployment)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/853ef60c-c01b-4b83-99ba-8fda541f850f/deploy-status)](https://app.netlify.com/sites/harisekhon/deploys)
-![Last Generated](https://img.shields.io/badge/Last%20Generated-2025--05--19-yellowgreen?logo=github)
+![Last Generated](https://img.shields.io/badge/Last%20Generated-2025--05--26-yellowgreen?logo=github)
 [![GitHub Last Commit](https://img.shields.io/github/last-commit/HariSekhon/CI-CD?logo=github)](https://github.com/HariSekhon/CI-CD/commits/master)
 
 36 original source git repos with 730 CI builds (705 hosted, 25 self-hosted) across 23 different CI/CD systems:
@@ -1873,28 +1873,6 @@ TamperMonkey Scripts - eg. auto-fill Jira ticket description field to meet Agile
 
 
 ---
-# Hari Sekhon - GitHub Graph Commit Times
-
-Link:  [HariSekhon/GitHub-Graph-Commit-Times](https://github.com/HariSekhon/GitHub-Graph-Commit-Times)
-
-Generates an SVG graph of GitHub commit activity by hour for given repos or all repos for a given GitHub account, and optionally filtered to a specific user
-
-[![GitHub stars](https://img.shields.io/github/stars/HariSekhon/GitHub-Commit-Times-Graph?logo=github)](https://github.com/HariSekhon/GitHub-Commit-Times-Graph/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/HariSekhon/GitHub-Commit-Times-Graph?logo=github)](https://github.com/HariSekhon/GitHub-Commit-Times-Graph/network)
-[![Lines of Code](https://img.shields.io/badge/lines%20of%20code-1k-lightgrey?logo=codecademy)](https://github.com/HariSekhon/GitHub-Commit-Times-Graph#Hari-Sekhon---GitHub-Commit-Times-Graph)
-[![License](https://img.shields.io/badge/license-MIT-green)](https://github.com/HariSekhon/GitHub-Commit-Times-Graph/blob/master/LICENSE)
-[![My LinkedIn](https://img.shields.io/badge/LinkedIn%20Profile-HariSekhon-blue?logo=data:image/svg%2bxml;base64,PHN2ZyByb2xlPSJpbWciIGZpbGw9IiNmZmZmZmYiIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+TGlua2VkSW48L3RpdGxlPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPgo=)](https://www.linkedin.com/in/HariSekhon/)
-[![GitHub Last Commit](https://img.shields.io/github/last-commit/HariSekhon/GitHub-Commit-Times-Graph?logo=github)](https://github.com/HariSekhon/GitHub-Commit-Times-Graph/commits/master)
-
-[![Codacy](https://app.codacy.com/project/badge/Grade/62df1805c7794d7784f853fea4a70cbf)](https://app.codacy.com/gh/HariSekhon/GitHub-Commit-Times-Graph/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
-[![CodeFactor](https://www.codefactor.io/repository/github/harisekhon/GitHub-Graph-Commit-Times/badge)](https://www.codefactor.io/repository/github/harisekhon/GitHub-Graph-Commit-Times)
-[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_GitHub-Graph-Commit-Times&metric=alert_status)](https://sonarcloud.io/dashboard?id=HariSekhon_GitHub-Graph-Commit-Times)
-[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_GitHub-Commit-Times-Graph&metric=sqale_rating)](https://sonarcloud.io/dashboard?id=HariSekhon_GitHub-Commit-Times-Graph)
-[![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_GitHub-Commit-Times-Graph&metric=reliability_rating)](https://sonarcloud.io/dashboard?id=HariSekhon_GitHub-Commit-Times-Graph)
-[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_GitHub-Commit-Times-Graph&metric=security_rating)](https://sonarcloud.io/dashboard?id=HariSekhon_GitHub-Commit-Times-Graph)
-
-
----
 # Hari Sekhon - GitHub-Repos-MermaidJS-Gantt-Chart
 
 Link:  [HariSekhon/GitHub-Repos-MermaidJS-Gantt-Chart](https://github.com/HariSekhon/GitHub-Repos-MermaidJS-Gantt-Chart)
@@ -1914,6 +1892,28 @@ Generates a MermaidJS Gantt Chart of a GitHub user's public repos activity dates
 [![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_GitHub-Repos-MermaidJS-Gantt-Chart&metric=sqale_rating)](https://sonarcloud.io/dashboard?id=HariSekhon_GitHub-Repos-MermaidJS-Gantt-Chart)
 [![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_GitHub-Repos-MermaidJS-Gantt-Chart&metric=reliability_rating)](https://sonarcloud.io/dashboard?id=HariSekhon_GitHub-Repos-MermaidJS-Gantt-Chart)
 [![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_GitHub-Repos-MermaidJS-Gantt-Chart&metric=security_rating)](https://sonarcloud.io/dashboard?id=HariSekhon_GitHub-Repos-MermaidJS-Gantt-Chart)
+
+
+---
+# Hari Sekhon - GitHub Graph Commit Times
+
+Link:  [HariSekhon/GitHub-Graph-Commit-Times](https://github.com/HariSekhon/GitHub-Graph-Commit-Times)
+
+Generates an SVG graph of GitHub commit activity by hour for given repos or all repos for a given GitHub account, and optionally filtered to a specific user
+
+[![GitHub stars](https://img.shields.io/github/stars/HariSekhon/GitHub-Commit-Times-Graph?logo=github)](https://github.com/HariSekhon/GitHub-Commit-Times-Graph/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/HariSekhon/GitHub-Commit-Times-Graph?logo=github)](https://github.com/HariSekhon/GitHub-Commit-Times-Graph/network)
+[![Lines of Code](https://img.shields.io/badge/lines%20of%20code-1k-lightgrey?logo=codecademy)](https://github.com/HariSekhon/GitHub-Commit-Times-Graph#Hari-Sekhon---GitHub-Commit-Times-Graph)
+[![License](https://img.shields.io/badge/license-MIT-green)](https://github.com/HariSekhon/GitHub-Commit-Times-Graph/blob/master/LICENSE)
+[![My LinkedIn](https://img.shields.io/badge/LinkedIn%20Profile-HariSekhon-blue?logo=data:image/svg%2bxml;base64,PHN2ZyByb2xlPSJpbWciIGZpbGw9IiNmZmZmZmYiIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+TGlua2VkSW48L3RpdGxlPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPgo=)](https://www.linkedin.com/in/HariSekhon/)
+[![GitHub Last Commit](https://img.shields.io/github/last-commit/HariSekhon/GitHub-Commit-Times-Graph?logo=github)](https://github.com/HariSekhon/GitHub-Commit-Times-Graph/commits/master)
+
+[![Codacy](https://app.codacy.com/project/badge/Grade/62df1805c7794d7784f853fea4a70cbf)](https://app.codacy.com/gh/HariSekhon/GitHub-Commit-Times-Graph/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
+[![CodeFactor](https://www.codefactor.io/repository/github/harisekhon/GitHub-Graph-Commit-Times/badge)](https://www.codefactor.io/repository/github/harisekhon/GitHub-Graph-Commit-Times)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_GitHub-Graph-Commit-Times&metric=alert_status)](https://sonarcloud.io/dashboard?id=HariSekhon_GitHub-Graph-Commit-Times)
+[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_GitHub-Commit-Times-Graph&metric=sqale_rating)](https://sonarcloud.io/dashboard?id=HariSekhon_GitHub-Commit-Times-Graph)
+[![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_GitHub-Commit-Times-Graph&metric=reliability_rating)](https://sonarcloud.io/dashboard?id=HariSekhon_GitHub-Commit-Times-Graph)
+[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_GitHub-Commit-Times-Graph&metric=security_rating)](https://sonarcloud.io/dashboard?id=HariSekhon_GitHub-Commit-Times-Graph)
 
 
 ---
