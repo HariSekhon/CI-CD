@@ -1,9 +1,9 @@
 # CI/CD Status Page
 
 ![Original Repos](https://img.shields.io/badge/Repos-37-blue?logo=github)
-![Stars](https://img.shields.io/badge/Stars-13328-blue?logo=github)
-![Forks](https://img.shields.io/badge/Forks-3489-blue?logo=github)
-![Followers](https://img.shields.io/badge/Followers-2062-blue?logo=github)
+![Stars](https://img.shields.io/badge/Stars-13765-blue?logo=github)
+![Forks](https://img.shields.io/badge/Forks-3551-blue?logo=github)
+![Followers](https://img.shields.io/badge/Followers-2082-blue?logo=github)
 ![Lines of Code](https://img.shields.io/badge/lines%20of%20code-4k-lightgrey?logo=codecademy)
 [![GitStar Ranking Profile](https://img.shields.io/badge/GitStar%20Ranking-HariSekhon-blue?logo=github)](https://gitstar-ranking.com/HariSekhon)
 [![StarCharts](https://img.shields.io/badge/Star-Charts-blue?logo=github)](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/STARCHARTS.md)
@@ -19,7 +19,7 @@
 [![Generate README](https://github.com/HariSekhon/CI-CD/actions/workflows/readme.yaml/badge.svg)](https://github.com/HariSekhon/CI-CD/actions/workflows/readme.yaml)
 [![pages-build-deployment](https://github.com/HariSekhon/CI-CD/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/HariSekhon/CI-CD/actions/workflows/pages/pages-build-deployment)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/853ef60c-c01b-4b83-99ba-8fda541f850f/deploy-status)](https://app.netlify.com/sites/harisekhon/deploys)
-![Last Generated](https://img.shields.io/badge/Last%20Generated-2025--12--29-yellowgreen?logo=github)
+![Last Generated](https://img.shields.io/badge/Last%20Generated-2026--01--05-yellowgreen?logo=github)
 [![GitHub Last Commit](https://img.shields.io/github/last-commit/HariSekhon/CI-CD?logo=github)](https://github.com/HariSekhon/CI-CD/commits/master)
 
 37 original source git repos with 744 CI builds (719 hosted, 25 self-hosted) across 23 different CI/CD systems:
@@ -1954,8 +1954,8 @@ Mac event driven automation, eg. auto-run SpeedTest when connecting to Wifi, aut
 [![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_Hammerspoon&metric=reliability_rating)](https://sonarcloud.io/dashboard?id=HariSekhon_Hammerspoon)
 [![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_Hammerspoon&metric=security_rating)](https://sonarcloud.io/dashboard?id=HariSekhon_Hammerspoon)
 
-[![Lua](https://img.shields.io/badge/Lua-5-000080?logo=lua&logoColor=white)](#readme)
 [![Mac](https://img.shields.io/badge/OS-Mac-blue?logo=apple)](#readme)
+[![Lua](https://img.shields.io/badge/Lua-5-000080?logo=lua&logoColor=white)](#readme)
 
 [![CI Builds Overview](https://img.shields.io/badge/CI%20Builds-Overview%20Page-blue?logo=circleci)](https://harisekhon.github.io/CI-CD/)
 [![Azure DevOps Pipeline](https://dev.azure.com/harisekhon/GitHub/_apis/build/status%2FHammerspoon?branchName=main)](https://dev.azure.com/harisekhon/GitHub/_build/latest?definitionId=16&branchName=main)
@@ -1986,7 +1986,7 @@ Mac event driven automation, eg. auto-run SpeedTest when connecting to Wifi, aut
     - [Auto-Start Hammerspoon](#auto-start-hammerspoon)
     - [Allow Desktop Notifications](#allow-desktop-notifications)
 - [Automation Code](#automation-code)
-  - [Auto-Switch to Multi-Output to Shazam from TV/Movies while listening on headphones](#auto-switch-to-multi-output-to-shazam-from-tvmovies-while-listening-on-headphones)
+  - [Auto-Switch to Multi-Output to Shazam from TV/Movies while listening on AirPods](#auto-switch-to-multi-output-to-shazam-from-tvmovies-while-listening-on-airpods)
   - [Auto-run Speed Test when connecting to a Wifi network](#auto-run-speed-test-when-connecting-to-a-wifi-network)
 
 
