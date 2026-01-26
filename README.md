@@ -1,9 +1,9 @@
 # CI/CD Status Page
 
 ![Original Repos](https://img.shields.io/badge/Repos-37-blue?logo=github)
-![Stars](https://img.shields.io/badge/Stars-14004-blue?logo=github)
-![Forks](https://img.shields.io/badge/Forks-3608-blue?logo=github)
-![Followers](https://img.shields.io/badge/Followers-2113-blue?logo=github)
+![Stars](https://img.shields.io/badge/Stars-14023-blue?logo=github)
+![Forks](https://img.shields.io/badge/Forks-3612-blue?logo=github)
+![Followers](https://img.shields.io/badge/Followers-2120-blue?logo=github)
 ![Lines of Code](https://img.shields.io/badge/lines%20of%20code-4k-lightgrey?logo=codecademy)
 [![GitStar Ranking Profile](https://img.shields.io/badge/GitStar%20Ranking-HariSekhon-blue?logo=github)](https://gitstar-ranking.com/HariSekhon)
 [![StarCharts](https://img.shields.io/badge/Star-Charts-blue?logo=github)](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/STARCHARTS.md)
@@ -19,7 +19,7 @@
 [![Generate README](https://github.com/HariSekhon/CI-CD/actions/workflows/readme.yaml/badge.svg)](https://github.com/HariSekhon/CI-CD/actions/workflows/readme.yaml)
 [![pages-build-deployment](https://github.com/HariSekhon/CI-CD/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/HariSekhon/CI-CD/actions/workflows/pages/pages-build-deployment)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/853ef60c-c01b-4b83-99ba-8fda541f850f/deploy-status)](https://app.netlify.com/sites/harisekhon/deploys)
-![Last Generated](https://img.shields.io/badge/Last%20Generated-2026--01--19-yellowgreen?logo=github)
+![Last Generated](https://img.shields.io/badge/Last%20Generated-2026--01--26-yellowgreen?logo=github)
 [![GitHub Last Commit](https://img.shields.io/github/last-commit/HariSekhon/CI-CD?logo=github)](https://github.com/HariSekhon/CI-CD/commits/master)
 
 37 original source git repos with 745 CI builds (720 hosted, 25 self-hosted) across 23 different CI/CD systems:
@@ -1242,7 +1242,7 @@ Template repo to quickly create new Github repos with Builds, CI/CD, Linting, Se
 
 Link:  [HariSekhon/Spotify-Playlists](https://github.com/HariSekhon/Spotify-Playlists)
 
-300+ playlists, 36,000+ tracks - in both human Artist-Track and Spotify usable (URI) formats. Spotify Profile: https://open.spotify.com/user/harisekhon. Spotify API tools are submodules of this repo.
+300+ playlists, 30,000+ unique tracks - in both human Artist-Track and Spotify usable (URI) formats. Spotify Profile: https://open.spotify.com/user/harisekhon. Spotify API tools are submodules of this repo.
 
 [![Spotify Profile](https://img.shields.io/badge/Spotify%20Profile-HariSekhon-brightgreen?logo=spotify&style=social)](https://open.spotify.com/user/harisekhon)
 [![Playlists](https://img.shields.io/badge/Playlists-300+-blue?logo=spotify)](https://open.spotify.com/user/harisekhon)
