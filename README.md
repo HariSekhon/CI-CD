@@ -1,9 +1,9 @@
 # CI/CD Status Page
 
 ![Original Repos](https://img.shields.io/badge/Repos-38-blue?logo=github)
-![Stars](https://img.shields.io/badge/Stars-14159-blue?logo=github)
-![Forks](https://img.shields.io/badge/Forks-3658-blue?logo=github)
-![Followers](https://img.shields.io/badge/Followers-2141-blue?logo=github)
+![Stars](https://img.shields.io/badge/Stars-14166-blue?logo=github)
+![Forks](https://img.shields.io/badge/Forks-3660-blue?logo=github)
+![Followers](https://img.shields.io/badge/Followers-2147-blue?logo=github)
 ![Lines of Code](https://img.shields.io/badge/lines%20of%20code-4k-lightgrey?logo=codecademy)
 [![GitStar Ranking Profile](https://img.shields.io/badge/GitStar%20Ranking-HariSekhon-blue?logo=github)](https://gitstar-ranking.com/HariSekhon)
 [![StarCharts](https://img.shields.io/badge/Star-Charts-blue?logo=github)](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/STARCHARTS.md)
@@ -19,7 +19,7 @@
 [![Generate README](https://github.com/HariSekhon/CI-CD/actions/workflows/readme.yaml/badge.svg)](https://github.com/HariSekhon/CI-CD/actions/workflows/readme.yaml)
 [![pages-build-deployment](https://github.com/HariSekhon/CI-CD/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/HariSekhon/CI-CD/actions/workflows/pages/pages-build-deployment)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/853ef60c-c01b-4b83-99ba-8fda541f850f/deploy-status)](https://app.netlify.com/sites/harisekhon/deploys)
-![Last Generated](https://img.shields.io/badge/Last%20Generated-2026--03--09-yellowgreen?logo=github)
+![Last Generated](https://img.shields.io/badge/Last%20Generated-2026--03--16-yellowgreen?logo=github)
 [![GitHub Last Commit](https://img.shields.io/github/last-commit/HariSekhon/CI-CD?logo=github)](https://github.com/HariSekhon/CI-CD/commits/master)
 
 38 original source git repos with 753 CI builds (728 hosted, 25 self-hosted) across 23 different CI/CD systems:
@@ -1223,22 +1223,6 @@ HashiCorp Packer code to build portable virtual machines in AWS AMIs, EC2 / EKS,
 
 
 ---
-# Hari Sekhon - Template Repo
-
-Link:  [HariSekhon/Template-Repo](https://github.com/HariSekhon/Template-Repo)
-
-Template repo to quickly create new Github repos with Builds, CI/CD, Linting, Security Scanning, Pre-commit, Direnv, and lots of cool Badges
-
-[![GitHub stars](https://img.shields.io/github/stars/HariSekhon/Template-Repo?logo=github)](https://github.com/HariSekhon/Template-Repo/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/HariSekhon/Template-Repo?logo=github)](https://github.com/HariSekhon/Template-Repo/network)
-[![LineCount](https://sloc.xyz/github/HariSekhon/Template-repo/?badge-bg-color=2081C2)](https://github.com/boyter/scc/)
-[![Cocomo](https://sloc.xyz/github/HariSekhon/Template-repo/?badge-bg-color=2081C2&category=cocomo)](https://github.com/boyter/scc/)
-[![License](https://img.shields.io/badge/license-MIT-green)](https://github.com/HariSekhon/Template-Repo/blob/master/LICENSE)
-[![My LinkedIn](https://img.shields.io/badge/LinkedIn%20Profile-HariSekhon-blue?logo=data:image/svg%2bxml;base64,PHN2ZyByb2xlPSJpbWciIGZpbGw9IiNmZmZmZmYiIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+TGlua2VkSW48L3RpdGxlPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPgo=)](https://www.linkedin.com/in/HariSekhon/)
-[![GitHub Last Commit](https://img.shields.io/github/last-commit/HariSekhon/Template-Repo?logo=github)](https://github.com/HariSekhon/Template-Repo/commits/master)
-
-
----
 # Hari Sekhon - Spotify Playlists
 
 Link:  [HariSekhon/Spotify-Playlists](https://github.com/HariSekhon/Spotify-Playlists)
@@ -1275,6 +1259,22 @@ Awesome Playlist Collection - 400+ playlists, 102,000+ tracks, 30,000+ unique - 
 [![Repo on BitBucket](https://img.shields.io/badge/repo-BitBucket-0052CC?logo=bitbucket)](https://bitbucket.org/HariSekhon/Spotify-Playlists)
 
 [git.io/spotify-playlists](https://git.io/spotify-playlists)
+
+
+---
+# Hari Sekhon - Template Repo
+
+Link:  [HariSekhon/Template-Repo](https://github.com/HariSekhon/Template-Repo)
+
+Template repo to quickly create new Github repos with Builds, CI/CD, Linting, Security Scanning, Pre-commit, Direnv, and lots of cool Badges
+
+[![GitHub stars](https://img.shields.io/github/stars/HariSekhon/Template-Repo?logo=github)](https://github.com/HariSekhon/Template-Repo/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/HariSekhon/Template-Repo?logo=github)](https://github.com/HariSekhon/Template-Repo/network)
+[![LineCount](https://sloc.xyz/github/HariSekhon/Template-repo/?badge-bg-color=2081C2)](https://github.com/boyter/scc/)
+[![Cocomo](https://sloc.xyz/github/HariSekhon/Template-repo/?badge-bg-color=2081C2&category=cocomo)](https://github.com/boyter/scc/)
+[![License](https://img.shields.io/badge/license-MIT-green)](https://github.com/HariSekhon/Template-Repo/blob/master/LICENSE)
+[![My LinkedIn](https://img.shields.io/badge/LinkedIn%20Profile-HariSekhon-blue?logo=data:image/svg%2bxml;base64,PHN2ZyByb2xlPSJpbWciIGZpbGw9IiNmZmZmZmYiIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+TGlua2VkSW48L3RpdGxlPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPgo=)](https://www.linkedin.com/in/HariSekhon/)
+[![GitHub Last Commit](https://img.shields.io/github/last-commit/HariSekhon/Template-Repo?logo=github)](https://github.com/HariSekhon/Template-Repo/commits/master)
 
 
 ---
@@ -1526,6 +1526,25 @@ Vagrant templates to boot quick labs, including Ubuntu, Debian, Kubernetes, Ranc
 
 
 ---
+# GitHub Actions Contexts
+
+Link:  [HariSekhon/GitHub-Actions-Contexts](https://github.com/HariSekhon/GitHub-Actions-Contexts)
+
+Dumps GitHub Actions Contexts from different triggers. Useful for seeing undocumented context fields to use in workflows
+
+[![GitHub stars](https://img.shields.io/github/stars/HariSekhon/GitHub-Actions-Contexts?logo=github)](https://github.com/HariSekhon/GitHub-Actions-Contexts/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/HariSekhon/GitHub-Actions-Contexts?logo=github)](https://github.com/HariSekhon/GitHub-Actions-Contexts/network)
+[![LineCount](https://sloc.xyz/github/HariSekhon/GitHub-Actions-Contexts/?badge-bg-color=2081C2)](https://github.com/boyter/scc/)
+[![Cocomo](https://sloc.xyz/github/HariSekhon/GitHub-Actions-Contexts/?badge-bg-color=2081C2&category=cocomo)](https://github.com/boyter/scc/)
+[![License](https://img.shields.io/github/license/HariSekhon/GitHub-Actions-Contexts)](https://github.com/HariSekhon/GitHub-Actions-Contexts/blob/master/LICENSE)
+[![My LinkedIn](https://img.shields.io/badge/LinkedIn%20Profile-HariSekhon-blue?logo=data:image/svg%2bxml;base64,PHN2ZyByb2xlPSJpbWciIGZpbGw9IiNmZmZmZmYiIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+TGlua2VkSW48L3RpdGxlPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPgo=)](https://www.linkedin.com/in/HariSekhon/)
+[![GitHub Last Commit](https://img.shields.io/github/last-commit/HariSekhon/GitHub-Actions-Contexts?logo=github)](https://github.com/HariSekhon/GitHub-Actions-Contexts/commits/master)
+
+[![Dump Contexts](https://github.com/HariSekhon/GitHub-Actions-Contexts/actions/workflows/dump_contexts.yaml/badge.svg)](https://github.com/HariSekhon/GitHub-Actions-Contexts/actions/workflows/dump_contexts.yaml)
+[![Markdown](https://github.com/HariSekhon/GitHub-Actions-Contexts/actions/workflows/markdown.yaml/badge.svg)](https://github.com/HariSekhon/GitHub-Actions-Contexts/actions/workflows/markdown.yaml)
+
+
+---
 # Kafka Scala API - Advanced Nagios Plugin / CLI Tool with Kerberos support
 
 Link:  [HariSekhon/Nagios-Plugin-Kafka](https://github.com/HariSekhon/Nagios-Plugin-Kafka)
@@ -1617,25 +1636,6 @@ Kafka Scala API CLI / Advanced Nagios Plugin, with Kerberos support (uses Kafka 
 [![Gradle](https://github.com/HariSekhon/Nagios-Plugin-Kafka/workflows/Gradle/badge.svg)](https://github.com/HariSekhon/Nagios-Plugin-Kafka/actions?query=workflow%3A%22Gradle%22)
 
 [git.io/nagios-plugin-kafka](https://git.io/nagios-plugin-kafka)
-
-
----
-# GitHub Actions Contexts
-
-Link:  [HariSekhon/GitHub-Actions-Contexts](https://github.com/HariSekhon/GitHub-Actions-Contexts)
-
-Dumps GitHub Actions Contexts from different triggers. Useful for seeing undocumented context fields to use in workflows
-
-[![GitHub stars](https://img.shields.io/github/stars/HariSekhon/GitHub-Actions-Contexts?logo=github)](https://github.com/HariSekhon/GitHub-Actions-Contexts/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/HariSekhon/GitHub-Actions-Contexts?logo=github)](https://github.com/HariSekhon/GitHub-Actions-Contexts/network)
-[![LineCount](https://sloc.xyz/github/HariSekhon/GitHub-Actions-Contexts/?badge-bg-color=2081C2)](https://github.com/boyter/scc/)
-[![Cocomo](https://sloc.xyz/github/HariSekhon/GitHub-Actions-Contexts/?badge-bg-color=2081C2&category=cocomo)](https://github.com/boyter/scc/)
-[![License](https://img.shields.io/github/license/HariSekhon/GitHub-Actions-Contexts)](https://github.com/HariSekhon/GitHub-Actions-Contexts/blob/master/LICENSE)
-[![My LinkedIn](https://img.shields.io/badge/LinkedIn%20Profile-HariSekhon-blue?logo=data:image/svg%2bxml;base64,PHN2ZyByb2xlPSJpbWciIGZpbGw9IiNmZmZmZmYiIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+TGlua2VkSW48L3RpdGxlPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPgo=)](https://www.linkedin.com/in/HariSekhon/)
-[![GitHub Last Commit](https://img.shields.io/github/last-commit/HariSekhon/GitHub-Actions-Contexts?logo=github)](https://github.com/HariSekhon/GitHub-Actions-Contexts/commits/master)
-
-[![Dump Contexts](https://github.com/HariSekhon/GitHub-Actions-Contexts/actions/workflows/dump_contexts.yaml/badge.svg)](https://github.com/HariSekhon/GitHub-Actions-Contexts/actions/workflows/dump_contexts.yaml)
-[![Markdown](https://github.com/HariSekhon/GitHub-Actions-Contexts/actions/workflows/markdown.yaml/badge.svg)](https://github.com/HariSekhon/GitHub-Actions-Contexts/actions/workflows/markdown.yaml)
 
 
 ---
@@ -1821,28 +1821,6 @@ Production .envrc files for AWS, GCP, Python, Kubernetes and Terraform with clou
 
 
 ---
-# Hari Sekhon - Prometheus
-
-Link:  [HariSekhon/Prometheus](https://github.com/HariSekhon/Prometheus)
-
-Prometheus deployment / management code
-
-[![GitHub stars](https://img.shields.io/github/stars/HariSekhon/Prometheus?logo=github)](https://github.com/HariSekhon/Prometheus/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/HariSekhon/Prometheus?logo=github)](https://github.com/HariSekhon/Prometheus/network)
-[![Lines of Code](https://img.shields.io/badge/lines%20of%20code-1k-lightgrey?logo=codecademy)](https://github.com/HariSekhon/Prometheus#Hari-Sekhon---Prometheus)
-[![License](https://img.shields.io/badge/license-MIT-green)](https://github.com/HariSekhon/Prometheus/blob/master/LICENSE)
-[![My LinkedIn](https://img.shields.io/badge/LinkedIn%20Profile-HariSekhon-blue?logo=data:image/svg%2bxml;base64,PHN2ZyByb2xlPSJpbWciIGZpbGw9IiNmZmZmZmYiIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+TGlua2VkSW48L3RpdGxlPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPgo=)](https://www.linkedin.com/in/HariSekhon/)
-[![GitHub Last Commit](https://img.shields.io/github/last-commit/HariSekhon/Prometheus?logo=github)](https://github.com/HariSekhon/Prometheus/commits/master)
-
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/94c789d1498c48f9b3f8da83e306dbdd)](https://app.codacy.com/gh/HariSekhon/Prometheus/dashboard)
-[![CodeFactor](https://www.codefactor.io/repository/github/harisekhon/Prometheus/badge)](https://www.codefactor.io/repository/github/harisekhon/Prometheus)
-[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_Prometheus&metric=alert_status)](https://sonarcloud.io/dashboard?id=HariSekhon_Prometheus)
-[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_Prometheus&metric=sqale_rating)](https://sonarcloud.io/dashboard?id=HariSekhon_Prometheus)
-[![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_Prometheus&metric=reliability_rating)](https://sonarcloud.io/dashboard?id=HariSekhon_Prometheus)
-[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_Prometheus&metric=security_rating)](https://sonarcloud.io/dashboard?id=HariSekhon_Prometheus)
-
-
----
 # Hari Sekhon - TamperMonkey Scripts
 
 Link:  [HariSekhon/TamperMonkey](https://github.com/HariSekhon/TamperMonkey)
@@ -1912,6 +1890,28 @@ TamperMonkey Scripts - convert phone number +tel links to WhatsApp links, Jira a
 
 
 ---
+# Hari Sekhon - Prometheus
+
+Link:  [HariSekhon/Prometheus](https://github.com/HariSekhon/Prometheus)
+
+Prometheus deployment / management code
+
+[![GitHub stars](https://img.shields.io/github/stars/HariSekhon/Prometheus?logo=github)](https://github.com/HariSekhon/Prometheus/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/HariSekhon/Prometheus?logo=github)](https://github.com/HariSekhon/Prometheus/network)
+[![Lines of Code](https://img.shields.io/badge/lines%20of%20code-1k-lightgrey?logo=codecademy)](https://github.com/HariSekhon/Prometheus#Hari-Sekhon---Prometheus)
+[![License](https://img.shields.io/badge/license-MIT-green)](https://github.com/HariSekhon/Prometheus/blob/master/LICENSE)
+[![My LinkedIn](https://img.shields.io/badge/LinkedIn%20Profile-HariSekhon-blue?logo=data:image/svg%2bxml;base64,PHN2ZyByb2xlPSJpbWciIGZpbGw9IiNmZmZmZmYiIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+TGlua2VkSW48L3RpdGxlPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPgo=)](https://www.linkedin.com/in/HariSekhon/)
+[![GitHub Last Commit](https://img.shields.io/github/last-commit/HariSekhon/Prometheus?logo=github)](https://github.com/HariSekhon/Prometheus/commits/master)
+
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/94c789d1498c48f9b3f8da83e306dbdd)](https://app.codacy.com/gh/HariSekhon/Prometheus/dashboard)
+[![CodeFactor](https://www.codefactor.io/repository/github/harisekhon/Prometheus/badge)](https://www.codefactor.io/repository/github/harisekhon/Prometheus)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_Prometheus&metric=alert_status)](https://sonarcloud.io/dashboard?id=HariSekhon_Prometheus)
+[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_Prometheus&metric=sqale_rating)](https://sonarcloud.io/dashboard?id=HariSekhon_Prometheus)
+[![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_Prometheus&metric=reliability_rating)](https://sonarcloud.io/dashboard?id=HariSekhon_Prometheus)
+[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_Prometheus&metric=security_rating)](https://sonarcloud.io/dashboard?id=HariSekhon_Prometheus)
+
+
+---
 # Hari Sekhon - GitHub-Repos-MermaidJS-Gantt-Chart
 
 Link:  [HariSekhon/GitHub-Repos-MermaidJS-Gantt-Chart](https://github.com/HariSekhon/GitHub-Repos-MermaidJS-Gantt-Chart)
@@ -1931,103 +1931,6 @@ Generates a MermaidJS Gantt Chart of a GitHub user's public repos activity dates
 [![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_GitHub-Repos-MermaidJS-Gantt-Chart&metric=sqale_rating)](https://sonarcloud.io/dashboard?id=HariSekhon_GitHub-Repos-MermaidJS-Gantt-Chart)
 [![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_GitHub-Repos-MermaidJS-Gantt-Chart&metric=reliability_rating)](https://sonarcloud.io/dashboard?id=HariSekhon_GitHub-Repos-MermaidJS-Gantt-Chart)
 [![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_GitHub-Repos-MermaidJS-Gantt-Chart&metric=security_rating)](https://sonarcloud.io/dashboard?id=HariSekhon_GitHub-Repos-MermaidJS-Gantt-Chart)
-
-
----
-# Hari Sekhon Java Library
-
-Link:  [HariSekhon/lib-java](https://github.com/HariSekhon/lib-java)
-
-Java Utility library for my other repos
-
-[![GitHub stars](https://img.shields.io/github/stars/harisekhon/lib-java?logo=github)](https://github.com/HariSekhon/lib-java/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/harisekhon/lib-java?logo=github)](https://github.com/HariSekhon/lib-java/network)
-[![LineCount](https://sloc.xyz/github/HariSekhon/lib-java/?badge-bg-color=2081C2)](https://github.com/boyter/scc/)
-[![Cocomo](https://sloc.xyz/github/HariSekhon/lib-java/?badge-bg-color=2081C2&category=cocomo)](https://github.com/boyter/scc/)
-[![License](https://img.shields.io/github/license/HariSekhon/lib-java)](https://github.com/HariSekhon/lib-java/blob/master/LICENSE)
-[![My LinkedIn](https://img.shields.io/badge/LinkedIn%20Profile-HariSekhon-blue?logo=data:image/svg%2bxml;base64,PHN2ZyByb2xlPSJpbWciIGZpbGw9IiNmZmZmZmYiIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+TGlua2VkSW48L3RpdGxlPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPgo=)](https://www.linkedin.com/in/HariSekhon/)
-[![GitHub Last Commit](https://img.shields.io/github/last-commit/HariSekhon/lib-java?logo=github)](https://github.com/HariSekhon/lib-java/commits/master)
-
-
-[![Codacy](https://app.codacy.com/project/badge/Grade/b929aef71cb34ede9decf79459aa936d)](https://www.codacy.com/gh/HariSekhon/lib-java/dashboard)
-[![CodeFactor](https://www.codefactor.io/repository/github/harisekhon/lib-java/badge)](https://www.codefactor.io/repository/github/harisekhon/lib-java)
-[![Language grade: Java](https://img.shields.io/lgtm/grade/java/g/HariSekhon/lib-java.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/HariSekhon/lib-java/context:java)
-[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_lib-java&metric=alert_status)](https://sonarcloud.io/dashboard?id=HariSekhon_lib-java)
-[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_lib-java&metric=sqale_rating)](https://sonarcloud.io/dashboard?id=HariSekhon_lib-java)
-[![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_lib-java&metric=reliability_rating)](https://sonarcloud.io/dashboard?id=HariSekhon_lib-java)
-[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_lib-java&metric=security_rating)](https://sonarcloud.io/dashboard?id=HariSekhon_lib-java)
-[![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_lib-java&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=HariSekhon_lib-java)
-[![Coverage Status](https://coveralls.io/repos/HariSekhon/lib-java/badge.svg?branch=master&service=github)](https://coveralls.io/github/HariSekhon/lib-java?branch=master)
-[![Total alerts](https://img.shields.io/lgtm/alerts/g/HariSekhon/lib-java.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/HariSekhon/lib-java/alerts/)
-
-[![Linux](https://img.shields.io/badge/OS-Linux-blue?logo=linux)](https://github.com/HariSekhon/lib-java)
-[![Mac](https://img.shields.io/badge/OS-Mac-blue?logo=apple)](https://github.com/HariSekhon/lib-java)
-[![Docker](https://img.shields.io/badge/container-Docker-blue?logo=docker&logoColor=white)](https://hub.docker.com/r/harisekhon/centos-github)
-[![Dockerfile](https://img.shields.io/badge/repo-Dockerfiles-blue?logo=docker&logoColor=white)](https://github.com/HariSekhon/Dockerfiles)
-[![DockerHub Pulls](https://img.shields.io/docker/pulls/harisekhon/centos-github?label=DockerHub%20pulls&logo=docker&logoColor=white)](https://hub.docker.com/r/harisekhon/centos-github)
-[![DockerHub Build Automated](https://img.shields.io/docker/automated/harisekhon/centos-github?logo=docker&logoColor=white)](https://hub.docker.com/r/harisekhon/centos-github)
-
-
-[![CI Builds Overview](https://img.shields.io/badge/CI%20Builds-Overview%20Page-blue?logo=circleci)](https://harisekhon.github.io/CI-CD/)
-[![Jenkins](https://img.shields.io/badge/Jenkins-ready-blue?logo=jenkins&logoColor=white)](https://github.com/HariSekhon/lib-java/blob/master/Jenkinsfile)
-[![Concourse](https://img.shields.io/badge/Concourse-ready-blue?logo=concourse)](https://github.com/HariSekhon/lib-java/blob/master/cicd/.concourse.yml)
-[![GoCD](https://img.shields.io/badge/GoCD-ready-blue?logo=go)](https://github.com/HariSekhon/lib-java/blob/master/cicd/.gocd.yml)
-[![TeamCity](https://img.shields.io/badge/TeamCity-ready-blue?logo=teamcity)](https://github.com/HariSekhon/TeamCity-CI)
-
-[![CircleCI](https://circleci.com/gh/HariSekhon/lib-java.svg?style=svg)](https://circleci.com/gh/HariSekhon/lib-java)
-[![BuildKite](https://img.shields.io/buildkite/453eb82cca3de2c18bb45b07765e1736051856ff42b0598884/master?label=BuildKite&logo=buildkite)](https://buildkite.com/hari-sekhon/lib-java)
-[![AppVeyor](https://img.shields.io/appveyor/build/harisekhon/lib-java/master?logo=appveyor&label=AppVeyor)](https://ci.appveyor.com/project/HariSekhon/lib-java/branch/master)
-[![Drone](https://img.shields.io/drone/build/HariSekhon/lib-java/master?logo=drone&label=Drone)](https://cloud.drone.io/HariSekhon/lib-java)
-[![Codefresh](https://g.codefresh.io/api/badges/pipeline/harisekhon/GitHub%2Flib-java?branch=master&key=eyJhbGciOiJIUzI1NiJ9.NWU1MmM5OGNiM2FiOWUzM2Y3ZDZmYjM3.O69674cW7vYom3v5JOGKXDbYgCVIJU9EWhXUMHl3zwA&type=cf-1)](https://g.codefresh.io/pipelines/edit/new/builds?id=5e58e3089604d75cec95ee25&pipeline=lib-java&filter=page:1;pageSize:10;timeFrameStart:week)
-[![Cirrus CI](https://img.shields.io/cirrus/github/HariSekhon/lib-java/master?logo=Cirrus%20CI&label=Cirrus%20CI)](https://cirrus-ci.com/github/HariSekhon/lib-java)
-[![Semaphore](https://harisekhon.semaphoreci.com/badges/lib-java.svg)](https://harisekhon.semaphoreci.com/projects/lib-java)
-[![Buddy](https://img.shields.io/badge/Buddy-ready-1A86FD?logo=buddy)](https://github.com/HariSekhon/lib-java/blob/master/buddy.yml)
-[![Shippable](https://img.shields.io/badge/Shippable-legacy-lightgrey?logo=jfrog&label=Shippable)](https://github.com/HariSekhon/lib-java/blob/master/shippable.yml)
-[![Travis CI](https://img.shields.io/badge/TravisCI-ready-blue?logo=travis&label=Travis%20CI)](https://github.com/HariSekhon/lib-java/blob/master/.travis.yml)
-
-[![Azure DevOps Pipeline](https://dev.azure.com/harisekhon/GitHub/_apis/build/status/HariSekhon.lib-java?branchName=master)](https://dev.azure.com/harisekhon/GitHub/_build/latest?definitionId=2&branchName=master)
-[![GitLab Pipeline](https://img.shields.io/badge/GitLab%20CI-legacy-lightgrey?logo=gitlab)](https://gitlab.com/HariSekhon/lib-java/pipelines)
-[![BitBucket Pipeline](https://img.shields.io/badge/Bitbucket%20CI-legacy-lightgrey?logo=bitbucket)](https://bitbucket.org/harisekhon/lib-java/addon/pipelines/home#!/)
-[![AWS CodeBuild](https://img.shields.io/badge/AWS%20CodeBuild-ready-blue?logo=amazon%20aws)](https://github.com/HariSekhon/lib-java/blob/master/cicd/buildspec.yml)
-[![GCP Cloud Build](https://img.shields.io/badge/GCP%20Cloud%20Build-ready-blue?logo=google%20cloud&logoColor=white)](https://github.com/HariSekhon/lib-java/blob/master/cicd/cloudbuild.yaml)
-
-[![Repo on GitHub](https://img.shields.io/badge/repo-GitHub-2088FF?logo=github)](https://github.com/HariSekhon/lib-java)
-[![Repo on GitLab](https://img.shields.io/badge/repo-GitLab-FCA121?logo=gitlab)](https://gitlab.com/HariSekhon/lib-java)
-[![Repo on BitBucket](https://img.shields.io/badge/repo-BitBucket-0052CC?logo=bitbucket)](https://bitbucket.org/HariSekhon/lib-java)
-[![Repo on Azure DevOps](https://img.shields.io/badge/repo-Azure%20DevOps-0078D7?logo=azure%20devops)](https://dev.azure.com/harisekhon/GitHub/_git/lib-java)
-
-[![JSON](https://github.com/HariSekhon/lib-java/actions/workflows/json.yaml/badge.svg)](https://github.com/HariSekhon/lib-java/actions/workflows/json.yaml)
-[![YAML](https://github.com/HariSekhon/lib-java/actions/workflows/yaml.yaml/badge.svg)](https://github.com/HariSekhon/lib-java/actions/workflows/yaml.yaml)
-[![XML](https://github.com/HariSekhon/lib-java/actions/workflows/xml.yaml/badge.svg)](https://github.com/HariSekhon/lib-java/actions/workflows/xml.yaml)
-[![Markdown](https://github.com/HariSekhon/lib-java/actions/workflows/markdown.yaml/badge.svg)](https://github.com/HariSekhon/lib-java/actions/workflows/markdown.yaml)
-[![Validation](https://github.com/HariSekhon/lib-java/actions/workflows/validate.yaml/badge.svg)](https://github.com/HariSekhon/lib-java/actions/workflows/validate.yaml)
-[![Kics](https://github.com/HariSekhon/lib-java/actions/workflows/kics.yaml/badge.svg)](https://github.com/HariSekhon/lib-java/actions/workflows/kics.yaml)
-[![Grype](https://github.com/HariSekhon/lib-java/actions/workflows/grype.yaml/badge.svg)](https://github.com/HariSekhon/lib-java/actions/workflows/grype.yaml)
-[![Semgrep](https://github.com/HariSekhon/lib-java/actions/workflows/semgrep.yaml/badge.svg)](https://github.com/HariSekhon/lib-java/actions/workflows/semgrep.yaml)
-[![Semgrep Cloud](https://github.com/HariSekhon/lib-java/actions/workflows/semgrep-cloud.yaml/badge.svg)](https://github.com/HariSekhon/lib-java/actions/workflows/semgrep-cloud.yaml)
-[![Trivy](https://github.com/HariSekhon/lib-java/actions/workflows/trivy.yaml/badge.svg)](https://github.com/HariSekhon/lib-java/actions/workflows/trivy.yaml)
-
-[![GitHub Actions Ubuntu](https://github.com/HariSekhon/lib-java/workflows/GitHub%20Actions%20Ubuntu/badge.svg)](https://github.com/HariSekhon/lib-java/actions?query=workflow%3A%22GitHub+Actions+Ubuntu%22)
-[![Mac](https://github.com/HariSekhon/lib-java/actions/workflows/mac.yaml/badge.svg)](https://github.com/HariSekhon/lib-java/actions/workflows/mac.yaml)
-[![Mac 11](https://github.com/HariSekhon/lib-java/actions/workflows/mac_11.yaml/badge.svg)](https://github.com/HariSekhon/lib-java/actions/workflows/mac_11.yaml)
-[![Mac 12](https://github.com/HariSekhon/lib-java/actions/workflows/mac_12.yaml/badge.svg)](https://github.com/HariSekhon/lib-java/actions/workflows/mac_12.yaml)
-[![Ubuntu](https://github.com/HariSekhon/lib-java/workflows/Ubuntu/badge.svg)](https://github.com/HariSekhon/lib-java/actions?query=workflow%3A%22Ubuntu%22)
-[![Ubuntu 20.04](https://github.com/HariSekhon/lib-java/workflows/Ubuntu%2020.04/badge.svg)](https://github.com/HariSekhon/lib-java/actions?query=workflow%3A%22Ubuntu+20.04%22)
-[![Ubuntu 22.04](https://github.com/HariSekhon/lib-java/workflows/Ubuntu%2022.04/badge.svg)](https://github.com/HariSekhon/lib-java/actions?query=workflow%3A%22Ubuntu+22.04%22)
-[![Debian](https://github.com/HariSekhon/lib-java/workflows/Debian/badge.svg)](https://github.com/HariSekhon/lib-java/actions?query=workflow%3A%22Debian%22)
-[![Debian 10](https://github.com/HariSekhon/lib-java/workflows/Debian%2010/badge.svg)](https://github.com/HariSekhon/lib-java/actions?query=workflow%3A%22Debian+10%22)
-[![Debian 11](https://github.com/HariSekhon/lib-java/workflows/Debian%2011/badge.svg)](https://github.com/HariSekhon/lib-java/actions?query=workflow%3A%22Debian+11%22)
-[![Debian 12](https://github.com/HariSekhon/lib-java/workflows/Debian%2012/badge.svg)](https://github.com/HariSekhon/lib-java/actions?query=workflow%3A%22Debian+12%22)
-[![CentOS](https://github.com/HariSekhon/lib-java/workflows/CentOS/badge.svg)](https://github.com/HariSekhon/lib-java/actions?query=workflow%3A%22CentOS%22)
-[![CentOS 7](https://github.com/HariSekhon/lib-java/workflows/CentOS%207/badge.svg)](https://github.com/HariSekhon/lib-java/actions?query=workflow%3A%22CentOS+7%22)
-[![CentOS 8](https://github.com/HariSekhon/lib-java/workflows/CentOS%208/badge.svg)](https://github.com/HariSekhon/lib-java/actions?query=workflow%3A%22CentOS+8%22)
-[![Fedora](https://github.com/HariSekhon/lib-java/workflows/Fedora/badge.svg)](https://github.com/HariSekhon/lib-java/actions?query=workflow%3A%22Fedora%22)
-[![Alpine](https://github.com/HariSekhon/lib-java/workflows/Alpine/badge.svg)](https://github.com/HariSekhon/lib-java/actions?query=workflow%3A%22Alpine%22)
-[![Alpine 3](https://github.com/HariSekhon/lib-java/workflows/Alpine%203/badge.svg)](https://github.com/HariSekhon/lib-java/actions?query=workflow%3A%22Alpine+3%22)
-
-[![Maven](https://github.com/HariSekhon/lib-java/workflows/Maven/badge.svg)](https://github.com/HariSekhon/lib-java/actions?query=workflow%3A%22Maven%22)
-[![SBT](https://github.com/HariSekhon/lib-java/workflows/SBT/badge.svg)](https://github.com/HariSekhon/lib-java/actions?query=workflow%3A%22SBT%22)
-[![Gradle](https://github.com/HariSekhon/lib-java/workflows/Gradle/badge.svg)](https://github.com/HariSekhon/lib-java/actions?query=workflow%3A%22Gradle%22)
 
 
 ---
@@ -2174,6 +2077,103 @@ Lua scripts to enhance the behaviour of the excellent open source MPV video play
 - [MPV Scripts](#mpv-scripts)
 
 
+
+
+---
+# Hari Sekhon Java Library
+
+Link:  [HariSekhon/lib-java](https://github.com/HariSekhon/lib-java)
+
+Java Utility library for my other repos
+
+[![GitHub stars](https://img.shields.io/github/stars/harisekhon/lib-java?logo=github)](https://github.com/HariSekhon/lib-java/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/harisekhon/lib-java?logo=github)](https://github.com/HariSekhon/lib-java/network)
+[![LineCount](https://sloc.xyz/github/HariSekhon/lib-java/?badge-bg-color=2081C2)](https://github.com/boyter/scc/)
+[![Cocomo](https://sloc.xyz/github/HariSekhon/lib-java/?badge-bg-color=2081C2&category=cocomo)](https://github.com/boyter/scc/)
+[![License](https://img.shields.io/github/license/HariSekhon/lib-java)](https://github.com/HariSekhon/lib-java/blob/master/LICENSE)
+[![My LinkedIn](https://img.shields.io/badge/LinkedIn%20Profile-HariSekhon-blue?logo=data:image/svg%2bxml;base64,PHN2ZyByb2xlPSJpbWciIGZpbGw9IiNmZmZmZmYiIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+TGlua2VkSW48L3RpdGxlPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPgo=)](https://www.linkedin.com/in/HariSekhon/)
+[![GitHub Last Commit](https://img.shields.io/github/last-commit/HariSekhon/lib-java?logo=github)](https://github.com/HariSekhon/lib-java/commits/master)
+
+
+[![Codacy](https://app.codacy.com/project/badge/Grade/b929aef71cb34ede9decf79459aa936d)](https://www.codacy.com/gh/HariSekhon/lib-java/dashboard)
+[![CodeFactor](https://www.codefactor.io/repository/github/harisekhon/lib-java/badge)](https://www.codefactor.io/repository/github/harisekhon/lib-java)
+[![Language grade: Java](https://img.shields.io/lgtm/grade/java/g/HariSekhon/lib-java.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/HariSekhon/lib-java/context:java)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_lib-java&metric=alert_status)](https://sonarcloud.io/dashboard?id=HariSekhon_lib-java)
+[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_lib-java&metric=sqale_rating)](https://sonarcloud.io/dashboard?id=HariSekhon_lib-java)
+[![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_lib-java&metric=reliability_rating)](https://sonarcloud.io/dashboard?id=HariSekhon_lib-java)
+[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_lib-java&metric=security_rating)](https://sonarcloud.io/dashboard?id=HariSekhon_lib-java)
+[![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_lib-java&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=HariSekhon_lib-java)
+[![Coverage Status](https://coveralls.io/repos/HariSekhon/lib-java/badge.svg?branch=master&service=github)](https://coveralls.io/github/HariSekhon/lib-java?branch=master)
+[![Total alerts](https://img.shields.io/lgtm/alerts/g/HariSekhon/lib-java.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/HariSekhon/lib-java/alerts/)
+
+[![Linux](https://img.shields.io/badge/OS-Linux-blue?logo=linux)](https://github.com/HariSekhon/lib-java)
+[![Mac](https://img.shields.io/badge/OS-Mac-blue?logo=apple)](https://github.com/HariSekhon/lib-java)
+[![Docker](https://img.shields.io/badge/container-Docker-blue?logo=docker&logoColor=white)](https://hub.docker.com/r/harisekhon/centos-github)
+[![Dockerfile](https://img.shields.io/badge/repo-Dockerfiles-blue?logo=docker&logoColor=white)](https://github.com/HariSekhon/Dockerfiles)
+[![DockerHub Pulls](https://img.shields.io/docker/pulls/harisekhon/centos-github?label=DockerHub%20pulls&logo=docker&logoColor=white)](https://hub.docker.com/r/harisekhon/centos-github)
+[![DockerHub Build Automated](https://img.shields.io/docker/automated/harisekhon/centos-github?logo=docker&logoColor=white)](https://hub.docker.com/r/harisekhon/centos-github)
+
+
+[![CI Builds Overview](https://img.shields.io/badge/CI%20Builds-Overview%20Page-blue?logo=circleci)](https://harisekhon.github.io/CI-CD/)
+[![Jenkins](https://img.shields.io/badge/Jenkins-ready-blue?logo=jenkins&logoColor=white)](https://github.com/HariSekhon/lib-java/blob/master/Jenkinsfile)
+[![Concourse](https://img.shields.io/badge/Concourse-ready-blue?logo=concourse)](https://github.com/HariSekhon/lib-java/blob/master/cicd/.concourse.yml)
+[![GoCD](https://img.shields.io/badge/GoCD-ready-blue?logo=go)](https://github.com/HariSekhon/lib-java/blob/master/cicd/.gocd.yml)
+[![TeamCity](https://img.shields.io/badge/TeamCity-ready-blue?logo=teamcity)](https://github.com/HariSekhon/TeamCity-CI)
+
+[![CircleCI](https://circleci.com/gh/HariSekhon/lib-java.svg?style=svg)](https://circleci.com/gh/HariSekhon/lib-java)
+[![BuildKite](https://img.shields.io/buildkite/453eb82cca3de2c18bb45b07765e1736051856ff42b0598884/master?label=BuildKite&logo=buildkite)](https://buildkite.com/hari-sekhon/lib-java)
+[![AppVeyor](https://img.shields.io/appveyor/build/harisekhon/lib-java/master?logo=appveyor&label=AppVeyor)](https://ci.appveyor.com/project/HariSekhon/lib-java/branch/master)
+[![Drone](https://img.shields.io/drone/build/HariSekhon/lib-java/master?logo=drone&label=Drone)](https://cloud.drone.io/HariSekhon/lib-java)
+[![Codefresh](https://g.codefresh.io/api/badges/pipeline/harisekhon/GitHub%2Flib-java?branch=master&key=eyJhbGciOiJIUzI1NiJ9.NWU1MmM5OGNiM2FiOWUzM2Y3ZDZmYjM3.O69674cW7vYom3v5JOGKXDbYgCVIJU9EWhXUMHl3zwA&type=cf-1)](https://g.codefresh.io/pipelines/edit/new/builds?id=5e58e3089604d75cec95ee25&pipeline=lib-java&filter=page:1;pageSize:10;timeFrameStart:week)
+[![Cirrus CI](https://img.shields.io/cirrus/github/HariSekhon/lib-java/master?logo=Cirrus%20CI&label=Cirrus%20CI)](https://cirrus-ci.com/github/HariSekhon/lib-java)
+[![Semaphore](https://harisekhon.semaphoreci.com/badges/lib-java.svg)](https://harisekhon.semaphoreci.com/projects/lib-java)
+[![Buddy](https://img.shields.io/badge/Buddy-ready-1A86FD?logo=buddy)](https://github.com/HariSekhon/lib-java/blob/master/buddy.yml)
+[![Shippable](https://img.shields.io/badge/Shippable-legacy-lightgrey?logo=jfrog&label=Shippable)](https://github.com/HariSekhon/lib-java/blob/master/shippable.yml)
+[![Travis CI](https://img.shields.io/badge/TravisCI-ready-blue?logo=travis&label=Travis%20CI)](https://github.com/HariSekhon/lib-java/blob/master/.travis.yml)
+
+[![Azure DevOps Pipeline](https://dev.azure.com/harisekhon/GitHub/_apis/build/status/HariSekhon.lib-java?branchName=master)](https://dev.azure.com/harisekhon/GitHub/_build/latest?definitionId=2&branchName=master)
+[![GitLab Pipeline](https://img.shields.io/badge/GitLab%20CI-legacy-lightgrey?logo=gitlab)](https://gitlab.com/HariSekhon/lib-java/pipelines)
+[![BitBucket Pipeline](https://img.shields.io/badge/Bitbucket%20CI-legacy-lightgrey?logo=bitbucket)](https://bitbucket.org/harisekhon/lib-java/addon/pipelines/home#!/)
+[![AWS CodeBuild](https://img.shields.io/badge/AWS%20CodeBuild-ready-blue?logo=amazon%20aws)](https://github.com/HariSekhon/lib-java/blob/master/cicd/buildspec.yml)
+[![GCP Cloud Build](https://img.shields.io/badge/GCP%20Cloud%20Build-ready-blue?logo=google%20cloud&logoColor=white)](https://github.com/HariSekhon/lib-java/blob/master/cicd/cloudbuild.yaml)
+
+[![Repo on GitHub](https://img.shields.io/badge/repo-GitHub-2088FF?logo=github)](https://github.com/HariSekhon/lib-java)
+[![Repo on GitLab](https://img.shields.io/badge/repo-GitLab-FCA121?logo=gitlab)](https://gitlab.com/HariSekhon/lib-java)
+[![Repo on BitBucket](https://img.shields.io/badge/repo-BitBucket-0052CC?logo=bitbucket)](https://bitbucket.org/HariSekhon/lib-java)
+[![Repo on Azure DevOps](https://img.shields.io/badge/repo-Azure%20DevOps-0078D7?logo=azure%20devops)](https://dev.azure.com/harisekhon/GitHub/_git/lib-java)
+
+[![JSON](https://github.com/HariSekhon/lib-java/actions/workflows/json.yaml/badge.svg)](https://github.com/HariSekhon/lib-java/actions/workflows/json.yaml)
+[![YAML](https://github.com/HariSekhon/lib-java/actions/workflows/yaml.yaml/badge.svg)](https://github.com/HariSekhon/lib-java/actions/workflows/yaml.yaml)
+[![XML](https://github.com/HariSekhon/lib-java/actions/workflows/xml.yaml/badge.svg)](https://github.com/HariSekhon/lib-java/actions/workflows/xml.yaml)
+[![Markdown](https://github.com/HariSekhon/lib-java/actions/workflows/markdown.yaml/badge.svg)](https://github.com/HariSekhon/lib-java/actions/workflows/markdown.yaml)
+[![Validation](https://github.com/HariSekhon/lib-java/actions/workflows/validate.yaml/badge.svg)](https://github.com/HariSekhon/lib-java/actions/workflows/validate.yaml)
+[![Kics](https://github.com/HariSekhon/lib-java/actions/workflows/kics.yaml/badge.svg)](https://github.com/HariSekhon/lib-java/actions/workflows/kics.yaml)
+[![Grype](https://github.com/HariSekhon/lib-java/actions/workflows/grype.yaml/badge.svg)](https://github.com/HariSekhon/lib-java/actions/workflows/grype.yaml)
+[![Semgrep](https://github.com/HariSekhon/lib-java/actions/workflows/semgrep.yaml/badge.svg)](https://github.com/HariSekhon/lib-java/actions/workflows/semgrep.yaml)
+[![Semgrep Cloud](https://github.com/HariSekhon/lib-java/actions/workflows/semgrep-cloud.yaml/badge.svg)](https://github.com/HariSekhon/lib-java/actions/workflows/semgrep-cloud.yaml)
+[![Trivy](https://github.com/HariSekhon/lib-java/actions/workflows/trivy.yaml/badge.svg)](https://github.com/HariSekhon/lib-java/actions/workflows/trivy.yaml)
+
+[![GitHub Actions Ubuntu](https://github.com/HariSekhon/lib-java/workflows/GitHub%20Actions%20Ubuntu/badge.svg)](https://github.com/HariSekhon/lib-java/actions?query=workflow%3A%22GitHub+Actions+Ubuntu%22)
+[![Mac](https://github.com/HariSekhon/lib-java/actions/workflows/mac.yaml/badge.svg)](https://github.com/HariSekhon/lib-java/actions/workflows/mac.yaml)
+[![Mac 11](https://github.com/HariSekhon/lib-java/actions/workflows/mac_11.yaml/badge.svg)](https://github.com/HariSekhon/lib-java/actions/workflows/mac_11.yaml)
+[![Mac 12](https://github.com/HariSekhon/lib-java/actions/workflows/mac_12.yaml/badge.svg)](https://github.com/HariSekhon/lib-java/actions/workflows/mac_12.yaml)
+[![Ubuntu](https://github.com/HariSekhon/lib-java/workflows/Ubuntu/badge.svg)](https://github.com/HariSekhon/lib-java/actions?query=workflow%3A%22Ubuntu%22)
+[![Ubuntu 20.04](https://github.com/HariSekhon/lib-java/workflows/Ubuntu%2020.04/badge.svg)](https://github.com/HariSekhon/lib-java/actions?query=workflow%3A%22Ubuntu+20.04%22)
+[![Ubuntu 22.04](https://github.com/HariSekhon/lib-java/workflows/Ubuntu%2022.04/badge.svg)](https://github.com/HariSekhon/lib-java/actions?query=workflow%3A%22Ubuntu+22.04%22)
+[![Debian](https://github.com/HariSekhon/lib-java/workflows/Debian/badge.svg)](https://github.com/HariSekhon/lib-java/actions?query=workflow%3A%22Debian%22)
+[![Debian 10](https://github.com/HariSekhon/lib-java/workflows/Debian%2010/badge.svg)](https://github.com/HariSekhon/lib-java/actions?query=workflow%3A%22Debian+10%22)
+[![Debian 11](https://github.com/HariSekhon/lib-java/workflows/Debian%2011/badge.svg)](https://github.com/HariSekhon/lib-java/actions?query=workflow%3A%22Debian+11%22)
+[![Debian 12](https://github.com/HariSekhon/lib-java/workflows/Debian%2012/badge.svg)](https://github.com/HariSekhon/lib-java/actions?query=workflow%3A%22Debian+12%22)
+[![CentOS](https://github.com/HariSekhon/lib-java/workflows/CentOS/badge.svg)](https://github.com/HariSekhon/lib-java/actions?query=workflow%3A%22CentOS%22)
+[![CentOS 7](https://github.com/HariSekhon/lib-java/workflows/CentOS%207/badge.svg)](https://github.com/HariSekhon/lib-java/actions?query=workflow%3A%22CentOS+7%22)
+[![CentOS 8](https://github.com/HariSekhon/lib-java/workflows/CentOS%208/badge.svg)](https://github.com/HariSekhon/lib-java/actions?query=workflow%3A%22CentOS+8%22)
+[![Fedora](https://github.com/HariSekhon/lib-java/workflows/Fedora/badge.svg)](https://github.com/HariSekhon/lib-java/actions?query=workflow%3A%22Fedora%22)
+[![Alpine](https://github.com/HariSekhon/lib-java/workflows/Alpine/badge.svg)](https://github.com/HariSekhon/lib-java/actions?query=workflow%3A%22Alpine%22)
+[![Alpine 3](https://github.com/HariSekhon/lib-java/workflows/Alpine%203/badge.svg)](https://github.com/HariSekhon/lib-java/actions?query=workflow%3A%22Alpine+3%22)
+
+[![Maven](https://github.com/HariSekhon/lib-java/workflows/Maven/badge.svg)](https://github.com/HariSekhon/lib-java/actions?query=workflow%3A%22Maven%22)
+[![SBT](https://github.com/HariSekhon/lib-java/workflows/SBT/badge.svg)](https://github.com/HariSekhon/lib-java/actions?query=workflow%3A%22SBT%22)
+[![Gradle](https://github.com/HariSekhon/lib-java/workflows/Gradle/badge.svg)](https://github.com/HariSekhon/lib-java/actions?query=workflow%3A%22Gradle%22)
 
 
 ---
