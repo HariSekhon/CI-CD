@@ -1,9 +1,9 @@
 # CI/CD Status Page
 
 ![Original Repos](https://img.shields.io/badge/Repos-38-blue?logo=github)
-![Stars](https://img.shields.io/badge/Stars-14284-blue?logo=github)
-![Forks](https://img.shields.io/badge/Forks-3677-blue?logo=github)
-![Followers](https://img.shields.io/badge/Followers-2156-blue?logo=github)
+![Stars](https://img.shields.io/badge/Stars-14322-blue?logo=github)
+![Forks](https://img.shields.io/badge/Forks-3685-blue?logo=github)
+![Followers](https://img.shields.io/badge/Followers-2162-blue?logo=github)
 ![Lines of Code](https://img.shields.io/badge/lines%20of%20code-4k-lightgrey?logo=codecademy)
 [![GitStar Ranking Profile](https://img.shields.io/badge/GitStar%20Ranking-HariSekhon-blue?logo=github)](https://gitstar-ranking.com/HariSekhon)
 [![StarCharts](https://img.shields.io/badge/Star-Charts-blue?logo=github)](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/STARCHARTS.md)
@@ -19,7 +19,7 @@
 [![Generate README](https://github.com/HariSekhon/CI-CD/actions/workflows/readme.yaml/badge.svg)](https://github.com/HariSekhon/CI-CD/actions/workflows/readme.yaml)
 [![pages-build-deployment](https://github.com/HariSekhon/CI-CD/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/HariSekhon/CI-CD/actions/workflows/pages/pages-build-deployment)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/853ef60c-c01b-4b83-99ba-8fda541f850f/deploy-status)](https://app.netlify.com/sites/harisekhon/deploys)
-![Last Generated](https://img.shields.io/badge/Last%20Generated-2026--04--06-yellowgreen?logo=github)
+![Last Generated](https://img.shields.io/badge/Last%20Generated-2026--04--13-yellowgreen?logo=github)
 [![GitHub Last Commit](https://img.shields.io/github/last-commit/HariSekhon/CI-CD?logo=github)](https://github.com/HariSekhon/CI-CD/commits/master)
 
 38 original source git repos with 753 CI builds (728 hosted, 25 self-hosted) across 23 different CI/CD systems:
@@ -1873,6 +1873,7 @@ TamperMonkey Scripts - convert phone number +tel links to WhatsApp links, Jira a
   - [Install](#install)
     - [Option 1 - Copy & Paste](#option-1---copy--paste)
     - [Option 2 - Import from URL](#option-2---import-from-url)
+    - [Option 3 - UserScript downloadURL](#option-3---userscript-downloadurl)
   - [Tel to WhatsApp](#tel-to-whatsapp)
   - [Jira Description Autofill](#jira-description-autofill)
 - [Troubleshooting](#troubleshooting)
@@ -1881,10 +1882,12 @@ TamperMonkey Scripts - convert phone number +tel links to WhatsApp links, Jira a
   - [DevOps Code](#devops-code)
   - [Containerization](#containerization)
   - [CI/CD](#cicd)
-  - [DBA - SQL](#dba---sql)
+  - [Databases - DBA - SQL](#databases---dba---sql)
   - [DevOps Reloaded](#devops-reloaded)
+  - [Monitoring](#monitoring)
   - [Templates](#templates)
-  - [Misc](#misc)
+  - [Desktop](#desktop)
+  - [Spotify](#spotify)
 
 
 
