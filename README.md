@@ -1,9 +1,9 @@
 # CI/CD Status Page
 
 ![Original Repos](https://img.shields.io/badge/Repos-38-blue?logo=github)
-![Stars](https://img.shields.io/badge/Stars-14322-blue?logo=github)
-![Forks](https://img.shields.io/badge/Forks-3685-blue?logo=github)
-![Followers](https://img.shields.io/badge/Followers-2162-blue?logo=github)
+![Stars](https://img.shields.io/badge/Stars-14342-blue?logo=github)
+![Forks](https://img.shields.io/badge/Forks-3686-blue?logo=github)
+![Followers](https://img.shields.io/badge/Followers-2161-blue?logo=github)
 ![Lines of Code](https://img.shields.io/badge/lines%20of%20code-4k-lightgrey?logo=codecademy)
 [![GitStar Ranking Profile](https://img.shields.io/badge/GitStar%20Ranking-HariSekhon-blue?logo=github)](https://gitstar-ranking.com/HariSekhon)
 [![StarCharts](https://img.shields.io/badge/Star-Charts-blue?logo=github)](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/STARCHARTS.md)
@@ -19,7 +19,7 @@
 [![Generate README](https://github.com/HariSekhon/CI-CD/actions/workflows/readme.yaml/badge.svg)](https://github.com/HariSekhon/CI-CD/actions/workflows/readme.yaml)
 [![pages-build-deployment](https://github.com/HariSekhon/CI-CD/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/HariSekhon/CI-CD/actions/workflows/pages/pages-build-deployment)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/853ef60c-c01b-4b83-99ba-8fda541f850f/deploy-status)](https://app.netlify.com/sites/harisekhon/deploys)
-![Last Generated](https://img.shields.io/badge/Last%20Generated-2026--04--13-yellowgreen?logo=github)
+![Last Generated](https://img.shields.io/badge/Last%20Generated-2026--04--20-yellowgreen?logo=github)
 [![GitHub Last Commit](https://img.shields.io/github/last-commit/HariSekhon/CI-CD?logo=github)](https://github.com/HariSekhon/CI-CD/commits/master)
 
 38 original source git repos with 753 CI builds (728 hosted, 25 self-hosted) across 23 different CI/CD systems:
@@ -2026,7 +2026,7 @@ Generates an SVG graph of GitHub commit activity by hour for given repos or all 
 ---
 # Hari Sekhon - MPV-Scripts
 
-Link:  [HariSekhon/MPV-Scripts](https://github.com/HariSekhon/MPV-Scripts)
+Link:  [HariSekhon/MPV-scripts](https://github.com/HariSekhon/MPV-scripts)
 
 Lua scripts to enhance the behaviour of the excellent open source MPV video player
 
