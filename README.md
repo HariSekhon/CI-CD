@@ -1,9 +1,9 @@
 # CI/CD Status Page
 
 ![Original Repos](https://img.shields.io/badge/Repos-38-blue?logo=github)
-![Stars](https://img.shields.io/badge/Stars-14494-blue?logo=github)
-![Forks](https://img.shields.io/badge/Forks-3712-blue?logo=github)
-![Followers](https://img.shields.io/badge/Followers-2197-blue?logo=github)
+![Stars](https://img.shields.io/badge/Stars-14522-blue?logo=github)
+![Forks](https://img.shields.io/badge/Forks-3720-blue?logo=github)
+![Followers](https://img.shields.io/badge/Followers-2205-blue?logo=github)
 ![Lines of Code](https://img.shields.io/badge/lines%20of%20code-4k-lightgrey?logo=codecademy)
 [![GitStar Ranking Profile](https://img.shields.io/badge/GitStar%20Ranking-HariSekhon-blue?logo=github)](https://gitstar-ranking.com/HariSekhon)
 [![StarCharts](https://img.shields.io/badge/Star-Charts-blue?logo=github)](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/STARCHARTS.md)
@@ -19,7 +19,7 @@
 [![Generate README](https://github.com/HariSekhon/CI-CD/actions/workflows/readme.yaml/badge.svg)](https://github.com/HariSekhon/CI-CD/actions/workflows/readme.yaml)
 [![pages-build-deployment](https://github.com/HariSekhon/CI-CD/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/HariSekhon/CI-CD/actions/workflows/pages/pages-build-deployment)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/853ef60c-c01b-4b83-99ba-8fda541f850f/deploy-status)](https://app.netlify.com/sites/harisekhon/deploys)
-![Last Generated](https://img.shields.io/badge/Last%20Generated-2026--06--29-yellowgreen?logo=github)
+![Last Generated](https://img.shields.io/badge/Last%20Generated-2026--07--06-yellowgreen?logo=github)
 [![GitHub Last Commit](https://img.shields.io/github/last-commit/HariSekhon/CI-CD?logo=github)](https://github.com/HariSekhon/CI-CD/commits/master)
 
 38 original source git repos with 753 CI builds (728 hosted, 25 self-hosted) across 23 different CI/CD systems:
@@ -29,7 +29,7 @@
 
 Link:  [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools)
 
-1000+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LDAP, Code/Build Linting, pkg mgmt for Linux, Mac, Python, Perl, Ruby, NodeJS, Golang, Advanced dotfiles: .bashrc, .vimrc, .gitconfig, .screenrc, tmux..
+1200+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LDAP, Code/Build Linting, pkg mgmt for Linux, Mac, Python, Perl, Ruby, NodeJS, Golang, Advanced dotfiles: .bashrc, .vimrc, .gitconfig, .screenrc, tmux..
 
 [![GitHub stars](https://img.shields.io/github/stars/harisekhon/devops-bash-tools?logo=github)](https://github.com/HariSekhon/DevOps-Bash-tools/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/harisekhon/devops-bash-tools?logo=github)](https://github.com/HariSekhon/DevOps-Bash-tools/network)
@@ -1937,6 +1937,66 @@ Generates a MermaidJS Gantt Chart of a GitHub user's public repos activity dates
 
 
 ---
+# Hari Sekhon - MPV-Scripts
+
+Link:  [HariSekhon/MPV-scripts](https://github.com/HariSekhon/MPV-scripts)
+
+Lua scripts to enhance the behaviour of the excellent open source MPV video player
+
+[![GitHub stars](https://img.shields.io/github/stars/HariSekhon/MPV-Scripts?logo=github)](https://github.com/HariSekhon/MPV-Scripts/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/HariSekhon/MPV-Scripts?logo=github)](https://github.com/HariSekhon/MPV-Scripts/network)
+[![LineCount](https://sloc.xyz/github/HariSekhon/MPV-Scripts/?badge-bg-color=2081C2)](https://github.com/boyter/scc/)
+[![Cocomo](https://sloc.xyz/github/HariSekhon/MPV-Scripts/?badge-bg-color=2081C2&category=cocomo)](https://github.com/boyter/scc/)
+[![License](https://img.shields.io/badge/license-MIT-green)](https://github.com/HariSekhon/MPV-Scripts/blob/master/LICENSE)
+[![My LinkedIn](https://img.shields.io/badge/LinkedIn%20Profile-HariSekhon-blue?logo=data:image/svg%2bxml;base64,PHN2ZyByb2xlPSJpbWciIGZpbGw9IiNmZmZmZmYiIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+TGlua2VkSW48L3RpdGxlPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPgo=)](https://www.linkedin.com/in/HariSekhon/)
+[![GitHub Last Commit](https://img.shields.io/github/last-commit/HariSekhon/MPV-Scripts?logo=github)](https://github.com/HariSekhon/MPV-Scripts/commits/master)
+
+[![Codacy](https://app.codacy.com/project/badge/Grade/2301baad8cde440ea1c27889a936bf28)](https://app.codacy.com/gh/HariSekhon/MPV-Scripts/dashboard)
+[![CodeFactor](https://www.codefactor.io/repository/github/harisekhon/MPV-Scripts/badge)](https://www.codefactor.io/repository/github/harisekhon/MPV-Scripts)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_MPV-Scripts&metric=alert_status)](https://sonarcloud.io/dashboard?id=HariSekhon_MPV-Scripts)
+[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_MPV-Scripts&metric=sqale_rating)](https://sonarcloud.io/dashboard?id=HariSekhon_MPV-Scripts)
+[![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_MPV-Scripts&metric=reliability_rating)](https://sonarcloud.io/dashboard?id=HariSekhon_MPV-Scripts)
+[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_MPV-Scripts&metric=security_rating)](https://sonarcloud.io/dashboard?id=HariSekhon_MPV-Scripts)
+
+[![CI Builds Overview](https://img.shields.io/badge/CI%20Builds-Overview%20Page-blue?logo=circleci)](https://harisekhon.github.io/CI-CD/)
+[![Linux](https://img.shields.io/badge/OS-Linux-blue?logo=linux)](https://github.com/HariSekhon/DevOps-Bash-tools#hari-sekhon---devops-bash-tools)
+[![Mac](https://img.shields.io/badge/OS-Mac-blue?logo=apple)](https://github.com/HariSekhon/DevOps-Bash-tools#hari-sekhon---devops-bash-tools)
+
+[![Mac Homebrew](https://img.shields.io/badge/Mac-Homebrew-999999?logo=apple&logoColor=white)](https://brew.sh/)
+[![Alpine](https://img.shields.io/badge/Linux-Alpine-0D597F?logo=alpine%20linux)](https://alpinelinux.org/)
+[![CentOS](https://img.shields.io/badge/Linux-CentOS-262577?logo=centos&logoColor=white)](https://www.centos.org/)
+[![Debian](https://img.shields.io/badge/Linux-Debian-A81D33?logo=debian)](https://www.debian.org/)
+[![Fedora](https://img.shields.io/badge/Linux-Fedora-294172?logo=fedora&logoColor=white)](https://getfedora.org/)
+[![Redhat](https://img.shields.io/badge/Linux-Redhat-EE0000?logo=red%20hat)](https://www.redhat.com/en)
+[![Rocky](https://img.shields.io/badge/Linux-Rocky-10B981?logo=rockylinux&logoColor=white)](https://rockylinux.org/)
+[![Ubuntu](https://img.shields.io/badge/Linux-Ubuntu-E95420?logo=ubuntu&logoColor=white)](https://ubuntu.com/)
+
+[![Repo on GitHub](https://img.shields.io/badge/repo-GitHub-2088FF?logo=github)](https://github.com/HariSekhon/MPV-Scripts)
+[![Repo on GitLab](https://img.shields.io/badge/repo-GitLab-FCA121?logo=gitlab)](https://gitlab.com/HariSekhon/MPV-Scripts)
+[![Repo on Azure DevOps](https://img.shields.io/badge/repo-Azure%20DevOps-0078D7?logo=azure%20devops)](https://dev.azure.com/HariSekhon/GitHub/_git/MPV-Scripts)
+[![Repo on BitBucket](https://img.shields.io/badge/repo-BitBucket-0052CC?logo=bitbucket)](https://bitbucket.org/HariSekhon/MPV-Scripts)
+
+[![Markdown](https://github.com/HariSekhon/MPV-Scripts/actions/workflows/markdown.yaml/badge.svg)](https://github.com/HariSekhon/MPV-Scripts/actions/workflows/markdown.yaml)
+[![Validation](https://github.com/HariSekhon/MPV-Scripts/actions/workflows/validate.yaml/badge.svg)](https://github.com/HariSekhon/MPV-Scripts/actions/workflows/validate.yaml)
+[![Kics](https://github.com/HariSekhon/MPV-Scripts/actions/workflows/kics.yaml/badge.svg)](https://github.com/HariSekhon/MPV-Scripts/actions/workflows/kics.yaml)
+[![Grype](https://github.com/HariSekhon/MPV-Scripts/actions/workflows/grype.yaml/badge.svg)](https://github.com/HariSekhon/MPV-Scripts/actions/workflows/grype.yaml)
+[![Semgrep](https://github.com/HariSekhon/MPV-Scripts/actions/workflows/semgrep.yaml/badge.svg)](https://github.com/HariSekhon/MPV-Scripts/actions/workflows/semgrep.yaml)
+[![Semgrep Cloud](https://github.com/HariSekhon/MPV-Scripts/actions/workflows/semgrep-cloud.yaml/badge.svg)](https://github.com/HariSekhon/MPV-Scripts/actions/workflows/semgrep-cloud.yaml)
+[![SonarCloud](https://github.com/HariSekhon/MPV-Scripts/actions/workflows/sonarcloud.yaml/badge.svg)](https://github.com/HariSekhon/MPV-Scripts/actions/workflows/sonarcloud.yaml)
+[![Trivy](https://github.com/HariSekhon/MPV-Scripts/actions/workflows/trivy.yaml/badge.svg)](https://github.com/HariSekhon/MPV-Scripts/actions/workflows/trivy.yaml)
+
+
+
+- [Summary](#summary)
+- [MPV](#mpv)
+- [Setup](#setup)
+- [MPV Config](#mpv-config)
+- [MPV Scripts](#mpv-scripts)
+
+
+
+
+---
 # Hari Sekhon - Hammerspoon Mac Event-Driven Automation Code
 
 Link:  [HariSekhon/Hammerspoon](https://github.com/HariSekhon/Hammerspoon)
@@ -2021,66 +2081,6 @@ Generates an SVG graph of GitHub commit activity by hour for given repos or all 
 [![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_GitHub-Commit-Times-Graph&metric=sqale_rating)](https://sonarcloud.io/dashboard?id=HariSekhon_GitHub-Commit-Times-Graph)
 [![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_GitHub-Commit-Times-Graph&metric=reliability_rating)](https://sonarcloud.io/dashboard?id=HariSekhon_GitHub-Commit-Times-Graph)
 [![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_GitHub-Commit-Times-Graph&metric=security_rating)](https://sonarcloud.io/dashboard?id=HariSekhon_GitHub-Commit-Times-Graph)
-
-
----
-# Hari Sekhon - MPV-Scripts
-
-Link:  [HariSekhon/MPV-scripts](https://github.com/HariSekhon/MPV-scripts)
-
-Lua scripts to enhance the behaviour of the excellent open source MPV video player
-
-[![GitHub stars](https://img.shields.io/github/stars/HariSekhon/MPV-Scripts?logo=github)](https://github.com/HariSekhon/MPV-Scripts/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/HariSekhon/MPV-Scripts?logo=github)](https://github.com/HariSekhon/MPV-Scripts/network)
-[![LineCount](https://sloc.xyz/github/HariSekhon/MPV-Scripts/?badge-bg-color=2081C2)](https://github.com/boyter/scc/)
-[![Cocomo](https://sloc.xyz/github/HariSekhon/MPV-Scripts/?badge-bg-color=2081C2&category=cocomo)](https://github.com/boyter/scc/)
-[![License](https://img.shields.io/badge/license-MIT-green)](https://github.com/HariSekhon/MPV-Scripts/blob/master/LICENSE)
-[![My LinkedIn](https://img.shields.io/badge/LinkedIn%20Profile-HariSekhon-blue?logo=data:image/svg%2bxml;base64,PHN2ZyByb2xlPSJpbWciIGZpbGw9IiNmZmZmZmYiIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+TGlua2VkSW48L3RpdGxlPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPgo=)](https://www.linkedin.com/in/HariSekhon/)
-[![GitHub Last Commit](https://img.shields.io/github/last-commit/HariSekhon/MPV-Scripts?logo=github)](https://github.com/HariSekhon/MPV-Scripts/commits/master)
-
-[![Codacy](https://app.codacy.com/project/badge/Grade/2301baad8cde440ea1c27889a936bf28)](https://app.codacy.com/gh/HariSekhon/MPV-Scripts/dashboard)
-[![CodeFactor](https://www.codefactor.io/repository/github/harisekhon/MPV-Scripts/badge)](https://www.codefactor.io/repository/github/harisekhon/MPV-Scripts)
-[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_MPV-Scripts&metric=alert_status)](https://sonarcloud.io/dashboard?id=HariSekhon_MPV-Scripts)
-[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_MPV-Scripts&metric=sqale_rating)](https://sonarcloud.io/dashboard?id=HariSekhon_MPV-Scripts)
-[![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_MPV-Scripts&metric=reliability_rating)](https://sonarcloud.io/dashboard?id=HariSekhon_MPV-Scripts)
-[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_MPV-Scripts&metric=security_rating)](https://sonarcloud.io/dashboard?id=HariSekhon_MPV-Scripts)
-
-[![CI Builds Overview](https://img.shields.io/badge/CI%20Builds-Overview%20Page-blue?logo=circleci)](https://harisekhon.github.io/CI-CD/)
-[![Linux](https://img.shields.io/badge/OS-Linux-blue?logo=linux)](https://github.com/HariSekhon/DevOps-Bash-tools#hari-sekhon---devops-bash-tools)
-[![Mac](https://img.shields.io/badge/OS-Mac-blue?logo=apple)](https://github.com/HariSekhon/DevOps-Bash-tools#hari-sekhon---devops-bash-tools)
-
-[![Mac Homebrew](https://img.shields.io/badge/Mac-Homebrew-999999?logo=apple&logoColor=white)](https://brew.sh/)
-[![Alpine](https://img.shields.io/badge/Linux-Alpine-0D597F?logo=alpine%20linux)](https://alpinelinux.org/)
-[![CentOS](https://img.shields.io/badge/Linux-CentOS-262577?logo=centos&logoColor=white)](https://www.centos.org/)
-[![Debian](https://img.shields.io/badge/Linux-Debian-A81D33?logo=debian)](https://www.debian.org/)
-[![Fedora](https://img.shields.io/badge/Linux-Fedora-294172?logo=fedora&logoColor=white)](https://getfedora.org/)
-[![Redhat](https://img.shields.io/badge/Linux-Redhat-EE0000?logo=red%20hat)](https://www.redhat.com/en)
-[![Rocky](https://img.shields.io/badge/Linux-Rocky-10B981?logo=rockylinux&logoColor=white)](https://rockylinux.org/)
-[![Ubuntu](https://img.shields.io/badge/Linux-Ubuntu-E95420?logo=ubuntu&logoColor=white)](https://ubuntu.com/)
-
-[![Repo on GitHub](https://img.shields.io/badge/repo-GitHub-2088FF?logo=github)](https://github.com/HariSekhon/MPV-Scripts)
-[![Repo on GitLab](https://img.shields.io/badge/repo-GitLab-FCA121?logo=gitlab)](https://gitlab.com/HariSekhon/MPV-Scripts)
-[![Repo on Azure DevOps](https://img.shields.io/badge/repo-Azure%20DevOps-0078D7?logo=azure%20devops)](https://dev.azure.com/HariSekhon/GitHub/_git/MPV-Scripts)
-[![Repo on BitBucket](https://img.shields.io/badge/repo-BitBucket-0052CC?logo=bitbucket)](https://bitbucket.org/HariSekhon/MPV-Scripts)
-
-[![Markdown](https://github.com/HariSekhon/MPV-Scripts/actions/workflows/markdown.yaml/badge.svg)](https://github.com/HariSekhon/MPV-Scripts/actions/workflows/markdown.yaml)
-[![Validation](https://github.com/HariSekhon/MPV-Scripts/actions/workflows/validate.yaml/badge.svg)](https://github.com/HariSekhon/MPV-Scripts/actions/workflows/validate.yaml)
-[![Kics](https://github.com/HariSekhon/MPV-Scripts/actions/workflows/kics.yaml/badge.svg)](https://github.com/HariSekhon/MPV-Scripts/actions/workflows/kics.yaml)
-[![Grype](https://github.com/HariSekhon/MPV-Scripts/actions/workflows/grype.yaml/badge.svg)](https://github.com/HariSekhon/MPV-Scripts/actions/workflows/grype.yaml)
-[![Semgrep](https://github.com/HariSekhon/MPV-Scripts/actions/workflows/semgrep.yaml/badge.svg)](https://github.com/HariSekhon/MPV-Scripts/actions/workflows/semgrep.yaml)
-[![Semgrep Cloud](https://github.com/HariSekhon/MPV-Scripts/actions/workflows/semgrep-cloud.yaml/badge.svg)](https://github.com/HariSekhon/MPV-Scripts/actions/workflows/semgrep-cloud.yaml)
-[![SonarCloud](https://github.com/HariSekhon/MPV-Scripts/actions/workflows/sonarcloud.yaml/badge.svg)](https://github.com/HariSekhon/MPV-Scripts/actions/workflows/sonarcloud.yaml)
-[![Trivy](https://github.com/HariSekhon/MPV-Scripts/actions/workflows/trivy.yaml/badge.svg)](https://github.com/HariSekhon/MPV-Scripts/actions/workflows/trivy.yaml)
-
-
-
-- [Summary](#summary)
-- [MPV](#mpv)
-- [Setup](#setup)
-- [MPV Config](#mpv-config)
-- [MPV Scripts](#mpv-scripts)
-
-
 
 
 ---
