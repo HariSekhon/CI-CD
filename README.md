@@ -1,9 +1,9 @@
 # CI/CD Status Page
 
 ![Original Repos](https://img.shields.io/badge/Repos-38-blue?logo=github)
-![Stars](https://img.shields.io/badge/Stars-14652-blue?logo=github)
-![Forks](https://img.shields.io/badge/Forks-3732-blue?logo=github)
-![Followers](https://img.shields.io/badge/Followers-2235-blue?logo=github)
+![Stars](https://img.shields.io/badge/Stars-14666-blue?logo=github)
+![Forks](https://img.shields.io/badge/Forks-3735-blue?logo=github)
+![Followers](https://img.shields.io/badge/Followers-2239-blue?logo=github)
 ![Lines of Code](https://img.shields.io/badge/lines%20of%20code-4k-lightgrey?logo=codecademy)
 [![GitStar Ranking Profile](https://img.shields.io/badge/GitStar%20Ranking-HariSekhon-blue?logo=github)](https://gitstar-ranking.com/HariSekhon)
 [![StarCharts](https://img.shields.io/badge/Star-Charts-blue?logo=github)](https://github.com/HariSekhon/DevOps-Bash-tools/blob/master/STARCHARTS.md)
@@ -19,7 +19,7 @@
 [![Generate README](https://github.com/HariSekhon/CI-CD/actions/workflows/readme.yaml/badge.svg)](https://github.com/HariSekhon/CI-CD/actions/workflows/readme.yaml)
 [![pages-build-deployment](https://github.com/HariSekhon/CI-CD/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/HariSekhon/CI-CD/actions/workflows/pages/pages-build-deployment)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/853ef60c-c01b-4b83-99ba-8fda541f850f/deploy-status)](https://app.netlify.com/sites/harisekhon/deploys)
-![Last Generated](https://img.shields.io/badge/Last%20Generated-2026--09--21-yellowgreen?logo=github)
+![Last Generated](https://img.shields.io/badge/Last%20Generated-2026--09--28-yellowgreen?logo=github)
 [![GitHub Last Commit](https://img.shields.io/github/last-commit/HariSekhon/CI-CD?logo=github)](https://github.com/HariSekhon/CI-CD/commits/master)
 
 38 original source git repos with 753 CI builds (728 hosted, 25 self-hosted) across 23 different CI/CD systems:
@@ -1400,6 +1400,91 @@ Dumps GitHub Actions Contexts from different triggers. Useful for seeing undocum
 
 
 ---
+# Hari Sekhon - Vagrant templates
+
+Link:  [HariSekhon/Vagrant](https://github.com/HariSekhon/Vagrant)
+
+Vagrant templates to boot quick labs, including Ubuntu, Debian, Kubernetes, Rancher
+
+[![GitHub stars](https://img.shields.io/github/stars/HariSekhon/Vagrant?logo=github)](https://github.com/HariSekhon/Vagrant/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/HariSekhon/Vagrant?logo=github)](https://github.com/HariSekhon/Vagrant/network)
+[![LineCount](https://sloc.xyz/github/HariSekhon/Vagrant/?badge-bg-color=2081C2)](https://github.com/boyter/scc/)
+[![Cocomo](https://sloc.xyz/github/HariSekhon/Vagrant/?badge-bg-color=2081C2&category=cocomo)](https://github.com/boyter/scc/)
+[![License](https://img.shields.io/badge/license-MIT-green)](https://github.com/HariSekhon/Vagrant/blob/master/LICENSE)
+[![My LinkedIn](https://img.shields.io/badge/LinkedIn%20Profile-HariSekhon-blue?logo=data:image/svg%2bxml;base64,PHN2ZyByb2xlPSJpbWciIGZpbGw9IiNmZmZmZmYiIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+TGlua2VkSW48L3RpdGxlPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPgo=)](https://www.linkedin.com/in/HariSekhon/)
+[![GitHub Last Commit](https://img.shields.io/github/last-commit/HariSekhon/Vagrant?logo=github)](https://github.com/HariSekhon/Vagrant/commits/master)
+
+[![Codacy](https://app.codacy.com/project/badge/Grade/4d10a36afcfb47368019c984d8bcaa85)](https://www.codacy.com/gh/HariSekhon/Vagrant/dashboard)
+[![CodeFactor](https://www.codefactor.io/repository/github/harisekhon/Vagrant/badge)](https://www.codefactor.io/repository/github/harisekhon/Vagrant)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_Vagrant&metric=alert_status)](https://sonarcloud.io/dashboard?id=HariSekhon_Vagrant)
+[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_Vagrant&metric=sqale_rating)](https://sonarcloud.io/dashboard?id=HariSekhon_Vagrant)
+[![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_Vagrant&metric=reliability_rating)](https://sonarcloud.io/dashboard?id=HariSekhon_Vagrant)
+[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_Vagrant&metric=security_rating)](https://sonarcloud.io/dashboard?id=HariSekhon_Vagrant)
+
+[![Linux](https://img.shields.io/badge/OS-Linux-blue?logo=linux)](https://github.com/HariSekhon/DevOps-Bash-tools#hari-sekhon---devops-bash-tools)
+[![Mac](https://img.shields.io/badge/OS-Mac-blue?logo=apple)](https://github.com/HariSekhon/DevOps-Bash-tools#hari-sekhon---devops-bash-tools)
+
+[![CI Builds Overview](https://img.shields.io/badge/CI%20Builds-Overview%20Page-blue?logo=circleci)](https://harisekhon.github.io/CI-CD/)
+[![Repo on GitHub](https://img.shields.io/badge/repo-GitHub-2088FF?logo=github)](https://github.com/HariSekhon/Vagrant)
+[![Repo on GitLab](https://img.shields.io/badge/repo-GitLab-FCA121?logo=gitlab)](https://gitlab.com/HariSekhon/Vagrant)
+[![Repo on Azure DevOps](https://img.shields.io/badge/repo-Azure%20DevOps-0078D7?logo=azure%20devops)](https://dev.azure.com/HariSekhon/GitHub/_git/Vagrant)
+[![Repo on BitBucket](https://img.shields.io/badge/repo-BitBucket-0052CC?logo=bitbucket)](https://bitbucket.org/HariSekhon/Vagrant)
+
+[![Markdown](https://github.com/HariSekhon/Vagrant/actions/workflows/markdown.yaml/badge.svg)](https://github.com/HariSekhon/Vagrant/actions/workflows/markdown.yaml)
+[![Validation](https://github.com/HariSekhon/Vagrant/actions/workflows/validate.yaml/badge.svg)](https://github.com/HariSekhon/Vagrant/actions/workflows/validate.yaml)
+[![Kics](https://github.com/HariSekhon/Vagrant/actions/workflows/kics.yaml/badge.svg)](https://github.com/HariSekhon/Vagrant/actions/workflows/kics.yaml)
+[![Grype](https://github.com/HariSekhon/Vagrant/actions/workflows/grype.yaml/badge.svg)](https://github.com/HariSekhon/Vagrant/actions/workflows/grype.yaml)
+[![Semgrep](https://github.com/HariSekhon/Vagrant/actions/workflows/semgrep.yaml/badge.svg)](https://github.com/HariSekhon/Vagrant/actions/workflows/semgrep.yaml)
+[![Semgrep Cloud](https://github.com/HariSekhon/Vagrant/actions/workflows/semgrep-cloud.yaml/badge.svg)](https://github.com/HariSekhon/Vagrant/actions/workflows/semgrep-cloud.yaml)
+[![SonarCloud](https://github.com/HariSekhon/Vagrant/actions/workflows/sonarcloud.yaml/badge.svg)](https://github.com/HariSekhon/Vagrant/actions/workflows/sonarcloud.yaml)
+[![Trivy](https://github.com/HariSekhon/Vagrant/actions/workflows/trivy.yaml/badge.svg)](https://github.com/HariSekhon/Vagrant/actions/workflows/trivy.yaml)
+
+
+---
+# SQL Keywords
+
+Link:  [HariSekhon/SQL-keywords](https://github.com/HariSekhon/SQL-keywords)
+
+SQL keywords and built-in functions for most major RDBMS, MPP SQL & NoSQL systems - MySQL, PostgreSQL, Oracle, SQL Server, Presto / AWS Athena, Redshift, Snowflake, Apache Drill, Hive, Impala, Cassandra, Couchbase N1QL, Pig Latin, Neo4j Cypher, Dockerfiles - Used by sqlcase.pl to auto-recase SQL scripts, Dockerfiles etc.
+
+[![GitHub stars](https://img.shields.io/github/stars/HariSekhon/SQL-keywords?logo=github)](https://github.com/HariSekhon/SQL-keywords/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/HariSekhon/SQL-keywords?logo=github)](https://github.com/HariSekhon/SQL-keywords/network)
+[![LineCount](https://sloc.xyz/github/HariSekhon/SQL-keywords/?badge-bg-color=2081C2)](https://github.com/boyter/scc/)
+[![Cocomo](https://sloc.xyz/github/HariSekhon/SQL-keywords/?badge-bg-color=2081C2&category=cocomo)](https://github.com/boyter/scc/)
+[![License](https://img.shields.io/github/license/HariSekhon/SQL-keywords)](https://github.com/HariSekhon/SQL-keywords/blob/master/LICENSE)
+[![My LinkedIn](https://img.shields.io/badge/LinkedIn%20Profile-HariSekhon-blue?logo=data:image/svg%2bxml;base64,PHN2ZyByb2xlPSJpbWciIGZpbGw9IiNmZmZmZmYiIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+TGlua2VkSW48L3RpdGxlPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPgo=)](https://www.linkedin.com/in/HariSekhon/)
+[![GitHub Last Commit](https://img.shields.io/github/last-commit/HariSekhon/SQL-keywords?logo=github)](https://github.com/HariSekhon/SQL-keywords/commits/master)
+
+[![PostgreSQL](https://img.shields.io/badge/SQL-PostreSQL-336791?logo=postgresql)](https://www.postgresql.org/)
+[![MySQL](https://img.shields.io/badge/SQL-MySQL-4479A1?logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![MariaDB](https://img.shields.io/badge/SQL-MariaDB-003545?logo=mariadb)](https://mariadb.org/)
+[![AWS Athena](https://img.shields.io/badge/SQL-AWS%20Athena-232F3E?logo=amazon%20aws)](https://aws.amazon.com/athena/)
+[![AWS Redshift](https://img.shields.io/badge/SQL-AWS%20Redshift-232F3E?logo=amazon%20aws)](https://aws.amazon.com/redshift/)
+[![Oracle](https://img.shields.io/badge/SQL-Oracle-F80000?logo=oracle)](http://oracle.com/)
+[![SQL Server](https://img.shields.io/badge/SQL-SQL%20Server-CC2927?logo=microsoft%20sql%20server)](https://www.microsoft.com/en-gb/sql-server)
+[![Cassandra](https://img.shields.io/badge/CQL-Cassandra-1287B1?logo=apache%20cassandra&logoColor=white)](https://cassandra.apache.org/)
+[![Docker](https://img.shields.io/badge/Dockerfile-Docker-2496ED?logo=docker&logoColor=white)](https://www.docker.com/)
+[![Neo4j](https://img.shields.io/badge/Cypher-Neo4j-008CC1?logo=neo4j&logoColor=white)](https://neo4j.com/)
+
+[![CI Builds Overview](https://img.shields.io/badge/CI%20Builds-Overview%20Page-blue?logo=circleci)](https://harisekhon.github.io/CI-CD/)
+[![YAML](https://github.com/HariSekhon/SQL-keywords/actions/workflows/yaml.yaml/badge.svg)](https://github.com/HariSekhon/SQL-keywords/actions/workflows/yaml.yaml)
+[![Markdown](https://github.com/HariSekhon/SQL-keywords/actions/workflows/markdown.yaml/badge.svg)](https://github.com/HariSekhon/SQL-keywords/actions/workflows/markdown.yaml)
+[![Validation](https://github.com/HariSekhon/SQL-keywords/actions/workflows/validate.yaml/badge.svg)](https://github.com/HariSekhon/SQL-keywords/actions/workflows/validate.yaml)
+[![Grype](https://github.com/HariSekhon/SQL-keywords/actions/workflows/grype.yaml/badge.svg)](https://github.com/HariSekhon/SQL-keywords/actions/workflows/grype.yaml)
+[![Kics](https://github.com/HariSekhon/SQL-keywords/actions/workflows/kics.yaml/badge.svg)](https://github.com/HariSekhon/SQL-keywords/actions/workflows/kics.yaml)
+[![Semgrep](https://github.com/HariSekhon/SQL-keywords/actions/workflows/semgrep.yaml/badge.svg)](https://github.com/HariSekhon/SQL-keywords/actions/workflows/semgrep.yaml)
+[![Semgrep Cloud](https://github.com/HariSekhon/SQL-keywords/actions/workflows/semgrep-cloud.yaml/badge.svg)](https://github.com/HariSekhon/SQL-keywords/actions/workflows/semgrep-cloud.yaml)
+[![Trivy](https://github.com/HariSekhon/SQL-keywords/actions/workflows/trivy.yaml/badge.svg)](https://github.com/HariSekhon/SQL-keywords/actions/workflows/trivy.yaml)
+
+[![Repo on GitHub](https://img.shields.io/badge/repo-GitHub-2088FF?logo=github)](https://github.com/HariSekhon/SQL-keywords)
+[![Repo on GitLab](https://img.shields.io/badge/repo-GitLab-FCA121?logo=gitlab)](https://gitlab.com/HariSekhon/SQL-keywords)
+[![Repo on Azure DevOps](https://img.shields.io/badge/repo-Azure%20DevOps-0078D7?logo=azure%20devops)](https://dev.azure.com/harisekhon/GitHub/_git/SQL-keywords)
+[![Repo on BitBucket](https://img.shields.io/badge/repo-BitBucket-0052CC?logo=bitbucket)](https://bitbucket.org/HariSekhon/SQL-keywords)
+
+[git.io/sql-keywords](https://git.io/sql-keywords)
+
+
+---
 # Hari Sekhon - Python / Jython Library
 
 Link:  [HariSekhon/pylib](https://github.com/HariSekhon/pylib)
@@ -1501,91 +1586,6 @@ Python / Jython Utility Library for my other repos
 [![Python 3.11](https://github.com/HariSekhon/pylib/workflows/Python%203.11/badge.svg)](https://github.com/HariSekhon/pylib/actions?query=workflow%3A%22Python+3.11%22)
 
 [git.io/python-lib](https://git.io/pylib)
-
-
----
-# Hari Sekhon - Vagrant templates
-
-Link:  [HariSekhon/Vagrant](https://github.com/HariSekhon/Vagrant)
-
-Vagrant templates to boot quick labs, including Ubuntu, Debian, Kubernetes, Rancher
-
-[![GitHub stars](https://img.shields.io/github/stars/HariSekhon/Vagrant?logo=github)](https://github.com/HariSekhon/Vagrant/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/HariSekhon/Vagrant?logo=github)](https://github.com/HariSekhon/Vagrant/network)
-[![LineCount](https://sloc.xyz/github/HariSekhon/Vagrant/?badge-bg-color=2081C2)](https://github.com/boyter/scc/)
-[![Cocomo](https://sloc.xyz/github/HariSekhon/Vagrant/?badge-bg-color=2081C2&category=cocomo)](https://github.com/boyter/scc/)
-[![License](https://img.shields.io/badge/license-MIT-green)](https://github.com/HariSekhon/Vagrant/blob/master/LICENSE)
-[![My LinkedIn](https://img.shields.io/badge/LinkedIn%20Profile-HariSekhon-blue?logo=data:image/svg%2bxml;base64,PHN2ZyByb2xlPSJpbWciIGZpbGw9IiNmZmZmZmYiIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+TGlua2VkSW48L3RpdGxlPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPgo=)](https://www.linkedin.com/in/HariSekhon/)
-[![GitHub Last Commit](https://img.shields.io/github/last-commit/HariSekhon/Vagrant?logo=github)](https://github.com/HariSekhon/Vagrant/commits/master)
-
-[![Codacy](https://app.codacy.com/project/badge/Grade/4d10a36afcfb47368019c984d8bcaa85)](https://www.codacy.com/gh/HariSekhon/Vagrant/dashboard)
-[![CodeFactor](https://www.codefactor.io/repository/github/harisekhon/Vagrant/badge)](https://www.codefactor.io/repository/github/harisekhon/Vagrant)
-[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_Vagrant&metric=alert_status)](https://sonarcloud.io/dashboard?id=HariSekhon_Vagrant)
-[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_Vagrant&metric=sqale_rating)](https://sonarcloud.io/dashboard?id=HariSekhon_Vagrant)
-[![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_Vagrant&metric=reliability_rating)](https://sonarcloud.io/dashboard?id=HariSekhon_Vagrant)
-[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=HariSekhon_Vagrant&metric=security_rating)](https://sonarcloud.io/dashboard?id=HariSekhon_Vagrant)
-
-[![Linux](https://img.shields.io/badge/OS-Linux-blue?logo=linux)](https://github.com/HariSekhon/DevOps-Bash-tools#hari-sekhon---devops-bash-tools)
-[![Mac](https://img.shields.io/badge/OS-Mac-blue?logo=apple)](https://github.com/HariSekhon/DevOps-Bash-tools#hari-sekhon---devops-bash-tools)
-
-[![CI Builds Overview](https://img.shields.io/badge/CI%20Builds-Overview%20Page-blue?logo=circleci)](https://harisekhon.github.io/CI-CD/)
-[![Repo on GitHub](https://img.shields.io/badge/repo-GitHub-2088FF?logo=github)](https://github.com/HariSekhon/Vagrant)
-[![Repo on GitLab](https://img.shields.io/badge/repo-GitLab-FCA121?logo=gitlab)](https://gitlab.com/HariSekhon/Vagrant)
-[![Repo on Azure DevOps](https://img.shields.io/badge/repo-Azure%20DevOps-0078D7?logo=azure%20devops)](https://dev.azure.com/HariSekhon/GitHub/_git/Vagrant)
-[![Repo on BitBucket](https://img.shields.io/badge/repo-BitBucket-0052CC?logo=bitbucket)](https://bitbucket.org/HariSekhon/Vagrant)
-
-[![Markdown](https://github.com/HariSekhon/Vagrant/actions/workflows/markdown.yaml/badge.svg)](https://github.com/HariSekhon/Vagrant/actions/workflows/markdown.yaml)
-[![Validation](https://github.com/HariSekhon/Vagrant/actions/workflows/validate.yaml/badge.svg)](https://github.com/HariSekhon/Vagrant/actions/workflows/validate.yaml)
-[![Kics](https://github.com/HariSekhon/Vagrant/actions/workflows/kics.yaml/badge.svg)](https://github.com/HariSekhon/Vagrant/actions/workflows/kics.yaml)
-[![Grype](https://github.com/HariSekhon/Vagrant/actions/workflows/grype.yaml/badge.svg)](https://github.com/HariSekhon/Vagrant/actions/workflows/grype.yaml)
-[![Semgrep](https://github.com/HariSekhon/Vagrant/actions/workflows/semgrep.yaml/badge.svg)](https://github.com/HariSekhon/Vagrant/actions/workflows/semgrep.yaml)
-[![Semgrep Cloud](https://github.com/HariSekhon/Vagrant/actions/workflows/semgrep-cloud.yaml/badge.svg)](https://github.com/HariSekhon/Vagrant/actions/workflows/semgrep-cloud.yaml)
-[![SonarCloud](https://github.com/HariSekhon/Vagrant/actions/workflows/sonarcloud.yaml/badge.svg)](https://github.com/HariSekhon/Vagrant/actions/workflows/sonarcloud.yaml)
-[![Trivy](https://github.com/HariSekhon/Vagrant/actions/workflows/trivy.yaml/badge.svg)](https://github.com/HariSekhon/Vagrant/actions/workflows/trivy.yaml)
-
-
----
-# SQL Keywords
-
-Link:  [HariSekhon/SQL-keywords](https://github.com/HariSekhon/SQL-keywords)
-
-SQL keywords and built-in functions for most major RDBMS, MPP SQL & NoSQL systems - MySQL, PostgreSQL, Oracle, SQL Server, Presto / AWS Athena, Redshift, Snowflake, Apache Drill, Hive, Impala, Cassandra, Couchbase N1QL, Pig Latin, Neo4j Cypher, Dockerfiles - Used by sqlcase.pl to auto-recase SQL scripts, Dockerfiles etc.
-
-[![GitHub stars](https://img.shields.io/github/stars/HariSekhon/SQL-keywords?logo=github)](https://github.com/HariSekhon/SQL-keywords/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/HariSekhon/SQL-keywords?logo=github)](https://github.com/HariSekhon/SQL-keywords/network)
-[![LineCount](https://sloc.xyz/github/HariSekhon/SQL-keywords/?badge-bg-color=2081C2)](https://github.com/boyter/scc/)
-[![Cocomo](https://sloc.xyz/github/HariSekhon/SQL-keywords/?badge-bg-color=2081C2&category=cocomo)](https://github.com/boyter/scc/)
-[![License](https://img.shields.io/github/license/HariSekhon/SQL-keywords)](https://github.com/HariSekhon/SQL-keywords/blob/master/LICENSE)
-[![My LinkedIn](https://img.shields.io/badge/LinkedIn%20Profile-HariSekhon-blue?logo=data:image/svg%2bxml;base64,PHN2ZyByb2xlPSJpbWciIGZpbGw9IiNmZmZmZmYiIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+TGlua2VkSW48L3RpdGxlPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPgo=)](https://www.linkedin.com/in/HariSekhon/)
-[![GitHub Last Commit](https://img.shields.io/github/last-commit/HariSekhon/SQL-keywords?logo=github)](https://github.com/HariSekhon/SQL-keywords/commits/master)
-
-[![PostgreSQL](https://img.shields.io/badge/SQL-PostreSQL-336791?logo=postgresql)](https://www.postgresql.org/)
-[![MySQL](https://img.shields.io/badge/SQL-MySQL-4479A1?logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![MariaDB](https://img.shields.io/badge/SQL-MariaDB-003545?logo=mariadb)](https://mariadb.org/)
-[![AWS Athena](https://img.shields.io/badge/SQL-AWS%20Athena-232F3E?logo=amazon%20aws)](https://aws.amazon.com/athena/)
-[![AWS Redshift](https://img.shields.io/badge/SQL-AWS%20Redshift-232F3E?logo=amazon%20aws)](https://aws.amazon.com/redshift/)
-[![Oracle](https://img.shields.io/badge/SQL-Oracle-F80000?logo=oracle)](http://oracle.com/)
-[![SQL Server](https://img.shields.io/badge/SQL-SQL%20Server-CC2927?logo=microsoft%20sql%20server)](https://www.microsoft.com/en-gb/sql-server)
-[![Cassandra](https://img.shields.io/badge/CQL-Cassandra-1287B1?logo=apache%20cassandra&logoColor=white)](https://cassandra.apache.org/)
-[![Docker](https://img.shields.io/badge/Dockerfile-Docker-2496ED?logo=docker&logoColor=white)](https://www.docker.com/)
-[![Neo4j](https://img.shields.io/badge/Cypher-Neo4j-008CC1?logo=neo4j&logoColor=white)](https://neo4j.com/)
-
-[![CI Builds Overview](https://img.shields.io/badge/CI%20Builds-Overview%20Page-blue?logo=circleci)](https://harisekhon.github.io/CI-CD/)
-[![YAML](https://github.com/HariSekhon/SQL-keywords/actions/workflows/yaml.yaml/badge.svg)](https://github.com/HariSekhon/SQL-keywords/actions/workflows/yaml.yaml)
-[![Markdown](https://github.com/HariSekhon/SQL-keywords/actions/workflows/markdown.yaml/badge.svg)](https://github.com/HariSekhon/SQL-keywords/actions/workflows/markdown.yaml)
-[![Validation](https://github.com/HariSekhon/SQL-keywords/actions/workflows/validate.yaml/badge.svg)](https://github.com/HariSekhon/SQL-keywords/actions/workflows/validate.yaml)
-[![Grype](https://github.com/HariSekhon/SQL-keywords/actions/workflows/grype.yaml/badge.svg)](https://github.com/HariSekhon/SQL-keywords/actions/workflows/grype.yaml)
-[![Kics](https://github.com/HariSekhon/SQL-keywords/actions/workflows/kics.yaml/badge.svg)](https://github.com/HariSekhon/SQL-keywords/actions/workflows/kics.yaml)
-[![Semgrep](https://github.com/HariSekhon/SQL-keywords/actions/workflows/semgrep.yaml/badge.svg)](https://github.com/HariSekhon/SQL-keywords/actions/workflows/semgrep.yaml)
-[![Semgrep Cloud](https://github.com/HariSekhon/SQL-keywords/actions/workflows/semgrep-cloud.yaml/badge.svg)](https://github.com/HariSekhon/SQL-keywords/actions/workflows/semgrep-cloud.yaml)
-[![Trivy](https://github.com/HariSekhon/SQL-keywords/actions/workflows/trivy.yaml/badge.svg)](https://github.com/HariSekhon/SQL-keywords/actions/workflows/trivy.yaml)
-
-[![Repo on GitHub](https://img.shields.io/badge/repo-GitHub-2088FF?logo=github)](https://github.com/HariSekhon/SQL-keywords)
-[![Repo on GitLab](https://img.shields.io/badge/repo-GitLab-FCA121?logo=gitlab)](https://gitlab.com/HariSekhon/SQL-keywords)
-[![Repo on Azure DevOps](https://img.shields.io/badge/repo-Azure%20DevOps-0078D7?logo=azure%20devops)](https://dev.azure.com/harisekhon/GitHub/_git/SQL-keywords)
-[![Repo on BitBucket](https://img.shields.io/badge/repo-BitBucket-0052CC?logo=bitbucket)](https://bitbucket.org/HariSekhon/SQL-keywords)
-
-[git.io/sql-keywords](https://git.io/sql-keywords)
 
 
 ---
